@@ -1,3 +1,3 @@
-# if you have some code or methods of tunngle's source or stuff give it to me i shall code it in or somethin
+# ithink i got it, oh and this is unstable and not official and/or licensed in any shape,size or form.....
 # Tunngle 2
 the great resurection of everyone's favorite LAN emulation software, Tunngle !
