@@ -1,0 +1,479 @@
+
+[Header]
+Author=AlexiusY (Community)
+Date=2014.12.19
+Language=Croatian
+CharSet=DEFAULT_CHARSET
+PrimLangID=26
+CodePage=1250
+[Global-Ressource]
+MI_MINCAPTION=Smanji
+MI_MAXCAPTION=Poveæaj
+MI_CLOSECAPTION=Zatvori
+MI_RESTORECAPTION=Obnovi
+MI_MINTOTRAYCAPTION=Smanji u traku
+MI_ROLLUPCAPTION=Skupi
+MINBUTTON_HINT=Smanji
+MAXBUTTON_HINT=Poveæaj
+CLOSEBUTTON_HINT=Zatvori
+TRAYBUTTON_HINT=Smanji u traku
+ROLLUPBUTTON_HINT=Skupi
+MENUBUTTON_HINT=Meni sistema
+RESTORE_HINT=Obnovi
+EDIT_UNDO=Poništi
+EDIT_COPY=Kopiraj
+EDIT_CUT=Izreži
+EDIT_PASTE=Zalijepi
+EDIT_DELETE=Izbriši
+EDIT_SELECTALL=Odaberi sve
+MSG_BTN_YES=&Da
+MSG_BTN_NO=&Ne
+MSG_BTN_OK=U redu
+MSG_BTN_CANCEL=Odustani
+MSG_BTN_ABORT=Prekini
+MSG_BTN_RETRY=Ponovi
+MSG_BTN_IGNORE=Zanemari
+MSG_BTN_ALL=Sve
+MSG_BTN_NOTOALL=Ne za sve
+MSG_BTN_YESTOALL=Da za sve
+MSG_BTN_HELP=Pomoæ
+MSG_BTN_OPEN=Otvori
+MSG_BTN_SAVE=Spremi
+MSG_BTN_CLOSE=Zatvori
+MSG_BTN_BACK_HINT=Zadnji posjeæen direktorij
+MSG_BTN_UP_HINT=Jedan nivo iznad
+MSG_BTN_NEWFOLDER_HINT=Novi direktorij
+MSG_BTN_VIEWMENU_HINT=Vidi meni
+MSG_BTN_STRETCH_HINT=Rastegni sliku
+MSG_FILENAME=Ime datoteke:
+MSG_FILETYPE=Tip datoteke:
+MSG_NEWFOLDER=Novi direktorij
+MSG_LV_DETAILS=Detalji
+MSG_LV_ICON=Velike ikone
+MSG_LV_SMALLICON=Male ikone
+MSG_LV_LIST=Lista
+MSG_PREVIEWSKIN=Pregled
+MSG_PREVIEWBUTTON=Gumb
+MSG_OVERWRITE=Želite li prebrisati staru datoteku?
+MSG_CAP_WARNING=Upozorenje
+MSG_CAP_ERROR=Greška
+MSG_CAP_INFORMATION=Obavijest
+MSG_CAP_CONFIRM=Potvrdi
+MSG_CAP_SHOWFLAG=Nemoj više pokazati ovu poruku
+CALC_CAP=Kalkulator
+ERROR=Greška
+COLORGRID_CAP=Osnovne boje
+CUSTOMCOLORGRID_CAP=Vlastite boje
+ADDCUSTOMCOLORBUTTON_CAP=Dodaj u vlastite boje
+FONTDLG_COLOR=Boja:
+FONTDLG_NAME=Ime:
+FONTDLG_SIZE=Velièina:
+FONTDLG_HEIGHT=Visina:
+FONTDLG_EXAMPLE=Primjer:
+FONTDLG_STYLE=Stil:
+FONTDLG_SCRIPT=Ispis:
+DB_DELETE_QUESTION=Sigurno želite izbrisati ovu bilješku?
+DB_MULTIPLEDELETE_QUESTION=Doista izbrisati sve bilješke?
+NODISKINDRIVE=Disk nije oèitan ili èitaæ nije spreman
+NOVALIDDRIVEID=ID èitaæa nije ispravan
+FLV_NAME=Ime
+FLV_SIZE=Velièina
+FLV_TYPE=Vrsta
+FLV_LOOKIN=Pogledaj u:
+FLV_MODIFIED=Promijenjeno
+FLV_ATTRIBUTES=Svojstva
+FLV_DISKSIZE=Velièina diska
+FLV_FREESPACE=Slobodno
+PRNDLG_NAME=Ime:
+PRNDLG_PRINTER=Pisaè
+PRNDLG_PROPERTIES=Znaèajke...
+PRNDLG_TYPE=Vrsta:
+PRNDLG_STATUS=Stanje:
+PRNDLG_WHERE=Gdje:
+PRNDLG_COMMENT=Komentar:
+PRNDLG_PRINTRANGE=Raspon ispisa
+PRNDLG_COPIES=Kopije
+PRNDLG_NUMCOPIES=Broj kopija:
+PRNDLG_COLLATE=Spari
+PRNDLG_ALL=Sve
+PRNDLG_PAGES=Strane
+PRNDLG_SELECTION=Odabir
+PRNDLG_PRINTTOFILE=Ispis u datoteku
+PRNDLG_FROM=iz:
+PRNDLG_TO=u:
+PRNDLG_ORIENTATION=Orijentacija
+PRNDLG_PAPER=Papir
+PRNDLG_PORTRAIT=Portret
+PRNDLG_LANDSCAPE=Pejzaž
+PRNDLG_SOURCE=Izvor:
+PRNDLG_SIZE=Velièina:
+PRNDLG_MARGINS=Margine (milimetri)
+PRNDLG_MARGINS_INCHES=Margine (inèi)
+PRNDLG_LEFT=Lijevo:
+PRNDLG_RIGHT=Desno:
+PRNDLG_TOP=Vrh:
+PRNDLG_BOTTOM=Dno:
+PRNDLG_WARNING=Nema printera u vašem sistemu!
+FIND_NEXT=Naði slijedeæi
+FIND_WHAT=Naði što:
+FIND_DIRECTION=Smjer
+FIND_DIRECTIONUP=Gore
+FIND_DIRECTIONDOWN=Dolje
+FIND_MATCH_CASE=Usporedi velièinu
+FIND_MATCH_WHOLE_WORD_ONLY=Traži samo cijelu rijeè
+FIND_REPLACE_WITH=Zamijeni sa:
+FIND_REPLACE=Zamijeni
+FIND_REPLACE_All=Zamijeni sve
+[Global-MessageBox-Information]
+Select=Morate prvo odabrati drugog Tunnglera.
+Controller=Nadzornik prometa je onemoguæen u trenutnoj verziji.
+EnterSearchText=Molim upišite nešto za pretragu.
+ContactDeny=%s je odbio Vašu molbu za prijateljstvo.
+ContactAccept=%s je prihvatio/la Vašu molbu za prijateljstvo.
+ConnectionLost=Veza se prekinula. \r\nCode: %s
+ConnectionProblem=Moguæi problemi s vezom. \r\nVaše NAT postavke rutera mogu sprijeèiti Tunngle u\r\nuspostavljanju èvrstih P2P veza s drugim korisnicima. \r\nOtvoriti stranicu s pomoæi?
+PortReachable=Izabrani port je otvoren i prihvaæa veze.
+CreateNet=Ova moguænost još nije dostupna. \r\nMolimo ostavite vaše prijedloge na korisnièkom forumu. \r\nŽelite li otvoriti forumske stranice sada?
+AdapterPrim=Nije data prednost Tunngle mrežnom adapteru. (0)\r\nNeæete moæi pronaæi nijedan server u LAN pregledniku Vaših igara.
+EnterNamePW=Molim unesite korisnièko ime i lozinku.
+NewVersion=Nova verzija Tunnglea je izašla i može se skinuti
+[Global-MessageBox-Warning]
+PortUnreachable=Izabrani port nije otvoren. \r\nNapomena: Ako Tunngle radi normalno, ne trebate se brinuti.
+UPnP=Automatsko proslijeðivanje porta sa UPnP nije uspjelo.
+ServerUnreachable=Tunngle server nije pronaðen. \r\nSvejedno pokreniti Tunngle?
+Offline=Veza nije uspjela. \r\nIzabrani kontakt je izvan mreže.
+ConnectionFail=Veza nije uspostavljena.
+Messenger=Upozorenje!\r\nMessenger je još uvijek u izradi,\r\nte prijevod tih prozora još nije gotov.\r\nOvo æe biti popravljeno u nadolazeim verzijama Tunnglea.
+[Global-MessageBox-Question]
+Contact=Sigurno želite dodati %s u vašu listu prijatelja?
+Delete=Sigurno želite izbrisati %s s Vaše crne liste?
+ChangeNet=Sigurno želite napustiti "%s" mrežu i uæi u "%s" mrežu?
+CloseChat=Sigurno želite zatvoriti "%s" chat?
+CloseLobby=Sigurno želite napustiti %s?
+CloseTab=Sigurno želite zatvoriti "%s" karticu?
+AddContact=%s Vas je dodao/la na njegovu/njenu listu prijatelja.\r\nPrihvaæate li?
+Quit=Sigurno želite izaæi?
+DelFavorite=Sigurno želite izbrisati %s
+NewVersion=Nova verzija %s od Tunngle je izdana.\r\n\Sigurno želite skinuti?
+Adapter=Ovaj adapter naðen.\r\n%s\r\nSigurno želite koristiti s Tunngle?
+Language=Otkrili smo vaše kompjutar jezik je kompatibilan sa "%s" file jezikom.\r\nSigurno želite da biste ga izabrali?
+[Global-MessageBox-Error]
+RunOnce=Samo se jedna instanca Tunnglea može odjednom pokreniti.
+NotInstalled=Tunngle nije propisno instaliran.
+NoAdapter=Tunngle mrežni adapter nije pronaðen!
+AccountVerify=Prijava nije uspjela.\r\nVaš raèun nije potvrðen.
+AccountBann=Prijava nije uspjela.\r\nVaš raèun je zatvoren.
+ConnectionProblem=Greška u spajanju!\r\nUDP veza sa serverom nije uspjela.\r\nVaš vatrozid može biti uzrok.\r\nTrebate pomoæ?
+NATProblem=NAT greška!\r\nVaše NAT postavke rutera sprjeèavaju rad Tunnglea.\r\nTrebate proslijediti port.\r\Treba li vam pomoæ?
+ConnectionProblemInfo=Greška u spajanju!\r\nUDP veza sa serverom nije uspjela.\r\nVaš vatrozid može biti uzrok.\r\nTrebate pomoæ?
+MasterServer=Glavni Tunngle server nije pronaðen.
+Version=Vaš klijent je star.\r\nSkinuti novu verziju?
+Safe=Vaša veza se ne može osigurati.
+AuthFail=Prijava nije uspjela.\r\nMolim provjerite Vaše korisnièko ime i lozinku.\r\n(Nemojte zamijeniti korisnièku lozinku i lozinku raèuna!)\r\nTrebate pomoæ?
+AdapterInit=Tunngle mrežni adapter se ne može pokreniti!
+UDPSocket=Greška u UDP socketu!\r\nUDP socket nije mogao biti napravljen.\r\nVaš vatrozid može biti uzrok problema.\r\nTrebate pomoæ?
+AdapterPrim1=Nije data prednost Tunngle mrežnom adapteru. (1)\r\nNeæete moæi pronaæi nijedan server u LAN pregledniku Vaših igara.\r\nTrebate pomoæ?
+AdapterPrim2=Nije data prednost Tunngle mrežnom adapteru. (2)\r\nNeæete moæi pronaæi nijedan server u LAN pregledniku Vaših igara.\r\nTrebate pomoæ?
+ServiceFound=Tunngle servis nije pronaðen!
+ServiceContact=Nema veze s Tunngle servisom!
+CryptFail=Kriptografska baza se nije pokrenila!
+[Global-Text-Dynamic]
+Loading=Pokreæem %s...
+FromTo=%d do %d iz %d
+LastAct=Zadnje ažuriranje: %s
+Lobby=Lobi (%d)
+ChatJoined=<%s "%s" se pridružio razgovoru.>
+NetJoined=<%s "%s" se prikljuèio mreži.>
+LobbyJoined=<%s "%s" je ušao u lobi.>
+ChatLeft=<%s "%s" je napustio razgovor.>
+NetLeft=<%s "%s" je napustio mrežu.>
+LobbyLeft=<%s "%s" je izašao iz lobija.>
+ConnectionDeny1=* Niste se mogli spojiti s %s jer ste na njegovoj/njenoj crnoj listi.
+ConnectionDeny2=* Niste se mogli spojiti s %s jer je na Vašoj crnoj listi.
+ConnectionLost=[ %s Veza prekinuta s Tunngle serverom! ]
+VirtualIP=Virtualni IP: %s
+LoginNick=Prijavljen/a kao: %s
+Version=Verzija: %s
+Connecting=Spajam %s
+ChatMe=Ja: %s
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle Novosti
+CaptionStart=Tunngle Start
+CaptionQuickstart=Brzi start
+CaptionSupport=Podrška
+CaptionBetainfo=Beta info
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Preuzimanja
+CaptionResults=Rezultati...
+CaptionChat=Chat
+CaptionLobby=Lobi
+CaptionNetwork=Mreža
+CaptionTunngleforum=Tunngle Forum
+CaptionEventplaner=Dogaðanja
+CaptionForumfaq=Forum FAQ
+CaptionForum=Forum
+CaptionTunngleskins=Tunngle Skins
+CaptionSearch=Pretraga
+CaptionBrowser=Preglednik
+CaptionSkinconfig=Skin opcije
+CaptionSoundconfig=Zvuci
+CaptionPrivacylists=Crna lista
+CaptionConfiguration=Postavke
+SplashPleaseWait=Molim prièekajte...
+SplashLoaddata=Prikupljam podatke...
+SplashReset=Resetiram...
+SplashConfig=Namještam...
+SplashLoading=Pokreæem...
+SplashConnecting=Spajam...
+SplashVersion=Provjeravam verziju...
+SplashSafe=Zaštiæujem vezu...
+SplashUPnP=Pokušavam UPnP port proslijeðivanje...
+SplashAuth=Identificiram...
+SplashAdatperset=Pripremam adapter...
+SplashAdapterinit=Pokreæem adapter...
+SplashAdapterstart=Pokreæem adapter...
+SplashAdapterchkprim=Provjeravam prioritet adaptera...
+SplashAdapterchkbc=Provjeravam emitiranje adaptera...
+SplashAdapterchkstop=Provjeravam zaustavljanje adaptera...
+SplashFinalize=Završavam...
+SplashServiceinit=Pokreæem Tunngle servis...
+SplashServicecontact=Spajam se sa Tunngle servisom...
+SplashServercontact=Spajam se sa Tunngle serverom...
+SearchInWork=Pretraga u tijeku...
+Lobby=Lobi
+NetLeft=Preostala mreža.
+NoIP=Virtualni IP: -
+ChatJoined=Uspješno ušli u razgovor.
+NetJoined=Uspješno ušli u mrežu.
+LobbyJoined=Uspješno ušli u lobi.
+FoundNothing=Nema rezultata!
+NetChangeBegin=Pokušavam promijeniti mrežu. Molim prièekajte...
+NetChangeEnd=Promjena mreže uspješna. Molim prièekajte...
+NotLoggedIn=Niste prijavljeni.
+EnterNamePW=Molim upišite korisnièko ime i lozinku.
+MessageSendFail=* Poruku nije bilo moguæe poslati. *
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Društvo
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Pronaði mreže i prijatelje
+SpeedButtonCommunity2=Zadnja aktivna kartica
+SpeedButtonMessenger=Messenger
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Pretraga
+MenuItemNetCreate=Napravi
+MenuItemTunnglelobby=Tunngle lobi
+MenuItemEventplaner=Dogaðanja
+MenuItemSounds=Zvuci
+MenuItemSkins2=Skinovi
+MenuItemPrivacylists=Crna lista
+MenuItemConfiguration=postavke
+MenuItemAbout=O Tunngleu
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Obavijesti
+MenuItemAddContact=Dodaj u listu prijatelja
+MenuItemAddBlacklist=Dodaj u crnu listu
+MenuItemEditBlacklist=Uredi crnu listu
+MenuItemSortNicks=Sortirati imena
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Pošalji
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Nazad
+ButtonForward=Naprijed >>
+ButtonActualize=Osvježi
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Ime
+ListViewNet-1=Na mreži
+ListViewNet-2=Žanr
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Presijeci slanje paketa od svih suèelja
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Proslijeðeni port
+CheckRadioBoxUPnP=Koristi UPnP
+CheckRadioBoxTCActive=Omoguæeno
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Napomena!\r\nNormalno onemoguæeno.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=U redu
+ButtonAccept=Primjeni
+ButtonCancel=Odustani
+ButtonTest=Testiraj
+ButtonDefault=Poèetne postavke
+ButtonWizard=Èarobnjak
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Suèelje
+GroupBoxNetconfig=Mreža
+GroupBoxRouterconfig=Ruter
+GroupBoxTrafficcontroller=Nadzor prometa
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Jezik
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Upozorenje! Molim pokrenite Tunngle ispoèetka za primjenu novih postavki!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle Tražilica
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Sakrij pune mreže
+CheckRadioBoxEmpty=Sakrij prazne mreže
+CheckRadioBoxPassword=Sakrij lozinkom zaštiæene mreže
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Pretraživaèki filteri
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Pretraživaèki filteri >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Nazad
+ButtonForward=Naprijed >>
+ButtonActualize=Osvježi
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Ime
+ListViewResults-1=Na mreži
+ListViewResults-2=Žanr
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Obavijesti
+MenuItemAddContact=Dodaj u listu prijatelja
+MenuItemAddBlacklist=Dodaj u crnu listu
+MenuItemEditBlacklist=Uredi crnu listu
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Pošalji
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=U redu
+ButtonAccept=Primjeni
+ButtonCancel=Odustani
+ButtonFind=Pretraga
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Nadimak
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Pretraga
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Globalna crna lista
+StdLabelChatmessages=Chat crna lista
+StdLabelName=Ime
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Ukloni
+MenuItemDeleteChat=Ukloni
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=U redu
+ButtonAccept=Primjeni
+ButtonCancel=Odustani
+ButtonDownload=Preuzmi nove Skinove
+ButtonDefault=Poèetni Tunngle Skin
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Pregled
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Oznaka
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Podruèje za tekst
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Podruèje za unos
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Kvadratiæ
+CheckRadioBox2=Kvadratiæ
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=U redu
+ButtonAccept=Primjeni
+ButtonCancel=Odustani
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Omoguæi zvukove
+CheckRadioBoxStart=Pokretanje
+CheckRadioBoxLogin=Prijava
+CheckRadioBoxLeave=Tunngler napusti mrežu
+CheckRadioBoxJoin=Tunngler se prikljuèi mreži
+CheckRadioBoxReceive=Poruka primljena
+CheckRadioBoxQuit=Gašenje
+CheckRadioBoxSend=Poruka poslana
+CheckRadioBoxKey=Tipkanje u razgovoru
+CheckRadioBoxDirectopen=Novi prozor direktnog razgovora
+CheckRadioBoxDirectmessage=Direktna poruka primljena u razgovoru
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Preglednik
+ButtonQuicklaunch=Brzi start
+ButtonBetainfo=Beta info
+ButtonForum=Forum
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Nazad
+StatusPanelForward=Naprijed
+StatusPanelStop=Stop
+StatusPanelReload=Osvježi
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Obavijesti
+MenuItemAddContact=Dodaj u listu prijatelja
+MenuItemAddBlacklist=Dodaj u crnu listu
+MenuItemEditBlacklist=Uredi crnu listu
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Pošalji
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Zatvori
+[FormAbout-Infos]
+Caption=O Tunngleu
+[FormLogin-Infos]
+Caption=Prijava
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Prijava
+ButtonCancel=Odustani
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Korisnièko ime:
+LabelPassword=Lozinka:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Zapamti me
+CheckRadioBoxAuto=Auto-prijava
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Napravite besplatan Tunngle raèun
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Odustani
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Pošalji
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Dodaj grupu
+MenuItemContactAdd=Dodaj kontakt
+MenuItemContactHideOffline2=Sakrij kontakte izvan mreže
+MenuItemRights=Dopuštenja
+MenuItemTunngleShares=Tunngle Shares
+MenuItemContactInfo=Kontakt info
+MenuItemContactAlert=Kontakt uzbuna
+MenuItemContactNote=Kontakt bilješka
+MenuItemReadAwayMessage=Proèitaj ostavljenu poruku
+MenuItemContactRename=Preimenuj kontakt
+MenuItemContactDelete=Izbriši kontakt
+MenuItemMoveToGroup=Premijesti u grupu
+MenuItemContactHideOffline3=Sakrij kontakte izvan mreže
+MenuItemMessage=Direktni razgovor
+MenuItemRights2=Dopuštenja
+MenuItemTunngleShares2=Tunngle Shares
+MenuItemGroupRename=Preimenuj grupu
+MenuItemGroupDelete=Izbriši grupu
+MenuItemGroupExpandCollapse=Raširi/Smanji grupu
+MenuItemContactHideOffline=Sakrij kontakte izvan mreže
+MenuItemMain=&Meni
+MenuItemAddContact=Dodaj kontakt
+MenuItemInNetwork=Info Mreže
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Odustani
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Fajl
+ListViewLanguage-1=Jezik
+ListViewLanguage-2=Autor
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Nastavi
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Molimo izaberite jezik za Tunngle
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Ime
+ListViewAdapter-1=IP
+ListViewAdapter-2=Ime Ureðaja
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Nastavi
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Molimo odaberite Tunngle adapter.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=Uredu
+ButtonCancel=Otkaži
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Samo Chat
+CheckRadioBoxComplete=Puni Ban

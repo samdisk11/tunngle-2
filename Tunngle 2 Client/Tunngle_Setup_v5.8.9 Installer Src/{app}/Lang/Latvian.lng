@@ -1,0 +1,644 @@
+
+[Header]
+Author=Asmeniits (Community)
+Date=2014.12.19
+Language=Latvian
+CharSet=DEFAULT_CHARSET
+PrimLangID=38
+CodePage=1257
+[Global-Ressource]
+MI_MINCAPTION=Samazinât
+MI_MAXCAPTION=Palielinât
+MI_CLOSECAPTION=Aizvçrt
+MI_RESTORECAPTION=Atjaunot
+MI_MINTOTRAYCAPTION=Novietot rîkjoslâ
+MI_ROLLUPCAPTION=Tît uz augðu
+MINBUTTON_HINT=Samazinât
+MAXBUTTON_HINT=Palielinât
+CLOSEBUTTON_HINT=Aizvçrt
+TRAYBUTTON_HINT=Novietot rîkjoslâ
+ROLLUPBUTTON_HINT=Tît uz augðu
+MENUBUTTON_HINT=Katalogs
+RESTORE_HINT=Atjaunot
+EDIT_UNDO=Atdarît
+EDIT_COPY=Kopçt
+EDIT_CUT=Izgriezt
+EDIT_PASTE=Ievietot
+EDIT_DELETE=Izdzçst
+EDIT_SELECTALL=Iezîmçt visu
+MSG_BTN_YES=Jâ
+MSG_BTN_NO=Nç
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Atcelt
+MSG_BTN_ABORT=Pârtraukt
+MSG_BTN_RETRY=Mçìinât vçlreiz
+MSG_BTN_IGNORE=Ignorçt
+MSG_BTN_ALL=Visu
+MSG_BTN_NOTOALL=Atteikt visiem
+MSG_BTN_YESTOALL=Piekrist visiem
+MSG_BTN_HELP=Palîdzîba
+MSG_BTN_OPEN=Atvçrt
+MSG_BTN_SAVE=Saglabât
+MSG_BTN_CLOSE=Aizvçrt
+MSG_BTN_BACK_HINT=Iet uz pçdçjo apskatîto mapi
+MSG_BTN_UP_HINT=Iet lîmeni uz augðu
+MSG_BTN_NEWFOLDER_HINT=Izveidot jaunu mapi
+MSG_BTN_VIEWMENU_HINT=Skatît katalogu
+MSG_BTN_STRETCH_HINT=Izstiept bildi
+MSG_FILENAME=Faila nosaukums:
+MSG_FILETYPE=Faila tips:
+MSG_NEWFOLDER=Jauna mape
+MSG_LV_DETAILS=Detaïas
+MSG_LV_ICON=Lielas ikonas
+MSG_LV_SMALLICON=Mazas ikonas
+MSG_LV_LIST=Saraksts
+MSG_PREVIEWSKIN=Apskatît
+MSG_PREVIEWBUTTON=Poga
+MSG_OVERWRITE=Vai vçlies pârrakstît veco failu?
+MSG_CAP_WARNING=Brîdinâjums
+MSG_CAP_ERROR=Kïûme
+MSG_CAP_INFORMATION=Informâcija
+MSG_CAP_CONFIRM=Apstiprinât
+MSG_CAP_SHOWFLAG=Vairs nerâdît ðo ziòu
+CALC_CAP=Kalkulators
+ERROR=Kïûme
+COLORGRID_CAP=Parastas krâsas
+CUSTOMCOLORGRID_CAP=Speciâlas krâsas
+ADDCUSTOMCOLORBUTTON_CAP=Pievienot speciâlâm krâsâm
+FONTDLG_COLOR=Krâsa:
+FONTDLG_NAME=Vârds:
+FONTDLG_SIZE=Lielums:
+FONTDLG_HEIGHT=Augstums:
+FONTDLG_EXAMPLE=Paraugs:
+FONTDLG_STYLE=Stils:
+FONTDLG_SCRIPT=Druka:
+DB_DELETE_QUESTION=Vai vçlaties dzçst ðo ierakstu?
+DB_MULTIPLEDELETE_QUESTION=Dzçst visus iezîmçtos ierakstus?
+NODISKINDRIVE=Draivâ naav diska vai draivs nav gatavs
+NOVALIDDRIVEID=Draiva ID nav pareizs
+FLV_NAME=Nosaukums
+FLV_SIZE=Lielums
+FLV_TYPE=Tips
+FLV_LOOKIN=Skatîties iekð:
+FLV_MODIFIED=Pârveidots
+FLV_ATTRIBUTES=Atribûti
+FLV_DISKSIZE=Diska ietilpîba
+FLV_FREESPACE=Brîvs
+PRNDLG_NAME=Nosaukums:
+PRNDLG_PRINTER=Printeris
+PRNDLG_PROPERTIES=Detaïas...
+PRNDLG_TYPE=Tips:
+PRNDLG_STATUS=Progress:
+PRNDLG_WHERE=Kur:
+PRNDLG_COMMENT=Komentâri:
+PRNDLG_PRINTRANGE=Printçðanas apgabals
+PRNDLG_COPIES=Kopijas
+PRNDLG_NUMCOPIES=Kopiju skaits:
+PRNDLG_COLLATE=Kârtîba
+PRNDLG_ALL=Viss
+PRNDLG_PAGES=Lappuses
+PRNDLG_SELECTION=Izvçle
+PRNDLG_PRINTTOFILE=Printçt uz failu
+PRNDLG_FROM=No:
+PRNDLG_TO=Uz:
+PRNDLG_ORIENTATION=Orientâcija
+PRNDLG_PAPER=Papîrs
+PRNDLG_PORTRAIT=Vertikâli
+PRNDLG_LANDSCAPE=Horizontâli
+PRNDLG_SOURCE=Resurss
+PRNDLG_SIZE=Izmçrs:
+PRNDLG_MARGINS=Apmales (mm)
+PRNDLG_MARGINS_INCHES=Apmales (inches)
+PRNDLG_LEFT=Kreisi:
+PRNDLG_RIGHT=Labi:
+PRNDLG_TOP=Augða:
+PRNDLG_BOTTOM=Leja:
+PRNDLG_WARNING=Printeris nav atrodams:
+FIND_NEXT=Meklçt nâkoðo
+FIND_WHAT=Meklçt ko:
+FIND_DIRECTION=Virziens
+FIND_DIRECTIONUP=Augðup
+FIND_DIRECTIONDOWN=Lejup
+FIND_MATCH_CASE=Saskaòot reìistru
+FIND_REPLACE_WITH=Aizstât ar:
+FIND_REPLACE=Aizstât
+FIND_REPLACE_All=Aizstât visu
+FIND_REPLACE_CLOSE=Aizvçrt
+MORECOLORS=Vairâk krâsas...
+AUTOCOLOR=Automâtiski
+CUSTOMCOLOR=Manuâli...
+[Global-MessageBox-Information]
+Select=Jums vajag izvçlçties tunngleri sâkumâ.
+Controller=Satiksmes Kontrolieri ir izslçgti paðreizçjâ versijâ.
+EnterSearchText=Lûdzu ierakstiet kaut ko lai meklçtu.
+EnterSearchUser=Lûdzu ierakstiet kaut ko lai meklçtu.
+ContactDeny=%s atcçla jûsu draudzîbas pieprasîjumu.
+ContactAccept=%s pieòçma jûsu draudzîbas pieprasîjumu.
+ConnectionLost=Savienojums zaudçts. \r\nKods: %s
+ConnectionProblem=Iespçjamas savienojamîbas problçmas. \r\nJûsu rûteris NAT konfigurâcija varçtu palçninât Tunngle darba spçju.\r\nIzveidot veiksmîgu P2P savienojumus ar citiem lietotâjiem \ r. \ nAtvçrt palîdzîbas lapu tagad?
+PortReachable=Izvçlçtais ports ir atvçrts un pieòem pieslçgumus.
+CreateNet=Ðî funkcija pagaidâm nav pieejama.\r\nLûdzu sûtiet savus ierosinâjumus projekta forumâ.\r\nVai jûs vçlaties atvçrt forumu lapu tagad?
+AdapterPrim=Tunngle tîkla adapteris nav pareizi prioritizçts. (0)\r\nJûs nevarçsiet atrast serveri LAN pârlûkprogrammâ no jûsu spçl
+EnterNamePW=Lûdzu ierakstiet lietotâjvârdu un paroli.
+NewVersion=Jauna varsija %s no Tunngle ir pieejama un ir iespçjams nolâdçt.
+FriendNetwork=%s ir iekð "%s" tîkla.\r\nVai jûs vçlaties pievienoties ðim tîklam?
+FriendNoNetwork=%s nav nevienâ tîklâ.
+Close=Tunngle tagad izslçgsies.
+LSPBackup=LSP atgriezðanas fails veiksmîgi izveidots. \r\n%s
+LSPOK=%d LSP problçmas salabotas.
+LastTab=Nevar aizvçrt pçdçjo cilni.
+NetFull=Tîkls ir pilns.
+TempNetInfo=Tukði Standarta Tîkli tiks automâtiski izdzçsti pçc neaktivitâtes perioda.
+TempNetDisabled=Tîkla Izveide ir uz laiku izslçgta. Lûdzu mçìiniet atkal mazliet vçlâk.
+TempNetLimit=Mçs nevaram izveidot vairâk Tîklus pagaidâm. Lûdzu mçìiniet atkal mazliet vçlâk.
+TempNetMissing=Izvçlçtais tîkls neeksistç. Lûdzu izvçlieties eksistçjoðu tîklu vai izveidojiet paði savu.
+TempNetFull=Izvçlçtais tîkls ir pilns. Lûdzu izvçlieties citu vai izveidojiet paði savu.
+TempNetExist=Ðis Tîkls jau eksistç. Lûdzu izvçlieties citu vârdu vai pievienojieties esoðajiem.
+TempNetPassword=Nepareiza parole
+TempNetInvalid=Izvçlçtais vârds nav pieejams. Lûdzu izvçlaties citu.
+[Global-MessageBox-Warning]
+PortUnreachable=Izvçlçtais ports netiks atvçrts.\r\nInfo: Ja Tunngle strâdâ regulâri, jums vajadzçtu neuztraukties par ðo.
+UPnP=Nevarçja izveidot automatizçtu portu, turpinot izmantojot UPnP.
+ServerUnreachable=Nevar pieslçgties Tunngle serverim. \r\nVai palaist Tunngle tâpat?
+Offline=Nevar izveidot savienojumu. \r\nIzvçlçtais kontakts ir atslçdzies.
+ConnectionFail=Nevarçja izveidot savienojumu.
+Messenger=Uzmanîbu!\r\Kopð vçstnesis ir joprojâm taisîðanas reþîmâ,\r\ntulkojums ðim logam vçl nav pabeigts.\r\nÐis bûs sataisîts nâkamajâs versîjas no Tunngle.
+WriteRegistry=Konfigurâcija nevarçja saglabât reìistros.\r\nLûdzu kontaktçjieties ar kâdu administrâtoru.
+SelectLanguage=Lûdzu izvçlieties sâkumâ valodu.
+SelectAdapter=Lûdzu izvçlieies sâkumâ adapteri.
+NetworkBusy=Ðis tîkls ir pârâk aizòemts ðajâ momentâ.\r\nLûdzu izvçlieties citu tîklu.
+[Global-MessageBox-Question]
+Contact=Vai jûs tieðâm vçlaties pievienot %s jûsu draugu sarakstam?
+Delete=Vai jûs tieðâm vçlaties izòemt %s no bloíçto saraksta?
+ChangeNet=Vai jûs tieðâm vçlieties pamest "%s" tîklu, lai pievienotos "%s" tîklam?
+CloseChat=Vai jûs tieðâm vçlaties aizvçrt %s saraksti?
+CloseLobby=Vai jûs tieðâm vçlaties pamest %s?
+CloseTab=Vai jûs tieðâm vçlaties aizvçr "%s" ciltni?
+AddContact=%s pievienoja tevi viòa/viòas draugu lapai.\r\Vai vçlaties apstiprinât?
+Quit=Tieðâm vçlaties pamest?
+DelFavorite=Tieðâm vçlaties izdzçst %s?
+NewVersion=Jauna versija %s no Tunngle ir iznâkusi.\r\Vai jûs vçlaties nolâdçt to tagad?
+Adapter=Sekojoð Tunngle adapteris tika atrasts.\r\n%s\r\nVai jûs vçlieties saistît ðo adapteri ar Tunngle?
+Language=Mçs atklâjâm, ka jûsu sistçmas valoda ir saderîga ar "%s" valodas failu.\r\nVai jûs vçlieties izvçlçties ðo tagad?
+LanguageID=Izvçlçtâs valodas fails neatbilst ðîs sistçmas atraðanâs vietai.\r\nTurpinât tâpat?
+LanguageCP=Patreizçjâ sistçma Kodulapa nesakrît ar vajadzîgo priekð izvçlçtâs valodas faila.\r\nDaþas rakstuzîmes neparâdîsies pareizi.\r\nTurpinât tâpat?
+CliQuit=Tunngle vajag restartçt lai apstiprinâtu jaunâs opcijas.\r\nVai vçlieties iziet tagad?
+TempNetActivate=Aktivizâcija ir nepiecieðama, lai lietotu ðo fîèu.\r\nAktivizâcija un izmantoðana pakalpojuma raksti 100% bez maksas.\r\nVçlaties atvçrt jûsu interneta pârlûku lai aktivizçtu tagad?
+TempNetActivateB=Jûsu interneta pârlûks neatvçrs Privâto Tîklu aktivizâcijas lapu.\r\nLûdzu pabeidziet aktivizâciju un spiediet Labi kad jûs pabeidzat.
+FileExists=Fails jau eksistç. Vai vçlaties pârrakstît to?
+[Global-MessageBox-Error]
+RunOnce=Tikai viena Tunngle programma var bût palaista vienlaicîgi.
+NotInstalled=Tunngle nav pareizi uzinstalçts.
+NoAdapter=Nevarçja atrast Tunngle tîkla adapteri!
+AccountVerify=Pieslçgðanâs nesanâca.\r\nJûsu konts netika apstiprinâts.
+AccountBann=Pieslçgðanâs nesanâca.\r\nJûsu konts tika nobanots.
+ConnectionProblem=Savienojuma kïûda!\r\nNevarçja izveidot UDP savienojumu ar serveri\r\nJûsu Ugunsmûris varçtu bût iemesls.\r\nVajag palîdzîbu?
+NATProblem=NAT kïûda!\r\nJûsu rûteris NAT konfigurâcijâ novçrð Tunngle no pareizas darbîbas.\r\nJums nepiecieðams uzstâdît portu pâradresâciju.\r\nVajag palîdzîbu?
+ConnectionProblemInfo=Savienojuma kïûda!\r\nNevarçja izveidot UDP savienojumu ar serveri.\r\nJûsu ugunsmûris varçtu bût iemesls.\r\nVajag palîdzîbu?
+MasterServer=Nevarçja sasniegt Tunngle galveno serveri.
+Version=Jûsu klients ir novecojis.\r\nAtjaunot tagad?
+Safe=Jûsu savienojumu nevar aizsargât.
+AuthFail=Neizdevâs pieslçgties.\r\nLûdzu pârbaudiet jûsu lietotâjvârdu un paroli.\r\nJa kaut kas cits nesanâk, jûs varat mçìinât atjaunot paroli.\r\nVajag turpmâko palîdzîbu?
+AdapterInit=Nevar inicializçt Tunngle tîkla adapteri!
+UDPSocket=UDP ligzdas kïûda!\r\nNevarçja izveidot UDP ligzdu.\r\nJûsu ugunsmûris varçtu bût iemesls.\r\nVajag palîdzîbu?
+AdapterPrim1=Tunngle tîkla adapteris nav pareizi priotizçts. (1)\r\nJûs nevarçsiet atrast nevienu serveri LAN pârlûka spçlçs.\r\nVajag palîdzîbu?
+AdapterPrim2=Tunngle tîkla adapteris nav pareizi prioritizçts. (2)\r\nJûs nevarçsiet atrast nevienu serveri LAN meklçtâjâ no jûsu spçlçm.\r\nVajag palîdzîbu?
+ServiceFound=Nevarçja atrast Tunngle pakalpojumu.
+ServiceContact=Nevarçja sazinâties ar Tunngle pakalpojumu.
+CryptFail=Nevarçja ielâdçt kriptogrâfijas bibliotçku!
+PortFail=Izvçlçtais ports nav derîgs turpmâk. Lûdzu izvçlieties citu portu!
+WinSock2=Nevar piekïût pie WinSock.\r\nTîkla konfigurâcija nevar tikt pârbaudîta.
+LSPProblems=%d LSP problçmas atrastas.\r\nSataisît tâs tagad?
+LSPBackup=Kïûdu cçlonis ir LSP atjaunoðanas fails.\r\nVçlaties atcelt?
+LSPSafePoint=Kïûdas cçlonis ir LSP atjaunoðanas punkts.\rn\Vçlaties atcelt?
+LSPRepair=%d LSP problçmas nevarçja sataisît.\r\nAtjaunot agrâko stadiju?
+LSPRedo=Atjaunoðana nesanâca.
+ConfigAdapter=Nevarçja konfigurçt Tunngle tîkla adapteri!
+WrongPassword=Nepareiza parole.
+GUIVersionMismatch=Pagaidçjâ Tunngle instalâcija izskatâs bojâta.
+InterlinkFormat=Nelikumîga cieði saistît sintakse. Tas bûtu "GameServer: ports".
+[Global-Text-Dynamic]
+Loading=Ielâdç %s...
+FromTo=%d uz %d no %d
+LastAct=Pçdçjais atjauninâjums: %s
+Lobby=Kopistaba (%d)
+ChatJoined=<%s "%s" pievienojâs èatam.>
+NetJoined=<%s "%s" pievienojâs tîklam.>
+LobbyJoined=<%s "%s" pievienojâs kopistabai.>
+ChatLeft=<%s "%s" izgâja no èata.>
+NetLeft=<%s "%s" izgâja no tikla.>
+LobbyLeft=<%s "%s" izgâja no kopistabas.>
+ConnectionDeny1=* Nevarçja pieslçgties %s jo jûs esiet viòa/viòas melnajâ sarakstâ. *
+ConnectionDeny2=* Nevarçja pievienoties %s jo viòð ir jûsu melnajâ sarakstâ. *
+ConnectionLost=[ %s Pazaudçts pieslçgums ar Tunngle serveri! ]
+VirtualIP=Virtuâlâ IP: %s
+LoginNick=Pieslçdzies kâ: %s
+Version=Versija: %s
+Connecting=Pieslçdzos %s
+ChatMe=Es: %s
+ChatDeny=* Nevarçja saòemt ziòas no %s, jo viòð ir jûsu bloíçto sarakstâ. *
+AddBlacklist=Cik ilgi %s vajadzçtu bût melnajâsarakstâ?
+PingMs=Pings: %s ms
+ChannelMode=Veids: %s
+Ports=Ports: %s
+WaitingQueue=Gaidîðanas rinda %d/%d
+AddedBlackList=%s veiksmîgi pievienots nobloíçto sarakstam.
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle ziòas
+CaptionStart=Tunngle sâkums
+CaptionStartPage=Tunngle sâkums
+CaptionQuickstart=Âtrais sâkums
+CaptionSupport=Atbalsts.
+CaptionBetainfo=Beta informâcija.
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Lejuplâdes vieta
+CaptionResults=Rezultâti...
+CaptionChat=Èats
+CaptionLobby=Vestibils
+CaptionNetwork=Tîkls
+CaptionTunngleforum=Tunngle Forums
+CaptionEventplaner=Notikumu plânotâjs.
+CaptionForumfaq=Foruma BUJ
+CaptionForum=Forums
+CaptionTunngleskins=Tunngle âdiòas
+CaptionSearch=Meklçt
+CaptionBrowser=Pârlûks
+CaptionSkinconfig=Âdiòu opcijas
+CaptionSoundconfig=Skaòas
+CaptionPrivacylists=Melnais saraksts
+CaptionConfiguration=Opcijas
+CaptionFavorite=Grâmatzîmes
+CaptionSubBrowser=Tîkli
+CaptionCreateNet=Privâtie tîkli
+SplashPleaseWait=Lûdzu uzgaidiet...
+SplashLoaddata=Lâdçðanas dati...
+SplashReset=Atjaunoðanâs...
+SplashConfig=Konfigurâcija...
+SplashLoading=Lâdçjos...
+SplashConnecting=Pieslçdzos...
+SplashVersion=Pârbaudu versiju...
+SplashSafe=Droðîbas pieslçgðanâs...
+SplashUPnP=Mçìina UPnP portu pâradresâcija ...
+SplashAuth=Autentiskuma...
+SplashAdatperset=Izveido adapteri...
+SplashAdapterinit=Inicializçðana adapteri...
+SplashAdapterstart=Pieslçdzâs adapterim
+SplashAdapterchkprim=Pârbauda adaptera prioritâti...
+SplashAdapterchkbc=Pârbauda adaptera pârraidi...
+SplashAdapterchkstop=Apstiprina adaptera atslçgðanos...
+SplashFinalize=Beidzu...
+SplashServiceinit=Inicializçðana Tunngle pakalpojumu...
+SplashServicecontact=Sazinas ar Tunngle pakalpojumu...
+SplashServercontact=Sazinâs ar Tunngle serveri...
+SplashConfigurate=Konfigurç Tunngle...
+SplashWinSock2=Pârbauda tîkla konfigurâciju...
+NoIP=VirtuâlâIP: -
+ChatJoined=Veiksmîgi pievienojâties èatam.
+NetJoined=Veiksmîgi pievienojies tîklam.
+LobbyJoined=Veiksmîgi pievienojies vestibilam.
+FoundNothing=Nav rezultâtu!
+NetChangeBegin=Pieprasa tîkla apmaiòu. Lûdzu uzgaidiet...
+NetChangeEnd=Tîkla apmaiòa veiksmîga. Lûdzu uzgaidiet...
+NotLoggedIn=Jûs neesiet ienâcis.
+EnterNamePW=Lûdzu ierakstiet lietotâjvârdu un paroli.
+MessageSendFail=* Nevarçja aizsûtît ziòu. *
+MessageSendFlood=* Jûs sûtat vçstules pârâk âtri. Raksti mazliet lçnâk. *
+LaunchParameter=Komandas lînijas parametri:
+TypeStandard=Tunngler`is
+TypeInterlink=Savstarpçjais serveris
+TypeTunngleTeam=Tunngle komanda.
+TypeEnthusiast=Tunngle entuziasts
+SplashExecuteJoin=Lûdzu uzgaidiet...
+StopAdapter=Atslçdzâs no Tunngle adaptera...
+StartAdapter=Pieslçdzos Tunngle adapterim... (Varçtu aizòemt mazliet laiku)
+StartAdapterFail=Kïûda: Nevarçja pieslçgties Tunngle adapterim.
+Interlink=GameServer: Port
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Projekts
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Atrodi tîklus un draugus
+SpeedButtonCommunity2=Uz pçdçjo aktîvo tabbu
+SpeedButtonMessenger=Vçstnesis
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Sâkuma lapa
+ButtonQABetaInfo=Betas inforumâcija
+ButtonQAForum=Forums
+ButtonQAEventPlanner=Plânotâjs
+ButtonQALobby=Tunngle vestibils
+ButtonQAFavorites=Grâmatzîmes
+ButtonQACreateNetwork=Privâtie tîkli
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Tîkla pârlûks
+ExPanelFindnetwork=Meklçt tîklâ
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Meklçt
+MenuItemNetFavorite=Grâmatzîmes
+MenuItemNetCreate=izveidot
+MenuItemNetCreateOwn=Privâtie tîkli
+MenuItemTunnglelobby=Tunngle vestibils
+MenuItemEventplaner=Notikumu plânotâjs
+MenuItemSounds=Skaòa
+MenuItemSkins2=Âdiòas
+MenuItemPrivacylists=Nevçlamo saraksts
+MenuItemConfiguration=Opcijas
+MenuItemAbout=Par tunngle
+MenuItemTrayOpen=Atvçrt
+MenuItemTrayClose=Aizvçrt
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Paziòojumi.
+MenuItemAddContact=Pievienot draugiem
+MenuItemAddBlacklist=Pievienot nevçlamiem
+MenuItemEditBlacklist=Labot nevçlamo sarakstu
+MenuItemSortNicks=Ðíirot segvârdus
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Sûtît
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Èats
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<<Atpakaï
+ButtonForward=Uz priekðu>>
+ButtonActualize=Atjaunot
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nosaukums
+ListViewNet-1=Onlainâ
+ListViewNet-2=Veids
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Pievienot grâmatzîmçm
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Atjaunot
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nosaukums
+ListViewNet-1=Onlainâ
+ListViewNet-2=Veids
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Pievienot grâmatzîmçm
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Atpakaï
+ButtonForward=Tâlâk >>
+ButtonActualize=Atjaunot
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Vârds
+ListViewNet-1=Pieslçdzies
+ListViewNet-2=Veids
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Izdzçst grâmatzîmi
+MenuItemSortFavorite=Ðíirot grâmatzîmes
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Atjaunot
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Vârds
+ListViewNet-1=Pieslçdzies
+ListViewNet-2=Veids
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Dzçst grâmatzîmi
+MenuItemSortFavorite=Ðíirot grâmatzîmes
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Pârtvert raidîjumiem no visiem interfeisiem
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Turpmâkais ports
+CheckRadioBoxUPnP=Izmanto UPnP
+CheckRadioBoxTCActive=Ieslçgts
+CheckRadioBoxSignature=Vietnes paraksts
+CheckRadioBoxLog=Tîkla pieslçgðanâs
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Ievçro!\r\nParasti izslçgts.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=Labi
+ButtonAccept=Apstiprinât
+ButtonCancel=Atcelt
+ButtonTest=Pârbaudît
+ButtonDefault=Sâkuma iestatîjumi
+ButtonWizard=Burvis
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Interfeiss
+GroupBoxNetconfig=Tîkls
+GroupBoxRouterconfig=Rûteris
+GroupBoxTrafficcontroller=Satiksmes vadîtâjs
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Valoda
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Brîdinâjums! Lûdzu restartçjiet Tunngle lai apstiprinâtu jaunâs opcijas.
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle meklçðana
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Slçpt pilnos tîklus
+CheckRadioBoxEmpty=Slçpt tukðos tîklus
+CheckRadioBoxPassword=Slçpt paroles aizsardzîbas tîklus
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Meklçt Filtrus
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Meklçt Filtrus >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Atpakaï
+ButtonForward=Tâlâk >>
+ButtonActualize=Atjaunot
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Vârds
+ListViewResults-1=Pieslçdzies
+ListViewResults-2=Veids
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Pievienot grâmatzîmçm
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Paziòojumi
+MenuItemAddContact=Pievienot draugu sarakstam
+MenuItemAddBlacklist=Pievienot melnam sarakstam
+MenuItemEditBlacklist=Rediìçt melno sarakstu
+MenuItemSortNicks=Ðíirot segvârdus
+MenuItemShowProfile=Parâdît profilu
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Sûtît
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Èats
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=Labi
+ButtonAccept=Apstiprinât
+ButtonCancel=Atcelt
+ButtonFind=Meklçt
+ButtonExport=Eksportçt
+ButtonImport=Importçt
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Segvârds
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Meklçt
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Globâlâ melnâ sarakste
+StdLabelChatmessages=Èata melnais saraksts
+StdLabelName=Vârds
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Izòemt
+MenuItemDeleteChat=Izòemt
+MenuItemAddBlacklist=Pievienot melnam sarakstam
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=Labi
+ButtonAccept=Apstiprinât
+ButtonCancel=Atcelt
+ButtonDownload=Lejuplâdçt Vairâk Âdiòas
+ButtonDefault=Standarta Tunngle Âdiòa
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Priekðskats
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Etiíete
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Teksta laukums
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Ievades lauks
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Rûtiòas
+CheckRadioBox2=Rûtiòas
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Apstiprinât
+ButtonCancel=Atcelt
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Ieslçgt skaòas
+CheckRadioBoxStart=Sâkðana
+CheckRadioBoxLogin=Pieslçgties
+CheckRadioBoxLeave=Tunngleris pameta tîklu
+CheckRadioBoxJoin=Tunngleris pievienojâs tîklam
+CheckRadioBoxReceive=Saòemta ziòa
+CheckRadioBoxQuit=Izslçdzies
+CheckRadioBoxSend=Ziòa nosûtîta
+CheckRadioBoxKey=Èata kasters atslçgas poga
+CheckRadioBoxDirectopen=Jaunâ tieðo èata logs
+CheckRadioBoxDirectmessage=Tieða èata vçstule saòemta
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Pârlûks
+ButtonFavorite=Grâmatzîmes
+ButtonQuicklaunch=Âtrâ sâkðana
+ButtonBetainfo=Beta Info
+ButtonForum=Forums
+ButtonEventplaner=Notikumu plânotâjs
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Atpakaï
+StatusPanelForward=Uz priekðu
+StatusPanelStop=Apturçt
+StatusPanelReload=Atsvaidzinât
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Atpakaï
+StatusPanelForward=Uz priekðu
+StatusPanelStop=Apturçt
+StatusPanelReload=Atjaunot
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Paziòojumi
+MenuItemAddContact=Pievienot draugu sarakstam
+MenuItemAddBlacklist=Pievienot melnajâ sarakstâ
+MenuItemEditBlacklist=Rediìçt melno sarakstu
+MenuItemCopyIP=Kopçt IP starpliktuvç
+MenuItemSortNicks=Ðíirot segvârdus
+MenuItemSortIPs=Ðíirot pingu
+MenuItemConfig=Konfigurçt
+MenuItemShowProfile=Râdît profilu
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Sûtît
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Èats
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Aizvçrt
+[FormAbout-Infos]
+Caption=Par Tunngle
+[FormLogin-Infos]
+Caption=Autentifikâcija
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Pieslçgties
+ButtonCancel=Atcelt
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Lietotâjs:
+LabelPassword=Parole:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Atcerçties mani
+CheckRadioBoxAuto=Automâtiski pieslçgties
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Piereìistrçties
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Atcelt
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Sûtît
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Èats:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Pievienot grupu
+MenuItemContactAdd=Pievienot kontaktu
+MenuItemContactHideOffline2=Slçpt atslçguðos
+MenuItemRights=Atïaujas
+MenuItemTunngleShares=Tunngle dalâs
+MenuItemContactInfo=Kontaktçðanâs informâcija
+MenuItemContactAlert=Kontaktçðanâs brîdinâjums
+MenuItemContactNote=Kontaktçðanâs piezîmes
+MenuItemReadAwayMessage=Lasît prom ziòu
+MenuItemContactRename=Pârdçvçt kontaktu
+MenuItemContactDelete=Izdzçst kontaktu
+MenuItemMoveToGroup=Pârvietot grupâ
+MenuItemContactHideOffline3=Slçpt atslçguðos
+MenuItemMessage=Tieðais èats
+MenuItemRights2=Atïaujas
+MenuItemTunngleShares2=Tunngle dalâs
+MenuItemGroupRename=Pârdçvçt grupu
+MenuItemGroupDelete=Izdzçst grupu
+MenuItemGroupExpandCollapse=Izvçrst/sakïaut grupas
+MenuItemContactHideOffline=Slçpt atslçguðos
+MenuItemMain=Izvçlne
+MenuItemAddContact=Pievienot kontaktu
+MenuItemInNetwork=Tîkla informâcija
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Atcelt
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Fails
+ListViewLanguage-1=Valoda
+ListViewLanguage-2=Autors
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Turpinât
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Izvçlies Tunngle valodu.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Vârds
+ListViewAdapter-1=IP
+ListViewAdapter-2=Ierîces vârds
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Turpinât
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Lûdzu izvçlieties Tunngle adapteri.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Atcelt
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Tikai èatot
+CheckRadioBoxComplete=Pilns bans
+CheckRadioBoxHours=Stundas
+CheckRadioBoxDate=Lîdz
+CheckRadioBoxInfinite=Mûþîgi
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=Labi
+ButtonCancel=Atcelt
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Ierakstiet paroli:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Notikumi
+MenuItemAddContact=Pievienot draugu sarakstam
+MenuItemCopyIP=Kopçt IP starpliktuvç
+MenuItemSortNicks=Ðíirot segvârdus
+MenuItemSortIPs=Ðíirot pingu
+MenuItemConfig=Konfigurçt
+MenuItemShowProfile=Parâdît profilu
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Sûtît
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Èats:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Sveiciena ziòa
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Pârvaldît savu tîklu
+GroupBoxJoin=Pievienoties esoðajam Tîklam
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkNameT=Tîkla vârds:
+LabelNetworkPasswordT=Tîkla parole:
+LabelNetworkNameB=Tîkla vârds:
+LabelNetworkPasswordB=Tîkla parole:
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Izveidot - Atjaunot
+ButtonJoin=Pievienoties
+ButtonJoinOwn=Pievienoties savam tîklam
+ButtonNetworkList=Tîklu sarakste
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Tîkla emulâcija
+UrlLabelInterlink=Savstarçjais serveris:

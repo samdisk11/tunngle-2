@@ -1,0 +1,755 @@
+
+[Header]
+Author=IntoDEV (Community)
+Date=2014.12.19
+Language=Lithuanian
+CharSet=DEFAULT_CHARSET
+PrimLangID=39
+CodePage=1257
+[Global-Ressource]
+MI_MINCAPTION=Minimizuoti
+MI_MAXCAPTION=Iðdidinti
+MI_CLOSECAPTION=Uþdaryti
+MI_RESTORECAPTION=Atstatyti
+MI_MINTOTRAYCAPTION=Sumaþinti á programø juostà
+MI_ROLLUPCAPTION=Uþsukti
+MINBUTTON_HINT=Sumaþinti
+MAXBUTTON_HINT=Padidinti
+CLOSEBUTTON_HINT=Uþverti
+TRAYBUTTON_HINT=Sumaþinti á programø juostà
+ROLLUPBUTTON_HINT=Uþsukti
+MENUBUTTON_HINT=Pagrindinis meniu
+RESTORE_HINT=Atstatyti
+EDIT_UNDO=Anuliuoti
+EDIT_COPY=Kopijuoti
+EDIT_CUT=Iðkirpti
+EDIT_PASTE=Áklijuoti
+EDIT_DELETE=Iðtrinti
+EDIT_SELECTALL=Paþymeti viskà
+MSG_BTN_YES=Taip
+MSG_BTN_NO=Ne
+MSG_BTN_OK=Gerai
+MSG_BTN_CANCEL=Atðaukti
+MSG_BTN_ABORT=Nutraukti
+MSG_BTN_RETRY=Bandyti dar kartà
+MSG_BTN_IGNORE=Ignoruoti
+MSG_BTN_ALL=Viskas
+MSG_BTN_NOTOALL=Ne, visiem
+MSG_BTN_YESTOALL=Taip, visiem
+MSG_BTN_HELP=Pagalba
+MSG_BTN_OPEN=Atidaryti
+MSG_BTN_SAVE=Iðsaugoti
+MSG_BTN_CLOSE=Uþdaryti
+MSG_BTN_BACK_HINT=Eiti á paskutiná aplankytà aplankà
+MSG_BTN_UP_HINT=Eiti vienu lygiu aukðtyn
+MSG_BTN_NEWFOLDER_HINT=Sukurti naujà aplankà
+MSG_BTN_VIEWMENU_HINT=Rodyti meniu
+MSG_BTN_STRETCH_HINT=Iðplësti paveikslà
+MSG_FILENAME=Failo pavadinimas:
+MSG_FILETYPE=Failo tipas:
+MSG_NEWFOLDER=Naujas aplankas
+MSG_LV_DETAILS=Detalës
+MSG_LV_ICON=Didelës ikonos
+MSG_LV_SMALLICON=Maþos ikonos
+MSG_LV_LIST=Sàraðas
+MSG_PREVIEWSKIN=Perþiûra
+MSG_PREVIEWBUTTON=Mygtukas
+MSG_OVERWRITE=Ar norite pakeistá senà failà?
+MSG_CAP_WARNING=Áspëjimas
+MSG_CAP_ERROR=Klaida
+MSG_CAP_INFORMATION=Informacija
+MSG_CAP_CONFIRM=Patvirtinti
+MSG_CAP_SHOWFLAG=Daugiau nerodyti
+CALC_CAP=Kalkuliatorius
+ERROR=Klaida
+COLORGRID_CAP=Pagrindinës spalvos
+CUSTOMCOLORGRID_CAP=Papildomos spalvos
+ADDCUSTOMCOLORBUTTON_CAP=Pridëti prie papildomø spalvø
+FONTDLG_COLOR=Spalva:
+FONTDLG_NAME=Pavadinimas:
+FONTDLG_SIZE=Dydis:
+FONTDLG_HEIGHT=Aukðtis:
+FONTDLG_EXAMPLE=Pavyzdys:
+FONTDLG_STYLE=Stilius:
+FONTDLG_SCRIPT=Raðtas:
+DB_DELETE_QUESTION=Ar tikrai norite iðtrynti ðá áraðà?
+DB_MULTIPLEDELETE_QUESTION=Iðtrinti visus paþymëtus áraðus?
+NODISKINDRIVE=Disko árenginys yra tuðèias arba árenginys nëra pasiruoðæs
+NOVALIDDRIVEID=Árenginio ID yra netinkamas
+FLV_NAME=Pavadinimas
+FLV_SIZE=Dydis
+FLV_TYPE=Tipas
+FLV_LOOKIN=Ieðkoti:
+FLV_MODIFIED=Keista
+FLV_ATTRIBUTES=Savybës
+FLV_DISKSIZE=Disko dydis
+FLV_FREESPACE=Laisva vieta
+PRNDLG_NAME=Pavadinimas:
+PRNDLG_PRINTER=Spauzdintuvas
+PRNDLG_PROPERTIES=Savybës...
+PRNDLG_TYPE=Tipas:
+PRNDLG_STATUS=Bûsena:
+PRNDLG_WHERE=Kur:
+PRNDLG_COMMENT=Komentarai:
+PRNDLG_PRINTRANGE=Spauzdinimo ribos
+PRNDLG_COPIES=Kopijos
+PRNDLG_NUMCOPIES=Kopijø skaièius:
+PRNDLG_COLLATE=Palyginti
+PRNDLG_ALL=Viskas
+PRNDLG_PAGES=Puslapiai
+PRNDLG_SELECTION=Pasirinkimas
+PRNDLG_PRINTTOFILE=Spauzdinti á failà
+PRNDLG_FROM=nuo:
+PRNDLG_TO=kam:
+PRNDLG_ORIENTATION=Orentacija
+PRNDLG_PAPER=Popierius
+PRNDLG_PORTRAIT=Portretas
+PRNDLG_LANDSCAPE=Peizaþas
+PRNDLG_SOURCE=Ðaltinis:
+PRNDLG_SIZE=Dydis:
+PRNDLG_MARGINS=Kraðtai (milimetrais)
+PRNDLG_MARGINS_INCHES=Kraðtai (coliais)
+PRNDLG_LEFT=Kairë:
+PRNDLG_RIGHT=Deðinë:
+PRNDLG_TOP=Virðus:
+PRNDLG_BOTTOM=Apaèia:
+PRNDLG_WARNING=Nerasta jokiø printeriø
+FIND_NEXT=Rasti sekantá
+FIND_WHAT=Rasti kà:
+FIND_DIRECTION=Kryptis
+FIND_DIRECTIONUP=Á virðø
+FIND_DIRECTIONDOWN=Á apaèià
+FIND_MATCH_CASE=Surasti atitikmená
+FIND_MATCH_WHOLE_WORD_ONLY=Atitikti tik visà þodá
+FIND_REPLACE_WITH=Apkeisti su:
+FIND_REPLACE=Apkeisti
+FIND_REPLACE_All=Apkeisti visus
+FIND_REPLACE_CLOSE=Uþdaryti
+MORECOLORS=Daugiau spalvø...
+AUTOCOLOR=Automatinë
+CUSTOMCOLOR=Pasirinktinë
+[Global-MessageBox-Information]
+Select=Visø pirma pasirinkite Tunngle vartotojà.
+Controller=Praneðimø srauto kontrolë dabartinëje versijoje yra iðjungta.
+EnterSearchText=Áveskite kà nors paieðkai pradëti.
+EnterSearchUser=Áveskite kà nors paieðkai pradëti.
+ContactDeny=%s atsisakë á jûsø pakvietimà draugauti.
+ContactAccept=%s sutiko su jûsø pakvietimu draugauti.
+ConnectionLost=Ryðys buvo prarastas. \r\nKodas: %s
+ConnectionProblem=Galimos ryðio problemos.\r\nJûsø modemo NAT konfigûracija gali trugdyti Tunngle \r\niðvystyti sëkmingà P2P ryði su kitais vartotojais.\r\nAr norite atidaryti puslapá su pagalba?
+PortReachable=Pasirinktasis Portas yra atidarytas ir priima ryðius.
+CreateNet=Ði funckija dar negalima.\r\nPraðome pateigti savo pasiûlymus mûsø bendrijos forume.\r\nAr norëtumëte tai padaryti dabar?
+AdapterPrim=Tunngle adapteris neteisingai suderintas.(0)\r\nJûs nerasite nei vieno serverio kurie yra susijæ su LAN þaidimais.
+EnterNamePW=Praðau ivesti vartotojo vardà ir slaptaþodá.
+NewVersion=Nauja Tunngle versija %s yra iðleista ir yra galima parsisiuntimui.
+FriendNetwork=%s yra "%s" tinkle.\r\nAr norite ten prisijungti?
+FriendNoNetwork=%s nëra jokiame tinkle.
+Close=Tunngle dabar iðsijungs.
+LSPBackup=Atsarginis LSP filas sëkmigai sukurtas. \r\n%s
+LSPOK=%d LSP problemos iðspræstos.
+LastTab=Paskutinë kortelë negali bûti uþdaryta.
+NetFull=Tinklas yra pilnas.
+TempNetInfo=Tuðti Pagrindinai Tinklai bus automatiðkai iðtrinti jei jais nebus naudojamasi per ilgai.
+TempNetDisabled=Tinklo sukûrimas laikinai iðjungtas.Praðome pabandyti vëliau.
+TempNetLimit=Ðiuo metu mes negalime jums leisti sukurti daugiau Tinklø.Praðome pabandyti vëliau.
+TempNetMissing=Pasirinktas tinklas neegzistuoja.Pasirinkite egzistuojantá arba susikurkite savo.
+TempNetFull=Pasirinktas tinklas yra pilnas.Praðau pasirinkti kità arba susikurti savo.
+TempNetExist=Ðis tinklas jau egzistuoja.Pasirinkite kità pavadinimà arba prisijunkite prie esamo.
+TempNetPassword=Neteisingas slaptaþodis.
+TempNetInvalid=Pasirinktas vardas nëra tinkamas.Pasirinkite kitoká.
+ConfigAttention=Restartuokite Tunngle , kad nauji nustatymai pradëtø veikti
+[Global-MessageBox-Warning]
+PortUnreachable=Pasirinktasis Portas nëra atviras.\r\nPastaba:Jeigu Tunngle veikia reguliariai , jûs del to neturëtumëte jaudintis
+UPnP=Nebuvo ámanoma nustatyti automatinio portø perdavimo naudojantis UPnP.
+ServerUnreachable=Nebuvo ámanoma pasiekti Tunngle serverio. \r\nAr vistiek norite atidaryti Tunngle?
+Offline=Nebuvo ámanoma uþmegzti ryðio.\r\nPasirinktasis kontaktas nera prisijungæs.
+ConnectionFail=Nebuvo ámanoma uþmegsti ryðio.
+Messenger=Áspëjimas!\r\nKadangi susiraðinëjimas dar taisomas,\r\njo lango vertimas nera baigtas.\r\nTai bus sutaisyta kitose Tunngle versijose.
+WriteRegistry=Nebuvo ámanoma iðsaugoti konfiguracijos á áraðø þurnalà.\r\nPraðome susisiekti su Administratoriumi.
+SelectLanguage=Visø pirma pasirinkite kalbà.
+SelectAdapter=Visø pirma pasirinkite adapterá.
+NetworkBusy=Ðiuo metu tinklas pernelyg uþimtas.\r\nPasirinkite kità tinklà.
+LoginRequired=Visø pirma jums reikia prisijungti.
+ConfigAdapter=Iðkilo trugdþiø konfiguruojant tinklo adapterá.\r\nGali bûti kad tinklas neveiks taip kaip reikia.
+[Global-MessageBox-Question]
+Contact=Ar tikrai norite átraukti %s á savo draugø sàraðà?
+Delete=Ar tikrai norite paðalinti %s ið savo juodojo sàraðo?
+ChangeNet=Ar tikrai norite palikti "%s" tinklà kad galëtumëte prisijungti prie "%s" tinklo?
+CloseChat=Ar tikrai norite uþdaryti "%s" susiraðinëjimà?
+CloseLobby=Ar tikrai norite iðeiti ið %s?
+CloseTab=Ar tikrai norite uþdaryti "%s" skirtukà?
+AddContact=%s átraukë jus á savo draugø sàraðà.\r\nAr jûs norite su tuo sutikti?
+Quit=Ar tikrai norite iðeiti?
+DelFavorite=Ar tikrai norite iðtrinti %s?
+NewVersion=Nauja Tunngle %s versija yra iðleista.\r\nAr norite jà parsisiûsti dabar?
+Adapter=Tunngle adapteris buvo rastas.\r\n%s\r\nAr norite já susieti su Tunngle?
+Language=Mes nustatëme kad jûsø sistemos kalba atitinka "%s" kalbos filà.\r\nAr norite já pasirinkti?
+LanguageID=Pasirinkta kalba nesutampa su esama sistemos lokalizacija.\r\nTæsti nepaisant to?
+LanguageCP=Esamas sistemos kodavimas nesutampa su tuo kuris reikalingas pasirinktam kalbos failui.\r\nKai kurie simboliai gali bûti rodomi netiksliai.\r\nTæsti nepaisant to?
+CliQuit=Tunngle turi buti paleista ið naujo jei norite pritaikyti pakeitimus.\r\nAr norite iðeiti dabar?
+TempNetActivate=Norint naudotis ðia savybe yra bûtinas aktyvavimas.\r\nAktyvacija ir paslaugos naudojamasis yra 100% nemokomas.\r\nAr norëtumëte atverti narðyklæ kad aktyvuotumëte dabar?
+TempNetActivateB=Jûsø Interneto narðyklë neákels Privataus Tinklo aktyvavimo puslapio.\r\nÁvygdygyte aktyvavavimà ir paspauskite Gerai kai baigsite.
+FileExists=Failas egzistuoja.Ar norite já perraðyti?
+RestoreDefault=Ar norite atstatyti visas prieð tai slëptas geltonas pagalbos þinutes?
+RestoreOptions=Ar norite atstatyti buvusius nustatymus?
+PremiumFeature=Tunngle Premium yra reikalingas norint naudotis ðia savybe.\r\nAr norëtumëte atidaryti savo narðyklæ ir paskaityti daugiau apie pasiûlymà?
+[Global-MessageBox-Error]
+RunOnce=Vienu metu gali veikti tik viena Tunngle programa.
+NotInstalled=Tunngle neteisingai ádiegta.
+NoAdapter=Nebuvo ámanoma surasti Tunngle tinklo adapterioÀ
+AccountVerify=Prisijungimas nepavyko.\r\nJûsø paskyra nebuvo patvirtinta.
+AccountBann=Prisijungimas nepvyko.\r\nJûsø paskyra buvo uþdrausta naudojimui.
+ConnectionProblem=Ryðio klaida!\r\nNebuvo ámanoma sudaryti UDP ryðio su serveriu.\r\nJûsø ugniasienë gali bûti to prieþastis.\r\nReikia pagalbos?
+NATProblem=NAT klaida!\r\nJûsø modemo NAT konfigûracija neleidþia Tunngle veikti kaip reikia.\r\nJums reikia nustatyti portø persiuntimà.\r\nReikia pagalbos?
+ConnectionProblemInfo=Ryðio klaida!\r\nNebuvo ámanoma sudaryti UDP ryðio su serveriu.\r\nJûsø ugniasienë gali buti to prieþàstis.\r\nReikia pagalbos?
+MasterServer=Nebuvo ámanoma pasiekti Tunngle pagrindinio serverio.
+Version=Jûsø Tunngle versija nebëra veiksminga.\r\nAtnaujinti dabar?
+Safe=Jûsø ryðys negali bûti apsaugotas.
+AuthFail=Prisijungimas nesëkmingas.\r\nPatikrinkite savo prisijungimo vardà ir slaptaþodá.\r\nJeigu niekas nepadeda, galite pabandyti pakeisti slaptaþodá.\r\nReikia tolimesnës pagalbos?
+AdapterInit=Nepavyko inicijuoti Tunngle tinklo adapterio!
+UDPSocket=UDP Lizdo Klaida!\r\nNeámanoma sukurti UDP Lizdo.\r\nJûsø ugniasienë gali buti to prieþastis.\r\nReikia pagalbos?
+AdapterPrim1=Tunngle tinklo adapteriui neteisingai suteiktas prioritetas.(1)\r\nNarðyklëje Jûs nerasite jokiø LAN þaidimams reikalingø serveriø.\r\nReikia pagalbos?
+AdapterPrim2=Tunngle tinklo adapteriui neteisingai suteiktas prioritetas.(2)\r\nNarðyklëje Jûs nerasite jokiø LAN þaidimams reikalingø serveriø.\r\nReikia pagalbos?
+ServiceFound=Nebuvo ámanoma surasti Tunngle paslaugø!
+ServiceContact=Nebuvo ámanoma susisiekti su Tunngle paslaugomis!
+CryptFail=Nebuvo ámanoma uþkrauti kriptografinës saugyklos!
+PortFail=Pasirinktasis portas nëra efektyvus persiuntimui.Áveskite kità portà!
+WinSock2=Neámanoma prieti prie WinSock.\r\nTinklo konfigûracija negali bûti patikrinta.
+LSPProblems=Aptiktos %d LSP problemos.\r\nAr jas iðspræsti dabar?
+LSPBackup=Klaida kuriant atsarginá LSP failà.\r\nAr norite atðaukti?
+LSPSafePoint=Klaida kuriant atstatomajá LSP failà.\r\nAr norite atðaukti?
+LSPRepair=%d LSP problemos negali bûti iðspræstos.\r\nAtstatyti buvusià bûsenà?
+LSPRedo=Atstatymas nepavyko.
+ConfigAdapter=Neámanoma konfiguruoti Tunngle tinklo adapterio!
+WrongPassword=Neteisingas slaptaþodis.
+GUIVersionMismatch=Pastaroji Tunngle instaliacija atrodo æsanti padirbta.
+InterlinkFormat=Neteisinga Interlink sintaksë.Turëtø bûti "Þaidimo serveris:Portas (GameServer:Port)".
+cProgram=Jûsø kompiuteryje yra failas pavadinimu "C:\\program" kuris neleid
+[Global-Text-Dynamic]
+Loading=Krauna %s...
+FromTo=%d á %d ið %d
+LastAct=Paskutinis atnaujinimas: %s
+Lobby=Kambarys (%d)
+ChatJoined=<%s "%s" prisijungë prie pokalbio.>
+NetJoined=<%s "%s" prisijungë prie tinklo.>
+LobbyJoined=<%s "%s" prisijungë prie kambario.>
+ChatLeft=<%s "%s" Atsijungë nuo pokalbio.>
+NetLeft=<%s "%s" Atsijungë nuo tinklo>
+LobbyLeft=<%s "%s" Atsijungë ið kambario.>
+ConnectionDeny1=*Nebuvo ámanoma prisijungti prie %s nes jûs esate jo/jos juodajame sàraðe.*
+ConnectionDeny2=*Nebuvo ámanoma prisijungti prie %s nes jis yra jûsø juodajame sàraðe.
+ConnectionLost=[ %s Prarastas ryðys á Tunngle serverá! ]
+VirtualIP=Virtualus IP: %s
+LoginNick=Prisijungæs kaip: %s
+Version=Versija: %s
+Connecting=Prisijungiama %s
+ChatMe=Að: %s
+ChatDeny=* Neámanoma gauti þinuèiø nuo %s nes jis yra jûsø juodajame sàraðe. *
+AddBlacklist=Kokiam laiko tarpui %s turëtø bûti átrauktas á juodajá sàraðà?
+PingMs=Ping'as: %s ms
+ChannelMode=Raðyti: %s
+Ports=Portas: %s
+WaitingQueue=Laukiama eilës %d/%d
+AddedBlackList=%s sëkmigai átrauktas / átraukta á jûsø juodàjá sàraðà.
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle naujienos
+CaptionStart=Tunngle pradþia
+CaptionStartPage=Tunngle pradþia
+CaptionQuickstart=Greita pradþia
+CaptionSupport=Pagalba
+CaptionBetainfo=Beta informacija
+CaptionTunnglefaq=Tunngle DUK
+CaptionDownloadarea=Atsisiuntiniø vieta
+CaptionResults=Rezultatai...
+CaptionChat=Pokalbis
+CaptionLobby=Kambarys
+CaptionNetwork=Tinklas
+CaptionTunngleforum=Tunngle Forumas
+CaptionEventplaner=Ávykiø Planuotojas
+CaptionForumfaq=Forumo DUK
+CaptionForum=Forumas
+CaptionTunngleskins=Tunngle Iðvaizda
+CaptionSearch=Ieðkoti
+CaptionBrowser=Narðyklë
+CaptionSkinconfig=Iðvaizdos nustatymai
+CaptionSoundconfig=Garsai
+CaptionPrivacylists=Juodasis sàraðas
+CaptionConfiguration=Nustatymai
+CaptionFavorite=Þymës
+CaptionSubBrowser=Tinklai
+CaptionCreateNet=Privatûs Tinklai
+CaptionAccount=VArtotojas
+SplashPleaseWait=Praðau palaukti...
+SplashLoaddata=Uþkraunami duomenys...
+SplashReset=Perstatoma...
+SplashConfig=Konfigûruojama...
+SplashLoading=Kraunama...
+SplashConnecting=Prisijungiama...
+SplashVersion=Tikrinama versija...
+SplashSafe=Apsaugomas ryðys...
+SplashUPnP=Bandomas UPnP portø persiuntimas...
+SplashAuth=Patikrinama...
+SplashAdatperset=Nustatomas adapteris...
+SplashAdapterinit=Inicijuojamas adapteris...
+SplashAdapterstart=Jungiamàsi prie adapterio...
+SplashAdapterchkprim=Tikrinamas adapterio pirmumas...
+SplashAdapterchkbc=Tikrinamas adapterio transliavimas...
+SplashAdapterchkstop=Patikrinamas adapterio atsijungimas...
+SplashFinalize=Uþbaigimas...
+SplashServiceinit=Inicijuojamas Tunngle susisiekimas...
+SplashServicecontact=Susisiekiama su Tunngle paslauga...
+SplashServercontact=Susisiekiama su Tunngle serveriu...
+SplashConfigurate=Konfiguruojama Tunngle...
+SplashWinSock2=Patikrinama tinklo konfigûracija...
+SplashNetzone=Patikrinama tinklo vieta...
+SearchInWork=Ieðkoma...
+Lobby=Kambarys...
+NetLeft=Iðeita ið tinklo.
+NoIP=Virtualus IP: -
+ChatJoined=Prie pokalbio sëmingai prisijungta.
+NetJoined=Prie tinklo sëkmingai prisijungta.
+LobbyJoined=Prie kambario sëkmingai prisijungta.
+FoundNothing=Jokiø rezultatø!
+NetChangeBegin=Mëginama perjungti tinklà.Praðome palaukti...
+NetChangeEnd=Tinklo perjungimas sëkmingas.Praðome palaukti...
+NotLoggedIn=Jûs næsate prisijungæs.
+EnterNamePW=Áveskite vartotojo vardà ir slaptaþodá.
+MessageSendFail=* Nebuvo ámanoma iðsiøsti þinutës. *
+MessageSendFlood=* Jûs siunèiate þinutes pernelyg greit.Praðome suletinti tempà. *
+LaunchParameter=Komandinës eilutës perimetrai:
+TypeStandard=Tunngle vartotojas
+TypeInterlink=Interlink serveris
+TypeTunngleTeam=Tunngle komanda
+TypeEnthusiast=Tunngle Entuziastas
+TypeLifetime=Tunngle vartotojas visam gyvenimui
+TypePremium=Premijinis Tunngle vartotojas
+TypeInactive=Neámanoma uþmegzti ryðio su ðituo kolega.
+SplashExecuteJoin=Praðome palaukti...
+StopAdapter=Atjungiamas Tunngle adapteris...
+StartAdapter=Prisijungiama prie Tunngle adapterio...(gali ðiek tiek uþtrukti)
+StartAdapterFail=Klaida:Nebuvo ámanoma prisijungti prie Tunngle adapterio.
+Interlink=ÞaidimoServeris:Portas
+StatusBarRegister=Dar neturite paskyros?Spauskite èia kad uþsiregistruotumëte!
+ConnectionGood=Portas Atvertas
+ConnectionBad=Jei galite persiûskite portus!
+ConnectionNeutral=Portas Uþdarytas
+ChangeNick=PAsirinkite savo Tunggle vardà.
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Bendrija
+SpeedButtonCommunity2=<
+SpeedButtonLogin=Prisijungti
+SpeedButtonCancel=Atðaukti
+SpeedButtonCancelStatus=Atðaukti
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Rasti tinklus ir draugus
+SpeedButtonCommunity2=Á paskutiná aktyvø skirtukà
+SpeedButtonMessenger=Susiraðinëjimas
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Pagrindinis Puslpis
+ButtonQABetaInfo=Nauja info
+ButtonQAForum=Forumas
+ButtonQAEventPlanner=Planuotojas
+ButtonQALobby=Tunngle Kambarys
+ButtonQAFavorites=Þymës
+ButtonQACreateNetwork=Privatûs Tinklai
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=Pagrindinis Puslapis
+spDynamicSkinFormMain-1=Privatûs Tinklai
+spDynamicSkinFormMain-2=Forumas
+spDynamicSkinFormMain-3=Planuotojas
+spDynamicSkinFormMain-4=Tunngle Kambarys
+spDynamicSkinFormMain-5=Þymës
+spDynamicSkinFormMain-7=Facebook'as
+spDynamicSkinFormMain-8=Twitter'is
+spDynamicSkinFormMain-9=Google+
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Tinklo Narðyklë
+ExPanelFindnetwork=Tinklo paieðka
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Paiðka
+MenuItemNetFavorite=Þymës
+MenuItemNetCreate=Þaidimø uþklausa
+MenuItemNetCreateOwn=Privatûs Tinklai
+MenuItemTunnglelobby=Tunngle Kambarys
+MenuItemEventplaner=Planuotojas
+MenuItemSounds=Garsai
+MenuItemSkins2=Iðvaizda
+MenuItemPrivacylists=Juodasis Sàraðas
+MenuItemConfiguration=Nustatymai
+MenuItemRestore=Atstatyti pagalbas
+MenuItemAbout=Apie Tunngle
+MenuItemTrayOpen=Atidaryti
+MenuItemTrayClose=Uþdaryti
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=Vartotojo vardas:
+StdLabelPassword=Slaptaþodis:
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Prisimink mane
+CheckRadioBoxAutologon=Automatinis prisijungimas
+CheckRadioBoxDontShowAgain=Daugiau nerodyti
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Átraukti á draugø sàraðà
+MenuItemAddContact=Átraukti Á juodàjá sàraðà
+MenuItemAddBlacklist=Átraukti á juodàjá sàraðà
+MenuItemEditBlacklist=Redaguoti juodàjá sàraðà
+MenuItemSortNicks=Rûðiuoti vardus
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Siûsti
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Susiraðinëjimas:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=< < Atgal
+ButtonForward=Á prieká > >
+ButtonActualize=Atnaujinti
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Vardas
+ListViewNet-1=Prisijungusiøjø
+ListViewNet-2=Þanras
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Átraukti á þymes
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=atnaujinti
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Vardas
+ListViewNet-1=Prisijungusiøjø
+ListViewNet-2=Þanras
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Átraukti á þymes
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=< < Atgal
+ButtonForward=Á prieká > >
+ButtonActualize=Atnaujinti
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Vardas
+ListViewNet-1=Prisijungusiøjø
+ListViewNet-2=Þanras
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Iðtrinti þymæ
+MenuItemSortFavorite=Rûðiuoti þymes
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Atnaujinti
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Vardas
+ListViewNet-1=Prisijungusiøjø
+ListViewNet-2=Þanras
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Iðtrinti þymæ
+MenuItemSortFavorite=Rûðiuoti þymes
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Perimti transliacijas ið visø sàryðiø
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Persiøstas portas
+CheckRadioBoxUPnP=Naudoti UPnP
+CheckRadioBoxTCActive=Ájungtas
+CheckRadioBoxSignature=Internetinis paraðas
+CheckRadioBoxLog=Tinklo áraðas
+CheckRadioBoxExp=Eksperto Rëþimas
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Pastebëjimas!\r\nPaprastai iðjungtas.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=Gerai
+ButtonAccept=Pritaikyti
+ButtonCancel=Atðaukti
+ButtonTest=Iðbandyti
+ButtonDefault=Numatyti nustatymai
+ButtonWizard=Vedlys
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Sàsaja
+GroupBoxNetconfig=Tinklas
+GroupBoxRouterconfig=Modemas
+GroupBoxTrafficcontroller=Praneðimø Srauto Kontrolë
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Kalba
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Áspëjimas!Praðome paleisti Tunngle ið naujo norëdami pritaikyti naujus nustatymus!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle Paieðka
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Slëpti pilnus tinklus
+CheckRadioBoxEmpty=Slëpti tuðèius tinklus
+CheckRadioBoxPassword=Slëpti tinklus su slaptaþodþiu
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Paieðkos Filtrai
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Paiðkos Filtrai > >
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=< < Atgal
+ButtonForward=Pirmyn > >
+ButtonActualize=Atnaujinti
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Vardas
+ListViewResults-1=Prisijungusieji
+ListViewResults-2=Þanras
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Átraukti Á þymes
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Praneðimai
+MenuItemAddContact=Átraukti á draugø sàraðà
+MenuItemAddBlacklist=Átraukti á juodàjá sàraðà
+MenuItemEditBlacklist=Redaguoti juodàjá sàraðà
+MenuItemSortNicks=Rûðiuoti vardus
+MenuItemShowProfile=Rodyti paskyrà
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Siøsti
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Susiraðinëjimas
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=Gerai
+ButtonAccept=Pritaikyti
+ButtonCancel=Atðaukti
+ButtonFind=Ieðkoti
+ButtonExport=Eksportuoti
+ButtonImport=Importuoti
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Vardas
+ListViewResults-1=Slapyvardis
+ListViewConnection-1=Slapyvardis
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Ieðkoti
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Pasaulinis juodasis sàraðas
+StdLabelChatmessages=Susiraðinëjimo Juodasis Sàraðas
+StdLabelName=Vardas
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Paðalinti
+MenuItemDeleteChat=Paðalinti
+MenuItemAddBlacklist=Átraukti á juodàjá sàraðà
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=Gerai
+ButtonAccept=Pritaikyti
+ButtonCancel=Atðaukti
+ButtonDownload=Parsisiûsti daugiau iðvaizdoø
+ButtonDefault=Numatytoji Tunngle Iðvaizda
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Perþiûra
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Etiketë
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Teksto laukas
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Ávedimo laukas
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Þymimasis langelis
+CheckRadioBox2=Þymimasis langelis
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=Gerai
+ButtonAccept=Pritaikyti
+ButtonCancel=Atðaukti
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Ájungti garsus
+CheckRadioBoxStart=Paleidimas
+CheckRadioBoxLogin=Prisijungimas
+CheckRadioBoxLeave=Tunngle vartotojas palieka tinklà
+CheckRadioBoxJoin=Tunngle vartorojas prisijungia prie tinklo
+CheckRadioBoxReceive=Þinutë gauta
+CheckRadioBoxQuit=Iðsijungimas
+CheckRadioBoxSend=Þinutë iðsiûsta
+CheckRadioBoxKey=Susiraðinëjimo lango rakto paspaudimas
+CheckRadioBoxDirectopen=Naujas tiesioginio susiraðinëjimo langas
+CheckRadioBoxDirectmessage=Tiesioginio susiraðinëjimo þinute gauta
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Narðyklë
+ButtonFavorite=Þymës
+ButtonQuicklaunch=Greita Pradþia
+ButtonBetainfo=Nauja info
+ButtonForum=Forumas
+ButtonEventplaner=Planuotojas
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Atgal
+StatusPanelForward=Pirmyn
+StatusPanelStop=Sustoti
+StatusPanelReload=Atnaujinti
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Atgal
+StatusPanelForward=Pirmyn
+StatusPanelStop=Sustoti
+StatusPanelReload=Atnaujinti
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Praneðimai
+MenuItemAddContact=Átraukti á draugø sàraðà
+MenuItemAddBlacklist=Átraukti á juodàjá sàraðà
+MenuItemEditBlacklist=Redaguoti juodàjá sàraðà
+MenuItemCopyIP=Nukopijuoti IP á sàraðà
+MenuItemSortNicks=Rûðiuoti vardus
+MenuItemSortIPs=Rûðiuoti pagal ping'à
+MenuItemConfig=Konfiguruoti
+MenuItemShowProfile=Rodyti profilá
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Siûsti
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Susiraðinëjimas:
+[FrameVPN-TspSkinButton-Hint]
+ButtonVideo=Vaizdo áraðo paieðka
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Uþdaryti
+[FormAbout-Infos]
+Caption=Apie Tunngle
+[FormLogin-Infos]
+Caption=Prisijungti
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Prisijungti
+ButtonCancel=Atðaukti
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Vartorojo vardas:
+LabelPassword=Slaptaþodis:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Prisimink mane
+CheckRadioBoxAuto=Automatinis prisijungimas
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Uþsiregistruokite dël nemokamos Tunngle paskyros
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Atðaukti
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Siûsti
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Susiraðinëjimas:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Átraukti grupæ
+MenuItemContactAdd=Átraukti kontaktà
+MenuItemContactHideOffline2=Slëpti neprisijungusius
+MenuItemRights=Leidimai
+MenuItemTunngleShares=Tunngle akcijos
+MenuItemContactInfo=Kontakto info
+MenuItemContactAlert=Kontakto áspëjimas
+MenuItemContactNote=Kontakto pastaba
+MenuItemContactRename=Pervardinti kontaktà
+MenuItemContactDelete=Iðtrinti kontaktà
+MenuItemMoveToGroup=Kelti á grupæ
+MenuItemContactHideOffline3=Slepti neprisijungusius
+MenuItemMessage=Tiesioginis susiraðinëjimas
+MenuItemRights2=Leidimai
+MenuItemTunngleShares2=Tunngle akcijos
+MenuItemGroupRename=Pervardinti grupæ
+MenuItemGroupDelete=Iðtrinti grupæ
+MenuItemGroupExpandCollapse=Iðplësti/Sumaþinti grupæ
+MenuItemContactHideOffline=Slëpti neprisijungusius
+MenuItemMain=&Meniu
+MenuItemAddContact=Átraukti kontaktà
+MenuItemInNetwork=Tinklo informacija
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=Rodyti save kaip neprisijungusá
+[FormFindContact-Infos]
+Caption=Kontakto paieðka
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Paieðka
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=Vardas:
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Átraukti kontaktà
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Atðaukti
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Failas
+ListViewLanguage-1=Kalba
+ListViewLanguage-2=Autorius
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Tæsti
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Praðome pasirinkti kalbà kuri bus naudojama Tunngle
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Vardas
+ListViewAdapter-1=IP
+ListViewAdapter-2=Prietaiso pavadinimas
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Tæsti
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Pasirinkite Tunngle adapterá.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=Gerai
+ButtonCancel=Atðaukti
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Tik susiraðinëjime
+CheckRadioBoxComplete=Pilnas draudimas
+CheckRadioBoxHours=Valandos
+CheckRadioBoxDate=Iki
+CheckRadioBoxInfinite=Amþinai
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=Gerai
+ButtonCancel=Atðaukti
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Áveskite Slaptaþodá:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Praneðimai
+MenuItemAddContact=Átraukti á draugø sàraðà
+MenuItemCopyIP=Kopijuoti IP á sàraðà
+MenuItemSortNicks=Rûðiuoti vardus
+MenuItemSortIPs=Rûðiuoti pagal ping'à
+MenuItemConfig=Konfiguruoti
+MenuItemShowProfile=Rodyti profilá
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Siûsti
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Susiraðinëjimas:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Pasveikinimo Þinutë
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Tvarkyti savo paties Tinklà
+GroupBoxJoin=Prisijungti prie egzistuojanèio tinklo
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=Tinklo Rûðis
+LabelNetworkNameT=Tinkla Pavadinimas:
+LabelNetworkPasswordT=Tinklo Slaptaþodis:
+LabelNetworkSize=Tinklo Dydis:
+LabelNetworkTypeB=Tinklo Rûðis
+LabelNetworkNameB=Tinklo Pavadinimas:
+LabelNetworkPasswordB=Tinklo Slaptaþodis:
+[FrameNetCreate-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Paprastas
+ComboBoxNetTypeB-0=Paprastas
+ComboBoxNetRange-0=Standartas
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Sukurti - Atnaujinti
+ButtonJoin=Prisijungti
+ButtonJoinOwn=Prisijungti Prie Savo Tinklo
+ButtonNetworkList=Tinklø sàraðas
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Tinklo Emuliatorius:
+UrlLabelInterlink=Interlink serveris:
+UrlLabelNetRange=Tinklo Nuotolis
+UrlLabelManagement=Adresø Tvarkyklë
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Pagrindinis Tinklas
+CheckRadioBoxNetPremium=Premium Tinklas
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Þinutës
+MenuItemAddContact=Átraukti á draugø sàraðà
+MenuItemCopyIP=Kopijuoti IP á sàraðà
+MenuItemSortNicks=Rûðiuoti vardus
+MenuItemSortIPs=Rûðiuoti pagal vardus
+MenuItemConfig=Konfiguruoti
+MenuItemShowProfile=Rodyti profilá
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Siûsti
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Susiraðinëjimas:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Daugiau nerodyti
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=Gerai
+ButtonAccept=Pritaikyti
+ButtonCancel=Atðaukti
+ButtonChangeNick=Pakeisti Slapyvardá
+[FormWizard-Infos]
+Caption=Vaizdo áraðo intro
+[FrameBeforeLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Daugiau neberodyti
+[FrameNetCreateEasy-TspSkinMemo-Text]
+MemoWelcome=Pasisveikinimo Þinutë
+[FrameNetCreateEasy-TspSkinGroupBox-Caption]
+GroupBoxCreate=Tvarkyti savo Tinklà
+GroupBoxJoin=Prisijungti prie esamo Tinklo
+[FrameNetCreateEasy-TspSkinLabel-Caption]
+LabelNetworkTypeT=Tinklo Rûðis:
+LabelNetworkNameT=Tinklo Pavadinimas:
+LabelNetworkPasswordT=Tinklo Slaptaþodis
+LabelNetworkTypeB=Tinklo Rûðis:
+LabelNetworkNameB=Tinklo Pavadinimas:
+LabelNetworkPasswordB=Tinklo Slaptaþodis:
+[FrameNetCreateEasy-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Paprastas
+ComboBoxNetTypeB-0=Paprastas
+[FrameNetCreateEasy-TspSkinButton-Caption]
+ButtonJoin=Prisijungti
+ButtonNetworkList=Tinklø Saraðas
+[FrameNetCreateEasy-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Paprastas tinklas

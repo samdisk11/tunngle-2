@@ -1,0 +1,577 @@
+
+[Header]
+Author=cousinehy & Parsnip (Community)
+Date=2014.12.19
+Language=Finnish
+CharSet=DEFAULT_CHARSET
+PrimLangID=11
+CodePage=1252
+[Global-Ressource]
+MI_MINCAPTION=Pienennä
+MI_MAXCAPTION=Suurenna
+MI_CLOSECAPTION=Sulje
+MI_RESTORECAPTION=Palauta
+MI_MINTOTRAYCAPTION=Pienennä ilmoitusalueelle
+MI_ROLLUPCAPTION=Vieritä ylös
+MINBUTTON_HINT=Pienennä
+MAXBUTTON_HINT=Suurenna
+CLOSEBUTTON_HINT=Sulje
+TRAYBUTTON_HINT=Pienennä huomatusalueelle
+ROLLUPBUTTON_HINT=Vieritä ylös
+MENUBUTTON_HINT=Järjestelmä valikko
+RESTORE_HINT=Palauta
+EDIT_UNDO=Kumoa
+EDIT_COPY=Kopioi
+EDIT_CUT=Leikkaa
+EDIT_PASTE=Liitä
+EDIT_DELETE=Poista
+EDIT_SELECTALL=Valitse kaikki
+MSG_BTN_YES=Kyllä
+MSG_BTN_NO=Ei
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Peruuta
+MSG_BTN_ABORT=Keskeytä
+MSG_BTN_RETRY=Yritä uudestaan
+MSG_BTN_IGNORE=Mykistä
+MSG_BTN_ALL=Kaikki
+MSG_BTN_NOTOALL=Ei kaikkiin
+MSG_BTN_YESTOALL=Kyllä kaikkiin
+MSG_BTN_HELP=Ohje
+MSG_BTN_OPEN=Avaa
+MSG_BTN_SAVE=Tallenna
+MSG_BTN_CLOSE=Sulje
+MSG_BTN_BACK_HINT=Palaa viimeksi käytettyyn kansioon
+MSG_BTN_UP_HINT=Siirry taso ylöspäin
+MSG_BTN_NEWFOLDER_HINT=Luo uusi kansio
+MSG_BTN_VIEWMENU_HINT=Näytä valikko
+MSG_BTN_STRETCH_HINT=Venytä kuvaa
+MSG_FILENAME=Tiedoston nimi:
+MSG_FILETYPE=Tiedoston tyyppi:
+MSG_NEWFOLDER=Uusi kansio
+MSG_LV_DETAILS=Yksityiskohdat
+MSG_LV_ICON=Suuret kuvakkeet
+MSG_LV_SMALLICON=Pienet kuvakkeet
+MSG_LV_LIST=Luettelo
+MSG_PREVIEWSKIN=Esikatselu
+MSG_PREVIEWBUTTON=Painike
+MSG_OVERWRITE=Haluatko korvata vanhan tiedoston?
+MSG_CAP_WARNING=Varoitus
+MSG_CAP_ERROR=Virhe
+MSG_CAP_INFORMATION=Tietoa
+MSG_CAP_CONFIRM=Vahvista
+MSG_CAP_SHOWFLAG=Älä näytä tätä viestiä uudestaan
+CALC_CAP=Laskin
+ERROR=Virhe
+COLORGRID_CAP=Perusvärit
+CUSTOMCOLORGRID_CAP=Muokatut värit
+ADDCUSTOMCOLORBUTTON_CAP=Lisää muokattuihin väreihin
+FONTDLG_COLOR=Väri:
+FONTDLG_NAME=Nimi:
+FONTDLG_SIZE=Koko:
+FONTDLG_HEIGHT=Pituus:
+FONTDLG_EXAMPLE=Esimerkki:
+FONTDLG_STYLE=Tyyli:
+FONTDLG_SCRIPT=Skripti:
+DB_DELETE_QUESTION=Oletko varma että haluat poistaa tämän tallenteen?
+DB_MULTIPLEDELETE_QUESTION=Poistetaanko kaikki valitut tallenteet?
+NODISKINDRIVE=Asemassa ei ole levyä tai asema ei ole valmiina
+NOVALIDDRIVEID=Aseman tunniste ei kelpaa
+FLV_NAME=Nimi
+FLV_SIZE=Koko
+FLV_TYPE=Tyyppi
+FLV_LOOKIN=Katso kohteesta:
+FLV_MODIFIED=Muokattu
+FLV_ATTRIBUTES=Attribuutit
+FLV_DISKSIZE=Levyn koko
+FLV_FREESPACE=Vapaa tila
+PRNDLG_NAME=Nimi:
+PRNDLG_PRINTER=Tulostin
+PRNDLG_PROPERTIES=Ominaisuudet...
+PRNDLG_TYPE=Tyyppi:
+PRNDLG_STATUS=Tila:
+PRNDLG_WHERE=Missä:
+PRNDLG_COMMENT=Kommentti:
+PRNDLG_PRINTRANGE=Sivualue
+PRNDLG_COPIES=Kopiot
+PRNDLG_NUMCOPIES=Kopioiden lukumäärä:
+PRNDLG_COLLATE=Kokoa
+PRNDLG_ALL=Kaikki
+PRNDLG_PAGES=Sivut
+PRNDLG_SELECTION=Valinta
+PRNDLG_PRINTTOFILE=Tulosta tiedostoon
+PRNDLG_FROM=mistä:
+PRNDLG_TO=mihin:
+PRNDLG_ORIENTATION=Suunta
+PRNDLG_PAPER=Paperi
+PRNDLG_PORTRAIT=Pysty
+PRNDLG_LANDSCAPE=Vaaka
+PRNDLG_SOURCE=Lähde:
+PRNDLG_SIZE=Koko:
+PRNDLG_MARGINS=Marginaali (millimetreinä)
+PRNDLG_MARGINS_INCHES=Marginaali (tuumina)
+PRNDLG_LEFT=Vasen:
+PRNDLG_RIGHT=Oikea:
+PRNDLG_TOP=Ylä:
+PRNDLG_BOTTOM=Ala:
+PRNDLG_WARNING=Järjestelmässäsi ei ole tulostimia!
+FIND_NEXT=Etsi seuraava
+FIND_WHAT=Etsi mitä:
+FIND_DIRECTION=Suunta
+FIND_DIRECTIONUP=Ylös
+FIND_DIRECTIONDOWN=Alas
+FIND_MATCH_CASE=Kirjainkoko vastattava
+FIND_MATCH_WHOLE_WORD_ONLY=Koko sana vastattava
+FIND_REPLACE_WITH=Korvaa merkeillä:
+FIND_REPLACE=Korvaa
+[Global-MessageBox-Information]
+Select=Valitse ensin käyttäjä.
+Controller=Tietoliikenteen valvoja ei ole käytössä tässä versiossa.
+EnterSearchText=Syötä jotain etsittävää.
+EnterSearchUser=Syötä jotain etsittävää.
+ContactDeny=%s vastasi kieltävästi kaveripyyntöösi.
+ContactAccept=%s vastasi myöntävästi kaveripyyntöösi.
+ConnectionLost=Yhteys katkesi.\r\nKoodi: %s
+ConnectionProblem=Mahdollisia yhteysongelmia.\r\nReitittimesi NAT-asetukset saattavat haitata Tunnglen P2P-yhteyksien muodostamista muihin käyttäjiin.\r\nHaluatko nyt siirtyä apusivustolle?
+PortReachable=Valittu portti on avoin ja ottaa yhteyksiä vastaan.
+CreateNet=Tämä toiminto ei ole vielä käytettävissä.\r\nPostita ehdotuksesi yhteisön foorumille.\r\nHaluaisitko avata foorumi sivun juuri nyt?
+AdapterPrim=Tunnglen verkkosovitinta ei ole priorisoitu oikein. (0)\r\nEt voi löytää yhtään palvelinta pelisi LAN selaimessa.
+EnterNamePW=Syötä käyttäjänimi ja salasana.
+NewVersion=Uusi Tunnglen versio (%s) on julkaistu ja valmiina ladattavaksi.
+FriendNetwork=%s on verkossa "%s".\r\nHaluatko liittyä tähän verkkoon?
+FriendNoNetwork=%s ei ole missään verkossa.
+Close=Tunngle sammuu.
+LSPBackup=LSP-varmuuskopiotiedosto luotu onnistuneesti.\r\n%s
+LSPOK=%d LSP-ongelmat korjattu.
+LastTab=Viimeistä välilehteä ei voi sulkea.
+NetFull=Tämä verkko on jo täynnä.
+TempNetInfo=Tyhjät perusverkot poistetaan automaattisesti, kun niitä ei ole käytetty.
+TempNetDisabled=Verkkojen luonti on väliaikaisesti poissa käytöstä. Yritä uudelleen myöhemmin.
+TempNetLimit=Emme voi sallia uusien verkkojen luontia tällä hetkellä. Yritä uudellen myöhemmin.
+TempNetMissing=Valittua verkkoa ei löydy. Ole hyvä ja valitse olemassaoleva tai luo omasi.
+TempNetFull=Valittu verkko on täynnä. Ole hyvä ja valitse toinen tai tee omasi.
+TempNetExist=Verkko on jo olemassa. Ole hyvä ja valitse jokin toinen nimi tai liity olemassa olevaan.
+TempNetPassword=Väärä salasana.
+TempNetInvalid=Valittua nimeä ei löydy. Ole hyvä ja valitse jokin toinen.
+ConfigAttention=Ole hyvä ja uudelleen käynnistä Tunngle vahvistaaksesi uudet asetukset.
+ProcessSuccess=Prosessi onnistui.
+PremiumExpire=Premium-jäsenyytesi umpeutuu %s. \r\nHaluatko vierailla tilaussivulla?
+[Global-MessageBox-Warning]
+PortUnreachable=Valittu portti ei nähtävästi ole auki.\r\nHuom: Sinun ei tarvitse huolehtia tästä jos Tunngle toimii normaalisti.
+UPnP=Automaattista portin edistämistä UPnP:n avulla ei voitu asettaa.
+ServerUnreachable=Tunnglen palvelimeen ei saatu yhteyttä.\r\nKäynnistetäänkö Tunngle siitä huolimatta?
+Offline=Yhteyttä ei voitu muodostaa.\r\nValittu yhteyshenkilö ei ole verkossa.
+ConnectionFail=Yhteyttä ei voitu muodostaa.
+Messenger=Varoitus!\r\nKoska viestitin ei ole vielä valmis,\r\nsen ikkunan käännökset eivät myöskään ole valmiita.\r\nTämä tullaan korjaamaan Tunnglen seuraavassa versiossa.
+WriteRegistry=Asetuksia ei voitu tallentaa rekisteriin.\r\nOta yhteyttä järjestelmänhallitsijaan.
+SelectLanguage=Valitse ensin kieli.
+SelectAdapter=Valitse ensin adapteri.
+NetworkBusy=Verkko on liian kiireinen tällä hetkellä.\r\nOle hyvä ja valitse jokin toinen.
+LoginRequired=Sinun on kirjauduttava ensin.
+ConfigAdapter=Virhe on tapahtunut verkkokortin konfiguroinnissa.\r\nVerkko ei välttämättä toimi kunnolla.
+ProcessFail=Prosessi ei onnistunut.
+NickInvalid=Lempinimesi saa vain sisältää näitä merkkejä:
+[Global-MessageBox-Question]
+Contact=Oletko varma että haluat lisätä käyttäjän %s ystävälistallesi?
+Delete=Oletko varma että haluat poistää käyttäjän %s estolistalta?
+ChangeNet=Oletko varma että haluat poistua verkosta %s liittyäksesi verkkoon %s?
+CloseChat=Haluatko varmasti sulkea "%s" keskustelun?
+CloseLobby=Haluatko varmasti poistua %s?
+CloseTab=Haluatko varmasti sulkea "%s" välilehden?
+AddContact=Käyttäjä %s lisäsi sinut hänen ystävälistalleen.\r\nHyväksytkö?
+Quit=Oletko varma että haluat lopettaa?
+DelFavorite=Haluatko varmasti poistaa %s:än?
+NewVersion=Uusi Tunnglen versio (%s) on julkaistu.\r\nHaluatko ladata sen nyt?
+Adapter=Seuraava Tunngle adapteri löytyi.\r\n%s\r\nHaluatko liittää tämän adapterin Tunngleen?
+Language=Havaitsimme että järjestelmäsi kieli on yhteensopiva "%s" kielitiedoston kanssa.\r\nHaluatko ottaa sen käyttöön?
+LanguageID=Valitsemasi kielitiedosto ei vastaa järjestelmäsi kieltä.\r\nHaluatko jatkaa siitä huolimatta?
+LanguageCP=Järjestelmäsi koodisivusto ei vastaa valitsemasi kielitiedoston vaatimuksia.\r\nJotkin merkit eivät välttämättä näy oikein.\r\nJatketaanko siitä huolimatta?
+CliQuit=Tunnglen täytyy uudelleenkäynnistyä, jotta uudet asetukset päivittyisivät.\r\nHaluatko poistua nyt?
+TempNetActivate=Aktivointi on suoritettava, jotta tämä ominaisuus toimisi.\r\nAktivointi ja palvelun käyttö ovat 100% ilmaisia.\r\nHaluatko avata selaimen aktivoidaksesi nyt?
+TempNetActivateB=Selaimesi lataa nyt yksityisen verkon aktivointisivun.\r\nOle hyvä ja suorita aktivointi ja paina OK, kun olet valmis.
+FileExists=Tiedosto on jo olemassa. Haluatko korvata sen?
+RestoreDefault=Haluatko palauttaa kaikki aiemmin piilotetut keltaiset apulehdet?
+RestoreOptions=Haluatko palauttaa oletus asetukset?
+PremiumFeature=Tunngle Premium vaaditaa tätä ominaisuutta varten.\r\nHaluaisitko avata selaimen ja lukea lisää tarjouksesta?
+ExternalLink=Olet poistumassa Tunnglesta.\r\nOta huomioon, että Tunngle.Net GmbH ei ole vastuussa chattiin lisätyistä linkeista ja otat itse vastuun mahdollisista riskeista.\r\nJos painat kyllä, sivu aukeaa oletusselaimessasi. Haluatko jatkaa?
+[Global-MessageBox-Error]
+RunOnce=Vain yksi Tunnglen instanssi voi olla päällä.
+NotInstalled=Tunnglen asennus on virheellinen.
+NoAdapter=Tunnglen verkkosovitinta ei löytynyt!
+AccountVerify=Kirjautuminen epäonnistui.\r\nTiliäsi ei vahvistettu.
+AccountBann=Kirjautuminen epäonnistui.\r\nTilisi sai porttikiellon.
+ConnectionProblem=Yhteys virhe!\r\nUDP yhteyttä palvelimeen ei voitu muodostaa.\r\nTämä saattaa johtua palomuuristasi.\r\nTarvitseko apua?
+NATProblem=NAT virhe!\r\nReitittimesi NAT asetukset estävät Tunnglen kunnollisen toimimisen.\r\nAseta porttien uudelleenohjaus.\r\nTarvitsetko apua?
+ConnectionProblemInfo=Yhteys virhe!\r\nUDP yhteyttä palvelimeen ei voitu muodostaa.\r\nTämä saattaa johtua palomuuristasi.\r\nTarvitseko apua?
+MasterServer=Tunnglen pääpalvelimeen ei saatu yhteyttä.
+Version=Ohjelmistosi on vanhentunut.\r\nHaluatko päivittää nyt?
+Safe=Yhteytesi suojaaminen ei onnistu.
+AuthFail=Kirjautuminen epäonnistui.\r\nTarkista käyttäjätunnus ja salasana.\r\n(Ethän sekoita käyttäjä salasanaa tili salasanaan!)\r\nTarvitsetko apua?
+AdapterInit=Tunnglen verkkosovittimen valmistelu epäonnistui!
+UDPSocket=UDP Socket virhe!\r\n UDP Sockettia ei voitu luoda.\r\nSyynä saattaa olla palomuurisi.\r\nTarvitsetko apua?
+AdapterPrim1=Tunnglen verkkosovitinta ei ole priorisoitu oikein. (1)\r\nEt voi löytää yhtään palvelinta pelisi LAN selaimessa.\r\nTarvitsetko apua?
+AdapterPrim2=Tunnglen verkkosovitinta ei ole priorisoitu oikein. (2)\r\nEt voi löytää yhtään palvelinta pelisi LAN selaimessa.\r\nTarvitsetko apua?
+ServiceFound=Tunngle palvelua ei voitu löytää!
+ServiceContact=Tunngle palvelua ei voitu tavoittaa!
+CryptFail=Salaustekniikka kirjastoa ei voitu ladata!
+PortFail=Valittu portti ei ole kelvollinen avattavaksi. Syötä toinen portti!
+WinSock2=WinSockiin yhdistäminen epäonnistui.\r\nVerkon konfigurointia ei voitu tarkistaa.
+LSPProblems=%d LSP ongelmia löydetty.\r\nKorjaa ne nyt?
+LSPBackup=Virhe LSP varmuuskopion luonnissa.\r\nHaluatko peruuttaa?
+LSPSafePoint=Virhe LSP palautuspisteen luonnissa.\r\nHaluatko peruuttaa?
+LSPRepair=%d LSP ongelmia ei voitu korjata.\r\nPalauta edelliseen tilaan?
+LSPRedo=Palautus epäonnistui.
+ConfigAdapter=Tunnglen verkkoadapteria ei voitu konfiguroida!
+WrongPassword=Väärä salasana.
+GUIVersionMismatch=Tämän hetkinen Tunngle asennus vaikuttaa korruptoituneelta.
+InterlinkFormat=Laiton Interlink syntaksi. Sen pitäisi olla "GameServer:port".
+cProgram=Tietokoneellasi on tiedosto nimeltä "C:\\program", joka saattaa häiritä Tunnglen toimintaa.\r\nTiedoston uudelleen nimeäminen "C:\\program1":ksi korjaa ongelman.
+ProcessFail=Prosessi epäonnistui.
+ServerUnreachable=Serveri on tällä hetkellä poissa käytöstä, yritä uudelleen myöhemmin.
+SelectNetRange=Ole hyvä ja valitse verkon laajuus.
+[Global-Text-Dynamic]
+Loading=Lataa %s...
+FromTo=%d - %d / %d
+LastAct=Viimeisin päivitys: %s
+Lobby=Aula (%d)
+ChatJoined=<%s "%s" liittyi keskusteluun.>
+NetJoined=<%s "%s" liittyi verkkoon.>
+LobbyJoined=<%s "%s" liittyi aulaan.>
+ChatLeft=<%s "%s" lähti keskustelusta.>
+NetLeft=<%s "%s" lähti verkosta.>
+LobbyLeft=<%s "%s" lähti aulasta.>
+ConnectionDeny1=* Käyttäjään %s ei saatu yhteyttä koska olet hänen estolistallaan.
+ConnectionDeny2=* Käyttäjään %s ei saatu yhteyttä koska hän on sinun estolistallasi.
+ConnectionLost=[ %s Menetettiin yhteys Tunngle palveluun! ]
+VirtualIP=Virtuaali IP: %s
+LoginNick=Kirjauduttu sisään nimellä: %s
+Version=Versio: %s
+Connecting=Yhdistetään %s
+ChatMe=Minä: %s
+ChatDeny=* Viestien saaminen käyttäjältä %s epäonnistui koska hän on keskustelu estolistallasi. *
+AddBlacklist=Kuinka pitkäksi aikaa pitäisi %s laittaa mustalle listalle?
+PingMs=Ping: %s ms
+ChannelMode=Tyyppi: %s
+Ports=Portti: %s
+WaitingQueue=Jonossa %d/%d
+AddedBlackList=%s onnistuneesti lisätty mustalle listallesi.
+UserID=ID: %d
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle uutiset
+CaptionStart=Tunngle aloitus
+CaptionStartPage=Tunngle aloitus
+CaptionQuickstart=Pika-aloitus
+CaptionSupport=Tuki
+CaptionBetainfo=Beetatiedot
+CaptionTunnglefaq=Tunngle UKK
+CaptionDownloadarea=Lataus alue
+CaptionResults=Tulokset...
+CaptionChat=Keskustelu
+CaptionLobby=Aula
+CaptionNetwork=Verkko
+CaptionTunngleforum=Tunngle foorumi
+CaptionEventplaner=Tapahtuma suunnittelija
+CaptionForumfaq=Foorumi UKK
+CaptionForum=Foorumi
+CaptionTunngleskins=Tunngle ulkoasu
+CaptionSearch=Etsi
+CaptionBrowser=Selain
+CaptionSkinconfig=Ulkoasun asetukset
+CaptionSoundconfig=Äänet
+CaptionPrivacylists=Estolista
+CaptionConfiguration=Asetukset
+CaptionFavorite=Suosikit
+CaptionSubBrowser=Verkot
+CaptionCreateNet=Yksityiset verkot
+CaptionAccount=Tili
+SplashPleaseWait=Odota...
+SplashLoaddata=Ladataan tietoja...
+SplashReset=Nollaa...
+SplashConfig=Asetuksia säädellään...
+SplashLoading=Ladataan...
+SplashConnecting=Yhdistetään...
+SplashVersion=Tarkistetaan versiota...
+SplashSafe=Turvaa yhteyttä...
+SplashUPnP=Yritetään avata UPnP porttia...
+SplashAuth=Todentaa...
+SplashAdatperset=Asettaa sovitinta...
+SplashAdapterinit=Valmistelee sovitinta...
+SplashAdapterstart=Käynnistää sovitinta...
+SplashAdapterchkprim=Tarkistaa sovittimen prioriteettia...
+SplashAdapterchkbc=Tarkistaa sovittimen lähetystä...
+SplashAdapterchkstop=Tarkistaa sovittimen pysäyttämistä...
+SplashFinalize=Viimeistelee...
+SplashServiceinit=Alustetaan Tunngle palvelua...
+SplashServicecontact=Yhdistetään Tunngle palveluun...
+SplashServercontact=Yhdistetään Tunngle palvelimeen...
+SplashConfigurate=Säädetään Tunnglen asetuksia...
+SplashWinSock2=Tarkistetaan verkon konfiguraatiota...
+SplashNetzone=Tarkistetaan verkon sijaintia...
+SearchInWork=Etsintä käynnissä...
+Lobby=Aula
+NetLeft=Lähti verkosta.
+NoIP=Virtuaali IP: -
+ChatJoined=Keskusteluun liitytty onnistuneesti.
+NetJoined=Verkkoon liitytty onnistuneesti.
+LobbyJoined=Aulaan liitytty onnistuneesti.
+FoundNothing=Ei tuloksia!
+NetChangeBegin=Yritetään vaihtaa verkkoa. Odota hetki...
+NetChangeEnd=Verkon vaihto onnistui. Odota hetki...
+NotLoggedIn=Et ole kirjautunut sisään.
+EnterNamePW=Syötä käyttäjätunnus ja salasana.
+MessageSendFail=* Viestiä ei voitu lähettää. *
+MessageSendFlood=* Lähetät viestejä liian nopeasti. Hidasta tahtiasi. *
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Yhteisö
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Etsi verkkoja ja ystäviä
+SpeedButtonCommunity2=Viimeiseen aktiiviseen välilehteen
+SpeedButtonMessenger=Viestitin
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Etsi
+MenuItemNetFavorite=Suosikit
+MenuItemNetCreate=Luo
+MenuItemTunnglelobby=Tunngle aula
+MenuItemEventplaner=Tapahtuma suunnittelija
+MenuItemSounds=Äänet
+MenuItemSkins2=Ulkoasut
+MenuItemPrivacylists=Estolista
+MenuItemConfiguration=Asetukset
+MenuItemAbout=Tietoja Tunnglesta
+MenuItemTrayOpen=Avaa
+MenuItemTrayClose=Sulje
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Ilmoitukset
+MenuItemAddContact=Lisää kaverilistalle
+MenuItemAddBlacklist=Lisää estolistalle
+MenuItemEditBlacklist=Muokkaa estolistaa
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Lähetä
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Keskustelu:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Taaksepäin
+ButtonForward=Eteenpäin >>
+ButtonActualize=Päivitä
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nimi
+ListViewNet-1=Verkossa
+ListViewNet-2=Lajityyppi
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=lisää suosikkeihin
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-2=Lajityyppi
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Lisää kirjanmerkkeihin
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Taaksepäin
+ButtonForward=Eteenpäin >>
+ButtonActualize=Päivitä
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nimi
+ListViewNet-1=Verkossa
+ListViewNet-2=Lajityyppi
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Poista suosikki
+MenuItemSortFavorite=Järjestä kirjanmerkit
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Päivitä
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nimi
+ListViewNet-2=Lajityyppi
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Poista kirjanmerkki
+MenuItemSortFavorite=Järjestä kirjanmerkit
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Sieppaa lähetykset jokaisesta liittymästä
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Avattu portti
+CheckRadioBoxUPnP=Käytä UPnP:tä
+CheckRadioBoxTCActive=Päällä
+CheckRadioBoxLog=Verkkotapahtumien tallennus
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Huom!\r\nNormaalisti pois päältä.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Ota käyttöön
+ButtonCancel=Peruuta
+ButtonTest=Testaa
+ButtonDefault=Oletus asetukset
+ButtonWizard=Velho
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Käyttöliittymä
+GroupBoxNetconfig=Verkko
+GroupBoxRouterconfig=Reititin
+GroupBoxTrafficcontroller=Tietoliikenteen valvoja
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Kieli
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Varoitus! Käynnistä Tunngle uudestaan jotta uudet asetukset tulevat voimaan!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle etsintä
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Piilota täydet verkot
+CheckRadioBoxEmpty=Piilota tyhjät verkot
+CheckRadioBoxPassword=Piilota salasanalla suojatut verkot
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Etsi suodattimia
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Etsi suodattimia >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Taaksepäin
+ButtonForward=Eteenpäin >>
+ButtonActualize=Päivitä
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Nimi
+ListViewResults-1=Verkossa
+ListViewResults-2=Lajityyppi
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Ilmoitukset
+MenuItemAddContact=Lisää kaverilistaan
+MenuItemAddBlacklist=Lisää estolistaan
+MenuItemEditBlacklist=Muokkaa estolistaa
+MenuItemSortNicks=Järjestä nimikkeet
+MenuItemShowProfile=Näytä profiili
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Lähetä
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Keskustelu:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Käytä
+ButtonCancel=Peruuta
+ButtonFind=Etsi
+ButtonExport=Vie...
+ButtonImport=Tuo...
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Nimimerkki
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Etsi
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Globaali estolista
+StdLabelChatmessages=Keskustelu estolista
+StdLabelName=Nimi
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Poista
+MenuItemDeleteChat=Poista
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Käytä
+ButtonCancel=Peruuta
+ButtonDownload=Lataa lisää ulkoasuja
+ButtonDefault=Tunnglen oletus ulkoasu
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Esikatselu
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Nimi
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Tekstikenttä
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Syötekenttä
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Valintaruutu
+CheckRadioBox2=Valintaruutu
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Käytä
+ButtonCancel=Peruuta
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Salli äänet
+CheckRadioBoxStart=Käynnistys
+CheckRadioBoxLogin=Kirjaudu sisään
+CheckRadioBoxLeave=Tunnglen käyttäjä poistuu verkosta
+CheckRadioBoxJoin=Tunnglen käyttäjä liittyy verkkoon
+CheckRadioBoxReceive=Viesti vastaanotettu
+CheckRadioBoxQuit=Sulkeminen
+CheckRadioBoxSend=Viesti lähetettiin
+CheckRadioBoxKey=Keskustelukentän näppäinpainallus
+CheckRadioBoxDirectopen=Uusi keskutelu ikkuna
+CheckRadioBoxDirectmessage=Keskustelu viesti vastaanotettu
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Selain
+ButtonFavorite=Suosikit
+ButtonQuicklaunch=Pika-aloitus
+ButtonBetainfo=Beetatiedot
+ButtonForum=Foorumi
+ButtonEventplaner=Tapahtuma suunnittelija
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Edellinen
+StatusPanelForward=Seuraava
+StatusPanelStop=Pysäytä
+StatusPanelReload=Päivitä
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Ilmoitukset
+MenuItemAddContact=Lisää kaverilistaan
+MenuItemAddBlacklist=Lisää estolistaan
+MenuItemEditBlacklist=Muokkaa estolistaa
+MenuItemCopyIP=Kopioi IP leikepöydälle
+MenuItemShowProfile=Näytä profiili
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Lähetä
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Keskustelu:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Sulje
+[FormAbout-Infos]
+Caption=Tietoja Tunnglesta
+[FormLogin-Infos]
+Caption=Kirjaudu sisään
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Kirjaudu sisään
+ButtonCancel=Peruuta
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Käyttäjätunnus:
+LabelPassword=Salasana:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Muista minut
+CheckRadioBoxAuto=Kirjaudu automaattisesti
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Rekisteröi ilmainen Tunngle tili
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Peruuta
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Lähetä
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Keskustelu:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Lisää ryhmä
+MenuItemContactAdd=Lisää yhteyshenkilö
+MenuItemContactHideOffline2=Piiloita poissaolevat
+MenuItemRights=Käyttöoikeudet
+MenuItemTunngleShares=Tunngle jaot
+MenuItemContactInfo=Yhteyshenkilö tiedot
+MenuItemContactAlert=Yhteyshenkilö varoitus
+MenuItemContactNote=Yhteyshenkilö huomio
+MenuItemReadAwayMessage=Lue poissaolo viesti
+MenuItemContactRename=Uudelleennimeä yhteyshenkilö
+MenuItemContactDelete=Poista yhteyshenkilö
+MenuItemMoveToGroup=Siirrä ryhmän sisällä
+MenuItemContactHideOffline3=Piiloita poissaolevat
+MenuItemMessage=Suora keskustelu
+MenuItemRights2=Käyttöoikeudet
+MenuItemTunngleShares2=Tunngle jaot
+MenuItemGroupRename=Nimeä ryhmä uudelleen
+MenuItemGroupDelete=Poista ryhmä
+MenuItemGroupExpandCollapse=Laajenna/Tiivistä ryhmä
+MenuItemContactHideOffline=Piiloita poissaolevat
+MenuItemMain=Valikko
+MenuItemAddContact=Lisää yhteyshenkilö
+MenuItemInNetwork=Verkon tiedot
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Peruuta
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Tiedosto
+ListViewLanguage-1=Kieli
+ListViewLanguage-2=Tekijä
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Jatka
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Valitse Tunnglen kieli.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Nimi
+ListViewAdapter-1=IP
+ListViewAdapter-2=Laitteen nimi
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Jatka
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Valitse Tunnglen kieli.

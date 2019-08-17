@@ -1,0 +1,587 @@
+
+[Header]
+Author=Szerzõ (Community)
+Date=2014.12.19
+Language=Hungarian
+CharSet=DEFAULT_CHARSET
+PrimLangID=14
+CodePage=1250
+[Global-Ressource]
+MI_MINCAPTION=&Kis méret
+MI_MAXCAPTION=Teljes &méret
+MI_CLOSECAPTION=Be&zárás
+MI_RESTORECAPTION=&Elõzõ méret
+MI_MINTOTRAYCAPTION=Kis méret a &tálcára
+MI_ROLLUPCAPTION=Fel&gördít
+MINBUTTON_HINT=Kis méret
+MAXBUTTON_HINT=Teljes méret
+CLOSEBUTTON_HINT=Bezárás
+TRAYBUTTON_HINT=Kis méret a tálcára
+ROLLUPBUTTON_HINT=Felgördít
+MENUBUTTON_HINT=Rendszer menü
+RESTORE_HINT=Visszaállít
+EDIT_UNDO=Visszavon
+EDIT_COPY=Másolás
+EDIT_CUT=Kivágás
+EDIT_PASTE=Beillesztés
+EDIT_DELETE=Törlés
+EDIT_SELECTALL=Összes kijelölése
+MSG_BTN_YES=&Igen
+MSG_BTN_NO=&Nem
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Mégsem
+MSG_BTN_ABORT=Megszakít
+MSG_BTN_RETRY=Újra
+MSG_BTN_IGNORE=Mellõz
+MSG_BTN_ALL=&Mind
+MSG_BTN_NOTOALL=Egyike&t sem
+MSG_BTN_YESTOALL=Min&det
+MSG_BTN_HELP=&Súgó
+MSG_BTN_OPEN=Meg&nyitás
+MSG_BTN_SAVE=&Mentés
+MSG_BTN_CLOSE=Bezár
+MSG_BTN_BACK_HINT=Vissza a legutoljára látogatott mappához
+MSG_BTN_UP_HINT=Egy szinttel feljebb
+MSG_BTN_NEWFOLDER_HINT=Új mappa létrehozása
+MSG_BTN_VIEWMENU_HINT=Menü
+MSG_BTN_STRETCH_HINT=Kép nyújtása
+MSG_FILENAME=Fájl neve:
+MSG_FILETYPE=Fájl típusa:
+MSG_NEWFOLDER=Új mappa
+MSG_LV_DETAILS=Részletek
+MSG_LV_ICON=Mozaik
+MSG_LV_SMALLICON=Kis ikonok
+MSG_LV_LIST=Lista
+MSG_PREVIEWSKIN=Elõnézet
+MSG_PREVIEWBUTTON=Gomb
+MSG_OVERWRITE=Felülírod a régi fájlt?
+MSG_CAP_WARNING=Figyelmeztetés
+MSG_CAP_ERROR=Hiba
+MSG_CAP_INFORMATION=Információ
+MSG_CAP_CONFIRM=Megerõsítés
+MSG_CAP_SHOWFLAG=Ne mutassa újra
+CALC_CAP=Számológép
+ERROR=Hiba
+COLORGRID_CAP=Alap színek
+CUSTOMCOLORGRID_CAP=Egyéni színek
+ADDCUSTOMCOLORBUTTON_CAP=Hozzáadás az egyéni színekhez
+FONTDLG_COLOR=Szín:
+FONTDLG_NAME=Név:
+FONTDLG_SIZE=Méret:
+FONTDLG_HEIGHT=Magasság:
+FONTDLG_EXAMPLE=Példa:
+FONTDLG_STYLE=Stílus:
+FONTDLG_SCRIPT=Szkript:
+DB_DELETE_QUESTION=Biztosan törölni akarod ezt a rekordot?
+DB_MULTIPLEDELETE_QUESTION=Az összes kijelölt rekord törlése?
+NODISKINDRIVE=Nincs lemez a meghajtóban vagy a meghajtó nem elérhetõ.
+NOVALIDDRIVEID=Drive ID nem valós
+FLV_NAME=Név
+FLV_SIZE=Méret
+FLV_TYPE=Típus
+FLV_LOOKIN=Kulcsszavak:
+FLV_MODIFIED=Módosítva
+FLV_ATTRIBUTES=Attribútumok
+FLV_DISKSIZE=Foglalt tárhely
+FLV_FREESPACE=Szabad tárhely
+PRNDLG_NAME=Név:
+PRNDLG_PRINTER=Nyomtató
+PRNDLG_PROPERTIES=Tulajdonságok...
+PRNDLG_TYPE=Típus:
+PRNDLG_STATUS=Állapot:
+PRNDLG_WHERE=Hely:
+PRNDLG_COMMENT=Megjegyzés:
+PRNDLG_PRINTRANGE=Nyomtatási tartomány
+PRNDLG_COPIES=Nyomatok
+PRNDLG_NUMCOPIES=Példányszám:
+PRNDLG_COLLATE=Leválogatás
+PRNDLG_ALL=Minden oldal
+PRNDLG_PAGES=Oldalak
+PRNDLG_SELECTION=Kijelölt szöveg
+PRNDLG_PRINTTOFILE=Nyomtatás fájlba
+PRNDLG_FROM=innentõl
+PRNDLG_TO=idáig:
+PRNDLG_ORIENTATION=Tájolás
+PRNDLG_PAPER=Papírméret
+PRNDLG_PORTRAIT=Álló
+PRNDLG_LANDSCAPE=Fekvõ
+PRNDLG_SOURCE=Papírforrás:
+PRNDLG_SIZE=Méret:
+PRNDLG_MARGINS=Margók (milliméterben)
+PRNDLG_MARGINS_INCHES=Margók (hüvelykben)
+PRNDLG_LEFT=Bal:
+PRNDLG_RIGHT=Jobb:
+PRNDLG_TOP=Felsõ:
+PRNDLG_BOTTOM=Alsó:
+PRNDLG_WARNING=Nincs nyomtató telepítve!
+FIND_NEXT=Következõ
+FIND_WHAT=Keresendõ:
+FIND_DIRECTION=Irány
+FIND_DIRECTIONUP=Vissza
+FIND_DIRECTIONDOWN=Elõre
+FIND_MATCH_CASE=Kis- és nagybetûk különböznek
+FIND_MATCH_WHOLE_WORD_ONLY=Teljes szóval megegyezõ
+FIND_REPLACE_WITH=Csere erre:
+FIND_REPLACE=Csere
+FIND_REPLACE_All=Összes cseréje
+FIND_REPLACE_CLOSE=Bezárás
+MORECOLORS=További színek...
+AUTOCOLOR=Automatikus
+CUSTOMCOLOR=Egyéni...
+[Global-MessageBox-Information]
+Select=Elõször válassz ki egy felhasználót.
+Controller=A ForgalomIrányító a jelenlegi verzióban le van tiltva.
+EnterSearchText=A kereséshez írj be valamit!
+EnterSearchUser=Kérem a keresendõ szöveget.
+ContactDeny=%s elutasította a barátnak jelölést.
+ContactAccept=%s elfogadta a barátnak jelölést.
+ConnectionLost=A kapcsolat megszakadt.\r\nHibakód: %s
+ConnectionProblem=Gondok vannak a kapcsolattal.\r\nA routered NAT beállítása a Tunngle-t ellehetetlenítheti,\r\nhogy P2P kapcsolatot hozzon létre más felhasználókkal.\r\nMegtekinted a súgót?
+PortReachable=A kiválasztott port elérhetõ és adatfogadásra kész.
+CreateNet=Ez a funkció még nem elérhetõ. \r\nKérjük írd be a közösségi fórumba a javaslataidat.\r\nMeg szeretnéd most nyitni a fórumot?
+AdapterPrim=A Tunngle hálózati adapter nincsen sorban elõre állítva. (0)\r\nÍgy nem fogsz egy szervert sem találni a játékaid LAN keresõjében.
+EnterNamePW=Írj be egy felhasználónevet és jelszót.
+NewVersion=Tunngle új verziója elérhetõ,kivánja-e letölteni?
+FriendNetwork=%s benne van a "%s" hálózatban.\r\nKíván-e csatlakozni?
+FriendNoNetwork=%s nemt található a hálózatban.
+Close=Tunngle most kikapcsolódik.
+LSPBackup=A LSP biztonsági mentésfájl sikeresen alkotott.\r\n%s
+LSPOK=%d LSP problémak megjavítva.
+LastTab=Az utolsó fül nem leheteséges becsukni.
+[Global-MessageBox-Warning]
+PortUnreachable=A kiválasztott port nem átjárható. \r\nApróság: Ha a Tunngle szokott mûködni ezekkel a beállításokkal, hagyd figyelmen kívül ezt a hibát.
+UPnP=Nem sikerült a port átirányítást beállítani az UPnP-n keresztül.
+ServerUnreachable=Nem sikerült kapcsolódni a Tunngle szerverhez. \r\nIndítsam el a Tunnglét azért?
+Offline=Nem sikerült kapcsolódni. A kijelölt személy nincs bejelentkezve.
+ConnectionFail=Nem sikerült kapcsolódni.
+Messenger=Figyelem!\r\nMivel a privát üzenõ még fejlesztés alatt van,\r\na szövegeinek fordítása még nincs kész.\r\nA Tunngle következõ verziójában ez orvosolva lesz.
+WriteRegistry=A konfigurúció nem volt lehetséges menteni a nyilvántartásba.\r\nLépj kapcsolatba az egyik adminiztrátorral.
+SelectLanguage=Kérem válasszon ki elõször egy nyelvet.
+SelectAdapter=Kérem válasszon ki elõször egy adaptert.
+[Global-MessageBox-Question]
+Contact=Biztosan hozzáadod %s-t a barátaid listájához?
+Delete=Biztosan leveszed %s-t a feketelistádról?
+ChangeNet=Biztosan kilépsz a "%s" hálózatból és belépsz ide: "%s"?
+CloseChat=Biztosan bezárod a "%s" csevegéslapot?
+CloseLobby=Biztosan kilépsz a %s-ból?
+CloseTab=Biztosan bezárod a "%s" lapot?
+AddContact=%s hozzá akar adni téged az ismerõseihez. \r\nEngedélyezed?
+Quit=Biztosan ki akarsz lépni?
+DelFavorite=Biztosan ki akarod törölni %s?
+NewVersion=%s Tunngle új verziója elérhetõ,\r\nKivánja-e letölteni?
+Adapter=A következõ Tunngle adaptert találtuk.\r\n%s\r\nAkarod-e társítani ezt az adaptert Tunngle-val?
+Language=Érzékelt nyelv: "%$" . Kívánja ezt használni?
+LanguageID=A választott nyelv nem egyezik az ezen a számítógépen érzékeltel. Folytatja?\r\nThe selected language does not match the OS's language. Continue anyway?
+LanguageCP=A jelenlegi redszer Kódlapja nem egyezik a kiválasztott nyelvi fájlhoz szükségessel. \r\nNémely karakter nem lesz megfelelõen megjelenítve. \r\nMindenképp folytatja?
+[Global-MessageBox-Error]
+RunOnce=Egyszerre csak egy Tunngle futhat.
+NotInstalled=A Tunngle nincs rendesen feltelepítve.
+NoAdapter=Nem találom a Tunngle hálózati adaptert!
+AccountVerify=Nem sikerült belépni.\r\nA felhasználói fiókod nincs aktiválva.
+AccountBann=Nem sikerült belépni.\r\nA felhasználói fiókod le van tiltva.
+ConnectionProblem=Kapcsolódási hiba!\r\nNem sikerült UDP kapcsolatot létrehozni a szerverrel.\r\nA tûzfalad lehet a ludas.\r\nMegtekinted a súgót?
+NATProblem=NAT hiba!\r\nA Routered NAT beállítása megakadályozza a Tunnglét, hogy rendesen mûködjön.\r\nBe kell állítanod a Port Átirányítást.\r\nMegtekinted a súgót?
+ConnectionProblemInfo=Kapcsolódási hiba!\r\nNem sikerült UDP kapcsolatot létrehozni a szerverrel.\r\nA tûzfalad lehet a ludas.\r\nMegtekinted a súgót?
+MasterServer=Nem lehet a Tunngle fõszerverhez kapcsolódni.
+Version=A kliensed elavult.\r\nFrissítesz most?
+Safe=A kapcsolat nem biztonságos.
+AuthFail=Sikertelen belépés.\r\nEllenõrizd a felhasználói nevedet és a jelszót.\r\n(Ne keverd össze a felhasználói jelszavadat a fiókjelszavaddal!)\r\nMegtekinted a súgót?
+AdapterInit=Nem sikerült elindítani a Tunngle hálózati adaptert!
+UDPSocket=UDP socket hiba!\r\nNem sikerült UDP socketet létrehozni.\r\nA tûzfalad lehet a ludas.\r\nMegtekinted a súgót?
+AdapterPrim1=A Tunngle hálózati adapter nincsen sorban elõre állítva. (1)\r\nÍgy nem fogsz egy szervert sem találni a játékaid LAN keresõjében.\r\nMegtekinted a súgót?
+AdapterPrim2=A Tunngle hálózati adapter nincsen sorban elõre állítva. (2)\r\nÍgy nem fogsz egy szervert sem találni a játékaid LAN keresõjében.\r\nMegtekinted a súgót?
+ServiceFound=A Tunngle szolgáltatás nem található!
+ServiceContact=Nem lehet kommunikálni a Tunngle szolgáltatással!
+CryptFail=A titkosító adatbázist nem sikerült betölteni!
+PortFail=A választott port nem alkalmas továbbításra (forwarding).\r\nÍrjon be egy másikat!
+WinSock2=A Winsock nem elérhetõ. Hálózati\r\nbeállítások nem lettek ellenõrizve.
+LSPProblems=%d LSP hiba észlelve! \r\nJavítás most?
+LSPBackup=Hiba az LSP fájl biztonsági másolatának\r\nkészítésekor! Szeretné megszakítani?
+LSPSafePoint=Hiba az LSP visszaállítási pont\n\nlétrehozásakor! Megszakítja?
+LSPRepair=%s LSP problémák nem volt lehetséges megjavítani. \r\nAkarja-e az öreg állapotját visszaálítani?
+LSPRedo=Hibás volt a Visszahelyezés
+[Global-Text-Dynamic]
+Loading=%s betöltése...
+FromTo=%d - %d - %d
+LastAct=Utolsó frissítés: %s
+Lobby=Elõtér (%d)
+ChatJoined=<%s "%s" belépett a csevegésbe.>
+NetJoined=<%s "%s" belépett a hálózatba.>
+LobbyJoined=<%s "%s" belépett az elõtérbe.>
+ChatLeft=<%s "%s" elhagyta a csevegést.>
+NetLeft=<%s "%s" elhagyta a hálózatot.>
+LobbyLeft=<%s "%s" elhagyta az elõteret.>
+ConnectionDeny1=* Nem tudsz kapcsolódni hozzá, mert %s feketelistáján vagy.
+ConnectionDeny2=* Nem tudsz kapcsolódni hozzá, mert %s a feketelistádon van.
+ConnectionLost=[ %s Megszûnt a kapcsolat a Tunngle szerverrel! ]
+VirtualIP=Virtuális IP címed: %s
+LoginNick=Bejelentkeztél, mint: %s
+Version=Verziószám: %s
+Connecting=Kapcsolódás a következõhöz: %s
+ChatMe=Én: %s
+ChatDeny=Nem volt lehetséges megkapni az üzenetet %s ,mert a fekete listádon szerepel.
+AddBlacklist=Mennyi ideig legyen %s fekete listán?
+PingMs=Ping: %s ms
+ChannelMode=Típus: %s
+Ports=Port: %s
+WaitingQueue=Várósor %d/%d
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle Hírek
+CaptionStart=Tunngle Kezdõoldal
+CaptionStartPage=Tunnngle Kezdete
+CaptionQuickstart=Elsõ lépések
+CaptionSupport=Támogatás
+CaptionBetainfo=Béta infó
+CaptionTunnglefaq=Tunngle GYIK
+CaptionDownloadarea=Letöltések
+CaptionResults=Eredmények...
+CaptionChat=Csevegés
+CaptionLobby=Elõtér
+CaptionNetwork=Hálózat
+CaptionTunngleforum=Tunngle Fórum
+CaptionEventplaner=Játékszervezõ
+CaptionForumfaq=Fórum GYIK
+CaptionForum=Fórum
+CaptionTunngleskins=Tunngle sablonok
+CaptionSearch=Keresés
+CaptionBrowser=Böngészõ
+CaptionSkinconfig=Sablonbeállítások
+CaptionSoundconfig=Hangok
+CaptionPrivacylists=Feketelista
+CaptionConfiguration=Beállítások
+CaptionFavorite=Könyvjelzõk
+CaptionSubBrowser=Hálózatok
+SplashPleaseWait=Türelem...
+SplashLoaddata=Adatok betöltése...
+SplashReset=Újraindítás...
+SplashConfig=Konfigurálás...
+SplashLoading=Betöltés...
+SplashConnecting=Kapcsolódás...
+SplashVersion=Verziószám ellenõrzés...
+SplashSafe=Kapcsolat titkosítása...
+SplashUPnP=UPnP-n keresztüli port átirányítás...
+SplashAuth=Hitelesítés...
+SplashAdatperset=Hálózati adapter beállítása...
+SplashAdapterinit=Hálózati adapter bekapcsolása...
+SplashAdapterstart=Hálózati adapter indítása...
+SplashAdapterchkprim=Adapter sorrendjének ellenõrzése...
+SplashAdapterchkbc=Adapter adatküldésének ellenõrzése...
+SplashAdapterchkstop=Adapter leállításának ellenõrzése...
+SplashFinalize=Véglegesítés...
+SplashServiceinit=Tunngle szolgáltatás indítása...
+SplashServicecontact=Kapcsolódás a Tunngle szolgáltatáshoz...
+SplashServercontact=Kapcsolódás a Tunngle szerverhez...
+SplashConfigurate=Tunngle beállítása..
+SplashWinSock2=Hálózati beállítás ellenõrzés..
+SplashNetzone=Hálózati helyzet ellenõrzés..
+SearchInWork=Keresés folyamatban...
+Lobby=Elõszoba
+NetLeft=Elhagytad a hálózatot.
+NoIP=Virtuális IP címed: -
+ChatJoined=Kapcsolódtál a csevegéshez.
+NetJoined=Kapcsolódtál a hálózathoz.
+LobbyJoined=Kapcsolódtál az elõtérhez.
+FoundNothing=Nem találtam semmit!
+NetChangeBegin=Hálózatváltás megkísérlése. Türelem...
+NetChangeEnd=Hálózatváltás sikeres. Türelem...
+NotLoggedIn=Nem vagy bejelentkezve.
+EnterNamePW=Írj be egy felhasználónevet és jelszót.
+MessageSendFail=* Üzenet elküldése sikertelen. *
+MessageSendFlood=Gyorsan küldöd az üzeneteket.Kérlek lassíts lr.
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Közösség
+SpeedButtonCommunity2=«
+SpeedButtonMessenger=:-)
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Hálózatok és barátok keresése
+SpeedButtonCommunity2=A legutóbb használt lap megnyitása
+SpeedButtonMessenger=Privát üzenõ
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Kezdõlap
+ButtonQABetaInfo=Beta Info
+ButtonQAForum=Fórum
+ButtonQAEventPlanner=Esemény Tervezõ
+ButtonQALobby=Tunngle elõterem
+ButtonQAFavorites=Könyvjelzõk
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Hálózat Felfedezõ
+ExPanelFindnetwork=Hálózat Keresés
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Keresés
+MenuItemNetFavorite=Könyvjelzõk
+MenuItemNetCreate=Létrehozás
+MenuItemTunnglelobby=Tunngle Elõtér
+MenuItemEventplaner=Játékszervezõ
+MenuItemSounds=Hangok
+MenuItemSkins2=Sablonok
+MenuItemPrivacylists=Feketelista
+MenuItemConfiguration=Beállítások
+MenuItemAbout=A Tunngle-rõl
+MenuItemTrayOpen=Kinyitás
+MenuItemTrayClose=Becsukás
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Értesítések
+MenuItemAddContact=Hozzáadás a barátok listájához
+MenuItemAddBlacklist=Hozzáadás a feketelistához
+MenuItemEditBlacklist=Feketelista szerkesztése
+MenuItemSortNicks=Rendezés
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Küldés
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Csevegés
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Vissza
+ButtonForward=Elõre >>
+ButtonActualize=Frissítés
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Név
+ListViewNet-1=Felhasználók
+ListViewNet-2=Kategória
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Hozzáadás a Könyvjelzõkhöz 
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Frissítés
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Név
+ListViewNet-1=Online
+ListViewNet-2=Általános
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Hozzáadás a Könyvjelzõkhöz 
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<<Vissza
+ButtonForward=Elõre>>
+ButtonActualize=Frissítés
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Név
+ListViewNet-1=Online
+ListViewNet-2=Általános
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Eltávolítás a Könyvjelzõktöl
+MenuItemSortFavorite=Könyvjelzõk rendezése
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Frissítés
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Név
+ListViewNet-1=Online
+ListViewNet-2=Általános
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Eltávolítás a Könyvjelzõktöl
+MenuItemSortFavorite=Könyvjelzõk rendezése
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Az összes hálózati eszköz forgalmát figyeli
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Átirányított port
+CheckRadioBoxUPnP=UPnP használata
+CheckRadioBoxTCActive=Bekapcsolva
+CheckRadioBoxSignature=Háló Aláírás
+CheckRadioBoxLog=Hálozat bejelentkezés
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Figyelem!\r\nAlapállapotban ki van kapcsolva.
+CheckRadioBoxDNS=Bizonyos IP címet kérõ játékoknál használhatod a felhasználónevet is azonosításra.
+CheckRadioBoxPort=Ezt a portot állítsd be a routereden UDP-re.
+CheckRadioBoxUPnP=Ha a routered támogatja, automatikus port átirányítás.
+CheckRadioBoxTCActive=A ForgalomIrányító a Tunngle által lefoglalt sávszélességedért felelõs.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Alkalmaz
+ButtonCancel=Mégse
+ButtonTest=Teszt
+ButtonDefault=Alapbeállítások
+ButtonWizard=Varázsló
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Felhasználói felület
+GroupBoxNetconfig=Hálózat
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=ForgalomIrányító
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Nyelv
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Figyelem! A változások érvényesítéséhez indítsd újra a Tunngle-t!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Keresés
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Tele hálózatok elrejtése
+CheckRadioBoxEmpty=Üres hálózatok elrejtése
+CheckRadioBoxPassword=Jelszóvédett hálózatok elrejtése
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Keresési feltételek
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Speciális >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Vissza
+ButtonForward=Elõre >>
+ButtonActualize=Frissítés
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Név
+ListViewResults-1=Felhasználók
+ListViewResults-2=Kategória
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Könyvjelzõkhöz ad
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Értesítések
+MenuItemAddContact=Hozzáadás a barátok listájához
+MenuItemAddBlacklist=Hozzáadás a feketelistához
+MenuItemEditBlacklist=Feketelista szerkesztése
+MenuItemSortNicks=Rendezés
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Küldés
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Üzenet:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Alkalmaz
+ButtonCancel=Mégse
+ButtonFind=Keresés
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Felhasználó
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Keresés
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Globális feketelista
+StdLabelChatmessages=Csevegés feketelista
+StdLabelName=Név
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Töröl
+MenuItemDeleteChat=Töröl
+MenuItemAddBlacklist=Feketelistára tesz
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Alkalmaz
+ButtonCancel=Mégse
+ButtonDownload=További sablonok letöltése
+ButtonDefault=Alapértelmezett Tunngle sablon
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Elõnézet
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Felirat
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Szövegmezõ
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Beviteli mezõ
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Jelölõnégyzet
+CheckRadioBox2=Bejelölt jelölõnégyzet
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Alkalmaz
+ButtonCancel=Mégse
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Hangok engedélyezése
+CheckRadioBoxStart=Indítás
+CheckRadioBoxLogin=Bejelentkezés
+CheckRadioBoxLeave=Egy felhasználó elhagyja a hálózatot
+CheckRadioBoxJoin=Egy felhasználó belép a hálózatba
+CheckRadioBoxReceive=Üzenetet kaptál
+CheckRadioBoxQuit=Kilépés
+CheckRadioBoxSend=Üzenet elküldve
+CheckRadioBoxKey=Csevegés ablakban gépelés hangja
+CheckRadioBoxDirectopen=Új privát üzenet ablak nyitása
+CheckRadioBoxDirectmessage=Privát üzenet érkezett
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Böngészõ
+ButtonFavorite=Könyvjelzõk
+ButtonQuicklaunch=Elsõ lépések
+ButtonBetainfo=Béta infó
+ButtonForum=Fórum
+ButtonEventplaner=Esemény Tervezõ
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Vissza
+StatusPanelForward=Elõre
+StatusPanelStop=Leállítás
+StatusPanelReload=Frissítés
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Vissza
+StatusPanelForward=Továbbít
+StatusPanelStop=Stop
+StatusPanelReload=Frissít
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Értesítések
+MenuItemAddContact=Hozzáadás a barátok listájához
+MenuItemAddBlacklist=Hozzáadás a feketelistához
+MenuItemEditBlacklist=Feketelista szerkesztése
+MenuItemCopyIP=IP cím a vágólapra
+MenuItemSortNicks=Rendezés
+MenuItemConfig=Konfigurál
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Küldés
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Üzenet:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Bezár
+[FormAbout-Infos]
+Caption=A Tunngle névjegye
+[FormLogin-Infos]
+Caption=Bejelentkezés
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Belépés
+ButtonCancel=Mégsem
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Felhasználónév:
+LabelPassword=Jelszó
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Emlékezzen rám
+CheckRadioBoxAuto=Automatikus belépés
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Ingyenes regisztráció a Tunngle-re
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Mégsem
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Küldés
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Üzenet:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Csoport hozzáadása
+MenuItemContactAdd=Fehasználó hozzáadása
+MenuItemContactHideOffline2=Rejtse el, aki offline
+MenuItemRights=Jogosultságok
+MenuItemTunngleShares=Tunngle fájlmegosztás
+MenuItemContactInfo=Kapcsolat adatai
+MenuItemContactAlert=Kapcsolat riasztás
+MenuItemContactNote=Kapcsolat megjegyzések
+MenuItemReadAwayMessage=Távol üzenet megjelenítése
+MenuItemContactRename=Kapcsolat átnevezése
+MenuItemContactDelete=Kapcsolat törlése
+MenuItemMoveToGroup=Áthelyez
+MenuItemContactHideOffline3=Rejtse el, aki offline
+MenuItemMessage=Csevegés
+MenuItemRights2=Jogosultságok
+MenuItemTunngleShares2=Tunngle fájlmegosztás
+MenuItemGroupRename=Csoport átnevezése
+MenuItemGroupDelete=Csoport törlése
+MenuItemGroupExpandCollapse=Csoport kinyitás-becsukás
+MenuItemContactHideOffline=Rejtse el, aki offline
+MenuItemMain=M&enü
+MenuItemAddContact=Felhasználó hozzáadása
+MenuItemInNetwork=Hálózat Információ
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Mégsem
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Fájl
+ListViewLanguage-1=Nyelv
+ListViewLanguage-2=Szervezõ
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Folytatás
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Kérem válassza ki a Tunngle nyelvét.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Név
+ListViewAdapter-1=IP
+ListViewAdapter-2=Eszköz neve
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Folytatás
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Kérem válassza ki a Tunngle adaptert
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Mégse
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Csak csevegés
+CheckRadioBoxComplete=Teljes kitiltás
+CheckRadioBoxHours=Óra
+CheckRadioBoxDate=Lejár:
+CheckRadioBoxInfinite=Örökké
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Mégse
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Kérem a jelszót:

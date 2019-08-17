@@ -1,0 +1,730 @@
+
+[Header]
+Author=tugkan98(Community)
+Date=2014.12.19
+Language=Turkish
+CharSet=DEFAULT_CHARSET
+PrimLangID=31
+CodePage=1254
+[Global-Ressource]
+MI_MINCAPTION=Mi&nimum
+MI_MAXCAPTION=&Ekraný Kapla
+MI_CLOSECAPTION=&Kapat
+MI_RESTORECAPTION=&Geri Yükle
+MI_MINTOTRAYCAPTION=Sistem Tepsisine Küçült
+MI_ROLLUPCAPTION=Yukarý Çek
+MINBUTTON_HINT=Küçült
+MAXBUTTON_HINT=Büyüt
+CLOSEBUTTON_HINT=Kapat
+TRAYBUTTON_HINT=Simgeye küçült
+ROLLUPBUTTON_HINT=Yukarý Çek
+MENUBUTTON_HINT=Sistem Menüsü
+RESTORE_HINT=Geriyükle
+EDIT_UNDO=Geri al
+EDIT_COPY=Kopyala
+EDIT_CUT=Kes
+EDIT_PASTE=Yapýþtýr
+EDIT_DELETE=Sil
+EDIT_SELECTALL=Hepsini seç
+MSG_BTN_YES=&Evet
+MSG_BTN_NO=&Hayýr
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Iptal
+MSG_BTN_ABORT=&Iptal
+MSG_BTN_RETRY=&Tekrar
+MSG_BTN_IGNORE=&Devam
+MSG_BTN_ALL=&Hepsi
+MSG_BTN_NOTOALL=H&epsine hayýr
+MSG_BTN_YESTOALL=&Hepsine evet
+MSG_BTN_HELP=&Yardým
+MSG_BTN_OPEN=&Açmak
+MSG_BTN_SAVE=&Kayýt
+MSG_BTN_CLOSE=Kapat
+MSG_BTN_BACK_HINT=En son dosya
+MSG_BTN_UP_HINT=Yukarý doðru
+MSG_BTN_NEWFOLDER_HINT=Yeni dosya
+MSG_BTN_VIEWMENU_HINT=Mönu'ü göster
+MSG_BTN_STRETCH_HINT=Resimi germek
+MSG_FILENAME=Dosya adý
+MSG_FILETYPE=Dosya tipi
+MSG_NEWFOLDER=Yeni Dosya
+MSG_LV_DETAILS=Ayrýntýlar
+MSG_LV_ICON=Büyük simge
+MSG_LV_SMALLICON=Kücük simge
+MSG_LV_LIST=Liste
+MSG_PREVIEWSKIN=Önizleme
+MSG_PREVIEWBUTTON=Düðme
+MSG_OVERWRITE=Eski dosya'nýn üzerine yazýlsýn mý?
+MSG_CAP_WARNING=Uyarý
+MSG_CAP_ERROR=Hata
+MSG_CAP_INFORMATION=Bilgi
+MSG_CAP_CONFIRM=Onayla
+MSG_CAP_SHOWFLAG=Bu iletiyi tekrar gösterme
+CALC_CAP=Hesap Makinesi
+ERROR=Sorun
+COLORGRID_CAP=Temel renkler
+CUSTOMCOLORGRID_CAP=Özel renkler
+ADDCUSTOMCOLORBUTTON_CAP=Özel renklere ekle
+FONTDLG_COLOR=Renk:
+FONTDLG_NAME=Isim:
+FONTDLG_SIZE=Boyut
+FONTDLG_HEIGHT=Yükseklik:
+FONTDLG_EXAMPLE=Örnek
+FONTDLG_STYLE=Stil:
+FONTDLG_SCRIPT=Komut:
+DB_DELETE_QUESTION=Bu kaydý silmek istediðinize emin misiniz?
+DB_MULTIPLEDELETE_QUESTION=Seçilen tüm kayýtlarý sil?
+NODISKINDRIVE=Sürücünün içerisinde disk yok, ya da sürücü hazýr deðil.
+NOVALIDDRIVEID=Sürücü ID'si geçersiz
+FLV_NAME=Ýsim
+FLV_SIZE=Büyüklük
+FLV_TYPE=Tür
+FLV_LOOKIN=Içine bak:
+FLV_MODIFIED=Deðiþtirilmiþ
+FLV_ATTRIBUTES=Öznitelik
+FLV_DISKSIZE=Disk büyüklüðü
+FLV_FREESPACE=Boþ alan
+PRNDLG_NAME=Ad:
+PRNDLG_PRINTER=Yazýcý
+PRNDLG_PROPERTIES=Özellikler
+PRNDLG_TYPE=Tip:
+PRNDLG_STATUS=Durum
+PRNDLG_WHERE=Nerede:
+PRNDLG_COMMENT=Açýklama:
+PRNDLG_PRINTRANGE=Yazdýrmak arasý
+PRNDLG_COPIES=Kopyalar
+PRNDLG_NUMCOPIES=Kopya sayýsý:
+PRNDLG_COLLATE=Harmanla
+PRNDLG_ALL=Tüm
+PRNDLG_PAGES=Sayfalar
+PRNDLG_SELECTION=Seçim
+PRNDLG_PRINTTOFILE=Dosya'ya yazdýr
+PRNDLG_FROM=Buradan:
+PRNDLG_TO=Buraya:
+PRNDLG_ORIENTATION=Yönlendirme
+PRNDLG_PAPER=Kaðýt
+PRNDLG_PORTRAIT=Düþey
+PRNDLG_LANDSCAPE=Manzara
+PRNDLG_SOURCE=Kaynak:
+PRNDLG_SIZE=Büyülük:
+PRNDLG_MARGINS=Aralik (milimetre)
+PRNDLG_MARGINS_INCHES=Aralýk (inç)
+PRNDLG_LEFT=Sol:
+PRNDLG_RIGHT=Sað:
+PRNDLG_TOP=Üst:
+PRNDLG_BOTTOM=Alt:
+PRNDLG_WARNING=Sisteminizde yazýcý yok!
+FIND_NEXT=Sonrakini bul
+FIND_WHAT=Aranan:
+FIND_DIRECTION=Yön
+FIND_DIRECTIONUP=Yukarý
+FIND_DIRECTIONDOWN=Aþaðý
+FIND_MATCH_CASE=Büyük küçük harfe duyarlý
+FIND_MATCH_WHOLE_WORD_ONLY=Tam sözcükleri eþleþtir
+FIND_REPLACE_WITH=Deðiþtir:
+FIND_REPLACE=Deðiþtir
+[Global-MessageBox-Information]
+Select=Önce birisini (Tunngler) seçmeniz lazým.
+Controller=Trafik denetleyici bu uyarlamada seçilemezdir.
+EnterSearchText=Lütfen bir sözcük yazýn.
+EnterSearchUser=Lütfen arama yapmak için bir kelime yazýn
+ContactDeny=%s arkadaþlýðýnýzý reddetti.
+ContactAccept=%s arkadaþlýk dileðinizi kabul etti.
+ConnectionLost=Baðlantýnýz kayýp'ta bulundu.\r\nCod No.: %s
+ConnectionProblem=Baðlantý sorunu\r\nYönelticiniz (NAT konfigürasyonu) Tunngle'e engel oluyor!\r\nBaðlantý diðer kullanýcýlara kurulamadý.\r\nYardým sitesini açmak istermisiniz?
+PortReachable=Bu seçilmiþ baðlantý noktasý açýktýr ve diyer baðlantýlarý kabul ederdir.
+CreateNet=Bu fonksiyon þimdilik kullanýlamaz.\r\nLütfen yorumunuzu Forum'da yapýnýz.\r\nForum sitesini açmak istermisiniz?
+AdapterPrim=Tunngle að baðdaþtýrýcýsý doðru öncelmemiþtir. (0)\r\nBu Ayarý ile yerel að içinde oyun sunucusu bulamýcaksýnýzdýr.
+EnterNamePW=Lütfen bir kulanýcý adý ve þifre tuþlayýnýz.
+NewVersion=Tunngle %s yeni bir sürümü mevcut ve indirilebilir durumda.
+FriendNetwork=%s þu anda %s aðýnda \r\nBu aða katýlmak ister misiniz?
+FriendNoNetwork=%s bir aða baðlý deðil.
+Close=Tunngle kapatýlýyor
+LSPBackup=LSP yedek dosyasý oluþturuldu.\r\n%s
+LSPOK=%d LSP sorunu çözüldü.
+LastTab=Son sekme kapatýlamýyor
+NetFull=Bu að dolu
+TempNetInfo=Boþ "Basic Aðlar" uzun süre kullanýlmazsa otomatik olarak silinir.
+TempNetDisabled=Að Açmak geçici olarak devre dýþý býrakýlmýþtýr. Lütfen sonra deneyin.
+TempNetLimit=Daha çok að açýlmasýna þuan izin vermiyoruz. Lütfen sonra deneyin.
+TempNetMissing=Seçtiðiniz að bulunmamaktadýr. Lütfen olan bir að seçin veya siz kurun.
+TempNetFull=Seçilen að dolu. Lütfen baþka bir að seçin veya siz kurun.
+TempNetExist=Að zaten var. Lütfen baþka biri isim seçin veya olan bir taneye katýlýn.
+TempNetPassword=Yanlýþ þifre.
+TempNetInvalid=Seçilen isim geçerli deðil. Lütfen baþka bir þey deneyin.
+ConfigAttention=Yeni ayarlarý uygulamak için Tunngle'ý yeniden baþlatýn.
+ProcessSuccess=Operasyon baþarýlý.
+NickChange=Tunngle Kullanýcý Adýnýzý websitemizdeki hesap ayarlarýndan deðiþtirebilirsiniz.\r\nTamam'a bastýðýnýzda hesap ayarlarý sayfasý açýlacaktýr\r\nTunngle'ý yeniden baþlatýn
+[Global-MessageBox-Warning]
+PortUnreachable=Seçilen baðlantý noktasý açýlamýyor\r\nNot:Tunngle sorunsuz çalýþýyorsa, bir þey yapmanýz gerekmez.
+UPnP=UPnP Kullanan bir Port Yönlendirmesi Yapýlmamýþ.
+ServerUnreachable=Tunngle Serveriyle Baðlantý Kurulamadý.\r\nYine de Tunngleyi Açmak Ýstermisiniz?
+Offline=Baðlantý Saðlanamýyor. Seçilen Kiþi Online Deðil.
+ConnectionFail=Baðlantý Saðlanamadý.
+Messenger=Uyarý!\r\nMessenger Hala Yapým Aþamasýnda,\r\Çevirimiz Daha Tam Olarak Bitmedi.\r\nYeni Versiyonumuzda Hatasýz Olarak Gelecektir.
+WriteRegistry=Ayarlarýnýz kayýt defterine kaydedilemiyor.\r\nSistem yöneticinize danýþýn.
+SelectLanguage=Lutfen dil seciniz
+SelectAdapter=Lütfen baðdaþtýrýcýnýzý seçiniz
+NetworkBusy=Bu að þuanda meþguldur.\r\Lütfen baþka að seçiniz
+LoginRequired=Önce giriþ yapmalýsýnýz.
+ConfigAdapter=Að baðdaþtýrýcýnýzý ayarlarý yapýlýrken sorun çýktý.\r\nAðda sorun çýkabilir.
+ProcessFail=Operasyon baþarýsýz.
+NickInvalid=Lakabýnýzda bu karakterler olamaz:
+[Global-MessageBox-Question]
+Contact=%s Adlý Kiþiyi Arkadaþ Listenize Eklemek Ýstediðinize Emin Misiniz?
+Delete=%s Adlý Kiþiyi Karalistenizden Kaldýrmak Ýstediðinize Emin Misiniz?
+ChangeNet="%s" Adlý Aðdan Ayrýlýp "%s" adlý Aða Geçmek Ýstediðinize Emin Misiniz?
+CloseChat=Konuþma Penceresiniz "%s" Kapatmak Ýstediðinize Eminmisiniz?
+CloseLobby=%s lobisinden ayrýlmak istediðinize emin misiniz?
+CloseTab=Bu Sekmeyi Kapatmak Ýstediðinizden %s Eminmisiniz?
+AddContact=%s Sizin Arkadaþ Listesine Ekledi.\r\nKabul Etmek Ýstermisiniz?
+Quit=Çýkmak Ýstediðinizden Emin Misiniz?
+DelFavorite=%s silmek istediðinize emin misiniz?
+NewVersion=Tunngle'ýn yeni bir sürümü çýktý.%s\r\nÝndirmek istiyor musunuz?
+CliQuit=Ayarlarýn çalýþmasý için Tunnge'ýn yeniden baþlatýlmasý gerektir\r\nÞimdi çýkmak isityor musunuz?
+[Global-MessageBox-Error]
+RunOnce=Ayný Anda Sadece 1 Tunngle Çalýþabilir.
+NotInstalled=Tunngle Doðru Olarak Kurulamamýþ.
+NoAdapter=Tunngle Að Baðdaþtýrýcýsý Bulunamadý.
+AccountVerify=Giriþ Baþarýsýz.\r\nHesabýnýz Doðrulanmamýþ.
+AccountBann=Giriþ Baþarýsýz.\r\nHesabýnýz Bloke Edilmiþ.
+ConnectionProblem=Baðlantý Hatasý!\r\nUDP Baðlantýsý Saðlanamadý.\r\nGüvenlik Duvarýnýz Yüzünden Olabilir.\r\nYardým Ýster Misiniz?
+NATProblem=Nat Hatasý!\r\rModeminizin Nat Ayarlarý Tunnglenin Düzgün Çalýþmasý Ýçin Ayarlanmamýs.\r\n Bir Port Yönlendirmesi Yapmanýz Gerekiyor.\r\nYardým Ýster Misiniz?
+ConnectionProblemInfo=Baðlantý Hatasý!\r\n UPD Baðlantýsý Saðlanamadý \r\nGüvenlik Duvarýnýz Yüzünden Olabilir.\r\nYardým Ýster Misiniz?
+MasterServer=Tunngle Sistemine Ulaþýlamýyor.
+Version=Programýnýzý Güncellemek Ýstermisiniz?
+Safe=Baðlantýnýzýn Güvenliði Saðlanamadý.
+AuthFail=Giriþ Baþarýsýz.\n\rLütfen Kullanýcý Adýnýzý ve Þifrenizi Kontrol Ediniz.\r\n(Kullanýcý Adýnýz ile Þifrenizi unutmuþ Olmayasýnýz?)\r\nYardým Ýstermisiniz?
+AdapterInit=Tunngle Að Baðdaþtýrýcýsý ile Ýliþki Kurulamýyor!
+UDPSocket=UDP Soket Hatasý\r\n UDP Soketi Kurulamadý\r\nGüvenlik Duvarýnýz Yüzünden Olabilir.\r\nYardým Ýstermisiniz?
+AdapterPrim1=Tunngle Að Adaptörü Düzgün Olarak Ayarlanamamýþ.(1)\r\mHerhangi Bir Að Oyununu Göremezsiniz.\r\Yardým Ýster Misiniz?
+AdapterPrim2=Tunngle Að Adaptörü Düzgün Olarak Ayarlanamamýþ.(2)\r\nHerhangi Bir Að Oyununu Göremezsiniz.\r\nYardým Ýstermisiniz?
+ServiceFound=Tunngle Servisi Bulunamadý!
+ServiceContact=Tunngle Servisiyle Baðlantý Kurulamadý!
+CryptFail=Kriptolojik Kütüphane Yüklenemedi!
+PortFail=Seçtiðiniz port yönlendirmek için geçerli deðildir. Baþka port seçiniz.
+WrongPassword=Yanlýþ þifre.
+GUIVersionMismatch=Tunngle kurulumunuz bozuktur.
+ProcessFail=Operasyon baþarýsýz.
+ServerUnreachable=Sunucu ulaþýlmaz, lütfen sonra tekrar deneyin.
+[Global-Text-Dynamic]
+Loading=Yükleniyor %s...
+FromTo=%d - %d Tarafýndan %d Yollanan
+LastAct=En Son Güncelleme %s
+Lobby=Lobi (%d)
+ChatJoined=%s >> %s Konuþmaya Katýldý
+NetJoined=%s >> %s Aða Katýldý
+LobbyJoined=%s >> %s Lobiye Baðlandý
+ChatLeft=%s >> %s Konuþmadan Ayrýldý
+NetLeft=%s >> %s Aðdan Ayrýldý
+LobbyLeft=%s >> %s Lobiden Ayrýldý
+ConnectionDeny1=* Onun karalistesinde olduðunuzdan %s kiþisine baðlanýlamadý. *
+ConnectionDeny2=Baðlanýlamaz %s. Çünkü O Sizin Kara Listenizde.
+ConnectionLost=[ %s Baðlantýnýz Düþtü ]
+VirtualIP=Sanal IP %s
+LoginNick=Baðlanma Zamaný: %s
+Version=Versiyon %s
+Connecting=Baðlanma Durumu %s
+ChatMe=Ben: %s
+ChatDeny=* Mesaj %s tarafýndan karþýlanamadý, çünkü o sizin kara listede. *
+AddBlacklist=%s Ne kadar süre kara listede kalsýn?
+WaitingQueue=Sýrada bekleniyor %d/%d
+AddedBlackList=%s kara listeye eklenmiþtir.
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle Bildirimleri
+CaptionStart=Tunngle Ilk Sayfa
+CaptionStartPage=Tunngle Ýlk Sayfa
+CaptionQuickstart=Hýzlý Baþlat
+CaptionSupport=Destek
+CaptionBetainfo=Beta Bilgileri
+CaptionTunnglefaq=Tunngle S.S.S
+CaptionDownloadarea=Dosya Ýndirme Alaný
+CaptionResults=Sonuçlar...
+CaptionChat=Konuþma
+CaptionLobby=Lobi
+CaptionNetwork=Að
+CaptionTunngleforum=Tunngle Forum
+CaptionEventplaner=Takvim Düzenleyicisi
+CaptionForumfaq=Forum S.S.S
+CaptionForum=Forum
+CaptionTunngleskins=Görünümler
+CaptionSearch=Arama
+CaptionBrowser=Ýnternet Gezgini
+CaptionSkinconfig=Görünüm Ayarlarý
+CaptionSoundconfig=Sesler
+CaptionPrivacylists=Karaliste
+CaptionConfiguration=Ayarlar
+CaptionFavorite=Yer imleri
+CaptionSubBrowser=Aðlar
+CaptionCreateNet=Özel Aðlar
+CaptionAccount=Hesap
+SplashPleaseWait=Lütfen Bekleyiniz...
+SplashLoaddata=Veriler Açýlýyor...
+SplashReset=Tekrar Baþlatýlýyor...
+SplashConfig=Ayarlanýyor...
+SplashLoading=Açýlýyor...
+SplashConnecting=Baðlanýlýyor...
+SplashVersion=Versiyon Kontrol Ediliyor...
+SplashSafe=Baðlantý Güvenliði Saðlanýyor...
+SplashUPnP=UPnP Port Yönlendiriliyor...
+SplashAuth=Ýzinler Kontrol Ediliyor...
+SplashAdatperset=Adaptör Ayarlanýyor...
+SplashAdapterinit=Adaptör Hatýrlanýyor...
+SplashAdapterstart=Að Adaptörü Açýlýyor..
+SplashAdapterchkprim=Að Adaptörü Kontrol Ediliyor..
+SplashAdapterchkbc=Að Adaptörü Kontrol Ediliyor..
+SplashAdapterchkstop=Að Adaptörü Kontrol Ediliyor..
+SplashFinalize=Son Ayarlamalar Yapýlýyor...
+SplashServiceinit=Servisler Hatýrlanlama Çalýþýlýyor...
+SplashServicecontact=Server Baðlanýlýyor..
+SplashServercontact=Servere Baðlanýlýyor..
+SplashConfigurate=Tunngle ayarlanýyor...
+SplashWinSock2=Að yapýlandýrýlmasý kontrol ediliyor...
+SplashNetzone=Að lokasyonu kontrol ediliyor...
+SearchInWork=Aranýyor...
+Lobby=Lobi
+NetLeft=Aðý Terket
+NoIP=Sanal IP: -
+ChatJoined=Konuþmaya Giriþ Baþarýlý.
+NetJoined=Aða Giriþ Baþarýlý.
+LobbyJoined=Lobiye Giriþ Baþarýlý.
+FoundNothing=Hiçbirþey Bulunamadý!
+NetChangeBegin=Að Deðiþimi Deneniyor. Bekleyiniz..
+NetChangeEnd=Að Deðiþimi Baþarýlý. Bekleyiniz..
+NotLoggedIn=Hesabýnýzý Aktif Ediniz.
+EnterNamePW=Kullanýcý Adýnýzý ve Þifrenizi Girmediniz
+MessageSendFail=Mesaj Gönderilemedi
+MessageSendFlood=* Messajlarý çok hýzlý yolluyorsunuz. *
+SplashExecuteJoin=Lütfen bekleyin...
+StopAdapter=Tunngle adatöründen baðlantýnýz kesiliyor...
+StartAdapter=Tunngle adaptörüne baðlanýyor... (biraz zaman alabilir)
+StartAdapterFail=Hata: Tunngle baðdaþtýrýcýnýza baðlanýlamýyor.
+StatusBarRegister=Hesabýnýz Yok mu ? Hemen kaydolun!
+ConnectionGood=Port Açýk
+ConnectionBad=Lütfen portu yönlendirin!
+ConnectionNeutral=Port Kapandý
+CmdHlpVPN=Kullanýlabilir sohbet komutlarý bunlardýr:\r\n-/banip virtualIP (VirtualIP'nin sahibini kara listeye ekler)\r\n-/ipsearch virtualIP (VirtualIP'nin sahibinin kullanýcý ismini bulur, "all" yazarak hepsini görebilirsiniz)\r\n-/help (yardým mesajýný gösterir)
+ChangeNick=Tunngle kullanýcý adýnýzý seçin:
+StatusBarCreateNet=Premium aboneliðiniz varsa ayný anda hem bir Temel Að hem de bir Premium Að açabilirsiniz.
+StatusBarJoinNet=Oyunla ilgili bir sorununuz varsa DON'T PANIC butonuna basýp Topluluktan yardým alabilirsiniz.
+AccStateBasic=Sýradan Tunngle - Þimdi Yükselt
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Topluluk
+SpeedButtonCommunity2=<
+SpeedButtonLogin=Giriþ
+SpeedButtonCancel=Ýptal
+SpeedButtonCancelStatus=Ýptal
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Að ve Arkadaþ Bulucu
+SpeedButtonCommunity2=Son Kullandýðým Sekme
+SpeedButtonMessenger=Chat Odasý
+SpeedButtonWiki=Yardým Al
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Baþlangýç Sayfasý
+ButtonQAEventPlanner=Etkinlik Planlayýcýsý
+ButtonQALobby=Tunngle Lobi
+ButtonQAFavorites=Yer imleri
+ButtonQACreateNetwork=Özel Aðlar
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=Baþlangýç Sayfasý
+spDynamicSkinFormMain-1=Özel Aðlar
+spDynamicSkinFormMain-3=Etkinlik Planlayýcý
+spDynamicSkinFormMain-4=Tunngle Lobisi
+spDynamicSkinFormMain-5=Yer imleri
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Að Gezgini
+ExPanelFindnetwork=Að Arama
+ExPanelStatus=Abone Statüsü
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Ara
+MenuItemNetFavorite=Yer imleri
+MenuItemNetCreate=Kur
+MenuItemWebGames=Tarayýcý Oyunlarý
+MenuItemNetCreateOwn=Özel Aðlar
+MenuItemTunnglelobby=Tunngle Lobisi
+MenuItemEventplaner=Takvim Planlayýcý
+MenuItemWizard=Rehberi Göster
+MenuItemBanner=Reklam
+MenuItemCommunityBanner=Topluluk Bannerý
+MenuItemAccount=Hesap
+MenuItemSounds=Sesler
+MenuItemSkins2=Görünümler
+MenuItemPrivacylists=Karaliste
+MenuItemConfiguration=Ayarlar
+MenuItemRestore=Ýp uçlarýný sýfýrlayýn
+MenuItemAbout=Tunngle Hakkýnda
+MenuItemTrayOpen=Aç
+MenuItemTrayClose=Kapat
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=Kullanýcý Adý:
+StdLabelPassword=Þifre:
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Beni hatýrla
+CheckRadioBoxAutologon=Otomatik giriþ yap
+CheckRadioBoxDontShowAgain=Bir daha gösterme
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Bildirimler
+MenuItemAddContact=Arkadaþ Listeme Ekle
+MenuItemAddBlacklist=Karalisteye Ekle
+MenuItemEditBlacklist=Karalisteyi Düzenle
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Yolla
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Konuþma:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<<Geri
+ButtonForward=Ýleri>>
+ButtonActualize=Yenile
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Ýsim
+ListViewNet-1=Baðlý
+ListViewNet-2=Sýnýf:
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Kurdeleye ekle
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Yenile
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Ýsim
+ListViewNet-1=Çevrimiçi
+ListViewNet-2=Tür
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Yer imlerine ekle
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Geri
+ButtonForward=Ileri >>
+ButtonActualize=Yenilemek
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Ad
+ListViewNet-1=Online
+ListViewNet-2=Tür
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Kurdeleyi sil
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Yenile
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Ýsim
+ListViewNet-1=Çevrimiçi
+ListViewNet-2=Tür
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Yer imini sil
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Genel Mesajlarý Engelle
+CheckRadioBoxDNS=Tunngle DNS'lerini Kullan
+CheckRadioBoxPort=Yönlendirilmiþ Port
+CheckRadioBoxUPnP=UPnP Kullan
+CheckRadioBoxTCActive=Açýk
+CheckRadioBoxSignature=Web Ýmzasi
+CheckRadioBoxExp=Uzman Modu
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Dikkat!\r\nNormalde kapalýdýr.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=Tamam
+ButtonAccept=Kabul Et
+ButtonCancel=Ýptal
+ButtonTest=Test Et
+ButtonDefault=Baþlangýç Ayarlarý
+ButtonWizard=Yardýmcý
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Arayüz
+GroupBoxNetconfig=Að
+GroupBoxRouterconfig=Baðlantý Ayarlayýcýsý
+GroupBoxTrafficcontroller=Trafik Kontrolcüsü
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Dil
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Dikkat: Ayarlarýn Uygulanmasý Ýçin Programý Tekrar Baþlatýnýz.
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle Arama
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Dolu Aðlarý Gizle
+CheckRadioBoxEmpty=Boþ Aðlarý Gizle
+CheckRadioBoxPassword=Þifre Korumalý Aðlarý Gizle
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Filtreleyip Ara
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Filtreleyip Ara
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<<Geri
+ButtonForward=Ýleri>>
+ButtonActualize=Yenile
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Ýsim
+ListViewResults-1=Online
+ListViewResults-2=Tür
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Yer imlerine ekle
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Bildirimler
+MenuItemAddContact=Arkadaþ Listeme Ekle
+MenuItemAddBlacklist=Karalisteye Ekle
+MenuItemEditBlacklist=Karalisteyi Düzenle
+MenuItemSortNicks=Takma adlarý sýrala
+MenuItemShowProfile=Profili görüntüle
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Yolla
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Konuþma:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=Tamam
+ButtonAccept=Kabul Et
+ButtonCancel=Ýptal
+ButtonFind=Ara
+ButtonExport=Çýkar
+ButtonImport=Ýçeri Al
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Kullanýcý Adý
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Ara
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Ortak Karaliste
+StdLabelChatmessages=Karalisteyle Konuþma
+StdLabelName=Ýsim
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Kaldýr
+MenuItemDeleteChat=Kaldýr
+MenuItemAddBlacklist=Kara listeye ekle
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=Tamam
+ButtonAccept=Kabul Et
+ButtonCancel=Ýptal
+ButtonDownload=Görünüm Ýndir
+ButtonDefault=Varsayýlan Görünüm
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Önizleme
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Etiket
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Yazý Alaný
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Girdi Alaný
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Onay Kutusu
+CheckRadioBox2=Onay Kutusu
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=Tamam
+ButtonAccept=Kabul Et
+ButtonCancel=Ýptal
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Sesleri Aç
+CheckRadioBoxStart=Baþlangýca Ekle
+CheckRadioBoxLogin=Giriþ
+CheckRadioBoxLeave=Bir Kullanýcý Aðdan Ayrýldý
+CheckRadioBoxJoin=Aða Yeni Bir Kullanýcý Katýldý
+CheckRadioBoxReceive=Alýnan Mesaj
+CheckRadioBoxQuit=Kapat
+CheckRadioBoxSend=Mesaj Yolla
+CheckRadioBoxKey=Konuþma Kutusu Tuþu
+CheckRadioBoxDirectopen=Yeni Konuþma Penceresi
+CheckRadioBoxDirectmessage=Alýnan Mesajlar
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Ýnternet Gezgini
+ButtonFavorite=Yer imleri
+ButtonQuicklaunch=Hýzlý Baþlat
+ButtonBetainfo=Beta Bilgileri
+ButtonForum=Forum
+ButtonEventplaner=Randevuler
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Geri
+StatusPanelForward=Ýleri
+StatusPanelStop=Durdur
+StatusPanelReload=Yenile
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Geri
+StatusPanelForward=Ýleri
+StatusPanelStop=Dur
+StatusPanelReload=Yenile
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Bildirimler
+MenuItemAddContact=Arkadaþ Listeme Ekle
+MenuItemAddBlacklist=Karalisteme Ekle
+MenuItemEditBlacklist=Karalistemi Düzenle
+MenuItemCopyIP=Adresi kopya et
+MenuItemSortNicks=Takma ada göre sýrala
+MenuItemSortIPs=Ping durumuna göre sýrala
+MenuItemConfig=Ayarla
+MenuItemShowProfile=Profili görüntüle
+MenuItemSelectAll=Hepsini seç
+MenuItemCopy=Kopyala
+MenuItemChangeNick=Kullanýcý adý deðiþtir
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Yolla
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Konuþma:
+[FrameVPN-TspSkinCheckBox-Hint]
+CheckBoxScroll=Otomatik kaydýrma
+[FrameVPN-TspSkinButton-Hint]
+ButtonLauncher=Game Launcher
+ButtonVideo=Vidyo Arama
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Kapat
+[FormAbout-Infos]
+Caption=Tunngle Hakkýnda
+[FormLogin-Infos]
+Caption=Giriþ
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Giriþ
+ButtonCancel=Ýptal
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Kullanýcý Adý:
+LabelPassword=Þifre
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Beni Hatýrla
+CheckRadioBoxAuto=Otomatik Giriþ
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Ücretsiz bir Tunngle hesabý için kaydolun
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Ýptal
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Yolla
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Konuþma:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Grup Ekle
+MenuItemContactAdd=Kiþi Ekle
+MenuItemContactHideOffline2=Offline Olanlarý Gizle
+MenuItemRights=Ýzinler
+MenuItemTunngleShares=Tunngle Paylaþýmlarým
+MenuItemContactInfo=Kiþi Bilgileri
+MenuItemContactAlert=Kiþi Uyarýsý
+MenuItemContactNote=Kiþi Notu
+MenuItemReadAwayMessage=Çýkýþ Notunu Oku
+MenuItemContactRename=Kiþiyi Yeniden Adlandýr
+MenuItemContactDelete=Kiþiyi Sil
+MenuItemMoveToGroup=Bir Gruba Taþýý
+MenuItemContactHideOffline3=Offline Olanlarý Gizle
+MenuItemMessage=Direk Konuþma
+MenuItemRights2=Ýzinler
+MenuItemTunngleShares2=Tunngle Paylaþýmlarým
+MenuItemGroupRename=Grubu Adlandýr
+MenuItemGroupDelete=Grubu Sil
+MenuItemGroupExpandCollapse=Grubu Göster/Gizle
+MenuItemContactHideOffline=Offline Olanlarý Gizle
+MenuItemMain=Menü
+MenuItemAddContact=Kiþi Ekle
+MenuItemInNetwork=Að Enformasyon
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=Çevrimdýþý Görün
+[FormFindContact-Infos]
+Caption=Kiþi Ara
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Ara
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=Ýsim:
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Kiþi ekle
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Ýptal
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Dosya
+ListViewLanguage-1=Dil
+ListViewLanguage-2=Yazar
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Devam
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Tunngle Dil Seçimi
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Ad
+ListViewAdapter-1=Adres
+ListViewAdapter-2=Adaptör ismi
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Devam
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Tunngle Dili seçiniz
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=Tamam
+ButtonCancel=Ýptal
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Sadece sohbet
+CheckRadioBoxComplete=Tamamen Engelle
+CheckRadioBoxHours=Saat
+CheckRadioBoxDate=Þimdiye Kadar
+CheckRadioBoxInfinite=Daima
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=Tamam
+ButtonCancel=Ýptal
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Þifreyi Girin:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Bildirimler
+MenuItemAddContact=Arkadaþ listesine ekle
+MenuItemCopyIP=IP'yi panoya kopyala
+MenuItemConfig=Ayarlar
+MenuItemShowProfile=Profili görüntüle
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Gönder
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Sohbet:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Hoþgeldiniz Mesajý
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Aðýnýzý Düzenleyin
+GroupBoxJoin=Bir aða katýlýn
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=Að Tipi:
+LabelNetworkNameT=Að Ýsmi:
+LabelNetworkPasswordT=Að Þifresi:
+LabelNetworkSize=Að Kapasitesi:
+LabelNetworkTypeB=Að Tipi:
+LabelNetworkNameB=Að Ýsmi:
+LabelNetworkPasswordB=Að Þifresi:
+[FrameNetCreate-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Temel
+ComboBoxNetTypeB-0=Temel
+ComboBoxNetRange-0=Standart
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Oluþtur - Güncelle
+ButtonJoin=Katýl
+ButtonJoinOwn=Aðýna Katýl
+ButtonNetworkList=Að Listesi
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Basit Að
+CheckRadioBoxNetPremium=Premium Að
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Bildirimler
+MenuItemAddContact=Arkadaþ listesine ekle
+MenuItemCopyIP=IP'yi panoya kopyala
+MenuItemSortIPs=Pinge göre sýrala
+MenuItemConfig=Yapýlandýr
+MenuItemShowProfile=Profili görüntüle
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Gönder
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Sohbet:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Bir daha gösterme
+[FrameAccount-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSignature=Web Ýmzasý
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=Tamam
+ButtonAccept=Uygula
+ButtonCancel=Ýptal
+ButtonChangeNick=Kullanýcý adý deðiiþtir
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=Hesap Seçenekleri
+[FormWizard-Infos]
+Caption=Giriþ Vidyosu
+[FrameBeforeLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Bir daha gösterme
+[FrameNetCreateEasy-TspSkinMemo-Text]
+MemoWelcome=Giriþ Mesajý
+[FrameNetCreateEasy-TspSkinGroupBox-Caption]
+GroupBoxCreate=Aðýný Düzenle
+GroupBoxJoin=Bir aða katýl
+[FrameNetCreateEasy-TspSkinLabel-Caption]
+LabelNetworkTypeT=Að Tipi:
+LabelNetworkNameT=Að Ýsmi:
+LabelNetworkPasswordT=Að Þifresi:
+LabelNetworkTypeB=Að Tipi:
+LabelNetworkNameB=Að Ýsmi:
+LabelNetworkPasswordB=Að Þifresi:
+[FrameNetCreateEasy-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Temel
+ComboBoxNetTypeB-0=Temel
+[FrameNetCreateEasy-TspSkinButton-Caption]
+ButtonCreate=Kur - Güncelle
+ButtonJoin=Katýl
+ButtonJoinOwn=Aðýna katýl
+ButtonNetworkList=Að Listesi
+[FrameNetCreateEasy-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Temel Að
+CheckRadioBoxNetPremium=Premium Að

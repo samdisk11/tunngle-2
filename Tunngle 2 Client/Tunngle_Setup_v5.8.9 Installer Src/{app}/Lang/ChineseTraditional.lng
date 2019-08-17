@@ -1,0 +1,563 @@
+
+[Header]
+Author=aa2 (Community)
+Date=2014.12.19
+Language=ChineseTraditional
+CharSet=DEFAULT_CHARSET
+PrimLangID=4
+CodePage=950
+[Global-Ressource]
+MI_MINCAPTION=縮小
+MI_MAXCAPTION=擴大
+MI_CLOSECAPTION=&關閉
+MI_RESTORECAPTION=&恢復
+MI_MINTOTRAYCAPTION=縮小到&托盤
+MI_ROLLUPCAPTION=恢復
+MINBUTTON_HINT=縮小
+MAXBUTTON_HINT=擴大
+CLOSEBUTTON_HINT=關閉
+TRAYBUTTON_HINT=縮小到托盤
+ROLLUPBUTTON_HINT=恢復
+MENUBUTTON_HINT=系統菜單
+RESTORE_HINT=恢復
+EDIT_UNDO=還原
+EDIT_COPY=複製
+EDIT_CUT=暫時消除
+EDIT_PASTE=貼在這
+EDIT_DELETE=消除
+EDIT_SELECTALL=選擇所有
+MSG_BTN_YES=&是
+MSG_BTN_NO=&否
+MSG_BTN_OK=好的
+MSG_BTN_CANCEL=取消
+MSG_BTN_ABORT=&退出
+MSG_BTN_RETRY=&重試
+MSG_BTN_IGNORE=&忽
+MSG_BTN_ALL=&所有
+MSG_BTN_NOTOALL=所有答案是否
+MSG_BTN_YESTOALL=&所有答案是(是)
+MSG_BTN_HELP=&幫助
+MSG_BTN_OPEN=&打開
+MSG_BTN_SAVE=&儲存
+MSG_BTN_CLOSE=關閉
+MSG_BTN_BACK_HINT=前往到最後去過的文件夾
+MSG_BTN_UP_HINT=上一層
+MSG_BTN_NEWFOLDER_HINT=創設新的文件夾
+MSG_BTN_VIEWMENU_HINT=查看菜單
+MSG_BTN_STRETCH_HINT=擴大圖片
+MSG_FILENAME=文件名稱:
+MSG_FILETYPE=文件類型:
+MSG_NEWFOLDER=新文件夾
+MSG_LV_DETAILS=詳情
+MSG_LV_ICON=大圖標
+MSG_LV_SMALLICON=小圖標
+MSG_LV_LIST=列表
+MSG_PREVIEWSKIN=預先觀看
+MSG_PREVIEWBUTTON=按鈕
+MSG_OVERWRITE=你想不想覆蓋這文件?
+MSG_CAP_WARNING=警告
+MSG_CAP_ERROR=錯誤
+MSG_CAP_INFORMATION=資料
+MSG_CAP_CONFIRM=確定
+MSG_CAP_SHOWFLAG=不要再顯示這個訊息
+CALC_CAP=計算機
+ERROR=錯誤
+COLORGRID_CAP=基本?色
+CUSTOMCOLORGRID_CAP=自定?色
+ADDCUSTOMCOLORBUTTON_CAP=加到自定?色菜單
+FONTDLG_COLOR=?色:
+FONTDLG_NAME=名稱:
+FONTDLG_SIZE=大小:
+FONTDLG_HEIGHT=高度:
+FONTDLG_EXAMPLE=列如:
+FONTDLG_STYLE=風格
+FONTDLG_SCRIPT=腳本:
+DB_DELETE_QUESTION=你確定你要刪除這個檔案?
+DB_MULTIPLEDELETE_QUESTION=刪除所有選擇的檔案?
+NODISKINDRIVE=光盤裏沒有光碟或光盤為準備好
+NOVALIDDRIVEID=光盤ID不正確
+FLV_NAME=名字
+FLV_SIZE=大小
+FLV_TYPE=類型
+FLV_LOOKIN=在這搜尋:
+FLV_MODIFIED=修改
+FLV_ATTRIBUTES=屬性
+FLV_DISKSIZE=光碟大小
+FLV_FREESPACE=剩餘空位
+PRNDLG_NAME=名字:
+PRNDLG_PRINTER=打印機
+PRNDLG_PROPERTIES=屬性...
+PRNDLG_TYPE=類型:
+PRNDLG_STATUS=狀態:
+PRNDLG_WHERE=何處:
+PRNDLG_COMMENT=評語:
+PRNDLG_PRINTRANGE=打印範圍
+PRNDLG_COPIES=副本
+PRNDLG_NUMCOPIES=副本數量:
+PRNDLG_COLLATE=統計
+PRNDLG_ALL=所有
+PRNDLG_PAGES=頁
+PRNDLG_SELECTION=所選擇
+PRNDLG_PRINTTOFILE=打印至此文件
+PRNDLG_FROM=從:
+PRNDLG_TO=至:
+PRNDLG_ORIENTATION=方向
+PRNDLG_PAPER=紙張
+PRNDLG_PORTRAIT=人像模式
+PRNDLG_LANDSCAPE=橫向模式
+PRNDLG_SOURCE=原至:
+PRNDLG_SIZE=大小:
+PRNDLG_MARGINS=幅度(毫米)
+PRNDLG_MARGINS_INCHES=幅度(英寸)
+PRNDLG_LEFT=左:
+PRNDLG_RIGHT=右:
+PRNDLG_TOP=上:
+PRNDLG_BOTTOM=下:
+PRNDLG_WARNING=你的系統並沒有打印機!
+FIND_NEXT=尋找下一個
+FIND_WHAT=尋找的東西:
+FIND_DIRECTION=方向
+FIND_DIRECTIONUP=上
+FIND_DIRECTIONDOWN=下
+FIND_MATCH_CASE=相識的詞
+FIND_MATCH_WHOLE_WORD_ONLY=只尋找完全相識的詞
+FIND_REPLACE_WITH=于此詞取代:
+FIND_REPLACE=取代
+FIND_REPLACE_All=所有都取代
+FIND_REPLACE_CLOSE=關閉
+MORECOLORS=多種?色
+AUTOCOLOR=自動
+CUSTOMCOLOR=自定...
+[Global-MessageBox-Information]
+Select=???一?Tunngler先。
+Controller=這版本的交通管理程序被禁止運作。
+EnterSearchText=請輸入要搜查的東西。
+ContactDeny=%s 拒絕你的友誼請求。
+ContactAccept=%s 接受你的友誼請求。
+ConnectionLost=連接訊號被丟失。\r\nCode: %s
+ConnectionProblem=可能有連接問題。\r\n你的路由器NAT設置可能阻擋Tunngle\r\n成功的與其他用戶建立P2P連?。\r\n你想打開援助文件嗎?
+PortReachable=你所選擇的接口是開通與接受連接?的接口。
+CreateNet=這個功能現在未能用。\r\n請在論壇區提出你的建議。\r\n你想在想不想打開論壇區的網葉?
+AdapterPrim=Tunngle的網絡適配器並沒有正確的排列。(0)\r\n你因此無法在你的遊戲的LAN瀏覽器找到任何遊戲。
+EnterNamePW=請輸入用戶名字與密碼。
+NewVersion=新Tunngle版本 %s 已經推出讓您下載。
+FriendNetwork=%s 在 %s 網絡裏。\r\n您是否要加入這個網絡？
+FriendNoNetwork=%s 不在網絡裏。
+Close=Tunngle想在將會退出。
+LSPBackup=成功創建分層服務提供商備份文件。\r\n%s
+LSPOK=%d 分層服務提供商問題已解決。
+LastTab=無法關閉最後一個標籤頁。
+[Global-MessageBox-Warning]
+PortUnreachable=你所選擇的接口不想是開的。\r\n注意: 如果Tunngle照常運作，你就不用擔心這個問題。
+UPnP=無法設立利用UPnP的自動port fowarding。
+ServerUnreachable=無法與Tunngle的服務器連接。\r\n繼續照常打開Tunngle軟件?
+Offline=無法建立連接?。\r\n你所選擇的用戶是屬於離?狀態。
+ConnectionFail=無法建立連接?。
+Messenger=警告!\r\n因通訊器未好,\r\n因此通訊器的翻譯並非完整。\r\n下一個版本的Tunngle將會解決這個問題。
+WriteRegistry=設置無法寫入注冊表。\r\n請聯係管理員。
+SelectLanguage=請先選擇一個語言。
+SelectAdapter=請先選擇一個適配器。
+[Global-MessageBox-Question]
+Contact=你想要把 %s 加入朋友名單嗎?
+Delete=你想要把 %s 從黑名單取出嗎?
+ChangeNet=你想要離開這個 "%s" 網絡來加入這個 "%s" 網絡嗎?
+CloseChat=你想要關閉這個 "%s" 談話窗嗎?
+CloseLobby=你想要離開這個 %s 嗎?
+CloseTab=你想要關閉這個 "%s" 的標簽嗎?
+AddContact=%s 已經把你加入他/她的朋友名單。\r\n你想要接受嗎?
+Quit=您是否要退出?
+DelFavorite=您是否要刪除 %s?
+NewVersion=新Tunngle版本 %s 已發佈。 \r\n您現在是否要下載?
+Adapter=以下是在您系統中找到的Tunngle網路卡。 \r\n%s\r\n您是否要把這網路卡和Tunngle聯繫？
+Language=Tunngle探測到您的系統語言是與"%s" 語言文件相配的。 \r\n您現在是否要選擇這文件?
+LanguageID=您所選擇的語系文件並不符合您的系統。 \r\n您是否要繼續?
+LanguageCP=這系統的代碼頁不符合您所選擇的語言所需的代碼頁。 r\n因此一些字符不會準確的顯示。 \r\n您是否要繼續?
+[Global-MessageBox-Error]
+RunOnce=一次只能有一個Tunngle軟體在運作。
+NotInstalled=Tunngle並沒有正確的被安裝。
+NoAdapter=無法找到Tunngle的區網網路卡!
+AccountVerify=登入失敗。 \r\n您的戶口未被確認。
+AccountBann=登入失敗。 \r\n您的戶口已被禁止登入。
+ConnectionProblem=無法連線!\r\n無法與伺服器建立UDP連線。 \r\n你的防火牆可能是問題的根源。 \r\n您是否需要幫助?
+NATProblem=NAT錯誤!\r\n您的路由器的NAT設定在妨礙Tunngle正常運作。 \r\n您必須先設立port fowarding。 \r\n您是否需要幫助?
+ConnectionProblemInfo=無法連線!\r\n無法與伺服器建立任何UDP連線。 \r\n您的防火牆可能是問題的根源。 \r\n您是否需要幫助?
+MasterServer=無法與Tunngle的主伺服器聯繫。
+Version=您的Tunngle軟體是舊的版本。 \r\n您是否要更新?
+Safe=你的連接線無法被保護。
+AuthFail=登入失敗。 \r\n請檢查您的帳號遊戲名稱與密碼。 \r\n(請勿把您的帳號密碼與個人密碼搞混!)\r\n您是否需要幫助?
+AdapterInit=無法啟動Tunngle的區網網路卡!
+UDPSocket=UDP socket錯誤!\r\n無法建設UDP socket.\r\n您的防火牆可能是問題的根源。 \r\n您是否需要幫助?
+AdapterPrim1=Tunngle的區網網路卡並沒有排在第一。 (2)\r\n因此您可能不能在您的遊戲的LAN瀏覽器內找到任何伺服器\r\n您是否需要幫助?
+AdapterPrim2=Tunngle的區網網路卡並沒有排在第一。 (2)\r\n因此您可能不能在您的遊戲的LAN瀏覽器內找到任何伺服器\r\n您是否需要幫助?
+ServiceFound=無法找到Tunngle服務!
+ServiceContact=無法與Tunngle服務聯絡!
+CryptFail=無法載入密碼庫!
+PortFail=選擇的端口無法轉發。請選擇另外一個端口
+WinSock2=無法訪問WinSock.\r\n無法檢查區網設定。
+LSPProblems=%d 分層服務提供商被查出出問題。 \r\n修復這些問題?
+LSPBackup=無法創建分層服務提供商的備份文件。 \r\n您是否要停止創建?
+LSPSafePoint=無法創建分層服務提供商還原點。 \r\n您是否要停止創建?
+LSPRepair=%d 分層服務提供商問題無法修復。 \r\n恢復舊態?
+LSPRedo=無法恢復到原態。
+[Global-Text-Dynamic]
+Loading=載入中 %s...
+FromTo=%d to %d of %d
+LastAct=最新軟體升級: %s
+Lobby=大廳 (%d)
+ChatJoined=<%s "%s" 已經加入談話。 >
+NetJoined=<%s "%s" 已經加入區網。 >
+LobbyJoined=<%s "%s" 已經加入大廳。 >
+ChatLeft=<%s "%s" 已經離開談話。 >
+NetLeft=<%s "%s" 已經離開區網。 >
+LobbyLeft=<%s "%s" 已經離開大廳。 >
+ConnectionDeny1=* 無法與%s 聯繫因為您在他/她的黑名單內。 *
+ConnectionDeny2=*無法和%s 因為他/她在你的黑名單。
+ConnectionLost=[%s 次和Tunngle的伺服器失去連線!]
+VirtualIP=虛擬IP: %s
+LoginNick=登入的帳號為: %s
+Version=軟體版本: %s
+Connecting=連線中 %s
+ChatMe=我: %s
+ChatDeny=* 無法從%s 收到訊息因為他被列入您談話的黑名單。 *
+AddBlacklist=%s 要列入黑名單長達多久?
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle新聞
+CaptionStart=Tunngle主頁
+CaptionStartPage=Tunngle主頁
+CaptionQuickstart=快速啟動
+CaptionSupport=幫助
+CaptionBetainfo=測試版資料
+CaptionTunnglefaq=Tunngle常問問題
+CaptionDownloadarea=下載區
+CaptionResults=成績...
+CaptionChat=聊天
+CaptionLobby=大廳
+CaptionNetwork=區網
+CaptionTunngleforum=Tunngle討論區
+CaptionEventplaner=事件策劃軟體
+CaptionForumfaq=討論區常見問題
+CaptionForum=討論區
+CaptionTunngleskins=Tunngle風格
+CaptionSearch=搜尋
+CaptionBrowser=瀏覽器
+CaptionSkinconfig=風格設定
+CaptionSoundconfig=音效設定
+CaptionPrivacylists=黑名單
+CaptionConfiguration=設定
+CaptionFavorite=我的最愛
+CaptionSubBrowser=區網
+SplashPleaseWait=請稍等...
+SplashLoaddata=載入資料中...
+SplashReset=重置
+SplashConfig=配置中...
+SplashLoading=載入中...
+SplashConnecting=連接中...
+SplashVersion=檢查軟體版本,,,
+SplashSafe=安全連接中,,,
+SplashUPnP=正嘗試UPnP port fowarding...
+SplashAuth=驗證中...
+SplashAdatperset=設定網路卡中...
+SplashAdapterinit=正啟動網路卡中...
+SplashAdapterstart=啟動網路卡中...
+SplashAdapterchkprim=正在檢查網路卡的順序,,,
+SplashAdapterchkbc=正在檢查網路卡播放能力...
+SplashAdapterchkstop=正在檢查網路卡是否正確停止...
+SplashFinalize=最後檢查...
+SplashServiceinit=正在啟動Tunngle服務...
+SplashServicecontact=正在與Tunngle服務聯繫...
+SplashServercontact=正在與Tunngle伺服器聯繫...
+SplashConfigurate=正在組態Tunngle
+SplashWinSock2=正在檢查區網設定...
+SearchInWork=正在搜尋...
+Lobby=大廳
+NetLeft=離開區網
+NoIP=虛擬IP: 無
+ChatJoined=成功加入聊天室。
+NetJoined=已成功加入區網。
+LobbyJoined=成功加入大廳。
+FoundNothing=無法找到你所搜尋的東西!
+NetChangeBegin=正在嘗試更換區網。請稍等...
+NetChangeEnd=區網更換中。請稍等...
+NotLoggedIn=你並沒有登入。
+EnterNamePW=請輸入你的帳號遊戲名稱與密碼。
+MessageSendFail=* 無法傳送訊息。 *
+MessageSendFlood=* 請放慢您發送訊息的速度! *
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=社區
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=尋找區網與朋友
+SpeedButtonCommunity2=到最後"活動"的標籤
+SpeedButtonMessenger=通訊器
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=首頁
+ButtonQABetaInfo=測試版訊息
+ButtonQAForum=Tunngle論壇
+ButtonQAEventPlanner=活動日曆
+ButtonQALobby=Tunngle大廳
+ButtonQAFavorites=我的最愛
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=區網瀏覽器
+ExPanelFindnetwork=搜尋區網
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=搜尋
+MenuItemNetFavorite=我的最愛
+MenuItemNetCreate=創設
+MenuItemTunnglelobby=Tunngle大廳
+MenuItemEventplaner=事件策劃軟體
+MenuItemSounds=音效設定
+MenuItemSkins2=風格設定
+MenuItemPrivacylists=黑名單
+MenuItemConfiguration=設定
+MenuItemAbout=關於Tunngle
+MenuItemTrayOpen=打開
+MenuItemTrayClose=關閉
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=通知
+MenuItemAddContact=加入朋友名單
+MenuItemAddBlacklist=加入黑名單
+MenuItemEditBlacklist=更改黑名單
+MenuItemSortNicks=分類外號
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=發送
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=聊天:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< 前頁
+ButtonForward=下一頁 >>
+ButtonActualize=刷新
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=名字
+ListViewNet-1=線上人數
+ListViewNet-2=類型
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=添加到我的最愛
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=更新
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=遊戲名稱
+ListViewNet-1=線上人數
+ListViewNet-2=類型
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=添加到我的最愛
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< 前頁
+ButtonForward=下一頁 >>
+ButtonActualize=更新
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=遊戲名稱
+ListViewNet-1=線上人數
+ListViewNet-2=類型
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=刪除我的最愛
+MenuItemSortFavorite=排序我的最愛
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=刷新
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=遊戲名稱
+ListViewNet-1=線上人數
+ListViewNet-2=類型
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=刪除我的最愛
+MenuItemSortFavorite=排序我的最愛
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=從所有界面攔截廣播
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Fowarded port
+CheckRadioBoxUPnP=使用 UPnP
+CheckRadioBoxTCActive=啟用
+CheckRadioBoxSignature=網頁簽名
+CheckRadioBoxLog=記錄區網訊息
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=注意!\r\n通常不啟用。
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=確定
+ButtonAccept=應用
+ButtonCancel=取消
+ButtonTest=測試
+ButtonDefault=預設的設定
+ButtonWizard=Wizard
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=界面
+GroupBoxNetconfig=區網
+GroupBoxRouterconfig=路由器
+GroupBoxTrafficcontroller=區網交通管理軟體
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=語言
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=警告! 新設定只能在重新打開Tunngle後才生效。
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle 搜尋
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=隱藏已滿的區網
+CheckRadioBoxEmpty=隱藏無人的區網
+CheckRadioBoxPassword=隱藏擁有密碼的區網
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=搜尋條件
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=搜尋條件 >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< 前頁
+ButtonForward=下一頁 >>
+ButtonActualize=刷新
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=名字
+ListViewResults-1=線上人數
+ListViewResults-2=類型
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=通知
+MenuItemAddContact=加入朋友名單
+MenuItemAddBlacklist=加入黑名單
+MenuItemEditBlacklist=更改黑名單
+MenuItemSortNicks=排序稱號
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=發送
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=聊天:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=確定
+ButtonAccept=應用
+ButtonCancel=取消
+ButtonFind=搜尋
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=外號
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=搜尋
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=主黑名單
+StdLabelChatmessages=聊天黑名單
+StdLabelName=名字
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=除掉
+MenuItemDeleteChat=除掉
+MenuItemAddBlacklist=列入黑名單
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=確定
+ButtonAccept=應用
+ButtonCancel=取消
+ButtonDownload=下載更多風格
+ButtonDefault=預設的Tunngle風格
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=預覽
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=標籤
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=示範字體
+[FrameSkins-TspSkinEdit-Text]
+EditInput=輸入區域
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=複選框欄
+CheckRadioBox2=複選框欄
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=確定
+ButtonAccept=應用
+ButtonCancel=取消
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=使用音效
+CheckRadioBoxStart=啟動
+CheckRadioBoxLogin=登入
+CheckRadioBoxLeave=一個Tunngler加入區網
+CheckRadioBoxJoin=一個Tunngler加入區網
+CheckRadioBoxReceive=收到訊息
+CheckRadioBoxQuit=程式關閉
+CheckRadioBoxSend=發送訊息
+CheckRadioBoxKey=聊天室打字音效
+CheckRadioBoxDirectopen=新的私人聊天室
+CheckRadioBoxDirectmessage=收到私人聊天的訊息
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=瀏覽器
+ButtonFavorite=我的最愛
+ButtonQuicklaunch=快速開始
+ButtonBetainfo=測試版資料
+ButtonForum=討論區
+ButtonEventplaner=活動日曆
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=前頁
+StatusPanelForward=下一頁
+StatusPanelStop=停止
+StatusPanelReload=刷新
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=通知
+MenuItemAddContact=加入朋友名單
+MenuItemAddBlacklist=加入黑名單
+MenuItemEditBlacklist=更改黑名單
+MenuItemCopyIP=複製IP到剪貼板
+MenuItemSortNicks=排序遊戲名稱
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=發送
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=聊天:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=關閉
+[FormAbout-Infos]
+Caption=關於Tunngle
+[FormLogin-Infos]
+Caption=登入
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=登入
+ButtonCancel=取消
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=帳號:
+LabelPassword=密碼:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=記住帳號密碼
+CheckRadioBoxAuto=自動登入
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=免費註冊Tunngle帳號
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=取消
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=發送
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=聊天:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=創設群組
+MenuItemContactAdd=增加帳號
+MenuItemContactHideOffline2=隱藏離線狀態
+MenuItemRights=權力
+MenuItemTunngleShares=Tunngle文件分享軟體
+MenuItemContactInfo=朋友資料
+MenuItemContactAlert=朋友通知
+MenuItemContactNote=朋友留言
+MenuItemReadAwayMessage=閱讀不在時的訊息
+MenuItemContactRename=重新為朋友命名
+MenuItemContactDelete=刪除朋友
+MenuItemMoveToGroup=加入這組
+MenuItemContactHideOffline3=隱藏離線狀態
+MenuItemMessage=直接聊天
+MenuItemRights2=權力
+MenuItemTunngleShares2=Tunngle文件分享軟體
+MenuItemGroupRename=重新為群組命名
+MenuItemGroupDelete=刪除群組
+MenuItemGroupExpandCollapse=展開/折疊群組
+MenuItemContactHideOffline=隱藏離線狀態
+MenuItemMain=&選單
+MenuItemAddContact=添加朋友
+MenuItemInNetwork=區網訊息
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=取消
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=文件
+ListViewLanguage-1=語言
+ListViewLanguage-2=作者
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=繼續
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=請選擇Tunngle的語言
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=遊戲名稱
+ListViewAdapter-1=IP
+ListViewAdapter-2=儀器遊戲名稱
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=繼續
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=請選擇Tunngle網路卡。
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=好
+ButtonCancel=取消
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=之談話
+CheckRadioBoxComplete=全面禁止
+CheckRadioBoxHours=小時
+CheckRadioBoxDate=直到
+CheckRadioBoxInfinite=永遠

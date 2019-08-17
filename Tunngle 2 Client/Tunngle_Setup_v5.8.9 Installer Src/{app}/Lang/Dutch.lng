@@ -1,0 +1,675 @@
+
+[Header]
+Author=Belgian (Community)
+Date=2014.12.19
+Language=Dutch
+CharSet=DEFAULT_CHARSET
+PrimLangID=19
+CodePage=1252
+[Global-Ressource]
+MI_MINCAPTION=Minimaliseren
+MI_MAXCAPTION=Maximaliseren
+MI_CLOSECAPTION=Sluiten
+MI_RESTORECAPTION=Herstellen
+MI_MINTOTRAYCAPTION=Minimaliseren naar tray
+MI_ROLLUPCAPTION=Oprollen
+MINBUTTON_HINT=Minimaliseren
+MAXBUTTON_HINT=Maximaliseren
+CLOSEBUTTON_HINT=Sluiten
+TRAYBUTTON_HINT=Minimaliseren naar tray
+ROLLUPBUTTON_HINT=Oprollen
+MENUBUTTON_HINT=Systeemmenu
+RESTORE_HINT=Herstellen
+EDIT_UNDO=Ongedaan maken
+EDIT_COPY=Kopiëren
+EDIT_CUT=Knippen
+EDIT_PASTE=Plakken
+EDIT_DELETE=Verwijderen
+EDIT_SELECTALL=Alles Selecteren
+MSG_BTN_YES=Ja
+MSG_BTN_NO=Nee
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Annuleren
+MSG_BTN_ABORT=Stoppen
+MSG_BTN_RETRY=Opnieuw
+MSG_BTN_IGNORE=Negeren
+MSG_BTN_ALL=Alles
+MSG_BTN_NOTOALL=Nee Op Alles
+MSG_BTN_YESTOALL=Ja Op Alles
+MSG_BTN_HELP=Help
+MSG_BTN_OPEN=Openen
+MSG_BTN_SAVE=Opslaan
+MSG_BTN_CLOSE=Sluiten
+MSG_BTN_BACK_HINT=Ga Naar De Laatst Bezochte Map
+MSG_BTN_UP_HINT=Bovenliggend Niveau
+MSG_BTN_NEWFOLDER_HINT=Maak Nieuwe Map
+MSG_BTN_VIEWMENU_HINT=Toon menu
+MSG_BTN_STRETCH_HINT=Afbeelding Uitstrekken
+MSG_FILENAME=Bestandsnaam:
+MSG_FILETYPE=Bestandstype:
+MSG_NEWFOLDER=Nieuwe Map
+MSG_LV_DETAILS=Details
+MSG_LV_ICON=Grote iconen
+MSG_LV_SMALLICON=Kleine iconen
+MSG_LV_LIST=Lijst
+MSG_PREVIEWSKIN=Voorbeeld
+MSG_PREVIEWBUTTON=Knop
+MSG_OVERWRITE=Wilt u het bestaande bestand vervangen?
+MSG_CAP_WARNING=Waarschuwing
+MSG_CAP_ERROR=Fout
+MSG_CAP_INFORMATION=Informatie
+MSG_CAP_CONFIRM=Bevestigen
+MSG_CAP_SHOWFLAG=Laat dit bericht niet opnieuw zien
+CALC_CAP=Calculator
+ERROR=Fout
+COLORGRID_CAP=Basis kleuren
+CUSTOMCOLORGRID_CAP=Aangepaste kleuren
+ADDCUSTOMCOLORBUTTON_CAP=Aan Aangepaste Kleuren toevoegen
+FONTDLG_COLOR=Kleur:
+FONTDLG_NAME=Naam:
+FONTDLG_SIZE=Grootte
+FONTDLG_HEIGHT=Hoogte
+FONTDLG_EXAMPLE=Voorbeeld:
+FONTDLG_STYLE=Stijl:
+FONTDLG_SCRIPT=Script:
+DB_DELETE_QUESTION=Bent u zeker dat u dit record wil verwijderen?
+DB_MULTIPLEDELETE_QUESTION=Alle geselecteerde records verwijderen?
+NODISKINDRIVE=Er is geen schijf in de drive of de drive is niet klaar
+NOVALIDDRIVEID=Drive ID is niet geldig
+FLV_NAME=Naam
+FLV_SIZE=Grootte
+FLV_TYPE=Type
+FLV_LOOKIN=Kijk in:
+FLV_MODIFIED=Aangepast
+FLV_ATTRIBUTES=Attributen
+FLV_DISKSIZE=Schijf Grootte
+FLV_FREESPACE=Vrije Ruimte
+PRNDLG_NAME=Naam:
+PRNDLG_PRINTER=Printer
+PRNDLG_PROPERTIES=Eigenschappen...
+PRNDLG_TYPE=Type:
+PRNDLG_STATUS=Status:
+PRNDLG_WHERE=Waar:
+PRNDLG_COMMENT=Commentaar
+PRNDLG_PRINTRANGE=Print lengte
+PRNDLG_COPIES=Kopieën
+PRNDLG_NUMCOPIES=Aantal kopieën
+PRNDLG_COLLATE=Gelijkstellen
+PRNDLG_ALL=Alles
+PRNDLG_PAGES=Pagina's
+PRNDLG_SELECTION=Selectie
+PRNDLG_PRINTTOFILE=Print naar bestand
+PRNDLG_FROM=van:
+PRNDLG_TO=naar:
+PRNDLG_ORIENTATION=Oriëntatie
+PRNDLG_PAPER=Papier
+PRNDLG_PORTRAIT=Portret
+PRNDLG_LANDSCAPE=Landschap
+PRNDLG_SOURCE=Bron:
+PRNDLG_SIZE=Grootte:
+PRNDLG_MARGINS=Marges (millimeters)
+PRNDLG_MARGINS_INCHES=Marges (inch)
+PRNDLG_LEFT=Links:
+PRNDLG_RIGHT=Rechts:
+PRNDLG_TOP=Boven:
+PRNDLG_BOTTOM=Onder:
+PRNDLG_WARNING=Er kan geen printer gevonden worden!
+FIND_NEXT=Vind volgende
+FIND_WHAT=Wat vinden:
+FIND_DIRECTION=Richting
+FIND_DIRECTIONUP=Boven
+FIND_DIRECTIONDOWN=Onder
+[Global-MessageBox-Information]
+Select=U moet eerst een Tunngler selecteren.
+Controller=De Traffic Controller is uitgeschakeld in deze versie.
+EnterSearchText=Vul uw zoekterm in.
+EnterSearchUser=Vul uw zoekterm in.
+ContactDeny=%s heeft je vriendschap verzoek afgewezen.
+ContactAccept=%s heeft je vriendschap verzoek aanvaard.
+ConnectionLost=De verbinding is verbroken. \r\nCode: %s
+ConnectionProblem=Mogelijke verbindingsproblemen. \r\nJe router NAT configuratie kan Tunngle hinderen \r\nom een P2P verbinding te leggen met de andere gebruikers. \r\nDe helppagina nu openen?
+PortReachable=De geselecteerde poort is open en accepteert verbindingen.
+CreateNet=Deze functie is nog niet beschikbaar. \r\nPlaats je suggesties op het community forum. \r\nWilt u de forum pagina nu openen?
+AdapterPrim=De Tunngle netwerk adapter heeft een incorrecte prioriteit. (0)\r\nU zal geen servers vinden in de LAN brower van uw games.
+EnterNamePW=Vul een gebruikersnaam en wachtwoord in.
+NewVersion=Nieuwe versie %s van Tunngle is uit en kan gedownload worden.
+FriendNetwork=%s is in de "%s" netwerk. Wilt u deze nu joinen?
+FriendNoNetwork=%s is momenteel niet in een netwerk.
+Close=Tunngle zal nu afsluiten.
+LSPBackup=LSP Backup bestand successvol gemaakt.\r\n%s
+LSPOK=%d LSP Problemen verholpen.
+LastTab=Kan de laatste tab niet sluiten.
+NetFull=De Netwerk is vol.
+TempNetInfo=Lege basis Netwerken zullen automatisch worden verwijderd na een periode van inactiefheid.
+TempNetDisabled=Netwerk Creatie is tijdelijk uitgeschakeld. Probeer Alsjeblieft later nog een keer.
+TempNetLimit=We kunnen de create niet toestaan van meerde netwerken op deze moment. Probeer het alsjeblieft later nog een keer.
+TempNetMissing=Het geselecteerde netwerk bestaat niet. Selecteer alsjeblieft een bestaande of maak je eigen netwerk.
+TempNetFull=Het geselecteerde netwerk is vol. Kies alsjeblieft een andere of maak je eigen netwerk.
+TempNetExist=Dit netwerk bestaat al. Kies alsjeblieft een andere naam of doe mee aan een bestaand netwerk.
+TempNetPassword=Verkeerde Wachtwoord.
+TempNetInvalid=De geselecteerde naam is niet geldig. Kies a.u.b een andere.
+ConfigAttention=Herstart Tunngle om de nieuwe instellingen toe te passen.
+ProcessSuccess=Succesvol toegepast.
+PremiumExpire=Je Tunngle Premium Lidmaatschap verloopt op %s. \r\nWil je de abbonements pagina bezoeken?
+[Global-MessageBox-Warning]
+PortUnreachable=De geselecteerde poort lijkt niet open te zijn. \r\nOpmerking: Als Tunngle goed werkt, is dit geen probleem.
+UPnP=Kon geen automatische port forwarding starten met UPnP.
+ServerUnreachable=Kon de Tunngle server niet bereiken. \r\nZullen we Tunngle toch starten?
+Offline=Kon de verbinding niet maken. \r\nDe geselecteerde contactpersoon is offline.
+ConnectionFail=Kon de verbinding niet maken.
+Messenger=Opgelet! \r\nOmdat de messenger nog in de maak is, \r\nis de vertaling van het scherm nog niet klaar. \r\nDit zal aangepast zijn in de volgende versies van Tunngle.
+WriteRegistry=De configuratie kon niet opgeslagen worden in het register.\r\nNeem contact op met uw systeembeheerder.
+SelectLanguage=Kies eerst een taal
+SelectAdapter=Kies eerst een adapter.
+NetworkBusy=Deze netwerk is bezig op dit moment.\r\nKies alsjeblieft een andere netwerk.
+LoginRequired=Je moet eerst inloggen.
+ConfigAdapter=Er is een fout opgetreden tijdens de netwerk adapter configuratie. Het netwerk werkt mogelijk niet goed.
+ProcessFail=Toepassen mislukt.
+NickInvalid=Je nickname kan enkel de volgende tekens bevatten:
+[Global-MessageBox-Question]
+Contact=Wilt u %s aan uw vriendenlijst toevoegen?
+Delete=Wilt u %s van uw blacklist verwijderen?
+ChangeNet=Wilt u het "%s" netwerk verlaten en met het "%s" netwerk verbinden?
+CloseChat=Wilt u de "%s" chat sluiten?
+CloseLobby=Wilt u de %s verlaten?
+CloseTab=Wilt u de "%s" tab sluiten?
+AddContact=%s heeft u toegevoegd aan zijn/haar vriendenlijst. \r\nWilt u dit accepteren?
+Quit=Wilt u echt stoppen?
+DelFavorite=Weet u zeker dat u %s wilt verwijderen?
+NewVersion=Nieuwe versie %s van Tunngle is uit.\r\n Wilt u deze nu downloaden?
+Adapter=De volgende Tunngle adapter is gevonden.\r\n%s\r\nWilt u deze adapter gebruiken i.c.m. Tunngle?
+Language=Op uw systeem is een taal gedetecteerd die compatible is met het "%s" taal bestand.\r\nWilt u deze nu gebruiken?
+LanguageID=De geselecteerde taal bestand komt niet overeen met de momenteel gedetecteerde systeem locatie. Alsnog doorgaan?
+LanguageCP=De Huidige System Codepage komt niet overeen met degene die benodigd is voor het huidige taal bestand.\r\n Sommige karakters kunnen niet juist worden weer gegeven.\r\nToch doorgaan?
+CliQuit=Tunngle moet opnieuw gestart worden om de nieuwe instellingen te bevestigen.\r\nWil u het nu afsluiten?
+TempNetActivate=Activicatie is benodigd om deze functie te gebruiken.\r\nActiveren en gebruiken van de service is 100% Gratis\r\nWilt u de browser openen en nu te activeren?
+TempNetActivateB=Je Internet browser gaat nu de Private Netwerk laden op de activicatie pagina.\r\nPlease complete the activicatie en druk op OK als u klaar bent.
+FileExists=De bestand bestaat al. Wilt u het overschrijven?
+RestoreDefault=Wilt u alle eerder verborgen gele hulpberichten herstellen? 
+RestoreOptions=Wilt u de opties herstellen?
+[Global-MessageBox-Error]
+RunOnce=Er kan niet meer dan één Tunngle actief zijn op het systeem.
+NotInstalled=Tunngle is niet correct geïnstalleerd.
+NoAdapter=Kon de Tunngle netwerk adapter niet vinden!
+AccountVerify=Login mislukt. \r\nUw account werd niet geverifiëerd.
+AccountBann=Login mislukt. \r\nUw account werd verbannen.
+ConnectionProblem=Verbindingsfout! \r\nKon geen UDP verbinding met de server maken. \r\nUw firewall kan de oorzaak zijn. \r\nHulp nodig?
+NATProblem=NAT fout! \r\nUw Router NAT configuratie maakt het werken van Tunngle onmogelijk. \r\nU moet uw port forwarding installen. \r\nHulp nodig?
+ConnectionProblemInfo=Verbindingsfout! \r\nKon geen UDP verbinding met de server maken. \r\nUw firewall kan de oorzaak zijn. \r\nHulp nodig?
+MasterServer=Kon de Tunngle master server niet bereiken.
+Version=Uw client is niet de meest recente versie. \r\nNu updaten?
+Safe=Uw verbinding kan niet beveiligd worden.
+AuthFail=Login mislukt. \r\nControleer uw gebruikersnaam en wachtwoord. \r\n(Verwar uw gebruikers wachtwoord niet met uw account wachtwoord!) \r\nHulp nodig?
+AdapterInit=Kon de Tunngle adapter niet initialiseren!
+UDPSocket=UDP Socket Fout! \r\nKon geen UDP Socket maken. \r\nUw firewall kan het probleem zijn. \r\nHulp nodig?
+AdapterPrim1=De Tunngle netwerk adapter heeft niet de correcte prioriteit. (1)\r\nU zal geen server in de LAN browser van uw games vinden. \r\nHulp nodig?
+AdapterPrim2=De Tunngle netwerk adapter heeft niet de correcte prioriteit. (2)\r\nU zal geen server in de LAN browser van uw games vinden. \r\nHulp nodig?
+ServiceFound=Kon de Tunngle service niet vinden!
+ServiceContact=Kon niet communiceren met de Tunngle service!
+CryptFail=Kon de cryptografische bibliotheek niet laden!
+PortFail=De Geselecteerde port ongeldig voor een forward. Selecteer  a.u.b. een andere port!
+WinSock2=kan geen toegang krijgen tot WinSock.\r\nNetwerk configuratie kan niet worden gecontroleerd.
+LSPProblems=%d LSP problemen gedetecteerd.\r\nNu repareren?
+LSPBackup=Error tijdens het creeren van een LSP backup bestand.\r\n Wilt u anuleren?
+LSPSafePoint=Error tijdens het creeren van een LSP herstelpunt.\r\n Wilt u Anuleren?
+LSPRepair=%d LSP problemen konden niet worden gerepareerd.\r\n Herstellen naar de vorige situatue?
+LSPRedo=Herstellen mislukt
+ConfigAdapter=Kan niet de Tunngle Netwerk Adapter configureren!
+WrongPassword=Verkeerde Wachtwoord.
+GUIVersionMismatch=De Huidige Tunngle installatie kan gecorrupt zijn.
+InterlinkFormat=Illegale Interlink Syntax. Het zou moeten "GameServer:port".
+ServerUnreachable=De server is onbereikbaar, probeer het later opnieuw.
+[Global-Text-Dynamic]
+Loading=Laden van %s...
+FromTo=%d aan %d van %d
+LastAct=Laatste Update: %s
+Lobby=Lobby (%d)
+ChatJoined=<%s "%s" is met de chat verbonden.>
+NetJoined=<%s "%s" is met het netwerk verbonden.>
+LobbyJoined=<%s "%s" is met de lobby verbonden.>
+ChatLeft=<%s "%s" heeft de chat verlaten.>
+NetLeft=<%s "%s" heeft het netwerk verlaten.>
+LobbyLeft=<%s "%s" heeft de lobby verlaten.>
+ConnectionDeny1=* Kon niet met %s verbinden want u staat op zijn/haar blacklist.
+ConnectionDeny2=* Kon niet met %s verbinden want hij/zij staat op uw blacklist.
+ConnectionLost=[ %s heeft verbinding met de Tunngle server verloren! ]
+VirtualIP=Virtueel IP: %s
+LoginNick=Ingelogd als: %s
+Version=Versie: %s
+Connecting=Verbindt %s
+ChatMe=Ik: %s
+ChatDeny=*Kan Geen berichten ontvangen van %s doordat deze persoon in uw Blacklist staat.*
+AddBlacklist=Hoe lang moet %s geblokkeerd blijven?
+PingMs=Ping: %s ms
+ChannelMode=Type: %s
+Ports=Port: %s
+WaitingQueue=Wachten op de rij %d/%d
+AddedBlackList=%s Toevoegen aan u black list Geslaagd.
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle Nieuws
+CaptionStart=Tunngle Start
+CaptionStartPage=Tunngle start
+CaptionQuickstart=Snel Start
+CaptionSupport=Ondersteuning
+CaptionBetainfo=Beta Info
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Download Zone
+CaptionResults=Resultaten...
+CaptionChat=Chat
+CaptionLobby=Lobby
+CaptionNetwork=Netwerk
+CaptionTunngleforum=Tunngle Forum
+CaptionEventplaner=Evenement Planner
+CaptionForumfaq=Forum FAQ
+CaptionForum=Forum
+CaptionTunngleskins=Tunngle Uiterlijken
+CaptionSearch=Zoeken
+CaptionBrowser=Browser
+CaptionSkinconfig=Skin Opties
+CaptionSoundconfig=Geluiden
+CaptionPrivacylists=Blacklist
+CaptionConfiguration=Opties
+CaptionFavorite=Favorieten
+CaptionSubBrowser=Netwerken
+CaptionCreateNet=Privé Netwerken
+SplashPleaseWait=Even geduld...
+SplashLoaddata=Data laden...
+SplashReset=Resetten...
+SplashConfig=Configureren...
+SplashLoading=Laden...
+SplashConnecting=Verbinden...
+SplashVersion=Versie controlleren...
+SplashSafe=Verbinding beveiligen...
+SplashUPnP=Poging tot UPnP port forwarding...
+SplashAuth=Aanmelden...
+SplashAdatperset=Adapter instellen...
+SplashAdapterinit=Adapter initialiseren...
+SplashAdapterstart=Adapter starten...
+SplashAdapterchkprim=Adapter prioriteit controleren...
+SplashAdapterchkbc=Adapter broadcast controleren...
+SplashAdapterchkstop=Adapter stop controleren...
+SplashFinalize=Afwerken...
+SplashServiceinit=Tunngle service initialiseren...
+SplashServicecontact=Tunngle service contacteren...
+SplashServercontact=Tunngle server contacteren...
+SplashConfigurate=Configureren van Tunngle
+SplashWinSock2=Controleren van Netwerk configuratie
+SplashNetzone=Netwerk Locatie Controleren
+SearchInWork=Bezig met zoeken...
+Lobby=Lobby
+NetLeft=Netwerk verlaten.
+NoIP=Virtueel IP: -
+ChatJoined=Succesvol met chat verbonden.
+NetJoined=Succesvol met netwerk verbonden.
+LobbyJoined=Succesvol met Lobby verbonden.
+FoundNothing=Geen resultaten!
+NetChangeBegin=Probeert netwerk te ruilen. Even geduld...
+NetChangeEnd=Netwerk ruilen succesvol. Even geduld...
+NotLoggedIn=U bent niet ingelogd.
+EnterNamePW=Vul een gebruikersnaam en wachtwoord in.
+MessageSendFail=* Kon het bericht niet versturen. *
+MessageSendFlood=Berichten worden te snel verstuurd door u, verstuur deze langzamer a.u.b
+LaunchParameter=Command lijn parameters:
+TypeStandard=Tunngler
+TypeInterlink=Interlink Server
+TypeTunngleTeam=Tunngle Team
+TypeEnthusiast=Tunngle Enthousiast
+TypeInactive=Kan geen verbinding maken met deze speler.
+SplashExecuteJoin=Even Geduld...
+StopAdapter=Loskoppelen van de Tunngle adapter
+StartAdapter=Koppelen met de Tunngle adapter... (Dit kan even duren)
+StartAdapterFail=Fout: Kan niet koppelen met de Tunngle adapter.
+Interlink=GameServer:Port
+StatusBarRegister=Heb je nog geen Account? Klik hier om te registreren!
+ConnectionGood=Poort Open
+ConnectionBad=Slecht
+ConnectionNeutral=Neutraal
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Community
+SpeedButtonCommunity2=<
+SpeedButtonLogin=Inloggen
+SpeedButtonCancel=Annuleer
+SpeedButtonCancelStatus=Annuleer
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Netwerken en vrienden zoeken
+SpeedButtonCommunity2=Naar de laatst actieve tab
+SpeedButtonMessenger=Messenger
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Start pagina
+ButtonQABetaInfo=Beta info
+ButtonQAForum=Forum
+ButtonQAEventPlanner=Evenement Planner
+ButtonQALobby=Tunngle Lobby
+ButtonQAFavorites=Favorieten
+ButtonQACreateNetwork=Privé Netwerken
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=Startpagina
+spDynamicSkinFormMain-1=Prive Netwerken
+spDynamicSkinFormMain-2=Forum
+spDynamicSkinFormMain-3=Agenda
+spDynamicSkinFormMain-4=Tunngle Lobby
+spDynamicSkinFormMain-5=Bookmarks
+spDynamicSkinFormMain-7=Facebook
+spDynamicSkinFormMain-8=Twitter
+spDynamicSkinFormMain-9=Google+
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Netwerk verkenner
+ExPanelFindnetwork=Netwerk Zoeken
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Zoeken
+MenuItemNetFavorite=Favorieten
+MenuItemNetCreateOwn=Privé Netwerken
+MenuItemTunnglelobby=Tunngle Lobby
+MenuItemEventplaner=Evenement Planner
+MenuItemSounds=Geluiden
+MenuItemSkins2=Skins
+MenuItemPrivacylists=Blacklist
+MenuItemConfiguration=Opties
+MenuItemRestore=Herstel Tips
+MenuItemAbout=Over Tunngle
+MenuItemTrayOpen=Openen
+MenuItemTrayClose=Sluiten
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=Gebruikersnaam:
+StdLabelPassword=Wachtwoord:
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Herinner mij
+CheckRadioBoxAutologon=Auto Login
+CheckRadioBoxDontShowAgain=Niet opnieuw tonen
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Toelichtingen
+MenuItemAddContact=Aan vriendenlijst toevoegen
+MenuItemAddBlacklist=Aan blacklist toevoegen
+MenuItemEditBlacklist=Blacklist aanpassen
+MenuItemSortNicks=Sorteer gebruikersnamen
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Zend
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Terug
+ButtonForward=Verder >>
+ButtonActualize=Vernieuwen
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Naam
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Toevoegen aan favorieten
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Refresh
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Naam
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=aan favorieten toevoegen
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<<Terug
+ButtonForward=>>Vooruit
+ButtonActualize=Refresh
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=naam
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Favoriet verwijderen
+MenuItemSortFavorite=Sorteer favorieten
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=vernieuwen
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Naam
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Favoriet verwijderen
+MenuItemSortFavorite=Sorteer favorieten
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Boadcasts van alle interfaces onderscheppen
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Forwarded port
+CheckRadioBoxUPnP=UPnP gebruiken
+CheckRadioBoxTCActive=Toegepast
+CheckRadioBoxSignature=Web Handtekening
+CheckRadioBoxLog=Netwerkverkeer bijhouden
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Opmerking! \r\nNormaal uitgeschakeld.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Toepassen
+ButtonCancel=Annuleren
+ButtonTest=Test
+ButtonDefault=Standaard Instellingen
+ButtonWizard=Wizard
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Interface
+GroupBoxNetconfig=Netwerk
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=Traffic Controller
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Taal
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Waarschuwing! Start Tunngle opnieuw op om de instellingen toe te passen!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle Zoeken
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Volle netwerken verbergen
+CheckRadioBoxEmpty=Lege netwerken verbergen
+CheckRadioBoxPassword=Netwerken met wachtwoord verbergen
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Zoek Filters
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Zoek Filters >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Terug
+ButtonForward=Verder >>
+ButtonActualize=Vernieuwen
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Naam
+ListViewResults-1=Online
+ListViewResults-2=Genre
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Voeg toe aan favoriet
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Toelichtingen
+MenuItemAddContact=Aan vriendenlijst toevoegen
+MenuItemAddBlacklist=Aan blacklist toevoegen
+MenuItemEditBlacklist=Blacklist aanpassen
+MenuItemSortNicks=Sorteer gebruikersnamen
+MenuItemShowProfile=Bekijk Profiel
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Zend
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Toepassen
+ButtonCancel=Annuleren
+ButtonFind=Zoeken
+ButtonExport=Exporteren
+ButtonImport=Importeren
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Nick
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Zoeken
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Globale Blacklist
+StdLabelChatmessages=Chat Blacklist
+StdLabelName=Naam
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Verwijderen
+MenuItemDeleteChat=Verwijderen
+MenuItemAddBlacklist=Voeg toe aan de blokkeerlijst
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Toepassen
+ButtonCancel=Annuleren
+ButtonDownload=Download Meer Uiterlijken
+ButtonDefault=Standaard Tunngle Uiterlijk
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Voorbeeld
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Label
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Tekst veld
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Invoer veld
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Checkbox
+CheckRadioBox2=Checkbox
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Toepassen
+ButtonCancel=Annuleren
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Geluiden inschakelen
+CheckRadioBoxStart=Opstarten
+CheckRadioBoxLogin=Login
+CheckRadioBoxLeave=Een Tunngler verlaat het netwerk
+CheckRadioBoxJoin=Een Tunngler is verbonden met het netwerk
+CheckRadioBoxReceive=Bericht ontvangen
+CheckRadioBoxQuit=Afsluiten
+CheckRadioBoxSend=Bericht verzonden
+CheckRadioBoxKey=Chat box knop indrukken
+CheckRadioBoxDirectopen=Nieuw directe chat scherm
+CheckRadioBoxDirectmessage=Directe Chat bericht ontvangen
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Browser
+ButtonFavorite=Favorieten
+ButtonQuicklaunch=Snel Start
+ButtonBetainfo=Beta Info
+ButtonForum=Forum
+ButtonEventplaner=Evenement planner
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Terug
+StatusPanelForward=Verder
+StatusPanelStop=Stop
+StatusPanelReload=Vernieuwen
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Terug
+StatusPanelForward=Vooruit
+StatusPanelStop=Stop
+StatusPanelReload=Verversen
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Toelichtingen
+MenuItemAddContact=Aan vriendenlijst toevoegen
+MenuItemAddBlacklist=Aan blacklist toevoegen
+MenuItemEditBlacklist=Blacklist aanpassen
+MenuItemCopyIP=Ip kopieren naar Clipboard
+MenuItemSortNicks=Sorteer gebruikersnamen
+MenuItemSortIPs=Sorteer bij Ping
+MenuItemConfig=configureren
+MenuItemShowProfile=Bekijk profiel
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Zend
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Sluiten
+[FormAbout-Infos]
+Caption=Over Tunngle
+[FormLogin-Infos]
+Caption=Login
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Login
+ButtonCancel=Annuleren
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Gebruikersnaam:
+LabelPassword=Wachtwoord:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Onthoud mij
+CheckRadioBoxAuto=Auto login
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Registreren voor een gratis Tunngle account
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Annuleren
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Zend
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Groep toevoegen
+MenuItemContactAdd=Contactpersoon toevoegen
+MenuItemContactHideOffline2=Offline verbergen
+MenuItemRights=Rechten
+MenuItemTunngleShares=Tunngle Delen
+MenuItemContactInfo=Contactpersoon info
+MenuItemContactAlert=Contactpersoon alarm
+MenuItemContactNote=Contactpersoon notitie
+MenuItemReadAwayMessage=Afwezigheidsbericht lezen
+MenuItemContactRename=Contactpersoon hernoemen
+MenuItemContactDelete=Contactpersoon verwijderen
+MenuItemMoveToGroup=Naar groep verplaatsen
+MenuItemContactHideOffline3=Offline verbergen
+MenuItemMessage=Directe chat
+MenuItemRights2=Rechten
+MenuItemTunngleShares2=Tunngle Delen
+MenuItemGroupRename=Groep hernoemen
+MenuItemGroupDelete=Groep verwijderen
+MenuItemGroupExpandCollapse=Groep Uitvouwen/Samenvouwen
+MenuItemContactHideOffline=Offline verbergen
+MenuItemMain=Menu
+MenuItemAddContact=Contactpersoon toevoegen
+MenuItemInNetwork=Netwerk Informatie
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Annuleren
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Bestand
+ListViewLanguage-1=Taal
+ListViewLanguage-2=Auteur
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Continue
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Selecteer alstublieft  uw Taal voor Tunngle
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Naam
+ListViewAdapter-1=IP
+ListViewAdapter-2=Apparaat naam
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Doorgaan
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Selecteer a.u.b de Tunngle adapter
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Annuleren
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Enkel gesprek
+CheckRadioBoxComplete=Volledig verbod
+CheckRadioBoxHours=Uren
+CheckRadioBoxDate=Tot
+CheckRadioBoxInfinite=Voor altijd
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Annuleren
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Vul WachtWoord
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Berichten
+MenuItemAddContact=Toevoegen aan Vrienden lijst
+MenuItemCopyIP=IP kopiëren naar clipboard
+MenuItemSortNicks=Sorteer Nicks
+MenuItemSortIPs=Sorteer bij Ping
+MenuItemConfig=Configureren
+MenuItemShowProfile=Bekijk profiel
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Versturen
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Welkom Bericht
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Beheer je eigen Netwerk
+GroupBoxJoin=Meedoen aan een bestaand Netwerk
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkNameT=Netwerk Naam:
+LabelNetworkPasswordT=Netwerk WachtWoord
+LabelNetworkNameB=Netwerk Naam:
+LabelNetworkPasswordB=Netwerk WachtWoord
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=creëren - Update
+ButtonJoin=Meedoen
+ButtonJoinOwn=Doe mee aan u Net
+ButtonNetworkList=Netwerk Lijst
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Netwerk Emulator
+UrlLabelInterlink=Interlink Server:

@@ -1,0 +1,471 @@
+
+[Header]
+Author=Charge01 (Community)
+Date=2014.12.19
+Language=Thai
+CharSet=DEFAULT_CHARSET
+PrimLangID=30
+CodePage=874
+[Global-Ressource]
+MI_MINCAPTION=&ย่อ
+MI_MAXCAPTION=&ขยาย
+MI_CLOSECAPTION=&ปิด
+MI_RESTORECAPTION=&คืน
+MI_MINTOTRAYCAPTION=&ซ่อน
+MI_ROLLUPCAPTION=&พับขึ้น
+MINBUTTON_HINT=ย่อ
+MAXBUTTON_HINT=ขยาย
+CLOSEBUTTON_HINT=ปิด
+TRAYBUTTON_HINT=ซ่อน
+ROLLUPBUTTON_HINT=พับขึ้น
+MENUBUTTON_HINT=เมนูระบบ
+RESTORE_HINT=กลับคืน
+EDIT_UNDO=เลิกทำ
+EDIT_COPY=คัดลอก
+EDIT_CUT=ตัด
+EDIT_PASTE=วาง
+EDIT_DELETE=ลบ
+EDIT_SELECTALL=เลือกทั้งหมด
+MSG_BTN_YES=ใช่
+MSG_BTN_NO=ไม่
+MSG_BTN_OK=ตกลง
+MSG_BTN_CANCEL=ยกเลิก
+MSG_BTN_ABORT=&ล้มเลิก
+MSG_BTN_RETRY=ลองใหม่
+MSG_BTN_IGNORE=ไม่สนใจ
+MSG_BTN_ALL=ทั้งหมด
+MSG_BTN_NOTOALL=ไม่ (ทั้งหมด)
+MSG_BTN_YESTOALL=ใช่ (ทั้งหมด)
+MSG_BTN_HELP=ช่วยเหลิอ
+MSG_BTN_OPEN=เปิด
+MSG_BTN_SAVE=บันทึก
+MSG_BTN_CLOSE=ปิด
+MSG_BTN_BACK_HINT=ไปที่แฟ้มผู้เยี่ยมชมล่าสุด
+MSG_BTN_UP_HINT=ขึ้นไปหนึ่งระดับ
+MSG_BTN_NEWFOLDER_HINT=สร้างแฟ้มใหม่
+MSG_BTN_VIEWMENU_HINT=ดูรายการ
+MSG_BTN_STRETCH_HINT=ขยายรูป
+MSG_FILENAME=ชื่อไฟล์:
+MSG_FILETYPE=รูปแบบไฟล์:
+MSG_NEWFOLDER=แฟ้มใหม่
+MSG_LV_DETAILS=รายละเอียด
+MSG_LV_ICON=ไอคอนใหญ่
+MSG_LV_SMALLICON=ไอคอนเล็ก
+MSG_LV_LIST=รายการ
+MSG_PREVIEWSKIN=พรีวิว
+MSG_PREVIEWBUTTON=ปุ่ม
+MSG_OVERWRITE=คุณต้องการเขียนทับไฟล์เก่าหรือไม่
+MSG_CAP_WARNING=คำเตือน
+MSG_CAP_ERROR=ผิดพลาด
+MSG_CAP_INFORMATION=ข้อมูล
+MSG_CAP_CONFIRM=ยืนยัน
+MSG_CAP_SHOWFLAG=ไม่ต้องแสดงข้อความนี้อีก
+CALC_CAP=เครื่องคิดเลข
+ERROR=ผิดพลาด
+COLORGRID_CAP=สีพื้นฐาน
+CUSTOMCOLORGRID_CAP=สีที่กำหนดเอง
+ADDCUSTOMCOLORBUTTON_CAP=เพิ่มสีที่กำหนดเอง
+FONTDLG_COLOR=สี:
+FONTDLG_NAME=ชื่อ:
+FONTDLG_SIZE=ขนาด:
+FONTDLG_HEIGHT=สูง:
+FONTDLG_EXAMPLE=ตัวอย่าง:
+FONTDLG_STYLE=สไตล์
+FONTDLG_SCRIPT=สคริปต์
+DB_DELETE_QUESTION=คุณแน่ใจหรือว่าจะลบบันทึกนี้
+DB_MULTIPLEDELETE_QUESTION=ลบบันทึกทั้งหมดที่เลือก?
+NODISKINDRIVE=ไม่มีแผ่นในไดร์ฟหรือไดร์ฟไม่พร้อมใช้งาน
+NOVALIDDRIVEID=ID ของไดร์ฟไม่ถูกต้อง
+FLV_NAME=ชื่อ
+FLV_SIZE=ขนาด
+FLV_TYPE=ประเภท
+FLV_MODIFIED=ปรับปรุงเมื่อ
+FLV_ATTRIBUTES=คุณสมบัติ
+FLV_DISKSIZE=พื้นที่ disk
+FLV_FREESPACE=พื้นที่ที่เหลือ
+PRNDLG_NAME=ชื่อ:
+PRNDLG_PRINTER=เครื่องพิมพ์
+PRNDLG_PROPERTIES=สรรพคุณ
+PRNDLG_TYPE=ประเภท :
+PRNDLG_STATUS=สถานะ:
+PRNDLG_WHERE=ที่ :
+PRNDLG_COMMENT=ความคิดเห็น :
+PRNDLG_PRINTRANGE=ระยะการพิมพ์
+PRNDLG_COPIES=สำเนา
+PRNDLG_NUMCOPIES=จำนวนของสำเนา
+PRNDLG_COLLATE=ตรวจทาน
+PRNDLG_ALL=ทั้งหมด
+PRNDLG_PAGES=หน้า
+PRNDLG_SELECTION=ตัวเลือก
+PRNDLG_PRINTTOFILE=พิมพ์ไปยังแฟ้ม
+PRNDLG_FROM=จาก:
+PRNDLG_TO=ถึง:
+PRNDLG_PAPER=กระดาษ
+PRNDLG_PORTRAIT=แนวตั้ง
+PRNDLG_LANDSCAPE=แนวนอน
+PRNDLG_SOURCE=แหล่งที่มา :
+PRNDLG_SIZE=ขนาด:
+PRNDLG_MARGINS=ระยะ (มิลลิเมตร)
+PRNDLG_MARGINS_INCHES=ระยะ (นิ้ว)
+PRNDLG_LEFT=ซ้าย :
+PRNDLG_RIGHT=ขวา :
+PRNDLG_TOP=บนสุด :
+PRNDLG_BOTTOM=ด้านล่างสุด :
+PRNDLG_WARNING=ไม่มีเครื่องพิมพ์อยู่ในระบบของคุณ
+FIND_NEXT=ถัดไป
+FIND_WHAT=ค้นหา :
+FIND_DIRECTION=ทิศทาง
+FIND_DIRECTIONUP=ขึ้น
+FIND_DIRECTIONDOWN=ลง
+FIND_MATCH_CASE=กรณีที่เหมือนกัน
+FIND_MATCH_WHOLE_WORD_ONLY=เหมือนกันทั้งคำเท่านั้น
+FIND_REPLACE_WITH=แทนที่ด้วย :
+FIND_REPLACE=แทนที่
+FIND_REPLACE_All=แทนที่ทั้งหมด
+FIND_REPLACE_CLOSE=ปิด
+MORECOLORS=สีอื่นๆ
+AUTOCOLOR=อัตโนมัติ
+CUSTOMCOLOR=ที่กำหนดเอง...
+[Global-MessageBox-Information]
+Select=คุณต้องเลือก Tunngler  เป็นอันดับแรก
+Controller=ตัวควบคุมการเคลื่อนย้ายนั่นไม่สามารถใช้ได้ในเวอร์ชั่นนี้
+EnterSearchText=กรุณาพิมพ์คำเพื่อค้นหา
+EnterSearchUser=กรุณาพิมพ์คำเพื่อค้นหา
+ContactDeny=%s ได้ปฏิเสธการขอเป็นเพื่อนของคุณ
+ContactAccept=%s ได้ตกลงการขอเป็นเพื่อนของคุณ
+ConnectionLost=หลุดการเชื่อมต่อ \r\nCode: %s
+EnterNamePW=กรุณาใส่ชื่อผู้ใช้และรหัสผ่าน
+Close=กำลังออกจาก Tunngle
+LastTab=ไม่สามารถปิดแท็บสุดท้าย
+NetFull=เครือข่ายนี้เต็มแล้ว
+[Global-MessageBox-Warning]
+SelectLanguage=โปรดเลือกภาษาก่อน
+SelectAdapter=โปรดเลือกอแดปเตอร์ก่อน
+[Global-MessageBox-Question]
+Contact=คุณแน่ใจหรือว่าจะเพิ่ม %s ลงในรายชื่อเพื่อน
+Delete=แน่ใจหรือว่าจะย้ายชื่อของ %s ออกจากบัญชีดำ
+ChangeNet=แน่ใจหรือว่าจะออกจากเน็ตเวิร์ค "%s" แล้วย้ายไปเน็ตเวิร์ค "%s"
+CloseChat=คุณแน่ใจหรือว่าจะออกจากแชท "%s"
+CloseLobby=แน่ใจหรือว่าจะออกจาก %s
+CloseTab=แน่ใจหรือว่าจะออกจากแท็บ "%s"
+AddContact=%s ได้เพิ่มคุณลงรายชื่อเพื่อนของ เขา/เธอ .\r\n คุณจะยอมรับหรือไม่
+Quit=คุณแน่ใจหรือว่าจะออก
+DelFavorite=คุณแน่ใจหรือว่าจะลบ %s
+NewVersion=เวอรชั่นใหม่ของ Tunngle ออกแล้ว \r\n คุณต้องการจะดาวน์โหลดตอนนี้ไหม
+[Global-MessageBox-Error]
+NotInstalled=ติดตั้ง Tunngle ไม่ถูกต้อง
+[Global-Text-Dynamic]
+Loading=กำลังโหลด %s...
+FromTo=%d ถึง %d of %d
+LastAct=ปรับปรุงล่าสุด: %s
+Lobby=Lobby (%d)
+ChatJoined=<%s "%s" ได้เข้าสู่แชท>
+Version=เวอร์ชั่น: %s
+Connecting=กำลังเชี่ยมต่อ %s
+ChatMe=ฉัน: %s
+PingMs=Ping: %s ms
+ChannelMode=Type: %s
+Ports=Port: %s
+[Global-Text-Static]
+CaptionTunnglenews=ข่าว Tunngle
+CaptionBetainfo=ข้อมูลเบต้า
+CaptionDownloadarea=แหล่งดาวน์โหลด
+CaptionResults=ผลลัพธ์
+CaptionChat=แชท
+CaptionLobby=ล๊อบบี้
+CaptionNetwork=Network
+CaptionEventplaner=Event Planner
+CaptionForumfaq=ฟอรั่ม FAQ
+CaptionForum=ฟอรั่ม
+CaptionTunngleskins=Tunngle Skin
+CaptionSearch=ค้นหา
+CaptionBrowser=Browser
+CaptionSkinconfig=ตัวเลือก Skin
+CaptionSoundconfig=เสียง
+CaptionPrivacylists=แบล็คลิสต์
+CaptionConfiguration=ตัวเลือก
+CaptionFavorite=บุ๊คมาร์ค
+CaptionSubBrowser=เครือข่าย
+SplashPleaseWait=กรุณารอสักครู่...
+SplashLoaddata=กำลังโหลดข้อมูล...
+SplashLoading=กำลังโหลด...
+SplashConnecting=กำลังติดต่อ...
+SplashVersion=เช็คเวอร์ชั่น...
+SplashServicecontact=กับลังติดต่อกับเซอร์วิซของ Tunngle
+SplashServercontact=กำลังติดต่อกับเซิร์ฟเวอร์ของ Tunngle
+SplashConfigurate=ปรับแต่ง Tunngle...
+SplashWinSock2=ปรับแต่ง network...
+SearchInWork=กำลังค้นหา...
+Lobby=ล๊อบบี้
+NetLeft=ออกจาก network
+NoIP=Virtual IP: -
+ChatJoined=เข้าห้องแชทสำเร็จ
+NetJoined=เข้า network สำเร็จ
+LobbyJoined=เข้าล็อบบี้สำเร็จ
+FoundNothing=ไม่มีผลลัพธ์!
+NetChangeBegin=กำลังเปลี่ยนเน็ตเวิร์ค รอสักครู่
+NetChangeEnd=เปลี่ยนเน็ตเวิร์คสำเร็จ รอสักครู่
+NotLoggedIn=คุณยังไม่ได้ล็อกอิน
+EnterNamePW=กรุณาใส่ username และ password
+MessageSendFail=* ไม่สามารถส่งข้อความได้ *
+MessageSendFlood=คุณส่งข้อความเร็วเกินไป กรุณาส่งให้ช้าลง
+LaunchParameter=Command line parameters:
+TypeStandard=Tunngler
+TypeTunngleTeam=ทีม Tunngle
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=คอมมิวนิตี้
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=ค้นหาเน็ตเวิร์คและเพื่อน
+SpeedButtonCommunity2=ไปที่แท็บที่ทำงานอันสุดท้าย
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=หน้าเริ่มต้น
+ButtonQABetaInfo=ข้อมูล beta
+ButtonQAForum=ฟอรั่ม
+ButtonQAEventPlanner=Event Planner
+ButtonQALobby=ล็อบบี้ของ Tunngle
+ButtonQAFavorites=บุ๊คมาร์ค
+[FormMain-TspSkinExPanel-Caption]
+ExPanelFindnetwork=ค้นหาเน็ตเวิร์ค
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=ค้นหา
+MenuItemNetFavorite=บุคมาร์ค
+MenuItemNetCreate=สร้าง
+MenuItemTunnglelobby=ล็อบบี้ของ Tunngle
+MenuItemEventplaner=Event Planner
+MenuItemSounds=เสียง
+MenuItemSkins2=สกิน
+MenuItemPrivacylists=แบล๊คลิสท์
+MenuItemConfiguration=ตัวเลือก
+MenuItemAbout=เกี่ยวกับ Tunngle
+MenuItemTrayOpen=เปิด
+MenuItemTrayClose=ปิด
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=แจ้งเตือน
+MenuItemAddContact=เพิ่มเพื่อน
+MenuItemAddBlacklist=เพิ่มแบล็คลิสต์
+MenuItemEditBlacklist=แก้ไขแบล็คลิสต์
+MenuItemSortNicks=เรียงชื่อเล่น
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=ส่ง
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=แชท:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< ย้อนกลับ
+ButtonForward=ถัดไป >>
+ButtonActualize=รีเฟรช
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=ชื่อ
+ListViewNet-1=ออนไลน์
+ListViewNet-2=ประเภท
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=เพิ่มบุ๊คมาร์ค
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=รีเฟรช
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=ชื่อ
+ListViewNet-1=ออนไลน์
+ListViewNet-2=ประเภท
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=เพิ่มบุ๊คมาร์ค
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< ย้อนกลับ
+ButtonForward=ถัดไป >>
+ButtonActualize=รีเฟรช
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=ชื่อ
+ListViewNet-1=ออนไลน์
+ListViewNet-2=ประเภท
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=ลบบุ๊คมาร์ค
+MenuItemSortFavorite=เรียงบุ๊คมาร์ค
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=รีเฟรช
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=ชื่อ
+ListViewNet-1=ออนไลน์
+ListViewNet-2=ประเภท
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=ลบบุคมาร์ค
+MenuItemSortFavorite=เรียงบุคมาร์ค
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Forwarded port
+CheckRadioBoxUPnP=ใช้ UPnP
+CheckRadioBoxTCActive=เปิดใช้งาน
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=ตกลง
+ButtonAccept=ยืนยัน
+ButtonCancel=ยกเลิก
+ButtonTest=ทดสอบ
+ButtonDefault=ค่าพื้นฐาน
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=อินเตอร์เฟซ
+GroupBoxNetconfig=เน็ตเวิร์ค
+GroupBoxRouterconfig=เราท์เตอร์
+GroupBoxTrafficcontroller=ตัวควบคุมการเคลื่อนย้าย
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=ภาษา
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle ค้นหา
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=ตัวกรองต่างๆของการค้นหา
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=ตัวกรองต่างๆของการค้นหา >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< ย้อนกลับ
+ButtonForward=ไปข้างหน้า >>
+ButtonActualize=รีเฟรช
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=ชื่อ
+ListViewResults-1=ออนไลน์
+ListViewResults-2=ประเภท
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=เพิ่มเข้าสู่ ที่คั่น
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=แจ้งเตือน
+MenuItemAddContact=เพิ่มเพื่อน
+MenuItemAddBlacklist=เพิ่มแบล็คลิสต์
+MenuItemEditBlacklist=แก้ไขแบล็คลิสต์
+MenuItemSortNicks=เรียงชื่อเล่น
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=ส่ง
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=แชท:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=ตกลง
+ButtonAccept=ยืนยัน
+ButtonCancel=ยกเลิก
+ButtonFind=ค้นหา
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=ชื่อเล่น
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=ค้นหา
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=บัญชีดำของโลก
+StdLabelChatmessages=บัญชีดำของแชท
+StdLabelName=ชื่อ
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=ลบ
+MenuItemDeleteChat=ลบ
+MenuItemAddBlacklist=เพิ่มแบล็คลิสต์
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=ตกลง
+ButtonAccept=ยืนยัน
+ButtonCancel=ยกเลิก
+ButtonDownload=ดาวน์โหลดสกินเพิ่มเติม
+ButtonDefault=สกิน Tunngle พื้นฐาน
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=พรีวิว
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=ตกลง
+ButtonAccept=ยืนยัน
+ButtonCancel=ยกเลิก
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=เปิดใช้งานเสียง
+CheckRadioBoxLogin=ล็อคอิน
+CheckRadioBoxLeave=Tunngler ได้ออกจากเน็ตเวิร์ค
+CheckRadioBoxJoin=Tunngler ได้เข้าร่วมเน็ตเวิร์ค
+CheckRadioBoxReceive=ได้รับข้อความ
+CheckRadioBoxQuit=ปิด
+CheckRadioBoxSend=ข้อความถูกส่งแล้ว
+CheckRadioBoxDirectopen=หน้าต่างใหม่ของแชทโดยตรง
+CheckRadioBoxDirectmessage=ได้รับข้อความการแชทโดยตรงแล้ว
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=เบราเซอร์
+ButtonFavorite=บุ๊คมาร์ค
+ButtonBetainfo=ข้อมูล Beta
+ButtonForum=ฟอรั่ม
+ButtonEventplaner=การวางแผนกิจกรรม
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=ย้อนกลับ
+StatusPanelForward=ไปข้างหน้า
+StatusPanelStop=หยุด
+StatusPanelReload=รีเฟรช
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=ย้อนกลับ
+StatusPanelForward=ไปข้างหน้า
+StatusPanelStop=หยุด
+StatusPanelReload=รีเฟรช
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=การแจ้งเตือน
+MenuItemAddContact=เพิ่มเพื่อน
+MenuItemAddBlacklist=เพิ่มแบล็คลิสต์
+MenuItemEditBlacklist=แก้ไขแบล็คลิสต์
+MenuItemCopyIP=คัดลอก IP ไปยังคลิปบอร์ด
+MenuItemSortNicks=เรียงจากชื่อ
+MenuItemSortIPs=เรียงจากปิง
+MenuItemConfig=ตั้งค่า
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=ส่ง
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=แชท:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=ปิด
+[FormAbout-Infos]
+Caption=เกี่ยวกับ Tunngle
+[FormLogin-Infos]
+Caption=ล๊อคอิน
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=ล็อคอิน
+ButtonCancel=ยกเลิก
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=ชื่อยูสเซอร์ :
+LabelPassword=พาสเวิร์ด
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=จดจำ
+CheckRadioBoxAuto=ล๊อคอิน อัตโนมัติ
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=สมัคร Tunngle account ฟรี
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=ยกเลิก
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=ส่ง
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=แชท:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=เพิ่มกลุ่ม
+MenuItemContactAdd=เพิ่ม contact
+MenuItemContactInfo=ข้อมูล contact
+MenuItemContactRename=แกไขชื่อ contact
+MenuItemContactDelete=ลบ contact
+MenuItemContactHideOffline3=ซ่อน ออฟไลน์
+MenuItemTunngleShares2=Tunngle แชร์
+MenuItemGroupRename=เปลี่ยนชื่อกลุ่ม
+MenuItemGroupDelete=ลบกลุ่ม
+MenuItemContactHideOffline=ซ่อน ออฟไลน์
+MenuItemMain=&เมนู
+MenuItemAddContact=เพิ่มรายชื่อผู้ติดต่อ
+MenuItemInNetwork=ข้อมูล Network
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=ยกเลิก
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=ไฟล์
+ListViewLanguage-1=ภาษา
+ListViewLanguage-2=ผู้แต่ง
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=ต่อไป
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=โปรดเลือกภาษาของ Tunngle
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=ชื่อ
+ListViewAdapter-1=IP
+ListViewAdapter-2=ชื่อของอุปกรณ์
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=ต่อไป
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=โปรดเลือกอแดปเตอร์ของ Tunngle
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=ตกลง
+ButtonCancel=ยกเลิก
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=แชทเท่านั้น
+CheckRadioBoxComplete=แบน
+CheckRadioBoxHours=ชั่วโมง
+CheckRadioBoxDate=จนกว่า
+CheckRadioBoxInfinite=ตลอดไป
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=ตกลง
+ButtonCancel=ยกเลิก
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=ใส่รหัสผ่าน:

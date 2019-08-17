@@ -1,0 +1,971 @@
+
+Tunngle Changelog
+
+------------------------------
+5.8.9		(30.06.2017)
+
+	- Behoben: Game lags und Verbindungsprobleme bei hoher Systemauslastung.
+	- Verbessert: Anpassungen für Windows 10.
+
+------------------------------
+5.8.8		(14.12.2016)
+
+	- Verbessert: Netzwerk Engine und Service überarbeitet (behebt disconnects, crashes usw.).
+	- Verbessert: Bessere peer to peer Verbindung.
+	- Behoben: Einige rote X Probleme.
+	- Hinzugefügt: Traffic Controller (überwacht die upload Bandbreite).
+	- Hinzugefügt: Game Finder (kann aktiviert werden um offene Spiele besser zu finden).
+	- Behoben: Freunde bleiben grau oder werden nicht aktualisiert.
+	- Behoben: Altersabfrage erscheint bei jedem Start.
+	- Verbessert: Adapter Erkennung und Startvorgang.
+	- Behoben: Favoriten wurden nicht gespeichert.
+	- Verbessert: Anzeigen der Startseite sowie anderer Webframes.
+	- Behoben: Network range emulator.
+	- Behoben: Einstellung des lokalen Netzwerk Adapters bleibt wie eingestellt.
+	- Behoben: Falscher online Status der Freunde.
+	- Verbessert: Mindestgröße des Clients herabgesetzt für Basic Plus, Premium und Lifetime.
+	- Verbessert: Installation von Tunngle.
+	- Verbessert: Netzwerk beitreten Vorgang.
+	- Verbessert: Nicht benötigte Plugins im internen Webbrowser gesperrt.
+	- Behoben: Banner stehlen nicht mehr den Fokus.
+	- Behoben: Tunngle DNS Option standardmäßig deaktiviert (kann Problem beheben das z.B. den Webbrowser stört).
+	- Verbessert: Weitere Filterregeln hinzugefügt.
+	- Verbessert: Die Verbindung zu den Tunngle Servern stabilisiert.
+	- Behoben: Probleme bei Forcebind Installation.
+
+------------------------------
+5.8.7		(23.06.2016)
+
+	- Verbessert: Neuer Prozessspeichermanager für Tunngle.exe und TnglCtrl.exe (verhindert Absturz/Einfrieren).
+	- Hinzugefügt: Tunngle Grey Skin.
+	- Hinzugefügt: Tunngle Skin Auswahlmöglichkeit während der Installation.
+	- Verbessert: Banner werden nicht mehr vor dem Einloggen angezeigt (Premium Funktion).
+	- Verbessert: Das Sponsor Fenster ist jetzt weniger aufdringlich.
+	- Verbessert: Stabilität des Thread Handlers im Dienst erhöht.
+	- Hinzugefügt: Option um die Sounds der Web Frames zu deaktivieren.
+	- Hinzugefügt: Netzwerk Listen Suchreihenfolge wird jetzt gespeichert.
+	- Behoben: Tunngle Abstürze und Verbindungsabbrüche.
+
+------------------------------
+5.8.6		(11.05.2016)
+
+	- Behoben: Verbindungsprobleme beim Netzwerkwechsel.
+
+------------------------------
+5.8.5		(10.05.2016)
+
+	- Update: Tunngle Adapter Driver v9.0.0.21.
+	- Verbessert: Adapter setup und Treiber Verzeichnis Struktur.
+	- Verbessert: Game Launcher (Play Button, ForceBind support, als Admin ausführen, Windows Firewall Einträge).
+	- Behoben: Nicht schließbares Sponsor Fesnter.
+	- Behoben: Error 2-109 falsch positiv entfernt.
+	- Verbessert: Sponsor Fenster Position und Zähler.
+	- Behoben: Tunngle.exe startet micht.
+	- Behoben: Tunngle Service Fehlermeldungen.
+	- Behoben: Weitere Fehler in Tunngle.exe und Tnglctrl.exe (Zugriffsverletzungen).
+	- Behoben: Direkt Chat Fenster stiehlt Fokus (auch von Fullscreen Spielen).
+	- Behoben: Spiele Angebote waren nicht aktuell.
+	- Verbessert: Filter erweitert um Logitech software LAN Traffic Flut zu droppen.
+	- Behoben: Arbeitsverzeichniss Problem vom Game launcher.
+
+------------------------------
+5.8.4		(22.12.2015)
+
+	- Update: Neue Treiber Signatur für die Spieler die Probleme hatten den Adapter zu installieren.
+
+------------------------------
+5.8.3		(07.12.2015)
+
+	- Behoben: Fehler Zugriffsverletzung tritt sporadisch auf.
+	- Behoben: Fehlende Adapter Signatur auf Windows 7, Windows 8 und Windows 8.1.
+
+------------------------------
+5.8.2		(04.12.2015)
+
+	- Hinzugefügt: Adapter Treiber durch Microsoft signiert (das sollte den Windows Treiber Signatur Fehler beheben).
+
+------------------------------
+5.8.1		(30.11.2015)
+
+	- Behoben: Plötzlich auftauchende Fehler (Zugriffsverletzungen).
+	- Behoben: Netzwerk Game Launcher funktioniert nicht.
+	- Behoben: Netzwerk Adapter Treiber Signatur Fehler.
+
+------------------------------
+5.8			(27.11.2015)
+
+	- Verbessert: Adapter Signatur Fehler auf einigen Systemen. 
+	- Hinzugefügt: Erweiterte Startseite. 
+	- Hinzugefügt: Startseiten Hilfe System (für Übersetzungen bitte im Forum melden). 
+	- Hinzugefügt: Startseiten Services (Video, Forum, Spiele, Hilfe). 
+	- Behoben: Start Problem bei Processoren ohne SSE2. 
+	- Update: Tunngle.Net GmbH Zertificat Stamp. 
+	- Behoben: Sponsor Fenster kann nicht geschlossen werden.
+
+------------------------------
+5.7			(27.10.2015)
+
+	- Hinzugefügt: Netzwerkadapter kann für lokale Verbindungen ausgewählt werden.
+	- Verbessert: Erkennung der lokalen Netzwerk Verbindungen.
+	- Hinzugefügt: Altersabfrage.
+	- Hinzugefügt: Position des Clients wird abgespeichert.
+	- Verbessert: Tunngle Client und Server Stabilität.
+
+------------------------------
+5.6			(25.09.2015)
+
+	- Hinzugefügt: Lösung um Windows 10 Probleme mit dem Tunngle Adatper zu beheben.
+	- Hinzugefügt: Tunngle Basic Plus Funktionalität.
+	- Hinzugefügt: Chat Tipps.
+	- Verbessert: Unterstützung für die Inhalte des Embedded Webbrowsers.
+	- Behoben: Probleme beim betreten einiger Netzwerke.
+	- Behoben: Überfliegen einer Member ID im Chat verursacht Probleme.
+
+------------------------------
+5.5			(27.08.2015)
+
+	- Behoben: Problem mit dem ARP Controller.
+	- Behoben: Gegenseitige Übernahme des Fokus in Direkt Chat Fenstern.
+	- Verbessert: Unterstützung für Media Inhalte des Embedded Webbrowsers.
+
+------------------------------
+5.4			(25.08.2015)
+
+	- Verbessert: System für angezeigte Werbung im Client.
+	- Verbessert: Tunngle Netzwerk Adapter Steuerung für mehr Stabilität und Performance.
+	- Hinzugefügt: Netzwerk Broadcast Modul um gehostete Spiele zuverlässiger anzuzeigen. (z.B. Assetto Corsa)
+
+------------------------------
+5.3			(14.07.2015)
+
+	- Hinzugefügt: Chromium Embedded Framework 3.
+	- Verbessert: Client Stabilität und Performance.
+
+------------------------------
+5.2			(10.03.2015)
+
+	- Behoben: Client Absturz/Einfrieren beim Start.
+
+------------------------------
+5.1			(17.01.2015)
+
+	- Behoben: Eingehende direkte Chat-Nachrichten minimieren Vollbild-Spiele.
+	- Hinzugefügt: Manuelle Wiederverbindung für Basic Mitglieder.
+	- Hinzugefügt: Automatische Wiederverbindung für Premium Mitglieder.
+	- Hinzugefügt: Automatischer Programm-Updater für Premium Mitglieder. 
+	- Behoben: Falscher Programmname unter Windows „Programme hinzufügen/entfernen“.
+	- Behoben: Port für Port-Freigabe wechselt nach Update auf 0.
+	- Hinzugefügt: G2A Spiele-Kauf Option.
+	- Behoben: Nachrichten-Box Schleife bei Wechsel der Netzwerke.
+	- Behoben: Russische Installationskonsole zeigt keine kyrillischen Schriftzeichen.
+	- Behoben: Adapter Abfrage Routinen.
+	- Behoben: Probleme bei der Adapter-Aktualisierung.  
+	- Verbessert: Wechsel auf Unicode Installer für bessere Mehrsprachen-Unterstützung.
+	- Behoben: Black-List Abfrage fehlerhaft wenn Spieler zum Netzwerk wiederverbindet.
+	- Behoben: Langsamer/fehlerhafter Installationspaket Download bei Nutzung des Online-Installers.
+	- Behoben: Steuerelement zum Ablösen der Lobby zeigt falschen Status nach Klick.
+	- Behoben: Fehlerhafter Spielerstatus bei der Aktualisierung abgelöster Lobbies.
+	- Behoben: Abgelöste Lobbies ohne Benachrichtigungen.
+	- Verbessert: Ladeprozesse für integrierte Web-Fenster.
+	- Behoben: Überfliegen einer Member ID im Chat verursacht Fehlermeldung und Programmabsturz.
+	- Behoben: Überfliegen einer Member ID im Chat zeigt fehlerhaftes Aktionsmenü.
+	- Behoben: Community Banner übernimmt Fokus des Netzwerk-Chat-Eingabefensters.
+	- Behoben: Chat Lobby kann nach dem Verlassen nicht mehr betreten werden.
+
+------------------------------
+5.0			(03.11.2014)
+
+	- Beta Status verlassen.
+	- Premium Funktionen stehen jetzt zur Verfügung.
+	- Neuer Standard Skin: Tunngle White.
+	- Die Netzwerk-Tabs haben jetzt ein gleiches Aussehen.
+	- Den erweiterten Netzwerk-Erstellen-Tab überarbeitet.
+	- Chat-Lobbys können als eigenständige Fenster dargestellt werden.
+	- Update der Sprachdateien.
+	- Interlink Fehler behoben.
+	- Freunde werden in Netzwerken hervorgehoben (Premium Funktion).
+	- Zeit der Darstellung von Hints erhöht.
+	- Interlink Server sind jetzt in eigener Gruppe.
+	- Neue Option um Freundesanfragen automatisch anzunehmen oder abzulehnen.
+	- Menüstrukturen überarbeitet. 
+	- Den Blacklist-Handler überarbeitet.
+	- Viele weitere Fehler behoben.
+
+------------------------------
+4.5.1.4b	(22.01.2014)
+
+	- Zertifikat eingebunden.
+
+------------------------------
+4.5.1.4		(06.11.2013)
+
+	- Neues Zertifikat eingebunden.
+
+------------------------------
+4.5.1.3		(02.09.2013)
+
+	- Tunngle Video für den Einstieg hinzugefügt.
+	- Fehler behoben welcher bei Modems bzw. Direkt-Verbindungen auftrat.
+	- Stabilität und Performance der Banner-Anzeigen erhöht.
+	- Adobe Flash Player Erkennung hinzugefügt um Anzeigefehler zu vermeiden.
+	- Stabilität und Performance der Tunngle Server-Verbindungen erhöht.
+
+------------------------------
+4.5.1.2		(16.08.2013)
+
+	- Fehler in der NAT Router Erkennung behoben.
+
+------------------------------
+4.5.1.1		(08.08.2013)
+
+	- Stabilität des Netzwerk-Beitreten-Ablaufs erhöht.
+	- Beitritt der privaten Netze stabilisiert.
+	- Fehler in der NAT Router Erkennung behoben.
+	- Fehler in der automatischen Rotation der Sidebar behoben.
+	- Client freeze behoben.
+	- NAT Router Erkennung hinzugefügt.
+
+------------------------------
+4.5.1.0		(30.07.2013)
+
+	- Problem behoben dass der Fokus der Chatzeile verloren geht.
+	- Quickbutton Icon korrigiert.
+	- Fehler beim Herunterfahren von Windows behoben.
+	- Fehler vom Launcherbutton behoben.
+	- Die RuntimeData Registry-Einträge korrigiert.
+	- Adapter-Start Problem behoben.
+	- Tunngle-Adapter als primär setzen Problem behoben.
+	- Problem mit der Adapter-Konfiguration behoben (DHCP).
+	- Probleme in der Adapter-Bereit Überprüfung behoben.
+	- Probleme bei der Adapter-Erkennung behoben.
+	- Problem mit Verbindungen nach einem Reconnect behoben.
+	- Tunngle-Adapter Initialisierung optimiert.
+	- Portforward Test für eine zuverlässigere Erkennung erweitert.
+	- Verbindungen in Netzwerken optimiert.
+
+------------------------------
+4.5.0.1		(24.06.2013)
+
+	- Fehler behoben der unnötig Verbindungen zum Webserver offen hält.
+	- Problem behoben dass teilweise nicht auf die Webserver zugegriffen werden kann.
+	- Optimierungen für die Zugriffe auf die Webserver vorgenommen.
+
+------------------------------
+4.5.0.0		(21.06.2013)
+
+	- Neuen Adress-Bereich für Netzwerke hinzugefügt: 10.0.0.0/8
+	- Adress-Vergabe bei Emulationen kann jetzt vom Server für eindeutige IPs vergeben werden.
+	- Client erweitert um Premium anbieten zu können.
+	- Stabilität und Performance der Tunngle Server erhöht.
+	- Einlog-Sound überarbeitet.
+	- Auto-Popup-Blocker für Banner hinzugefügt.
+	- Banner werden nun deaktiviert sobald der Client nicht den Fokus hat.
+	- Richedit Fehler behoben.
+	- OnShow-Fehler behoben.
+	- Stabilität und Performance der Banner-Anzeigen erhöht.
+	- Problem behoben, bei dem nach dem einloggen die Kategorien nicht angezeigt wurden.
+	- Assistent um das Tunngle Intro Video erweitert.
+	- Verbindungs- und Einlog-Geschwindigkeit erhöht.
+	- Startvorgang vom Client beschleunigt und Stabilität erhöht.
+	- Problem mit Freezes beim Start vom Client behoben.
+	- Flackern beim Start des Clients entfernt.
+	- Problem behoben bei dem Tunngler online angezeigt wurden obwohl diese bereits offline waren.
+	- NAT-Erkennung erweitert um besser die Verbindungen in Netzwerken herstellen zu können.
+	- Fehler in der NAT-Erkennung behoben.
+	- Fehler im automatischen Reconnect behoben.
+	- Verbindungsprobleme behoben.
+	- Fehler im Tunngle Desktop Gadget behoben, der auftritt wenn Internet Explorer 10 installiert ist.
+
+------------------------------
+4.4.4.1		(20.03.2013)
+
+	- "Nicht wieder anzeigen" Fehler der Tipps-Leiste behoben.
+	- Fehler behoben welcher das Editieren im Chatfenster ermöglicht hat.
+	- Fehlende ID für die Netzwerk verlassen Nachricht hinzugefügt.
+	- Automatische Textgrößen-Anpassung für die Tipps-Leiste hinzugefügt.
+	- Anzeigefehler in den Favoriten behoben.
+
+------------------------------
+4.4.4.0		(13.03.2013)
+
+	- Option zum Ausblenden der Community-Banner für Premium und Lifetime Tunngler hinzugefügt.
+	- Farbliche Hervorhebung für Premium, Lifetime und Enthusiasten im Chat der Netzwerke hinzugefügt.
+	- Links können jetzt im Chat durch anklicken geöffnet werden.
+	- Premium Feature hinzugefügt um den Nickname ändern zu können.
+	- Die Oberfläche zum Erstellen von privaten Netzwerken wurde optimiert.
+	- Tunngle API Fehler behoben.
+	- Suchoptionen hinzugefügt um nach der ID suchen zu können.
+	- Netzwerklog enthält jetzt auch die IDs.
+	- Hilfe Tipps hinzugefügt um die Benutzeroberfläche verständlicher zu machen.
+	- Eine grafische Anzeige für den Tunngle Account Status hinzugefügt.
+	- Youtube Quickbutton hinzugefügt.
+	- Wenn der Tunngle Client noch gestartet ist, wird dieser bei nochmaligem Starten in den Vordergrund geholt.
+	- Autoscrolling im Chat der Netzwerke optimiert.
+	- Weitere Mouseover Tipps hinzugefügt.
+	- Sonstige optische Verbesserungen vorgenommen.
+	- Nach dem Einloggen wird der vorherige Status des Messengers wiederhergestellt (ob dieser sichtbar oder ausgeblendet war).
+
+------------------------------
+4.4.3.1		(26.11.2012)
+
+	- Fehler bei Lobby-Beitritt behoben.
+
+------------------------------ 
+4.4.3.0		(26.11.2012)
+
+	- Premium Netzwerke hinzugefügt.
+	- Tunngle Lifetime Funktionen hinzugefügt.
+
+------------------------------ 
+4.4.2.0		(15.11.2012)
+
+	- Der Verbindungsaufbau des Messengers wurde überarbeitet.
+	- Alle Bereiche des Messengers wurden geskinnt und sprachlich angepasst.
+	- Jedes Chatfenster hat jetzt einen eigenen Task in der Taskbar.
+	- Das Voting wird nun nicht mehr bei jedem Start angezeigt.
+	- Netzwerk verlassen Sounds werden nicht mehr nach verlassen des Netzes abgespielt.
+	- Fehlgeschlagene Verbindungen werden jetzt im Netzwerk angezeigt.
+	- Tunngle verhindert jetzt nicht länger das Herunterfahren oder den Neustart von Windows.
+	- Weitere Fehler behoben und Optimierungen vorgenommen.
+
+------------------------------ 
+4.4.1.5		(02.10.2012)
+
+	- Anpassungen in der "C:\program" Abfrage vorgenommen.
+	- Das Symbol um den Sound zu deaktivieren geändert.
+	- Änderungen in den WebFrames vorgenommen um diese skinbar zu machen.
+	- Chat Befehle hinzugefügt (/help /ipsearch).
+	- Änderungen für bessere Performance und Stabilität an den Servern vorgenommen.
+
+------------------------------ 
+4.4.1.4		(25.09.2012)
+
+	- Fehler behoben und optimiert.
+	- Neue Zertifikate eingebunden.
+
+------------------------------ 
+4.4.1.3		(19.07.2012)
+
+	- Freezes beim Startvorgang behoben.
+	- Tunngle DNS Syntax geändert: von "t.nickname" zu "nickname.t".
+	- UPnP Probleme für einige Router behoben.
+	- UDP Socket Probleme behoben "4-104 (2)".
+	- Icon für die Soundstuerung in die Statusleiste zugefügt.
+
+------------------------------ 
+4.4.1.2		(01.06.2012)
+
+	- Adapter installations Probleme behoben.
+
+------------------------------
+4.4.1.1		(30.05.2012)
+
+	- Problem behoben welches den Focus von der Chatzeile verloren hat.
+	- Nicht wieder anzeigen Option in den Schließen-Dialog hinzugefügt.
+	- Die Adressen des neuen Rechenzentrums hinzugefügt.
+	- Windows 8 installations Problem behoben.
+	- Tunngle API Probleme behoben.
+
+------------------------------
+4.4.1.0		(19.04.2012)
+
+	- Die Benutzeroberfläche überarbeitet.
+	- Kommando hinzugefügt um den Text im Chatfenster zu löschen: /clear
+	- Port Status Icon hinzugefügt.
+	- Eine neue Webbrowser Engine hinzugefügt. 
+	- Blacklist Fehler behoben bei mehr als 23 Stunden.
+	- Französische Sprache im Installer hinzugefügt.
+	- Anpassungen im NRE vorgenommen.
+	- Helpbutton Sichtbarkeit verbessert.
+	- Crashes und Freezes beim Startvorgang behoben.
+	- Startvorgang von Tunngle beschleunigt.
+
+------------------------------
+4.4.0.1		(14.02.2012)
+
+	- Fehler behoben welcher fehlerhafte Chatnachrichten angezeigt hat.
+	- Fehler in der Aktivierung behoben.
+	- Kommando für den Launcher zum betreten privater Netzwerke hinzugefügt:
+		tunngle://JoinPrivNet NetzwerkName
+		C:\Programme\Tunngle\Launcher.exe JoinPrivNet NetzwerkName
+	- Button zum bewerden der privaten Netzwerke hinzugefügt.
+	- PingInterval über die Tunngle MainServer Verbindung optimiert.
+	- Einige Texte in den SprachFiles angepasst.
+	- Kommando hinzugefügt um Störenfriede (Cheater, Spammer...) direkt im Chat über die Tunngle IP zu bannen:
+		/BanIP 7.0.0.1
+	- Ex- und Import Funktion für BlackLists hinzugefügt.
+
+------------------------------
+4.4.0.0		(08.02.2012)
+
+	- Es können jetzt eigene Netzwerke erstellt werden.
+	- Verbindungsprobleme im lokalen Netzwerk behoben.
+	- Verbindungstechnik in Netzwerken überarbeitet und verbessert.
+	- CPU Last für das sortieren der Nicklisten in Netzwerken deutlich gesenkt.
+	- Das Profil der anderen Tunngler im Netzwerk kann jetzt abgerufen werden.
+	- Einige Social Menüpunkte unter Community eingefügt.
+	- Einige kleinere Fehler und Stabilitätsprobleme behoben.
+
+
+------------------------------
+4.3.3.0		(12.12.2011)
+
+	- Netzwerk Bereichs Emulator (NRE) hinzugefügt.
+	- Das Autoscrolling wird im Chatfenster deaktiviert sobald es den Focus hat.
+	- Das Tunngle Gadget für Windows 7 und Vista geupdatet.
+	- Language Pack geupdatet.
+	- Flackern und Einfrieren des Chatfensters behoben.
+
+
+------------------------------
+4.3.2.6		(25.11.2011)
+
+	- Das Tunngle Gadget für Windows 7 und Vista hinzugefügt.
+	- Der Dienst wird jetzt erst durch den Programmstart gestartet.
+	- Fehler bei der Kommunikation behoben. (Einlogprobleme, Netzwerkbeitritt)
+
+
+------------------------------
+4.3.2.5		(14.10.2011)
+
+	- Fehler im integrierten Webbrowser behoben.
+	- Fehler bei Parameterübergabe in der Tunngle API behoben.
+	- Netzwerkbeitritt überarbeitet.
+	- SkinEngine aktualisiert.
+
+
+------------------------------
+4.3.2.4		(04.08.2011)
+
+	- Fehler bei URL Auflösung für WikiLinks behoben.
+	- Fehler im Installer behoben und optimiert.
+	- Neue Zertifikate eingebunden.
+	- Fehler bei Portfreigabe Test behoben.
+	- Icons für Status der Nicknames im Netzwerk hinzugefügt.
+	- Im Netzwerk können jetzt die Nicknames nach Ping sortiert werden.
+	- Weitere Informationen in den Hints im Netzwerk der Nicknames hinzugefügt.
+	- Wenn ein Netzwerk voll ist und betreten werden soll erscheint jetzt eine Meldung.
+	- Versionsprüfung zwischen GUI und Dienst hinzugefügt.
+
+
+------------------------------
+4.3.2.3		(15.07.2011)
+
+	- Nutzung der neueren IP API Funktionen von Windows hinzugefügt.
+
+
+------------------------------
+4.3.2.2		(15.06.2011)
+
+	- ARP Problem unter Windows XP gefixt.
+	- Downloadlink im Client für Updatebenchrichtigung aktualisiert.
+	- Probleme mit Helpbutton behoben.
+
+
+------------------------------
+4.3.2.1		(08.06.2011)
+
+	- Icons und Grafiken im Client gegen die neuen Tunngle Logos ausgetauscht.
+	- IP-Adressen Feld im Client vergrößert um Anzeigefehler zu geheben.
+	- Neue Funktionen in API hinzugefügt (z.B. Netzwerk verlassen).
+	- API für GameMaker 8.1 hinzugefügt.
+	- Fehler in API behoben.
+	- Grundlage für die erstellung von Communities hinzugefügt.
+	- Skin branding Möglichkeit sowie Webcontent Farbanpassung hinzugefügt.
+	- Italienischen Installer hinzugefügt.
+	- Server Stabilität erhöht.
+	- Multilingualität für den Netzwerk Passwortdialog hinzugefügt.
+	- Parameter für den LaunchButton hinzugefügt.
+	- Statusbalken für Ladevorgänge grafisch überarbeitet.
+	- Grafikengine aktualisiert.
+	- OpenSSL Library aktualisiert.
+	- Registrierlink im Einlogdialog angepasst.
+	- Fehler in der Suche der Blacklist behoben.
+	- NetFilter.dll aktualisiert (FirstData Event).
+	- Fehler im RoutenHandling behoben.
+	- Problematik mit der Firewallfunktion "ARP Cache protection" behoben.
+	- Downloadlink im Client aktualisiert.
+	- Debugmöglichkeit für den Service Start hinzugefügt.
+	- ARP Bug behoben.
+	- Debug Infos erweitert.
+	- Windows Firewall Zonen Check hinzugefügt.
+	- Port Freigabe Bug behoben. (LAN, Modem)
+	- Generelle Verbesserungen in Adapter und Connectionhandlings hinzugefügt.
+	- Failsafe Methoden in Adapter und Connectionhandlings hinzugefügt.
+	- Anzeige Fehler im LauncherButton behoben.
+	- Tunngle Mainserver Communikationstest erweitert.
+	- Command Version Handler hinzugefügt.
+	- Funktion hinzugefügt um den Tunngle Adapter überprüfen zu können.
+	- Anzahl der Skins reduziert.
+	- Fehler behoben der willkürlich WebBrowser Fenster geöffnet hat.
+	- Der Hilfebutton blinkt kurz wenn man ein Netzwerk betritt.
+
+
+------------------------------
+4.3.2.0		(22.11.2010)
+
+	- Tunngle Interlink Funktionalität hinzuzgefügt.
+	- Anpassungen für die neue Website an der Benutzeroberfläche vorgenommen.
+	- Einen Launch- und Moviebutton in den Netzwerkframe eingefügt.
+	- Einen Wikibutton für Hilfestellungen hinzugefügt.
+	- Hilfesystem für Fehler- und Messageboxen ausgebaut.
+	- UPnP ist jetzt für mehrere Rechner hinter einem Router nutzbar.
+	- Laucher.exe um den startup Befehl erweitert.
+	- Spam- und Floodfilter für den Chat erweitert.
+	- Fehler im LSP-Fix behoben.
+	- Einen Button für die erweiterte Suche hinzugefügt.
+	- Das Werbesystem ausgebaut.
+
+
+------------------------------
+4.3.1.5b	(14.09.2010)
+
+	- Neues Zertifikat implementiert.
+
+
+------------------------------
+4.3.1.5		(06.07.2010)
+
+	- Crash beim Start von Tunngle behoben.
+	- Versions Management des Updaters verbessert.
+
+
+------------------------------
+4.3.1.4		(02.07.2010)
+
+	- Crash beim Start von Tunngle behoben.
+	- Fehler bei der Rotation der Fallback Ports behoben.
+	- Update Download Vorgang verbessert.
+	  (Wenn eine neue Version vorliegt wird diese jetzt direkt runter geladen)
+	- Möglichkeit zum sortieren der Favoriten hinzugefügt.
+	- Moglichkeit zum sortieren der Nicks in Netzwerken hinzugefügt.
+	- Länderspezifische Werbung ist jetzt im Client möglich.
+
+
+------------------------------
+4.3.1.3		(23.06.2010)
+
+	- Lobbies für verschiedene Sprachen hinzuzgefügt.
+	- Server Fehler welcher falsche Tunngler Anzahl in Netzen anzeigt behoben.
+	- Zeitgesteuerte Blacklist hinzugefügt.
+	- Blinkende Buttons in Netzwerk Auflistungen hinzugefügt.
+	- Lokale Netzwerk Logging Funktion hinzugefügt.
+
+
+------------------------------
+4.3.1.2		(12.06.2010) (nicht offizielles Entwickler-Release)
+
+	- Tunngle Steuerungs API hinzugefügt.
+	- Launcher für Command Line Parameter hinzugefügt.
+	- Windows Protocol Handler für Tunngle hinzugefügt.
+
+
+------------------------------
+4.3.1.1		(23.03.2010)
+
+	- Wenn das Tunngle Fenster nicht aktiv ist (Spiel gestartet) wird der Bannerrotation gestoppt.
+	- Der Videoplayer kann jetzt geschlossen werden und die Browser Performance verbessert.
+	- Rechtsklick Menüs in den Web Frames deaktiviert.
+
+
+------------------------------
+4.3.1.0		(19.03.2010)
+
+	- Layered Service Provider Korrektur Funktion hinzugefügt.
+	  (http://en.wikipedia.org/wiki/Layered_Service_Provider)
+	- Skinengine für Layered Skins hinzugefügt.
+	  (http://www.almdev.com/prods/dsf/dsfhistory.htm)
+	- Fehler in der Adapterauswahl behoben.
+	- Banner Funktinalität hinzugefügt.
+	  (http://www.tunngle.net/sig/TunngleName.png)
+	- CheckBox zum ein- und ausschalten der Web Signatur hinzugefügt.
+	- Deadlock beseitigt der beim Chatten auftreten kann.
+	- Benutzeroberfläche um die SideNavigationsBar erweitert.
+	- Sporadisch auftretendes Finalisieren Problem behoben.
+	- Wenn ein Tab schon vorhanden ist wird dieser wieder automatisch aktiviert.
+	- Neue Spachen hinzugefügt.
+
+
+------------------------------
+4.3.0.4		(14.02.2010)
+
+	- Fehler beim Zugriff auf den freigegebenen Port behoben.
+	- Fehler bei Verbindung auf den freigegebenen Port behoben.
+	- Fehler behoben wenn sich zwei lokale Clients verbinden.
+	- Finalisirungs Problem gelöst und beschleunigt.
+	- Nicknames werden jetzt richtig angezeigt.
+	- Port Forward Test bei offline deaktiviert.
+	- Fehler in den Favoriten behoben.
+	- Tunngle lässt sich nicht beenden Fehler behoben.
+	- Kleine Änderungen im Installer vorgenommen.
+	- Problem beim Netzwerk verlassen und betreten behoben.
+	- Benutzerdaten werden jetzt in der Registry abgelegt.
+	  HKEY_CURRENT_USER\Software\Tunngle.net\Tunngle\RuntimeData
+	- Sound beim betreten des Netzwerks deaktiviert.
+	- Netzwerk betreten Freeze behoben.
+	- Hängenbleiben wenn Version veraltet behoben.
+	- Server Problem behoben so dass die p2p Verbindungen jetzt stabiler sind.
+	- Weitere Debug Infos zum Log hinzugefügt.
+	- p2p Verbindungsaufbau zum Portforward optimiert.
+	- p2p Verbindungsaufbau zum Portforward problem gelöst.
+	- Menü im TrayIcon ist Multilingual.
+	- Versionshinweis wird angezeigt wenn eine neue Version verfügbar ist.
+	- Tunngle funktioniert jetzt auch unter eingeschränkten Benutzerkonten.
+	- Im Messenger kann jetzt das aktuelle Netz der Freunde abgefragt werden.
+	- Beim Erststart von Tunngle wird geprüft ob UPnP zur Verfügung steht.
+	- Einen Hilfs und Info Wizard hinzugefügt.
+	- Fallback TCP Ports für unsere Server hinzugefügt.
+	- Sprachen Erkennungs Wizard bei Erststart hinzugefügt.
+	- Adapter Failsafe Wizard hinzugefügt.
+
+
+------------------------------
+4.3.0.3		(31.12.2009)
+
+	- Favoriten für Netzwerke hinzugefügt.
+	- Crash beim Beenden von Tunngle wenn der SkinTab geöffnet ist behoben.
+	- Fehler bei der Sortierung im Netzwerkbrowser behoben.
+	- Fehler beim Zugriff auf den freigegebenen Port behoben.
+	- Event-Planer Button zur Startseite hinzugefügt.
+	- PC kann jetzt heruntergefahren oder neu gestartet werden wenn Tunngle läuft.
+	- Fehler beim hinzufügen zur BlackList behoben.
+	- ICMP Abfrage zu den Servern deaktiviert.
+	  (ist durch eine verbesserte Abfrage nicht länger erforderlich)
+	- Die englischen Texte werden jetzt als Standard verwendet, wenn ein Text in der geladenen Sprache fehlt.
+	- Flood Schutz in den Chat eingefügt.
+	- Informationen für abgelehnte Verbindungen werden jetzt nur noch einmal angezeigt.
+	- Fehler im Installer behoben.
+	- Problem mit den Gruppen im Messenger behoben.
+
+
+------------------------------
+4.3.0.2		(19.12.2009)
+
+	- Fehler behoben der den automatischen Start des Dienstes verhindert hat.
+
+
+------------------------------
+4.3.0.1		(18.12.2009)
+
+	- Adapter wird jetzt bei der Installation auch unter Windows 7 und Vista in "Tunngle" umbenannt.
+	- Fehler in UPnP Portfreigabe behoben.
+	- Überprüfung der UPnP Einstellung hinzugefügt.
+	- NickListe in Netzwerken überarbeitet.
+	- Die Breite der NickListe in Netzwerken ist jetzt einstellbar.
+	- IP der Tunngler kann nun per Rechtsklick in die Zwischenablage kopiert werden.
+
+
+------------------------------
+4.3.0.0		(11.12.2009)
+
+	- Multilingualität hinzugefügt.
+	- Sprachen hinzugefügt.
+
+	- Weitere Skins hinzugefügt.
+	- SkinEngine aktualisiert.
+	- Die Instations-Routine optimiert.
+	  (behebt Fehler bei der Installation)
+	- Adapter bei Installation umbenannt.
+	  (Heist jetzt nur noch einfach Tunngle)
+	- B-Class Emulator hinzugefügt.
+	- Fehler im C-Class Emulator behoben.
+
+	- Server Probleme behoben.
+	- AdapterHandler verbessert.
+	  (beschleunigt den Startvorgang)
+	- Der freizugebene Port wird auf Gültigkeit geprüft.
+	- Zertifikate der digitalen Signaturen aktualisiert.
+	- AutoJoin der Lobby entfernt.
+	- Problem bei automatischem Reconnect behoben.
+	- Weitere Fehler behoben.
+
+
+------------------------------
+4.2.2.4		(17.06.2009)
+
+	- Die Installer-Deinstallations-Routine optimiert.
+	- Blacklisting in Netzwerken aktiviert.
+	- Privatlisten mit Suchfunktion erweitert.
+	- Blacklisten- und Zuordnungsproblem behoben.
+	- Hilfemenü und -Links angepasst.
+	- Problem des C-Class Emulators abgestellt.
+	- Timeouts für den Einloggvorgang angepasst.
+	- Prüfroutine für Pinganzeige in den Netzwerken angepasst
+	  um die Trafficlast zu verringern.
+	- Erste Anpassungen für die englische
+	  und multilinguale Benutzeroberfläche eingeflossen.
+
+
+------------------------------
+4.2.2.3		(30.04.2009)
+
+	- Sounds für den DirektChat hinzugefügt.
+	- Port Freigabe Test hinzugefügt.
+	- Verbindungs Info Analyse erweitert.
+	- Fehler in der GUI behoben.
+	- Weiterer Lobby Freeze Bug behoben.
+
+
+------------------------------
+4.2.2.2		(27.04.2009)
+
+	- Tunngle Client-Server Kommunikation angepasst.
+
+
+------------------------------
+4.2.2.1		(24.04.2009)
+
+	- Class C Emulator hinzugefügt.
+	- Änderungen von Einstellungen am Router benötigen keinen Rechner Neustart mehr.
+	  (Es reicht jetzt aus, wenn Tunngle beendet und wieder gestartet wird.)
+	- UPnP Funktionalität hinzugefügt.
+	- Virtuelle IP wird in der Registry hinterlegt.
+	- Tunngle DNS Funktionalität hinzugefügt.
+	- Nachricht hinzugefügt, wenn die Verbindung zum Server abgerissen ist.
+	- Rechtsklick in Netzwerken für die Onlineliste hinzugefügt.
+	- Im Direktchatfenster können keine leeren Nachichten mehr gesendet werden.
+	- Lobby Freeze Bug behoben.
+	- Die Meldung: Ein inaktives Fenster kann den Focus nicht erhalten entfernt.
+	- Fälschlich angezeigte NAT-Problem-Meldung entfernt.
+
+
+------------------------------
+4.2.2.0		(08.04.2009)
+
+	- Blacklist hinzugefügt.
+	- Netzwerk Begrüßungstext hinzugefügt.
+	- Chat Nachrichten Sendepuffer hinzugefügt.
+	- Schnellstart Buttons in Lobby Bereich eingefügt.
+	- Einstellungsmöglichkeit für die Schnellstart Buttons in der Lobby hinzugefügt.
+	- Einstellungsmöglichkeit für die Benachrichtigungen in Netzwerken und Lobby hinzugefügt.
+	- Zur Kontaktliste hinzufügen jetzt über die Netzwerke möglich.
+	- Timeout für den Broadcasttest erhöht.
+
+
+------------------------------
+4.2.1.2		(25.03.2009)
+
+	- Buttons im Netzwerkbrowser vergrößert.
+	- Standardhöhe vom Hauptfenster verringert.
+	- Messenger Status Anzeige Bug behoben.
+	  (On- und Offlinestatus sollte jetzt zuverlässiger angezeigt werden)
+	- Netzwerkwechsel Bug behoben.
+	  (Wenn man z.B. die Lobby erneut betritt, und man sich nur selbst sieht)
+	- Messenger anzeigen Problem behoben.
+	  (Wenn der Messenger ausserhalb des sichbaren Bereichs erscheint)
+	- Änderungen unter Einstellungen werden jetzt bei Übernehmen direkt übernommen.
+	  (Vorher musste Tunngle dafür beendet und neu gestartet werden)
+
+
+------------------------------
+4.2.1.1		(18.03.2009)
+
+	- Problem bei automatischem Reconnect nach Verbindungsabriss behoben.
+	- Broadcast auf allen Interfaces auffangen deaktiviert.
+	- Einstellung hinzugefügt, womit sich dieses optional einschalten lässt.
+	- Vorübergehenden Hinweis in Messenger eingefügt.
+
+
+------------------------------
+4.2.1.0		(11.03.2009)
+
+	- Das Windows Vista Sichtbarkeitsproblem gelöst.
+	  (Wenn unter Vista ein Server eröffnet wurde, 
+	   konnte er nicht von anderen im Spiel gesehen werden)
+	- IP Adressen werden jetzt fest zugeordnet.
+	- Skin und Sound Ladeproblem behoben.
+	- Tunnel Problem gelöst. (Chat Tunnel Daten)
+	- Diverse grafische Anpassungen.
+	- Dienst Abhängigkeiten eingetragen.
+	- Message Fenster blinken bei Inaktiv.
+	- MAC Addressen angepasst (Gateway 00-00-00-00-00-00)
+
+
+------------------------------
+4.2.0.1		(04.03.2009)
+
+	- Tunnel Problem gelöst, bei mehreren Adaptern oder IPs.
+	- Direkt Chat Fenster drängt sich nicht mehr in den Vordergrund.
+	- Diverse grafische Anpassungen.
+	- Puffer der Chats angepasst.
+	- Beenden Fehlermeldung entfernt.
+
+
+------------------------------
+4.2.0.0		(03.03.2009)
+
+	- Die grafische Oberflöche komplett überarbeitet.
+	- Die Netzwerktabs gegeneinander abgesichert.
+	- Server Problem behoben.
+	- Status Leiste hinzugefügt.
+	- Weitere Navigationselemente hinzugefügt.
+	  (z.B. Vor- Zurückbuttons im Webbrowser,
+	   Aktualisieren im Netzwerkbrowser)
+	- Tray Button hinzugefügt.
+	- Routen und Netzwerkprobleme behoben.
+	- Netzwerkwechsel sowie Start von Tunngle beschleunigt.
+	- Tunnel Problem gelöst.
+
+
+------------------------------
+4.1.0.5		(23.02.2009)
+
+	- Netcode für Broadcasts verbessert.
+	  (GameServer werden jetzt zuverlässiger angezeigt)
+	- Möglicher Deadlock bei Braodcasttraffic gefixt.
+	- Reconnect angepasst und wieder aktiviert.
+	- StayOnTop der LoginForm rausgenommen.
+	- Auswahl der lokalen Ports überarbeitet.
+
+
+------------------------------
+4.1.0.4		(18.02.2009)
+
+	- Verbindungsproblem bei symetrischer NAT behoben.
+	- Netzwerk Tabs gegeneinander abgesichert.
+	- Einlog Problem behoben.
+	- Anzahl der Tunngler in der Netzwerk-Anzeige überarbeitet.
+	- Primär Adapter Fix erweitert.
+	- Fehler beim wechseln der Netzwerke behoben.
+	- Timeouts angepasst.
+
+
+------------------------------
+4.1.0.3		(12.02.2009)
+
+	- Drei Verbindungsprobleme behoben. (Hanle, ServerPort, Retry)
+
+
+------------------------------
+4.1.0.0		(10.02.2009)
+
+	- Passwort speichern Funktion hinzugefügt.
+	- Automatisch einloggen Funktion hinzugefügt.
+	- LadeScreen hinzugefügt.
+	- GUI angepasst. (Frames überarbeitet)
+	- Schnellstart Frame erweitert.
+	- Lobby, Chat hinzugefügt.
+	- Eventplaner hinzugefügt.
+	- Möglichkeit geschaffen in mehereren Chaträumen gleichzeitig zu sein. (SID)
+	- Anzeigefehler in der Teilnehmerliste behoben.
+
+	- Falsche Meldung dass eine Portweiterleitung nötig ist, abgestellt.
+	- Diverse Routen Probleme gelöst. (Internetabriss, Metrik)
+	- Speicherpfade angepasst. (Crypto Internal Error; Engine terminated)
+	- Stabilitäts Fixes.
+	- Primär Adapter Fix.
+	- DFÜ Einwahl Fix. (Vista)
+	- Links angepasst. (Forum)
+
+	- Tunngle Server überarbeitet.
+	- Fehler im Installer behoben.
+
+
+------------------------------
+4.0.6.0		(04.11.2008)
+
+	- P2P Verbindungs Funktionen komplett überarbeitet.
+	  (Es werden jetzt noch mehr Router unterstützt.)
+	- Fehler bei der Daten-Fragmentierung behoben.
+	  (Einige Spiele haben dadurch nicht funktioniert. z.B. AoE3)
+	- Fehler im Einlogbereich behoben.
+	  (Wenn die Benutzerdaten falsch waren, wurde kein Fehler angezeigt.)
+	- Timeouts im Einlogbereich erhöht.
+	  (Löst einige Einlogprobleme.)
+	- Einlogproblem behoben. (ERROR: Kann MasterServer nicht erreichen.)
+	- Ping zu Anderen im Netzwerk überarbeitet.
+	  (Es erscheint jetzt kein NA mehr bei aktiver Firewall.)
+	- Diverse kleine Server und Client Bugs behoben.
+
+
+------------------------------
+4.0.5.0		(14.10.2008)
+
+	- DNS Eintrag aus der DHCP Konfiguration entfernt.
+	  (hat bei einigen Systemen und Spielen zu Problemen z.B. lags geführt)
+	- RoutenHandler überarbeitet.
+	- Bug im Verbindungsaufbau des Messengers beseitigt.
+	- Skin Performance angepasst.
+	- AdapterStatus Überprüfungen verbessert.
+	- Anpassungen für Windows 2000 vorgenommen.
+	  (derzeit sind leider nur Direct-IP Verbindungen möglich, da die 
+	  Broadcast-Routen vom Betriebssystem nicht angepasst werden können.
+	  Es können somit keine Server im Spiel gesehen werden.
+	  Und die Design Funktion kann momentan auch nicht installiert werden.)
+
+
+------------------------------
+4.0.4.3		(09.10.2008)
+
+	- DHCP Fehler beseitigt. (Vista)
+	  (in der Vorherigen Version hat sich ein Fehler in den Ablauf eingeschlichen,
+	  Vista-Nutzer konnten Tunngle nicht mehr nutzen.)
+
+
+------------------------------
+4.0.4.2		(08.10.2008)
+
+	- DHCP Problem gelöst.
+	  (Wenn nach einigen Sekunden nach betreten eines Netzwerks,
+	   alle auf NA umgesprungen sind.)
+
+
+------------------------------
+4.0.4.1		(08.10.2008)
+
+	- Routen Problem gefixt. (Vista)
+
+
+------------------------------
+4.0.4.0		(08.10.2008)
+
+	- Installer überarbeitet.
+	- Versionsanzeige unter Info eingefügt.
+	- Adapterkonfiguration von WMI auf DHCP umgestellt.
+	  (Die WMI Schnittstelle wird nicht mehr verwendet)
+	- Verbindungsaufbau komplett überarbeitet.
+	  (behebt einige Verbindungsprobleme)
+	- Probleme in der Portforward Funktionalität gefixt.
+	- Fehler im Messenger behoben.
+	- Einige serverseitige Fixes.
+
+
+------------------------------
+4.0.3.0		(25.09.2008)
+
+	- Fehler beim einloggen behoben.
+	  (Bei Leerzeichen im Namen konnte nicht eingeloggt werden.)
+	- Verbindungs- und Eventprobleme im Messenger behoben.
+	- Portforward Funktionalität auf Port 11155 hinzugefügt.
+	  (Für Router mit Verbindungsproblemen.)
+	- IP-Set Routine überarbeitet.
+	- Versionskontrolle verbessert.
+
+
+------------------------------
+4.0.2.0		(22.09.2008)
+
+	- Einlog Bug behoben ('Version veraltet' bei falschen Benutzerdaten)
+	- Verlinkung bei 'Netzwerk erstellen' hinzugefügt.
+	- Scroll Bug im Chatfenster behoben.
+	- Einlog-Dialog angepasst
+	- Messenger Events hinzugefügt (z.B. bei Kontakt hinzufügen)
+	- Kontakt löschen Funktion vollendet.
+	- Weite Direktlinks unter Hilfe eingefügt.
+	- Verlinkung bei 'Version veraltet' hinzugefügt.
+	- Status-Überprüfungen im Messenger verbessert.
+
+
+------------------------------
+4.0.1.0		(20.09.2008)
+
+	- Hinweis im Einlog-Dialog eingefügt
+
+
+------------------------------
+4.0.0.0		(19.09.2008)
+
+	- Beta Release
+
+
+------------------------------

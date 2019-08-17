@@ -1,0 +1,648 @@
+
+[Header]
+Author=NorthenAstra/ZolPoZ (Community)
+Date=2014.12.19
+Language=Hebrew
+CharSet=DEFAULT_CHARSET
+PrimLangID=13
+CodePage=1255
+[Global-Ressource]
+MI_MINCAPTION=מזער
+MI_MAXCAPTION=הגדל
+MI_CLOSECAPTION=&סגור
+MI_RESTORECAPTION=שחזר
+MI_MINTOTRAYCAPTION=מזער לשורת התוכניות
+MI_ROLLUPCAPTION=להפשיל
+MINBUTTON_HINT=מזער
+MAXBUTTON_HINT=הגדל
+CLOSEBUTTON_HINT=סגור
+TRAYBUTTON_HINT=מזער לשורת התוכניות
+ROLLUPBUTTON_HINT=להפשיל
+MENUBUTTON_HINT=תפריט המערכת
+RESTORE_HINT=שחזר
+EDIT_UNDO=ביטול פעולה אחרונה
+EDIT_COPY=עתק
+EDIT_CUT=גזור
+EDIT_PASTE=הדבק
+EDIT_DELETE=מחק
+EDIT_SELECTALL=בחר הכל
+MSG_BTN_YES=&כן
+MSG_BTN_NO=&לא
+MSG_BTN_OK=אוקיי
+MSG_BTN_CANCEL=בטל
+MSG_BTN_ABORT=בטל תוכנית
+MSG_BTN_RETRY=& נסה שנית
+MSG_BTN_IGNORE=&התעלם
+MSG_BTN_ALL=& הכל
+MSG_BTN_NOTOALL=לא לכולם
+MSG_BTN_YESTOALL=כן לכולם
+MSG_BTN_HELP=עזרה
+MSG_BTN_OPEN=פתח
+MSG_BTN_SAVE=שמור
+MSG_BTN_CLOSE=סגור
+MSG_BTN_BACK_HINT=עבור לתיקייה האחרונה האחרונה שבה ביקרת
+MSG_BTN_UP_HINT=עלה רמה אחת למעלה
+MSG_BTN_NEWFOLDER_HINT=צור תקייה חדשה
+MSG_BTN_VIEWMENU_HINT=ראה את התפריט
+MSG_BTN_STRETCH_HINT=מתח תמונה
+MSG_FILENAME=שם הקובץ:
+MSG_FILETYPE=סוג הקובץ:
+MSG_NEWFOLDER=תיקיה חדשה
+MSG_LV_DETAILS=פרטים
+MSG_LV_ICON=סמלים גדולים
+MSG_LV_SMALLICON=סמלים קטנים
+MSG_LV_LIST=רשימה
+MSG_PREVIEWSKIN=תצוגה מקדימה
+MSG_PREVIEWBUTTON=כפתור
+MSG_OVERWRITE=להחליף את הקובץ הישן?
+MSG_CAP_WARNING=אזהרה
+MSG_CAP_ERROR=שגיאה
+MSG_CAP_INFORMATION=מידע
+MSG_CAP_CONFIRM=אישור
+MSG_CAP_SHOWFLAG=אל תראה הודעה זאת שוב
+CALC_CAP=מחשבון
+ERROR=שגיאה
+COLORGRID_CAP=צבעים בסיסיים
+CUSTOMCOLORGRID_CAP=צבעים מותאמים אישית
+ADDCUSTOMCOLORBUTTON_CAP=הוסף לצבעים מותאמים אישית
+FONTDLG_COLOR=צבע
+FONTDLG_NAME=שם:
+FONTDLG_SIZE=גודל:
+FONTDLG_HEIGHT=גובה:
+FONTDLG_EXAMPLE=דוגמה:
+FONTDLG_STYLE=סגנון:
+FONTDLG_SCRIPT=סקריפט:
+DB_DELETE_QUESTION=למחוק את הרישום הזה?
+DB_MULTIPLEDELETE_QUESTION=למחוק את כל הרישומים הבחורים?
+NODISKINDRIVE=אין דיסק בכונן או שהכונן לא מוכן
+NOVALIDDRIVEID=מספר הזהות של הכונן לא חוקי
+FLV_NAME=שם
+FLV_SIZE=גודל
+FLV_TYPE=סוג
+FLV_LOOKIN=חפש ב:
+FLV_MODIFIED=מותאם
+FLV_ATTRIBUTES=מאפיינים
+FLV_DISKSIZE=גודל דיסק
+FLV_FREESPACE=שטח פנוי
+PRNDLG_NAME=שם:
+PRNDLG_PRINTER=מדפסת:
+PRNDLG_PROPERTIES=מאפיינים...
+PRNDLG_TYPE=סוג:
+PRNDLG_STATUS=מצב:
+PRNDLG_WHERE=איפה:
+PRNDLG_COMMENT=הערה:
+PRNDLG_PRINTRANGE=טווח הדפסה
+PRNDLG_COPIES=העתקים
+PRNDLG_NUMCOPIES=מספר העתקים
+PRNDLG_COLLATE=השוואה
+PRNDLG_ALL=כולם
+PRNDLG_PAGES=דפים
+PRNDLG_SELECTION=בחירה
+PRNDLG_PRINTTOFILE=הדפס לקובץ
+PRNDLG_FROM=מ:
+PRNDLG_TO=אל:
+PRNDLG_ORIENTATION=אוריינטציה
+PRNDLG_PAPER=נייר
+PRNDLG_PORTRAIT=לאורך הדף
+PRNDLG_LANDSCAPE=לרוחב הדף
+PRNDLG_SOURCE=מקור:
+PRNDLG_SIZE=גודל:
+PRNDLG_MARGINS=שוליים(מ"מ)
+PRNDLG_MARGINS_INCHES=שוליים(אינצ'ים)
+PRNDLG_LEFT=שמאל:
+PRNDLG_RIGHT=ימין:
+PRNDLG_TOP=מעל:
+PRNDLG_BOTTOM=מתחת:
+PRNDLG_WARNING=אין מדפסות על במערכת שלך!
+FIND_NEXT=מצא הבא
+FIND_WHAT=חפש:
+FIND_DIRECTION=כיוון
+FIND_DIRECTIONUP=למעלה
+FIND_DIRECTIONDOWN=למטה
+FIND_MATCH_CASE=התאם מקרה
+FIND_MATCH_WHOLE_WORD_ONLY=התאם מילה שלמה בלבד
+FIND_REPLACE_WITH=החלף עם:
+FIND_REPLACE=תחליף
+FIND_REPLACE_All=תחליף הכל
+FIND_REPLACE_CLOSE=סגור
+MORECOLORS=עוד צבעים...
+AUTOCOLOR=אוטומטית
+CUSTOMCOLOR=התאם...
+[Global-MessageBox-Information]
+Select=בחר משתמש קודם.
+Controller=בקרת התנועה מבוטלת בגרסא הנוכחית
+EnterSearchText=הכנס משהו לחפש.
+ContactDeny=%s סירב לבקשת החברות שלך
+ContactAccept=%s הסכים לבקשת החברות שלך
+ConnectionLost=החיבור אבד. \r\nCode: %s
+ConnectionProblem=ייתכן בעיה בחיבור. \r\nה NAT של הנתב שלך מוגדר בצורה שיכולה להיות בעיה ביצירת חיבורי P2P של הטנגל עם משתמשים אחרים.\r\nהאם לפתוח דף עזרה כעת?
+PortReachable=היציאה שנבחרה פתוחה ומקבלת חיבורים
+CreateNet=הפונקציה לא זמינה לעת עתה. \r\nבבקשה פרסם את הצעותיך בפורום הקהילה.\r\n האם ברצונך לפתוח את דף הפורום עכשיו?
+AdapterPrim=מתאם הרשת של טונגל לא מדורג נכון. (0)\r\nאתה לא תוכל למצוא שום שרת בדפדפן הרשת של המשחקים שלך.
+EnterNamePW=הכנס בבקשה שם משתמש וסיסמא
+NewVersion=גירסאות חדשות של טונגל שוחררו וניתן להוריד אותם
+FriendNetwork=%s בתוך ה"%s" רשת.\r\nהאם ברצונך להצטרף לרשת זו?
+FriendNoNetwork=%s לא בתוך רשת.
+Close=טונגל יסגר עכשיו
+LSPBackup=גיבוי LSP נוצר בהצלחה.\r\n%s
+LSPOK=%d בעיות LSP תוקנו.
+LastTab=לא ניתן לסגור את הלשונית האחרונה
+NetFull=הרשת מלאה.
+TempNetInfo=רשתות פשוטות ימחקו לאחר שלא יהיה בהם שחקנים במשך זמן
+TempNetDisabled=האפשרות ליצור רשת לא פעילה כרגע. נסה מאוחר יותר
+TempNetLimit=אנחנו לא יכולים להרשות יצירת רשת חדשה בזמן הזה. נסה מאוחר יותר
+TempNetMissing=הרשת לא קיימת. תכניס רשת קיימת או שתיצור אחת משלך.
+TempNetFull=הרשת מלאה. תבחר ברשת אחרת או שתיצור אחת משלך.
+TempNetExist=הרשת כבר קיימת. תבחר שם אחר או שתתחבר לרשת הקיימת.
+TempNetPassword=סיסמא שגוייה
+TempNetInvalid=השם שגוי. תבחר שם אחר.
+ConfigAttention=אנא התחל את טאנגל מחדש על מנת שההגדרות החדשות ייכנסו לתוקף.
+ProcessSuccess=המבצע הסתיים בהצלחה.
+[Global-MessageBox-Warning]
+PortUnreachable=הפורט הנבחר לא פתוח.\r\nהערה: אם טונגל עובד רגיל, אתה לא צריך לדאוג לגבי זה
+UPnP=לא יכול להתקין מקדם פורטים אוטומטי באמצעות UPNP
+ServerUnreachable=לא יכול להגיע לשרת של טונגל.\r\nשנתחיל את טונגל בכל מקרה?
+Offline=לא יכול להקים את החיבור.\r\nאיש הקשר הנבחר לא מחובר
+ConnectionFail=לא יכול להקים את החיבור
+Messenger=אזהרה!\r\nמאחר שהמסנג'ר עדיין תחת בניה,\r\nהתרגום של החלון שלו עדיין לא הושלם.\r\nזה יתוקן בגירסה הבאה של טונגל
+WriteRegistry=ההגדרות לא יכולות להשמר בארכיון.\r\nבבקשה צור קשר עם המנהל
+SelectLanguage=בבקשה בחר שפה קודם
+SelectAdapter=בבקשה בחר מתאם קודם
+NetworkBusy=הרשת עמוסה מדי עכשיו. נסה רשת אחרת.
+LoginRequired=אתה צריך להתחבר קודם
+ConfigAdapter=שגיאה התקבלה במתאם הרשת. הרשת לא תעבד כראוי.
+[Global-MessageBox-Question]
+Contact=האם אתה באמת רוצה להוסיף את %s לרשימת החברים שלך?
+Delete=אתה בטוח שאתה רוצה להסיר את %s מהרשימה השחורה שלך?
+AddContact=%s הוסיף אותך לרשימת החברים שלו\ה. האם אתה רוצה לקבל את הצעת החברות?
+Quit=האם ברצונך לצאת?
+DelFavorite=האם ברצונך למחוק את %s?
+NewVersion=קיימת גרסא חדשה ( %s ) של טאנגל. האם ברצונך להוריד אותה כעת?
+Language=גילינו ששפת המערכת שלך מתאימה לשפה "%s". האם אתה רוצה לבחור את שפה זו כעת?
+[Global-MessageBox-Error]
+NotInstalled=טנאגל לא מותקן כראוי
+NoAdapter=מציאת מתאם הרשת של טאנגל נכשלה!
+AccountVerify=ההתחברות נכשלה.\r\n פרטי החשבון שלך לא אומתו.
+AccountBann=ההתחברות נכשלה.\r\n קיבלת באן.
+ServiceFound=שירות טאנגל לא נמצא!
+ServiceContact=התקשורת עם שירות הטאנגל נכשלה!
+CryptFail=טעינת ספריית ההצפנה נכשלה! 
+LSPRedo=שחזור נכשל.
+ConfigAdapter=הגדרת מתאם הרשת של טאנגל נכשלה!
+WrongPassword=סיסמא שגוייה.
+GUIVersionMismatch=ההתקנה הנוכחית של טאנגל ככל הנראה מושחתת.
+ProcessFail=המבצע נכשל.
+ServerUnreachable=לא ניתן ליצור קשר עם השרת כרגע, אנא נסה במועד מאוחר יותר.
+SelectNetRange=נא בחר טווח רשת.
+[Global-Text-Dynamic]
+Loading=טוען %s...
+FromTo=%d ל%d מתוך %d
+LastAct=עדכון אחרון: %s
+Lobby=לובי (%d)
+ChatJoined=<%s "%s" הצטרף לצ'אט.>
+NetJoined=<%s "%s" הצטרף לרשת.>
+LobbyJoined=<%s "%s" הצטרף ללובי.>
+ChatLeft=<%s "%s" עזב את הצ'אט.>
+NetLeft=<%s "%s" עזב את הרשת.>
+LobbyLeft=<%s "%s" עזב את הלובי.>
+ConnectionDeny1=* לא יכול להתחבר ל%s בגלל שאתה ברשימה השחורה שלו/שלה *
+ConnectionDeny2=* לא יכול להתחבר ל%s בגלל שהוא ברשימה השחורה שלך *
+ConnectionLost=[ %s אבד החיבור לשרת הטונגל! ]
+VirtualIP=כתובת אינטרנט וירטואלית: %s
+LoginNick=מחובר כ-%s
+Version=גירסה: %s
+Connecting=מתחבר %s
+ChatMe=אני: %s
+ChatDeny=* לא יכול לקבל הודעות מ%s בגלל שהוא בתוך הרשימה השחורה שלך
+AddBlacklist=כמה זמן %s אמור להיות ברשימה השחורה?
+PingMs=פינג %s ms
+Ports=פורט: %s
+AddedBlackList=%s נוסף בהצלחה לרשימה השחורה שלך.
+UserID=זהות: %d
+[Global-Text-Static]
+CaptionTunnglenews=חדשות טנגל
+CaptionStart=התחלת טנגל
+CaptionStartPage=התחלת טנגל
+CaptionQuickstart=הפעלה מהירה
+CaptionSupport=תמיכה
+CaptionBetainfo=מידע בטא
+CaptionTunnglefaq=שאלות נפוצות
+CaptionDownloadarea=הורדות
+CaptionResults=תוצאות...
+CaptionChat=צ'אט
+CaptionLobby=לובי
+CaptionNetwork=רשת
+CaptionTunngleforum=פורום
+CaptionEventplaner=מתכננן אירועים
+CaptionForumfaq=פורום שאלות נפוצות
+CaptionForum=פורום
+CaptionTunngleskins=סקינים של טונגל
+CaptionSearch=חיפוש
+CaptionBrowser=דפדפן
+CaptionSkinconfig=אפשרויות סקין
+CaptionSoundconfig=צלילים
+CaptionPrivacylists=רשימת חסומים
+CaptionConfiguration=אפשרויות
+CaptionFavorite=מועדפים
+CaptionSubBrowser=רשתות
+CaptionCreateNet=רשתות פרטיות
+CaptionAccount=חשבון
+SplashPleaseWait=אנא המתן...
+SplashLoaddata=טוען נתונים...
+SplashReset=מאפס נתונים...
+SplashConfig=מגדיר נתונים...
+SplashLoading=טוען...
+SplashConnecting=מתחבר...
+SplashVersion=בודק גירסה נוכחית...
+SplashSafe=מאבטח חיבור...
+SplashUPnP=מנסה קידום יציאות UPnP...
+SplashAuth=מאמת נתונים...
+SplashAdatperset=מגדיר מתאם רשת...
+SplashAdapterinit=מאתחל מתאם רשת...
+SplashAdapterstart=מפעיל מתאם רשת...
+SplashAdapterchkprim=בודק עדיפות מתאם רשת...
+SplashAdapterchkbc=בודק שידור מתאם רשת...
+SplashAdapterchkstop=בודק עצירת מתאם רשת...
+SplashFinalize=מסיים...
+SplashServiceinit=מאתחל את שירות טנגל...
+SplashServicecontact=מתחבר אל שירות טנגל...
+SplashServercontact=מתחבר לשרת של טונגל...
+SplashConfigurate=מגדיר את טונגל...
+SplashWinSock2=בודק הגדרות רשת...
+SearchInWork=חיפוש בתהליך...
+Lobby=לובי
+NetLeft=עזב את הרשת
+NoIP=כתובת אינטרנט וירטואלית: -
+ChatJoined=צ'אט הצטרף בהצלחה
+NetJoined=רשת הצטרפה בהצלחה
+LobbyJoined=לובי הצטרף בהצלחה
+FoundNothing=שום תוצאה!
+NetChangeBegin=מנסה להחליף רשת. אנה המתן...
+NetChangeEnd=החלפת רשת בוצעה בהצלחה. בבקשה המתן...
+NotLoggedIn=אתה לא מחובר
+EnterNamePW=בבקשה הכנס שם משתמש וסיסמא
+MessageSendFail=* לא יכול לשלוח את ההודעה *
+MessageSendFlood=* אתה שולח הודעות יותר מידי מהר. בבקשה האט *
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=קהילה
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=מצא רשתות וחברים
+SpeedButtonCommunity2=ללשונית הפעלה האחרונה
+SpeedButtonMessenger=מסנג'ר
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=דף ההתחלה
+ButtonQABetaInfo=מידע על הבטא
+ButtonQAForum=פורום
+ButtonQAEventPlanner=מתכנן האירועים
+ButtonQALobby=הלובי של טונגל
+ButtonQAFavorites=מועדפים
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=סייר הרשת
+ExPanelFindnetwork=חיפוש רשת
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=חיפוש
+MenuItemNetFavorite=מועדפים
+MenuItemNetCreate=יצירה
+MenuItemTunnglelobby=הלובי של טונגל
+MenuItemEventplaner=מתכנן האירועים
+MenuItemSounds=צלילים
+MenuItemSkins2=סקינים
+MenuItemPrivacylists=רשימת חסומים
+MenuItemConfiguration=אפשרויות
+MenuItemAbout=אודות Tunngle
+MenuItemTrayOpen=פתח
+MenuItemTrayClose=סגור
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=הודעות
+MenuItemAddContact=הוספה לרשימת החברים
+MenuItemAddBlacklist=הוספה לרשימת החסומים
+MenuItemEditBlacklist=עריכת רשימת החסומים
+MenuItemSortNicks=מיין כינויים
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=שליחה
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=צ'אט:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< קודם
+ButtonForward=הבא >>
+ButtonActualize=רענון
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=שם
+ListViewNet-1=מחובר
+ListViewNet-2=ז'אנר
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=הוסף למועדפים
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=רענן
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=שם
+ListViewNet-1=מחובר
+ListViewNet-2=ז'אנר
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=הוסף למועדפים
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< אחורה
+ButtonForward=קדימה >>
+ButtonActualize=רענן
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=שם
+ListViewNet-1=מחובר
+ListViewNet-2=ז'אנר
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=מחק מועדפים
+MenuItemSortFavorite=מיין מועדפים
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=רענן
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=שם
+ListViewNet-1=מחובר
+ListViewNet-2=ז'אנר
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=מחק מועדפים
+MenuItemSortFavorite=מיין מועדפים
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=עצור שידורים מכל הממשקים
+CheckRadioBoxDNS=טונגל DNS
+CheckRadioBoxPort=פורט מופנה
+CheckRadioBoxUPnP=השתמש בUpnP
+CheckRadioBoxTCActive=זמין
+CheckRadioBoxSignature=חתימת אינטרנט
+CheckRadioBoxLog=מעקב רשת
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=הערה!\r\nבדרך כלל מכובה
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=אישור
+ButtonAccept=החל שינויים
+ButtonCancel=ביטול
+ButtonTest=ניסיון
+ButtonDefault=הגדרות ברירת מחדל
+ButtonWizard=אשף
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=ממשק
+GroupBoxNetconfig=רשת
+GroupBoxRouterconfig=נתב
+GroupBoxTrafficcontroller=בקרת תנועה
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=שפה
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=אזהרה! בבקשה הפעל מחדש את טונגל בשביל להוציא לפועל את ההגדרות החדשות!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=חיפוש בטונגל
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=הסתר רשתות מלאות
+CheckRadioBoxEmpty=הסתר רשתות ריקות
+CheckRadioBoxPassword=הסתר רשתות שמוגנות בסיסמא
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=מסנני חיפוש
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=מסנני חיפוש >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< אחורה
+ButtonForward=קדימה >>
+ButtonActualize=רענן
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=שם
+ListViewResults-1=מחובר
+ListViewResults-2=ז'אנר
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=הודעות
+MenuItemAddContact=הוסף לרשימת החברים
+MenuItemAddBlacklist=הוסף לרשימה השחורה
+MenuItemEditBlacklist=ערוך רשימה שחורה
+MenuItemSortNicks=מיין כינויים
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=שלח
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=צ'אט:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=אישור
+ButtonAccept=החל שינויים
+ButtonCancel=ביטול
+ButtonFind=חיפוש
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=כינוי
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=חיפוש
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=רשימה שחורה כללית
+StdLabelChatmessages=הרשימה השחורה של הצ'אט
+StdLabelName=שם
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=הסר
+MenuItemDeleteChat=הסר
+MenuItemAddBlacklist=הוסף לרשימה השחורה
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=אישור
+ButtonAccept=החל שינויים
+ButtonCancel=ביטול
+ButtonDownload=הורד עוד סקינים
+ButtonDefault=סקין ברירת מחדל של טונגל
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=תצוגה מקדימה
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=כותרת
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=תיבת טקסט
+[FrameSkins-TspSkinEdit-Text]
+EditInput=תיבת קלט
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=תיבת סימון
+CheckRadioBox2=תיבת סימון
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=אוקיי
+ButtonAccept=אשר
+ButtonCancel=בטל
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=אפשר סאונד
+CheckRadioBoxStart=אתחול
+CheckRadioBoxLogin=התחבר
+CheckRadioBoxLeave=משתמש עזב את הרשת
+CheckRadioBoxJoin=משתמש חדש הצטרף לרשת
+CheckRadioBoxReceive=התקבלה הודעה חדשה
+CheckRadioBoxQuit=כיבוי
+CheckRadioBoxSend=הודעה נשלחה
+CheckRadioBoxKey=לחיצת כפתור של צ'אט
+CheckRadioBoxDirectopen=חלון צ'אט ישיר חדש
+CheckRadioBoxDirectmessage=התקבלה הודעת צ'אט ישירה
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=דפדפן
+ButtonFavorite=מועדפים
+ButtonQuicklaunch=הפעלה מהירה
+ButtonBetainfo=אודות הבטא
+ButtonForum=פורום
+ButtonEventplaner=מתכנן האירועים
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=חזור
+StatusPanelForward=קדימה
+StatusPanelStop=עצור
+StatusPanelReload=לרענן
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=הודעות
+MenuItemAddContact=הוסף לרשימת החברים
+MenuItemAddBlacklist=הוסף לרשימה השחורה
+MenuItemEditBlacklist=ערוך רשימה שחורה
+MenuItemCopyIP=העתק כתובת לזיכרון
+MenuItemSortNicks=מיין כינויים
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=שלח
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=צ'אט
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=סגור
+[FormAbout-Infos]
+Caption=אודות Tunngle
+[FormLogin-Infos]
+Caption=התחבר
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=התחבר
+ButtonCancel=בטל
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=שם משתמש
+LabelPassword=סיסמה
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=זכור אותי
+CheckRadioBoxAuto=חיבור אוטומטי
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=הרשם בחינם לטונגל
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=בטל
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=שלח
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=צ'אט
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=הוסף קבוצה
+MenuItemContactAdd=צרף לקשר
+MenuItemContactHideOffline2=הסתר מנותקים
+MenuItemRights=הרשאות
+MenuItemTunngleShares=שיתופים של טונגל
+MenuItemContactInfo=פרטי איש קשר
+MenuItemContactAlert=אזהרת איש קשר
+MenuItemContactNote=הערות איש קשר
+MenuItemReadAwayMessage=קרא הודעה אוטומטית
+MenuItemContactRename=שינוי שם איש קשר
+MenuItemContactDelete=מחיקת איש קשר
+MenuItemMoveToGroup=כנס לקבוצה
+MenuItemContactHideOffline3=הסתר מנותקים
+MenuItemMessage=צ'אט ישיר
+MenuItemRights2=הרשאות
+MenuItemTunngleShares2=שיתופים של טונגל
+MenuItemGroupRename=שנה שם קבוצה
+MenuItemGroupDelete=מחק קבוצה
+MenuItemGroupExpandCollapse=פתח קבוצה
+MenuItemContactHideOffline=הסתר מנותקים
+MenuItemMain=תפריט
+MenuItemAddContact=הוספת אישר קשר
+MenuItemInNetwork=מידע על הרשת
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=בטל
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=קובץ
+ListViewLanguage-1=שפה
+ListViewLanguage-2=יוצר
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=המשך
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=בבקשה בחר שפה לטונגל
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=שם
+ListViewAdapter-1=כתובת אינטרנט
+ListViewAdapter-2=שם המתאם
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=המשך
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=בבקשה בחר את מתאם הטונגל.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=אישור
+ButtonCancel=ביטול
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=צ'אט בלבד
+CheckRadioBoxComplete=נידוי מלא
+CheckRadioBoxHours=שעות
+CheckRadioBoxDate=עד
+CheckRadioBoxInfinite=לנצח
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=הודעת ברוכים הבאים קולולולולו
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=נהל את הרשת שלך
+GroupBoxJoin=הצטרף לרשת קיימת
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=סוג רשת:
+LabelNetworkNameT=שם רשת:
+LabelNetworkPasswordT=סיסמת רשת:
+LabelNetworkSize=גודל רשת:
+LabelNetworkTypeB=סוג רשת:
+LabelNetworkNameB=שם רשת:
+LabelNetworkPasswordB=סיסמת רשת:
+[FrameNetCreate-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=בסיס
+ComboBoxNetTypeT-1=פרימיום
+ComboBoxNetTypeB-0=בסיס
+ComboBoxNetTypeB-1=פרימיום
+ComboBoxNetRange-0=סטנדרטי
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=יצור - עדכן
+ButtonJoin=הצטרף
+ButtonJoinOwn=הצטרף לרשת שלך
+ButtonNetworkList=רשימת רשת
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=מדמה רשת:
+UrlLabelNetRange=טווח רשת:
+UrlLabelManagement=מנהל כתובת:
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=רשת בסיס
+CheckRadioBoxNetPremium=רשת פרימיום
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=התראות
+MenuItemAddContact=הוסף לרשימת החברים
+MenuItemCopyIP=העתק כתובת איי.פי ללוח
+MenuItemSortNicks=מיין כינויים
+MenuItemSortIPs=מיין לפי פינג
+MenuItemConfig=הגדר
+MenuItemShowProfile=ראה פרופיל
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=שלח
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=צ'אט:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=אל תראה לי שוב
+[FrameAccount-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSignature=חתימת רשת
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=אשר
+ButtonAccept=החל
+ButtonCancel=בטל
+ButtonChangeNick=שנה כינוי
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=אפשרויות חשבון
+[FormWizard-Infos]
+Caption=סרטון התחלה
+[FrameBeforeLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=אל תראה לי שוב
+[FrameNetCreateEasy-TspSkinMemo-Text]
+MemoWelcome=הודעת ברוכים הבאים קולולולולו
+[FrameNetCreateEasy-TspSkinGroupBox-Caption]
+GroupBoxCreate=נהל את הרשת שלך
+GroupBoxJoin=הצטרף לרשת קיימת
+[FrameNetCreateEasy-TspSkinLabel-Caption]
+LabelNetworkTypeT=סוג רשת:
+LabelNetworkNameT=שם רשת:
+LabelNetworkPasswordT=סיסמת רשת:
+LabelNetworkTypeB=סוג רשת:
+LabelNetworkNameB=שם רשת:
+LabelNetworkPasswordB=סיסמת רשת:
+[FrameNetCreateEasy-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=בסיסי
+ComboBoxNetTypeT-1=פרימיום
+ComboBoxNetTypeB-0=בסיסי
+ComboBoxNetTypeB-1=פרימיום
+[FrameNetCreateEasy-TspSkinButton-Caption]
+ButtonCreate=יצור - עדכן
+ButtonJoin=הצטרף
+ButtonJoinOwn=הצטרף לרשת שלך
+ButtonNetworkList=רשימת רשת
+[FrameNetCreateEasy-TspSkinStdLabel-Caption]
+UrlLabelNetRange=טווח רשת:
+[FrameNetCreateEasy-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=רשת בסיסית
+CheckRadioBoxNetPremium=רשת פרימיום

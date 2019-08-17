@@ -1,0 +1,444 @@
+
+[Header]
+Author=Rizal (Community)
+Date=2014.12.19
+Language=Indonesian
+CharSet=DEFAULT_CHARSET
+PrimLangID=33
+CodePage=1252
+[Global-Ressource]
+MI_MINCAPTION=Mi&nimalkan
+MI_MAXCAPTION=Ma&ksimalkan
+MI_CLOSECAPTION=&Tutup
+MI_RESTORECAPTION=&Kembalikan
+MI_MINTOTRAYCAPTION=Minimalkan ke &laci
+MI_ROLLUPCAPTION=Gu&lung keatas
+MINBUTTON_HINT=Minimalkan
+MAXBUTTON_HINT=Maksimalkan
+CLOSEBUTTON_HINT=Tutup
+TRAYBUTTON_HINT=Minimalkan ke laci
+ROLLUPBUTTON_HINT=Gulung keatas
+MENUBUTTON_HINT=Menu Sistem
+RESTORE_HINT=Kembalikan
+EDIT_UNDO=Langkah sebelumnya
+EDIT_COPY=Salin
+EDIT_CUT=Potong
+EDIT_PASTE=Tempel
+EDIT_DELETE=Hapus
+EDIT_SELECTALL=Pilih semua
+MSG_BTN_YES=&Ya
+MSG_BTN_NO=&Tidak
+MSG_BTN_OK=OKE
+MSG_BTN_CANCEL=Batal
+MSG_BTN_ABORT=&Batalkan
+MSG_BTN_RETRY=&Coba lagi
+MSG_BTN_IGNORE=C&uekin
+MSG_BTN_ALL=&Semua
+MSG_BTN_NOTOALL=&Tidak ke semua
+MSG_BTN_YESTOALL=&Ya ke semua
+MSG_BTN_HELP=&Bantuan
+MSG_BTN_OPEN=&Buka
+MSG_BTN_SAVE=&Simpan
+MSG_BTN_CLOSE=Tutup
+MSG_BTN_BACK_HINT=Pergi ke folder yang terakhir dibuka
+MSG_BTN_UP_HINT=Naik satu tingkat
+MSG_BTN_NEWFOLDER_HINT=Buat folder baru
+MSG_BTN_VIEWMENU_HINT=Lihat Menu
+MSG_BTN_STRETCH_HINT=Tarik Gambar
+MSG_FILENAME=Nama File:
+MSG_FILETYPE=Jenis File
+MSG_NEWFOLDER=Folder Baru
+MSG_LV_DETAILS=Detail
+MSG_LV_ICON=Ikon besar
+MSG_LV_SMALLICON=Ikon kecil
+MSG_LV_LIST=Daftar
+MSG_PREVIEWSKIN=Perlihatkan
+MSG_PREVIEWBUTTON=Tombol
+MSG_OVERWRITE=Apakah kamu ingin menimpa file yang lama?
+MSG_CAP_WARNING=Peringatan
+MSG_CAP_ERROR=Kesalahan
+MSG_CAP_INFORMATION=Informasi
+MSG_CAP_CONFIRM=Konfirmasikan
+MSG_CAP_SHOWFLAG=Jangan tampilkan pesan ini lagi
+CALC_CAP=Kalkulator
+ERROR=Kesalahan
+COLORGRID_CAP=Warna sederhana
+CUSTOMCOLORGRID_CAP=Pilih warna sendiri
+ADDCUSTOMCOLORBUTTON_CAP=Tambahkan warna sendiri
+FONTDLG_COLOR=Warna:
+FONTDLG_NAME=Nama:
+FONTDLG_SIZE=Ukuran:
+FONTDLG_HEIGHT=Tinggi:
+FONTDLG_EXAMPLE=Contoh:
+FONTDLG_STYLE=Gaya:
+FONTDLG_SCRIPT=Skrip:
+DB_DELETE_QUESTION=Apa kamu benar-benar ingin menghapus catatan ini?
+DB_MULTIPLEDELETE_QUESTION=Hapus semua catatan terpilih?
+NODISKINDRIVE=Tidak ada disk di drive atau drivenya belum siap
+NOVALIDDRIVEID=ID Drive tidak valid
+FLV_NAME=Nama
+FLV_SIZE=Ukuran
+FLV_TYPE=Tipe
+FLV_LOOKIN=Cari di:
+FLV_MODIFIED=Dirubah
+FLV_ATTRIBUTES=Atribut
+FLV_DISKSIZE=Ukuran Disk
+FLV_FREESPACE=Ruang Kosong
+PRNDLG_NAME=Nama:
+PRNDLG_PRINTER=Printer
+PRNDLG_PROPERTIES=Properti...
+PRNDLG_TYPE=Tipe
+PRNDLG_STATUS=Status:
+PRNDLG_WHERE=Dimana:
+PRNDLG_COMMENT=Komentar:
+PRNDLG_PRINTRANGE=Daerah print
+PRNDLG_COPIES=Copy copy
+PRNDLG_NUMCOPIES=Jumlah copy
+PRNDLG_COLLATE=Susun
+PRNDLG_ALL=Semua
+PRNDLG_PAGES=Halaman
+PRNDLG_SELECTION=Pilih
+PRNDLG_PRINTTOFILE=Print ke File
+PRNDLG_FROM=Dari:
+PRNDLG_TO=Untuk:
+PRNDLG_ORIENTATION=Orintasi
+PRNDLG_PAPER=Kertas
+PRNDLG_PORTRAIT=Gambar
+PRNDLG_LANDSCAPE=Pemandangan
+PRNDLG_SOURCE=Sumber:
+PRNDLG_SIZE=Ukuran:
+PRNDLG_MARGINS=Garis tepi (milimeter)
+PRNDLG_MARGINS_INCHES=Garis tepi (inchi)
+PRNDLG_LEFT=Kiri:
+PRNDLG_RIGHT=Kanan:
+PRNDLG_TOP=Atas:
+PRNDLG_BOTTOM=Bawah:
+PRNDLG_WARNING=Tidak ada printer di sistem anda!
+FIND_NEXT=Cari selanjutnya
+FIND_WHAT=Cari apa:
+FIND_DIRECTION=Arah
+FIND_DIRECTIONUP=Atas
+FIND_DIRECTIONDOWN=Bawah
+FIND_MATCH_CASE=Hal yang sama
+FIND_MATCH_WHOLE_WORD_ONLY=Hanya yang benar benar sama
+FIND_REPLACE_WITH=Tukar dengan:
+FIND_REPLACE=Tukar
+FIND_REPLACE_All=Tukar semua
+FIND_REPLACE_CLOSE=Tutup
+MORECOLORS=Lebih banyak warna
+AUTOCOLOR=Otomatis
+CUSTOMCOLOR=Buat sendiri
+[Global-MessageBox-Information]
+Select=Anda perlu memilih Tunngler terlebih dahulu.
+Controller=Pengatur Lalu Lintas di non-aktifkan di versi ini.
+EnterSearchText=Masukkan kata untuk mencari.
+EnterSearchUser=Masukkan nama pengguna untuk mencari.
+ContactDeny=%s telah menolak permintaan pertemanan anda
+ContactAccept=%s telah menyetujui permintaan pertemanan anda
+ConnectionLost=Koneksi terputus. \r\nCode: %s
+ConnectionProblem=Kemungkinan masalah koneksi.\r\nKonfigurasi router NAT anda bisa menghambat Tunngle\r\untuk berhasil menyambungkan koneksi P2P dengan pengguna yang lain.\r\nBuka halaman Bantuan?
+PortReachable=Port yang dipilih terbuka dan menerima sambungan.
+CreateNet=Fitur ini masih belum tersedia.\r\nSilahkan tulis ide anda di forum komunitas
+AdapterPrim=Jaringan Tunngle belum di prioritaskan dengan benar. (0)\r\nKamu tidak akan menemukan server  di pramban Lan dalam permainan mu.
+EnterNamePW=silahkan masukan nama penguna dan kata kunci
+NewVersion=Versi terbaru %s dari tunngle sudah dirilis dan bisa di unduh
+FriendNetwork=%s sedang berada di jaringan "%s".\r\nApakah anda ingin bergabung ke jaringan ini?
+FriendNoNetwork=%s tidak berada dalam jaringan
+Close=Tunngle akan dimatikan
+LSPBackup=LSP  Arsip Cadangan berhasil dibuat.\r\n%s
+LSPOK=%d Masalah LSP telah diperbaiki
+LastTab=Tidak bisa menutup tab terakhir
+NetFull=Jaringan penuh.
+TempNetInfo=Jaringan Yang Kosong akan di hapus otomatis setelah tidak aktif dalam jangka waktu yang ditetntukan
+TempNetDisabled=Penciptaan jaringan sementara di batasi. silahkan coba lagi nanti.
+TempNetLimit=Kami tidak bisa membuat jaringan lagi saat ini. Silahkan coba lagi nanti. 
+TempNetMissing=Jaringan yang dipilih tidak ada. Silahkan pilih yang ada atau buat sendiri
+TempNetFull=Jaringan yang dipilih penuh. Silahkan pilih yang lain atau buat sendiri.
+TempNetExist=Jaringan ini Sudah ada. Silahkan pilih nama lain atau bergabung dengan yang sudah ada.
+TempNetPassword=Kata kunci salah.
+TempNetInvalid=Nama yang dipilih tidak tersedia. silahkan gunakan yang lain
+ConfigAttention=Silahkan restart Tunngle untuk mengaplikasikan perubahan.
+ProcessSuccess=Operasi sukses
+[Global-MessageBox-Warning]
+SelectLanguage=Silahkan pilih bahasa yang akan digunakan.
+[Global-MessageBox-Question]
+Contact=Apakah anda ingin menambahkan %s ke dalam daftar teman?
+Delete=Apakah anda ingin menghapus %s dari daftar hitam?
+ChangeNet=Apakah anda ingin meninggalkan saluran "%s" dan bergabung ke saluran "%s"?
+CloseChat=Apakah anda ingin menutup percakapan "%s"?
+CloseLobby=Apakah anda ingin meninggalkan %s?
+CloseTab=Apakah anda ingin menutup tab "%s"?
+AddContact=%s ingin menambahkan anda ke dalam daftar temannya. \r\nApakah anda ingin menyetujuinya?
+Quit=Apakah anda yakin ingin keluar?
+DelFavorite=Apakah anda yakin ingin menghapus %s?
+NewVersion=Versi baru Tunngle %s sudah keluar. \r\nApakah anda ingin mengunduhnya sekarang?
+Language=Kami telah mendeteksi bahasa yang digunakan oleh sistem anda cocok dengan file bahasa "%s".\r\nApakah anda ingin memilihnya?
+LanguageID=File bahasa yang dipilih tidak cocok dengan lokalisasi sistem terkini.\r\nApakah anda tetap ingin melanjutkan?
+[Global-MessageBox-Error]
+RunOnce=Hanya satu program Tunngle yang bisa dijalankan dalam satu waktu.
+NotInstalled=Tunngle tidak diinstall dengan benar.
+AccountVerify=Login gagal.\r\nAkun anda belum diverifikasi.
+AccountBann=Login gagal.\r\nAkun anda telah di ban,
+MasterServer=Tidak dapat mencapai server utama Tunngle.
+Version=Versi yang anda gunakan sudah kadaluwarsa.\r\nPerbaharui sekarang?
+ServiceFound=Tidak dapat menemukan layanan Tunngle!
+ServiceContact=Tidak dapat berkomunikasi dengan layanan Tunngle!
+WinSock2=Tidak dapat mengakses WinSock.\r\nPengaturan jaringan tidak dapat diperiksa.
+LSPProblems=Masalah LSP %d terdeteksi.\r\nPerbaiki sekarang?
+LSPBackup=Bermasalah dalam pembuatan file cadangan LSP.\r\nApakah anda ingin membatalkan?
+LSPSafePoint=Bermasalah dalam pembuatan titik pengembalian LSP.\r\nApakah anda ingin membatalkan?
+LSPRepair=Masalah LSP %d tidak dapat diperbaiki.\r\nKembalikan ke keadaan semula?
+LSPRedo=Pengembalian gagal.
+[Global-Text-Dynamic]
+Loading=Membuka %s...
+FromTo=%d ke %d dari %d
+LastAct=Pembaharuan terakhir: %s
+Lobby=Lobby (%d)
+ChatJoined=<%s "%s" telah bergabung ke dalam percakapan.>
+VirtualIP=IP Virtual:%s
+Version=Versi: %s
+ChatMe=Saya: %s
+ChatDeny=Tidak dapat menerima pesan dari %s karena ia berada dalam daftar hitam obrolan anda
+[Global-Text-Static]
+CaptionTunnglenews=Berita Tunngle
+CaptionChat=Obrolan
+CaptionLobby=Lobi
+CaptionNetwork=Jaringan
+CaptionTunngleforum=Forum Tunngle
+CaptionForum=Forum
+CaptionSearch=Cari
+CaptionSoundconfig=Suara
+CaptionPrivacylists=Daftar Hitam
+CaptionConfiguration=Opsi
+SplashPleaseWait=Mohon tunggu sebentar...
+SplashVersion=Mengecek versi...
+SplashAdapterchkbc=Memeriksa Penyiaran Adapter
+SplashAdapterchkstop=Memeriksa Pemberhentian Adapter...
+SplashFinalize=Penyelesaian
+SplashServiceinit=Menginstal Layanan Tunggle...
+SplashServicecontact=Menghubungi Layanan Tungle
+SplashServercontact=Menghubungi Server Tunngle..
+SplashConfigurate=Mengatur Tunngle...
+NoIP=IP Virtual: -
+FoundNothing=Tak ada yang cocok!
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Cari jaringan dan teman
+SpeedButtonCommunity2=Ke tab sebelumnya yang diaktifkan
+SpeedButtonMessenger=Pemberi Kabar
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Halaman awal
+ButtonQABetaInfo=Info Beta
+ButtonQAForum=Musyawarah
+ButtonQAEventPlanner=Perencana Acara
+ButtonQALobby=Lobi Tunngle
+ButtonQAFavorites=Penanda
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Penjelajah Jaringan
+ExPanelFindnetwork=Pencarian Jaringan
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Cari
+MenuItemNetFavorite=Penanda
+MenuItemNetCreate=Buat
+MenuItemTunnglelobby=Lobi Tunngle
+MenuItemEventplaner=Perncana Acara
+MenuItemSounds=Suara
+MenuItemSkins2=Tampilan
+MenuItemPrivacylists=Daftar Hitam
+MenuItemConfiguration=Pengaturan
+MenuItemAbout=Tentang Tunngle
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Notifikasi
+MenuItemAddContact=Tambahkan ke daftar teman
+MenuItemAddBlacklist=Tambahkan ke daftar orang menyebalkan
+MenuItemEditBlacklist=Edit daftar orang menyebalkan
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Kirim
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Ngobrol:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Mundur
+ButtonForward=Maju >>
+ButtonActualize=Perbaharui
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nama
+ListViewNet-1=Terhubung
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Tangkap siaran dari semua antarmuka
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Port yang diteruskan
+CheckRadioBoxUPnP=Gunakan UPnP
+CheckRadioBoxTCActive=Aktif
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Keterangan!\r\nBiasanya dimatikan.
+[FrameConfig-TspSkinButton-Caption]
+ButtonAccept=Terapkan
+ButtonCancel=Batalkan
+ButtonTest=Coba
+ButtonDefault=Pengaturan Asli
+ButtonWizard=Terpadu
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Antarmuka
+GroupBoxNetconfig=Jaringan
+GroupBoxTrafficcontroller=Pengatur Lalulintas
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Bahasa
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Pencarian Tunngle
+[FrameLobby-TMenuItem-Caption]
+MenuItemAddContact=Tambah ke daftar teman
+MenuItemAddBlacklist=Tambah ke daftar hitam
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelForward=Maju
+StatusPanelStop=Berhenti
+StatusPanelReload=Segarkan
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Pemberitahuan
+MenuItemAddContact=Tambahkan ke daftar teman
+MenuItemAddBlacklist=Tambahkan ke daftar hitam
+MenuItemEditBlacklist=Edit daftar hitam
+MenuItemCopyIP=Salin sementara
+MenuItemSortNicks=Urutkan berdasarkan nama
+MenuItemSortIPs=Urutkan berdasarkan ping
+MenuItemConfig=Konfigurasi
+MenuItemShowProfile=Lihat Profil
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Kirim
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Obrolan:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Tutup
+[FormAbout-Infos]
+Caption=Tentang tunngle
+[FormLogin-Infos]
+Caption=Login
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Login
+ButtonCancel=Batal
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Nama pengguna
+LabelPassword=Kata sandi
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Ingat saya
+CheckRadioBoxAuto=Login Otomatis
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Mendaftar Akun Tunngle secara Gratis
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Batal
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Kirim
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Obrolan:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Tambah grup
+MenuItemContactAdd=Tambah Kontak
+MenuItemContactHideOffline2=Sembunyikan yang offline
+MenuItemRights=Perijinan
+MenuItemTunngleShares=Berbagi Tunngle
+MenuItemContactInfo=Informasi Kontak
+MenuItemContactAlert=Pringatan Kontak
+MenuItemContactNote=Catatan kontak 
+MenuItemReadAwayMessage=Tetap baca pesan
+MenuItemContactRename=Ganti nama  kontak
+MenuItemContactDelete=Hapus kontak
+MenuItemMoveToGroup=Masukan ke Grup
+MenuItemContactHideOffline3=Sembunyikan yang offline
+MenuItemMessage=Bisik 
+MenuItemRights2=Perijinan
+MenuItemTunngleShares2=Berbagi Tunngle
+MenuItemGroupRename=Ganti nama grup
+MenuItemGroupDelete=Hapus grup
+MenuItemGroupExpandCollapse=perluas/runtuhkan grup
+MenuItemContactHideOffline=Sembunyikan yang tidak terhubung
+MenuItemMain=&Menu
+MenuItemAddContact=Tambahkan ke Kontak
+MenuItemInNetwork=Info Jaringan
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=Jadikan Offline
+[FormFindContact-Infos]
+Caption=Cari Kontak
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Cari
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=Nama:
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Tambah kontak
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Batalkan
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=File
+ListViewLanguage-1=Bahasa
+ListViewLanguage-2=Pencipta
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Lanjut
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Tolong pilih bahasa untuk Tunngle
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Nama
+ListViewAdapter-1=IP
+ListViewAdapter-2=Nama Alat
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Lanjut
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Tolong pilih adapter Tunngle
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=Oke
+ButtonCancel=Batal
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Hanya obrolan
+CheckRadioBoxComplete=Larangan penuh
+CheckRadioBoxHours=Jam
+CheckRadioBoxDate=Sampai dengan
+CheckRadioBoxInfinite=Selamanya
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=Oke
+ButtonCancel=Batal
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Masukan Kata sandi
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Pemberitahuan
+MenuItemAddContact=Tambahkan ke daftar teman
+MenuItemCopyIP=Simpan sementara IP
+MenuItemSortNicks=Golongkan berdasarkan nama
+MenuItemSortIPs=Golongkan berdasarkan ping
+MenuItemConfig=Konfigurasi
+MenuItemShowProfile=Lihat profil
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Kirim
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Obrolan:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Pesan Selamat Datang
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Atur jaringanmu sendiri
+GroupBoxJoin=Bergabung dengan Jaringan yang ada
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkNameT=Nama Jaringan:
+LabelNetworkPasswordT=Pasword Jaringan:
+LabelNetworkSize=Ukuran Jaringan:
+LabelNetworkNameB=Nama Jaringan:
+LabelNetworkPasswordB=Pasword Jaringan:
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Buat - Perbarui
+ButtonJoin=Gabung
+ButtonJoinOwn=Bergabung Dengan Jaringanmu
+ButtonNetworkList=Daftar Jaringan
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Jaringan Emulasi
+UrlLabelInterlink=Sambungan Server
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Jaringan Dasar
+CheckRadioBoxNetPremium=Jaringan Premium
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Pemberitahuan
+MenuItemAddContact=Tambahkan ke daftar teman
+MenuItemCopyIP=Simpan sementara IP
+MenuItemSortNicks=Golongkan berdasarkan nama
+MenuItemSortIPs=Golongkan berdasarkan ping
+MenuItemConfig=Kofigurasi
+MenuItemShowProfile=Lihat profil
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Kirim
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Obrolan:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Jangan tunjukan lagi

@@ -1,0 +1,579 @@
+
+[Header]
+Author=Finland Police (Community)
+Date=2014.12.19
+Language=Estonian
+CharSet=DEFAULT_CHARSET
+PrimLangID=37
+CodePage=1257
+[Global-Ressource]
+MI_MINCAPTION=Minimeeri
+MI_MAXCAPTION=Suurenda
+MI_CLOSECAPTION=Sulge
+MI_RESTORECAPTION=Taasta
+MI_MINTOTRAYCAPTION=Minimeeri ikooniks
+MI_ROLLUPCAPTION=Keri ülesse
+MINBUTTON_HINT=Minimeeri
+MAXBUTTON_HINT=Suurenda
+CLOSEBUTTON_HINT=Sulge
+TRAYBUTTON_HINT=Minimeeri ikooniks
+ROLLUPBUTTON_HINT=Keri ülesse
+MENUBUTTON_HINT=Menüü
+RESTORE_HINT=Taasta
+EDIT_UNDO=Taasta
+EDIT_COPY=Kopeeri
+EDIT_CUT=Lõika
+EDIT_PASTE=Kleebi
+EDIT_DELETE=Kustuta
+EDIT_SELECTALL=Vali kõik
+MSG_BTN_YES=Jah
+MSG_BTN_NO=Ei
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Loobu
+MSG_BTN_ABORT=Katkesta
+MSG_BTN_RETRY=Proovi uuesti
+MSG_BTN_IGNORE=Ignoreeri
+MSG_BTN_ALL=Kõik
+MSG_BTN_NOTOALL=Kõigile Ei
+MSG_BTN_YESTOALL=Kõigile Jah
+MSG_BTN_HELP=Abi
+MSG_BTN_OPEN=Ava
+MSG_BTN_SAVE=Salvesta
+MSG_BTN_CLOSE=Sulge
+MSG_BTN_BACK_HINT=Viimati külastatud kaust
+MSG_BTN_UP_HINT=Ühe taseme ülesse
+MSG_BTN_NEWFOLDER_HINT=Tee uus kaust
+MSG_BTN_VIEWMENU_HINT=Menüü
+MSG_BTN_STRETCH_HINT=Venita pilti
+MSG_FILENAME=Faili nimi
+MSG_FILETYPE=Faili tüüp
+MSG_NEWFOLDER=Uus kaust
+MSG_LV_DETAILS=Detailid
+MSG_LV_ICON=Suured ikoonid
+MSG_LV_SMALLICON=Väikesed ikoonid
+MSG_LV_LIST=List
+MSG_PREVIEWSKIN=Eelvaade
+MSG_PREVIEWBUTTON=Nupp
+MSG_OVERWRITE=Kas sa tahad üle kirjutada vana faili?
+MSG_CAP_WARNING=Hoiatus
+MSG_CAP_ERROR=Error
+MSG_CAP_INFORMATION=Info
+MSG_CAP_CONFIRM=Kinnita
+MSG_CAP_SHOWFLAG=Ära näita seda teadet enam uuesti
+CALC_CAP=Kalkulaator
+ERROR=Error
+COLORGRID_CAP=Põhi värvid
+CUSTOMCOLORGRID_CAP=Kohandatud värvid
+ADDCUSTOMCOLORBUTTON_CAP=Lisa kohandatud värvidele
+FONTDLG_COLOR=Värv:
+FONTDLG_NAME=Nimi:
+FONTDLG_SIZE=Suurus:
+FONTDLG_HEIGHT=Kõrgus:
+FONTDLG_EXAMPLE=Näide:
+FONTDLG_STYLE=Stiil:
+FONTDLG_SCRIPT=Skript:
+DB_DELETE_QUESTION=Kas sa oled kindel kustutamaks seda kirjet?
+DB_MULTIPLEDELETE_QUESTION=Kustuta kõik kirjed?
+NODISKINDRIVE=Ei ole ketast lugejas või ketas ei ole valmis
+NOVALIDDRIVEID=DriveID ei kehti
+FLV_NAME=Nimi
+FLV_SIZE=Suurus
+FLV_TYPE=Tüüp
+FLV_LOOKIN=Vaata sisse:
+FLV_MODIFIED=Muudetud
+FLV_ATTRIBUTES=Atribuudid
+FLV_DISKSIZE=Ketta suurus
+FLV_FREESPACE=Vaba Mälu
+PRNDLG_NAME=Nimi:
+PRNDLG_PRINTER=Printer
+PRNDLG_PROPERTIES=Omadused...
+PRNDLG_TYPE=Tüüp:
+PRNDLG_STATUS=Olek:
+PRNDLG_WHERE=Kus:
+PRNDLG_COMMENT=Komenteeri:
+PRNDLG_PRINTRANGE=Prindi vahemik
+PRNDLG_COPIES=Koopiad
+PRNDLG_NUMCOPIES=Koopiate arv:
+PRNDLG_COLLATE=Võrdleb
+PRNDLG_ALL=Kõik
+PRNDLG_PAGES=Lehed
+PRNDLG_SELECTION=Valik
+PRNDLG_PRINTTOFILE=Prindi faili
+PRNDLG_FROM=Kellelt:
+PRNDLG_TO=Kellele:
+PRNDLG_ORIENTATION=Orientatsioon
+PRNDLG_PAPER=Paber
+PRNDLG_PORTRAIT=Portree
+PRNDLG_LANDSCAPE=Maastik
+PRNDLG_SOURCE=Allikas:
+PRNDLG_SIZE=Suurus:
+PRNDLG_MARGINS=Marginaadid(millimeetrites)
+PRNDLG_MARGINS_INCHES=Marginaadid(Tollides)
+PRNDLG_LEFT=Vasak:
+PRNDLG_RIGHT=Parem:
+PRNDLG_TOP=Üless:
+PRNDLG_BOTTOM=Põhjas:
+PRNDLG_WARNING=Sul pole ühtegi printerit ühendatud!
+FIND_NEXT=Leia järgmine
+FIND_WHAT=Leia:
+FIND_DIRECTION=Suund
+FIND_DIRECTIONUP=Üless
+FIND_DIRECTIONDOWN=Alla
+FIND_MATCH_CASE=Sorteeri juhtum
+FIND_MATCH_WHOLE_WORD_ONLY=Sorteeri ainult üks sõna 
+FIND_REPLACE_WITH=Asenda sellega:
+FIND_REPLACE=Asenda
+FIND_REPLACE_All=Asenda kõik
+FIND_REPLACE_CLOSE=Sulge
+MORECOLORS=Veel värve...
+AUTOCOLOR=Automaatne
+CUSTOMCOLOR=Omal valikul...
+[Global-MessageBox-Information]
+Select=Sa pead enne valima  Tunngle.
+Controller=Liiklus kontroller on eemaltatud selles versioonis.
+EnterSearchText=Palun sisesta et midagi otsida
+EnterSearchUser=Palun sisestage otsing
+ContactDeny=%s loobus sinu sõbra kutsest
+ContactAccept=%s nõustus sinu sõbra kutsega.
+ConnectionLost=Ühendus on katkenud
+ConnectionProblem=Võimalik ühenduse probleem. \r\nSinu ruuteri NAT seadistus võib takistada Tunngle'it tegemast P2P ühendust teiste kasutajatega. \r\nAvan abi lehe?
+PortReachable=Valitud port on avatud ja lubab ühendusi.
+CreateNet=See funktsioon ei ole veel saadaval.\r\nPalun postita oma soovitused foorumisse.\r\nSoovid sa avada foorumi lehte?
+AdapterPrim=Tunngle võrguadapter ei ole korralikult prioritiseeritud. (0)\r\nSa ei leia ühtegi serverit LAN mängude valikus.
+EnterNamePW=Palun sisesta kasutajanimi ja parool.
+NewVersion=Uus versioon %s Tunngle'st on väljas ja saadaval.
+FriendNetwork=%s on "%s" võrgus.\r\nKas sa tahad selle võrguga ühineda?
+FriendNoNetwork=ei ole võrgus
+Close=Tungle sulgub nüüd
+LSPBackup=LSP tagavarafail edukalt tehtud.\r\n%s
+LSPOK=LSP probleem parandatud
+LastTab=Viimast sakki ei saa sulgeda.
+[Global-MessageBox-Warning]
+PortUnreachable=Valitud port ei tundu olevat avatud.\r\nMärge: Kui Tunngle töötab regulaarselt, siis sa ei pea selle pärast muretsema.
+UPnP=Automaatne portide suunamine UPnP abil ebaõnnestus.
+ServerUnreachable=Ühendus Tunngle serveriga ebaõnnestus.\r\nKäivitame Tunngle ikkagi?
+Offline=Ei suutnud ühendust püstitada.\r\nValitud kontakt ei ole online.
+ConnectionFail=Ei suutnud ühendust püstitada.
+Messenger=Ettevaatust!\r\nKuna sõnumisaatja on veel arendamisel, siis ei ole selle akna tõlked veel lõpetatud.\r\nSee parandatakse järgmises Tunngle versioonis.
+WriteRegistry=Seadistust ei saadud registrisse salvestada.\r\nPalun kontakteeru administraatoriga.
+SelectLanguage=Palun valige keel esmalt.
+SelectAdapter=Palun vali kõigepealt liides.
+[Global-MessageBox-Question]
+Contact=Kas tõesti tahate lisada %s oma sõbralisti?
+Delete=Kas tahate tõesti eemaldada %s oma mustast nimekirjast?
+ChangeNet=Kas tahate tõesti lahkuda "%s" võrgust, et ühindeda "%s" võrguga?
+CloseChat=Kas tahate tõesti sulgeda %s jututuba?
+CloseLobby=Kas tõesti tahate lahkuda %s?
+CloseTab=Kas tahate tõesti sulgeda "%s" sakki?
+AddContact=%s on lisanud sind enda sõbra nimekirja.\r\nKas sa nõustud?
+Quit=Kas tahate tõesti lahkuda?
+DelFavorite=Kas tahate tõesti %s kustutada?
+NewVersion=Uus Tunngle versioon %s on väljas. \r\Kas soovite tõmmata?
+Adapter=Järgmine Tunngle liides leiti.\r\n%s\r\nKas tahate seda liidest seostada Tunnglega?
+Language=Oleme märganud, et teie süsteemi keel vastab "%s" keele failile? Kas soovite seda kasutada?
+LanguageID=Valitud keele fail ei ühti praeguse süsteemi keelega. \r\nJätkata ikkagi?
+LanguageCP=Praegune süsteemi koodileht ei ühti sellega, mida vaja hetkel valitud keele failile.\r\Mõned tähed võivad esineda valesti.\r\n Kas ikka jätkata?
+[Global-MessageBox-Error]
+RunOnce=Ainult üks Tunngle programm saab töötada korraga.
+NotInstalled=Tunngle ei ole hetkel installitud.
+NoAdapter=Ei suutnud leida Tunngle võrguliidest!
+AccountVerify=Sisselogimine ebaõnnestus.\r\nTeie konto pole kinnitatud.
+AccountBann=Sisselogimine ebaõnnesus\r\nTeie konto on keelu alla pandud.
+ConnectionProblem=Ühenduse viga!\r\nEi suutnud luua UDP ühendyst serveriga.\r\nTeie tulemüür võib olla süüdi.\r\nKas vajate abi?
+NATProblem=NAT viga!\r\nTeie ruuteri NAT sätted takistavad Tunngle tavapärast töötamist.\r\nTe peate porte avama,\r\nKas vajate abi?
+ConnectionProblemInfo=Ühenduse viga!\r\n Ei suutnud luua UDP ühendust serveriga.\r\nTeie tulemüür võib olla süüdi.\r\nKas vajate abi?
+MasterServer=Ei suutnud ühendada Tunngle Überserveriga.
+Version=Programm on aegunud.\r\nKas soovite kohe uuendada?
+Safe=Teie ühendust ei saa kindlustada.
+AuthFail=Sisselogimine ebaõnnestus.\r\nPalun kontrollige kasutajanime ja parooli\r\n(Ärge ajage sassi oma kasutaja parooli ja konto parooli!)\r\nKas vajate abi?
+AdapterInit=Ei suutnud alustada Tunngle võrguliidest!
+UDPSocket=UDP Socket Error!\r\nEi suutnud luua UDP pesa.\r\nTeie tulemüür võib olla süüdi.\r\Kas vajate abi?
+AdapterPrim1=Tunngle võrguliidest ei ole paigutatud õigesti tähtsusjärjekorras. (1)\r\n Te ei leia servereid LAN lehitsejas mängudes.\r\nKas vajate abi?
+AdapterPrim2=Tunngle võrguliidest ei ole paigutatud õigesti tähtsusjärjekorras. (2)\r\n Te ei leia servereid LAN lehitsejas mängudes.\r\nKas vajate abi?
+ServiceFound=Ei leidnud Tunngle teenust!
+ServiceContact=Ei suutnud luua ühendust Tunngle teenusega!
+CryptFail=Ei suutnud laadida krüptograafilist raamatukogu!
+PortFail=Valitud port pole avatud. Palun sisestage mõni muu.
+WinSock2=Ei suutnud ligi pääseda WinSock'ile.\r\nVõrgu sätteid polnud võimalik kontrollida.
+LSPProblems=%d LSP probleemid avastatud.\r\nKas parandada need praegu?
+LSPBackup=Viga LSP tagavara faili loomisel.\r\nKas tahate loobuda?
+LSPSafePoint=Viga LSP taastuspunkti loomisel.\r\nKas tahate loobuda?
+LSPRepair=%d LSP probleeme ei suudetud parandada.\r\nTaastan vana oleku?
+LSPRedo=Taastamine ebaõnnestus.
+[Global-Text-Dynamic]
+Loading=Laen %s...
+FromTo=%d kuni %d %d'st
+LastAct=Viimane uuendus: %s
+Lobby=Ooteruum (%d)
+ChatJoined=<%s "%s" on ühinenud jututoaga.>
+NetJoined=<%s "%s" on ühinenud võrguga.>
+LobbyJoined=<%s "%s" on ühinenud ooteruumiga.>
+ChatLeft=<%s "%s" on lahkunud jututoast.>
+NetLeft=<%s "%s" on lahkunud võrgust.>
+LobbyLeft=<%s "%s" on lahkunud ooteruumist.>
+ConnectionDeny1=*Ei saanud ühendada %s'ga, sest ta on pannud sind enda musta listi.*
+ConnectionDeny2=* Ei saanud ühendada %s'ga, sest ta on su mustas listis.*
+ConnectionLost=[%s kaotas ühenduse Tunngle serveriga!]
+VirtualIP=Virtuaalne IP: %s
+LoginNick=Sisse logitud %s'na
+Version=Versioon: %s
+Connecting=Ühendan %s
+ChatMe=Ma:%s
+ChatDeny=*Ei saanud kätte sõnumit %s'lt, sest ta on su mustas listis.*
+AddBlacklist=Kui kaua on %s mustas listis?
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle Uudised
+CaptionStart=Tunngle Start
+CaptionStartPage=Tunngle Start
+CaptionQuickstart=Kiirstart
+CaptionSupport=Tugiteenused
+CaptionBetainfo=Beta Info
+CaptionTunnglefaq=Tunngle KKK
+CaptionDownloadarea=Allalaadimise Ala
+CaptionResults=Vasted...
+CaptionChat=Jututuba
+CaptionLobby=Ooteruum
+CaptionNetwork=Võrk
+CaptionTunngleforum=Tunngle Foorum
+CaptionEventplaner=Sündmuste kavandaja
+CaptionForumfaq=Foorumi KKK
+CaptionForum=Foorum
+CaptionTunngleskins=Tunngle skinnid
+CaptionSearch=Otsi
+CaptionBrowser=Lehitseja
+CaptionSkinconfig=Skinni seaded
+CaptionSoundconfig=Hääled
+CaptionPrivacylists=Must list
+CaptionConfiguration=Seaded
+CaptionFavorite=Järjehoidjad
+CaptionSubBrowser=Võrgud
+SplashPleaseWait=Palun oodake...
+SplashLoaddata=Laen andmeid...
+SplashReset=Taaskäivitan...
+SplashConfig=Sätestan...
+SplashLoading=Laen...
+SplashConnecting=Ühendan...
+SplashVersion=Kontrollin versiooni...
+SplashSafe=Kindlustan ühenduse...
+SplashUPnP=Proovin UPnP pordi seadmist..
+SplashAuth=Kinnitan...
+SplashAdatperset=Sean liidese üles...
+SplashAdapterinit=Panen liidese valmis...
+SplashAdapterstart=Käivitan liidese...
+SplashAdapterchkprim=Kontrollin liidese tähtsust...
+SplashAdapterchkbc=Kontrollin liidese ühenduvust...
+SplashAdapterchkstop=Kontrollin liidese peatamist...
+SplashFinalize=Lõpetan...
+SplashServiceinit=Käivitan Tunngle teenuse...
+SplashServicecontact=Loon ühenduse Tunngle teenusega...
+SplashServercontact=Loon ühenduse Tunngle serveriga...
+SplashConfigurate=Sätestan Tunnglet...
+SplashWinSock2=Kontrollin võrgu sätteid...
+SplashNetzone=Kontrollin võrgu asukohta...
+SearchInWork=Otsitakse...
+Lobby=Ooteruum
+NetLeft=Lahkusite võrgust.
+NoIP=Virtuaalne IP: - 
+ChatJoined=Olete edukalt liitunud jututuppa.
+NetJoined=Olete edukalt liitunud võrku.
+LobbyJoined=Olete edukalt liitunud ooteruumi.
+FoundNothing=Pole vasteid!
+NetChangeBegin=Üritan vahetada võrku. Palun oodake...
+NetChangeEnd=Võrgu vahetus edukas. Palun oodake...
+NotLoggedIn=Sa ei ole sisse logginud.
+EnterNamePW=Palun sisesta kasutajanimi ja parool.
+MessageSendFail=* Ei saanud sõnumit saata. *
+MessageSendFlood=*Sa saadad sõnumeid liiga kiiresti. Palun vähenda kiirust*
+LaunchParameter=Käsuvälja parameetrid:
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Kogukond
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Otsi sõpru ja võrke.
+SpeedButtonCommunity2=Viimase aktiivse saki juurde.
+SpeedButtonMessenger=Sõnumiseerija
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Algusleht
+ButtonQABetaInfo=Beeta info
+ButtonQAForum=Foorum
+ButtonQAEventPlanner=Sündmuse planeerija
+ButtonQALobby=Tunngle ooteruum
+ButtonQAFavorites=Järjehoidjad
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Võrgu avastaja
+ExPanelFindnetwork=Võrgu otsimine
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Otsi
+MenuItemNetFavorite=Järjehoidjad
+MenuItemNetCreate=Loo
+MenuItemTunnglelobby=Tunngle ooteruum
+MenuItemEventplaner=Sündmuse planeerija
+MenuItemSounds=Hääled
+MenuItemSkins2=Skinnid
+MenuItemPrivacylists=Must list
+MenuItemConfiguration=Seaded
+MenuItemAbout=Tunngle'st
+MenuItemTrayOpen=Ava
+MenuItemTrayClose=Sulge
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Teated
+MenuItemAddContact=Lisa sõbra listi
+MenuItemAddBlacklist=Lisa musta listi
+MenuItemEditBlacklist=Muuda musta listi
+MenuItemSortNicks=Sordi kasutajanimesid
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Saada
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Räägi:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<<tagasi
+ButtonForward=Edasi>>
+ButtonActualize=värskenda
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nimi
+ListViewNet-1=Online
+ListViewNet-2=Þanr
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Lisa järjehoidjatesse
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Värskenda
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nimi
+ListViewNet-1=Saadaval
+ListViewNet-2=Þanr
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Lisa järjehoidjatesse
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Tagasi
+ButtonForward=Edasi >>
+ButtonActualize=Värskenda
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nimi
+ListViewNet-1=Saadaval
+ListViewNet-2=Þanr
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Kustuta Lemmikuid
+MenuItemSortFavorite=Sordi Lemmikuid
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Värskenda
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nimi
+ListViewNet-1=Võrgus
+ListViewNet-2=Þanr
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Kustuta Lemmik
+MenuItemSortFavorite=Sordi Lemmikuid
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Katkesta ja suuna kõik võimalikud ühendused
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Edastatud port
+CheckRadioBoxUPnP=Kasuta UPnP'd
+CheckRadioBoxTCActive=Sisse lülitatud
+CheckRadioBoxSignature=Allkiri
+CheckRadioBoxLog=Võrgu andmete salvestus
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Tähelepanu!\r\ntavaliselt mitte sees. 
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Rakenda
+ButtonCancel=Loobu
+ButtonTest=Test
+ButtonDefault=Vaikimise sätted
+ButtonWizard=Abiline
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Kasutajaliides
+GroupBoxNetconfig=Ühendus
+GroupBoxRouterconfig=Ruuter
+GroupBoxTrafficcontroller=Liikluse kontroller
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Keel
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Hoiatus! Palun taaskäivita Tunngle et rakendada uusi seadeid
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle otsing
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=ära näita täis ühendusi
+CheckRadioBoxEmpty=Ära näita tühje ühendusi
+CheckRadioBoxPassword=Ära näita parooliga kaitstud ühendusi
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Otsingu filtrid
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Otsingu Filtrid>>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<<Tagasi
+ButtonForward=Edasi>>
+ButtonActualize=Värskenda
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Nimi
+ListViewResults-1=Online
+ListViewResults-2=Þanr
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Lisa järjehoidjatesse
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Teated
+MenuItemAddContact=Lisa sõbra listi
+MenuItemAddBlacklist=Lisa musta listi
+MenuItemEditBlacklist=Muuda musta listi
+MenuItemSortNicks=sorteeri kasutajanimesid
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Saada
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Lobise:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Rakenda
+ButtonCancel=Loobu
+ButtonFind=Otsi
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Hüüd nimi
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Otsi
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Globaalne must list
+StdLabelChatmessages=Jututoa must list
+StdLabelName=Nimi
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Kustuta
+MenuItemDeleteChat=Kustuta
+MenuItemAddBlacklist=Lisa musta listi
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Rakenda
+ButtonCancel=Loobu
+ButtonDownload=Tõmba uusi skinne
+ButtonDefault=Tunngle skini vaikevariant
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Eelvaade
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Sedel
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=tekstiväli
+[FrameSkins-TspSkinEdit-Text]
+EditInput=sisestusväli
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Ruuduke
+CheckRadioBox2=Ruuduke
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Rakenda
+ButtonCancel=Loobu
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Luba hääli
+CheckRadioBoxStart=Käivitamine
+CheckRadioBoxLogin=Logi sisse
+CheckRadioBoxLeave=Tunngler lahkub võrgust
+CheckRadioBoxJoin=Tunngler liitub võrguga
+CheckRadioBoxReceive=Sõnum vastu võetud
+CheckRadioBoxQuit=Sule
+CheckRadioBoxSend=Sõnum saadetud
+CheckRadioBoxKey=Jutukasti klahvivajutust
+CheckRadioBoxDirectopen=Uus otsene vestlus aken
+CheckRadioBoxDirectmessage=Otsene vestlus sõnum vastu võetud
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Browser
+ButtonFavorite=Järjehoidjad
+ButtonQuicklaunch=Kiire käivitus
+ButtonBetainfo=Beta informatsioon
+ButtonForum=Foorum
+ButtonEventplaner=sündmuse planeerija
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Tagasi
+StatusPanelForward=Edasi
+StatusPanelStop=Peata
+StatusPanelReload=Värskenda
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Tagasi
+StatusPanelForward=Edasi
+StatusPanelStop=Peata
+StatusPanelReload=Värskenda
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=teated
+MenuItemAddContact=Lisa sõbra listi
+MenuItemAddBlacklist=Lisa musta listi
+MenuItemEditBlacklist=Muuda musta listi
+MenuItemCopyIP=Kopeeri IP lõikelauale
+MenuItemSortNicks=Sorteeri kasutajanimesid
+MenuItemConfig=Sätesta
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Saada
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Räägi:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Sule
+[FormAbout-Infos]
+Caption=Tunngle'ist
+[FormLogin-Infos]
+Caption=Logi sisse
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Logi sisse
+ButtonCancel=Loobu
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Kasutajanimi:
+LabelPassword=Parool:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Pea meeles
+CheckRadioBoxAuto=Automaatne logimine
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Registreeri tasuta Tungle konto
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Loobu
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Saada
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Räägi:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Lisa krupp
+MenuItemContactAdd=Lisa kontakt
+MenuItemContactHideOffline2=peida võrgust väljas
+MenuItemRights=luba
+MenuItemTunngleShares=Tunngle jagamine
+MenuItemContactInfo=Kontakti info
+MenuItemContactAlert=Kontakti hoiatama
+MenuItemContactNote=Kontakti märked
+MenuItemReadAwayMessage=Loe olekusõnumit
+MenuItemContactRename=Muuda kontakti nime
+MenuItemContactDelete=Kustuta kontakt
+MenuItemMoveToGroup=liigu gruppi
+MenuItemContactHideOffline3=Peida väljalogitud
+MenuItemMessage=Otse juttu ajama
+MenuItemRights2=Luba
+MenuItemTunngleShares2=Tunngle jagamine
+MenuItemGroupRename=Muuda kruppi nime
+MenuItemGroupDelete=Kustuta grupp
+MenuItemGroupExpandCollapse=Sulge/Ava grupp
+MenuItemContactHideOffline=peida võrgust väljas
+MenuItemMain=Menüü
+MenuItemAddContact=Lisa kontakt
+MenuItemInNetwork=Võrgu Info
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Loobu
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Fail
+ListViewLanguage-1=Keel
+ListViewLanguage-2=Autor
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Jätka
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Palun vali Tungle Keel
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Nimi
+ListViewAdapter-1=IP
+ListViewAdapter-2=Seadme nimi
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Jätka
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Palun valige Tunngle'i adapter.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Katkesta
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Ainult jututoad
+CheckRadioBoxComplete=Täiskeeld
+CheckRadioBoxHours=Tunnid
+CheckRadioBoxDate=Kuni
+CheckRadioBoxInfinite=Igavesti
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Katkesta
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Sisesta Parool:

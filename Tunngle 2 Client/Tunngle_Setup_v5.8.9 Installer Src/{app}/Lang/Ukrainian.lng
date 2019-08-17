@@ -1,0 +1,546 @@
+
+[Header]
+Author=DASOFT & Bersercker (Community)
+Date=2014.12.19
+Language=Ukrainian
+CharSet=DEFAULT_CHARSET
+PrimLangID=34
+CodePage=1251
+[Global-Ressource]
+MI_MINCAPTION=&Згорнути
+MI_MAXCAPTION=Розгорнути
+MI_CLOSECAPTION=Закрити
+MI_RESTORECAPTION=&Відновити
+MI_MINTOTRAYCAPTION=Сховати в &трей
+MI_ROLLUPCAPTION=Розгорнути
+MINBUTTON_HINT=Згорнути
+MAXBUTTON_HINT=Розгорнути
+CLOSEBUTTON_HINT=Закрити
+TRAYBUTTON_HINT=Сховати в трей
+ROLLUPBUTTON_HINT=Розгорнути
+MENUBUTTON_HINT=Системне меню
+RESTORE_HINT=Відновити
+EDIT_UNDO=Відміна
+EDIT_COPY=Копіювати
+EDIT_CUT=Вирізати
+EDIT_PASTE=Вставити
+EDIT_DELETE=Видалити
+EDIT_SELECTALL=Виділити все
+MSG_BTN_YES=&Так
+MSG_BTN_NO=&Ні
+MSG_BTN_OK=ОК
+MSG_BTN_CANCEL=Відмінити
+MSG_BTN_ABORT=Пере&рвати
+MSG_BTN_RETRY=&Повторити
+MSG_BTN_IGNORE=&Ігнорувати
+MSG_BTN_ALL=&Всі
+MSG_BTN_NOTOALL=Н&і для всіх
+MSG_BTN_YESTOALL=Т&ак для всіх
+MSG_BTN_HELP=&Допомога
+MSG_BTN_OPEN=&Відкрити
+MSG_BTN_SAVE=&Зберегти
+MSG_BTN_CLOSE=Закрити
+MSG_BTN_BACK_HINT=До останньої відвіданої теки
+MSG_BTN_UP_HINT=Вгору
+MSG_BTN_NEWFOLDER_HINT=Створити нову теку
+MSG_BTN_VIEWMENU_HINT=Меню
+MSG_BTN_STRETCH_HINT=Розтягнути зображення
+MSG_FILENAME=Ім'я файла:
+MSG_FILETYPE=Тип файла:
+MSG_NEWFOLDER=Нова тека
+MSG_LV_DETAILS=Деталі
+MSG_LV_ICON=Великі іконки
+MSG_LV_SMALLICON=Малі іконки
+MSG_LV_LIST=Список
+MSG_PREVIEWSKIN=Попередній перегляд
+MSG_PREVIEWBUTTON=Кнопка
+MSG_OVERWRITE=Ви хочете перезаписати старий файл?
+MSG_CAP_WARNING=Увага
+MSG_CAP_ERROR=Помилка
+MSG_CAP_INFORMATION=Інформація
+MSG_CAP_CONFIRM=Підтвердити
+MSG_CAP_SHOWFLAG=Більше не показувати це повідомлення
+CALC_CAP=Калькулятор
+ERROR=Помилка
+COLORGRID_CAP=Основні кольори
+CUSTOMCOLORGRID_CAP=Кольори користувача
+ADDCUSTOMCOLORBUTTON_CAP=Додати до кольорів користувача
+FONTDLG_COLOR=Колір:
+FONTDLG_NAME=Ім'я:
+FONTDLG_SIZE=Розмір:
+FONTDLG_HEIGHT=Висота:
+FONTDLG_EXAMPLE=Приклад:
+FONTDLG_STYLE=Стиль:
+FONTDLG_SCRIPT=Шрифт:
+DB_DELETE_QUESTION=Ви справді хочете видалити цей запис?
+DB_MULTIPLEDELETE_QUESTION=Видалити всі виділені записи?
+NODISKINDRIVE=В пристрої відсутній диск, або пристрій не готовий
+NOVALIDDRIVEID=Неправильний ID пристрою (диску)
+FLV_NAME=Ім'я
+FLV_SIZE=Розмір
+FLV_TYPE=Тип
+FLV_LOOKIN=Дивитись в:
+FLV_MODIFIED=Змінено
+FLV_ATTRIBUTES=Властивості
+FLV_DISKSIZE=Розмір диску
+FLV_FREESPACE=Вільне місце
+PRNDLG_NAME=Ім'я:
+PRNDLG_PRINTER=Принтер
+PRNDLG_PROPERTIES=Властивості...
+PRNDLG_TYPE=Тип:
+PRNDLG_STATUS=Статус:
+PRNDLG_WHERE=Де:
+PRNDLG_COMMENT=Коментар:
+PRNDLG_PRINTRANGE=Диапазон друку
+PRNDLG_COPIES=Копії
+PRNDLG_NUMCOPIES=Кількість копій:
+PRNDLG_COLLATE=Розібрати по копіях
+PRNDLG_ALL=Всі
+PRNDLG_PAGES=Сторінки
+PRNDLG_SELECTION=Виділене
+PRNDLG_PRINTTOFILE=Друкувати в файл
+PRNDLG_FROM=з:
+PRNDLG_TO=до:
+PRNDLG_ORIENTATION=Орієнтація
+PRNDLG_PAPER=Папір
+PRNDLG_PORTRAIT=Портрет
+PRNDLG_LANDSCAPE=Ландшафт
+PRNDLG_SOURCE=Джерело:
+PRNDLG_SIZE=Розмір:
+PRNDLG_MARGINS=Відступ (мм)
+PRNDLG_MARGINS_INCHES=Відступ (дюйми)
+PRNDLG_LEFT=Зліва:
+PRNDLG_RIGHT=Справа:
+PRNDLG_TOP=Згори:
+PRNDLG_BOTTOM=Знизу:
+PRNDLG_WARNING=В ващій системі відсутні принтери!
+FIND_NEXT=Знайти далі
+FIND_WHAT=Що:
+FIND_DIRECTION=Напрям
+FIND_DIRECTIONUP=Вгору
+FIND_DIRECTIONDOWN=Вниз
+FIND_MATCH_CASE=Величина літер має сбігатися
+FIND_MATCH_WHOLE_WORD_ONLY=Все слово має збігатися
+FIND_REPLACE_WITH=Замінити на:
+FIND_REPLACE=Замінити
+FIND_REPLACE_All=Замінити все
+FIND_REPLACE_CLOSE=Закрити
+MORECOLORS=Більше кольорів
+AUTOCOLOR=Автоматично
+CUSTOMCOLOR=Кольори користувача...
+[Global-MessageBox-Information]
+Select=Ви маєте спочатку обрати користувача.
+Controller=Контролер трафіку вимкнено в цій версій.
+EnterSearchText=Введіть шуканий текст, будь ласка.
+ContactDeny=%s відмовився стати вашим другом.
+ContactAccept=%s погодився(лась) стати вашим другом.
+ConnectionLost=Зв'язок втрачено. \r\nКод: %s
+ConnectionProblem=Можливі проблеми із зв'язком. \r\nКонфігурація NAT вашого роутера може завадити Tunngle \r\nвстановити P2P підключення з іншими користувачами. \r\nЧи бажаєте ви відкрити сторінку з допомогою зараз?
+PortReachable=Виділений порт відкритий і приймає з'єднання
+CreateNet=Ця функція ще не доступна. \r\nБудь ласка пишіть ваші пропозиції на community форумі. \r\nЧи бажаєте ви відвідати форум зараз?
+AdapterPrim=Встановлено неправильний приорітет для мережевого адаптера Tunngle. (0)\r\nВи не зможете побачити створені ігри в локальній мережі.
+EnterNamePW=Будь ласка введіть ваші ім'я та пароль.
+NewVersion=Нова версія %s Tunngle вийшла, і доступна для завантаження.
+FriendNetwork=%s в мережі "%s" .\r\nЧи ви бажаєте перейти до цієї мережі?
+FriendNoNetwork=%s не в мережі.
+Close=Tunngle буде вимкнено.
+LSPBackup=Резервний файл LSP створено успішно\r\n%s
+LSPOK=%d Проблеми з LSP вирішені.
+LastTab=Не вдається закрити останню закладку.
+[Global-MessageBox-Warning]
+PortUnreachable=Обраний порт, здається, закрито. \r\nПримітка: Якщо зазвичай Tunngle працює, не беріть дурного в голову. :)
+UPnP=Не вдалося автоматично встановити port forwarding, використовуючи UPnP.
+ServerUnreachable=Не вдалося з'єднатись з сервером Tunngle.\r\nЧи бажаєте ви всеодно ввімкнути Tunngle?
+Offline=Не вдалося встановити зв'язок.\r\nОбраний контакт не в мережі.
+ConnectionFail=Не вдалося встановити зв'язок.
+Messenger=Увага!\r\nТак як messenger ще в стадії розробки, \r\nпереклад його вікон ще не закінчено. \r\nЦе буде виправлено в наступних версіях Tunngle.
+WriteRegistry=Не вдалося зберегти налаштування до реєстру. \r\nБудь ласка, зв'яжіться з адміністратором.
+SelectLanguage=Будь ласка, спочатку оберіть мову.
+SelectAdapter=Будь ласка, спочатку оберіть адаптер.
+[Global-MessageBox-Question]
+Contact=Чи ви справді бажаєте додати %s до свого списку друзві?
+Delete=Ви дійсно хочете видалити %s з вашого чорного списку?
+ChangeNet=Ви дійсно хочете залишити кімнату "%s" для з'єднання з кімнатою "%s"?
+CloseChat=Ви дійсно хочете закрити чат кімнати "%s"?
+CloseLobby=Ви дійсно хочете вийти з %s?
+CloseTab=Ви дійсно хочете закрити кімнату "%s"?
+AddContact=%s додав Вас до списку друзів.\r\nВи хочете прийняти його?
+Quit=Ви дійсно хочете вийти?
+DelFavorite=Ви дійсно хочете видалити %s?
+NewVersion=З'явилася нова версія %s Tunngle. \r\nЧи бажаєте ви завантажити її зараз?
+Adapter=Було знайдено наступний адаптер Tunngle. \r\n%s\r\n Чи бажаєте ви, щоб Tunngle використовувало його?
+Language=Ваша системна мова сумісна з "%s" мовним файлом. \r\nЧи ви бажаєте використовувати його?
+LanguageID=Обраний мовний файл не співпадає з вашою системною локалізацією. \r\nВсе одно продовжити?
+LanguageCP=Кодова сторінка, яка зараз встановлена у вашій системі, не співпадає з потрібною для обраного файла. \r\nМожливо, деякі літери будуть некоректно відображені.\r\nВсе одно продовжити? 
+[Global-MessageBox-Error]
+RunOnce=Tunngle може бути запущений тільки одни раз.
+NotInstalled=Tunngle встановлена невірно.
+NoAdapter=Не вдалося знайти адаптер мережі Tunngle!
+AccountVerify=Помилка входу.\r\nВаш акаунт не було підтверджено.
+AccountBann=Вхід неможливий.\r\nВаш акаунт буо додано до бан списку.
+ConnectionProblem=Помилка з'єднання!\r\nНе вдалося встановити UDP з'єднання з сервером.\r\nПеревірте налаштування брендмауера.\r\nПотрібна допомога?
+NATProblem=Помилка NAT!\r\nКонфігурація NAT вашого маршрутизатора заважає коректній роботі Tunngle.\r\nВам потрібно налаштувати перенаправлення портів.\r\nПотрібна допомога?
+ConnectionProblemInfo=Помилка з'єднання!\r\nНе вдалося встановити UDP з'єднання з сервером.\r\nПеревірте налаштування брендмауера.\r\nПотрібна допомога?
+MasterServer=Не вдалося з'єднатися з головним сервером Tunngle.
+Version=Версія вашого клієнта застаріла.\r\nОновити зараз?
+Safe=Неможливо забезпечити безпеку Вашого з'єднання.
+AuthFail=Проблема авторизації.\r\nБудь ласка перевірте своє ім'я і пароль.\r\n(Не сплутайте Ваш пароль користувача з паролем вашого акаунту!)\r\nПотрібна допомога?
+AdapterInit=Не вдалося ініціалізувати мережевий адаптер Tunngle!
+UDPSocket=Помилка UDP сокету!\r\nНе вдалося створити сокет UDP.\r\nПеревірте налаштування брендмауера.\r\nПотрібна допомога?
+AdapterPrim1=Мережевий адаптер Tunngle має невірний пріоритет. (1)\r\nВи не зможете знайти жодного серверу в локальній мережі.\r\nПотрібна допомога?
+AdapterPrim2=Мережевий адаптер Tunngle має невірний пріоритет. (2)\r\nВи не зможете знайти жодного серверу в локальній мережі.\r\nПотрібна допомога?
+ServiceFound=Не вдається знайти службу Tunngle!
+ServiceContact=Не вдається зв'язатися із службою Tunngle!
+CryptFail=Не вдалося завантажити бібліотеку шифрування!
+PortFail=Вибраний порт не підходить для перенаправлення. Оберіть іньший порт!
+WinSock2=Не вдається отримати доступ до WinSock.\r\nНеможливо перевірити мережеві налаштування.
+LSPProblems=%d Зафіксовано проблеми з LSP. \r\nВирішити їх зараз?
+LSPBackup=Помилка при створенні резервного файла LSP.\r\nЧи бажаєте ви перервати операцію?
+LSPSafePoint=Помилка при створенні точки відновлення LSP.\r\nЧи бажаєте ви перервати операцію?
+LSPRepair=%d Не вдається вирішити проблеми з LSP.\r\nЧи бажаєте ви повернутись до попереднього стану?
+LSPRedo=Відновлення не вдалось. 
+[Global-Text-Dynamic]
+Loading=Завантаження %s...
+FromTo=%d - %d з %d
+LastAct=Останнє оновлення: %s
+Lobby=Кімната Tunngle (%d)
+ChatJoined=<%s "%s" приєднався до чату.>
+NetJoined=<%s "%s" зайшов до кімнати.>
+LobbyJoined=<%s "%s" приєднався до загального чату.>
+ChatLeft=<%s "%s" залишив чат.>
+NetLeft=<%s "%s" залишив мережу.>
+LobbyLeft=<%s "%s" залишив загальний чат.>
+ConnectionDeny1=* Неможливо приєднатися до %s. Ви у його/її чорному списку. *
+ConnectionDeny2=* Неможливо приєднатися до %s. Ви у його/її чорному списку. *
+ConnectionLost=[ %s Втрачено зв'язок з сервером Tunngle! ]
+VirtualIP=Ваш IP: %s
+LoginNick=Ви зайшли як: %s
+Version=Версія: %s
+Connecting=З'єднання з %s
+ChatMe=Я: %s
+ChatDeny=* Неможливо отримати повідомлення від %s. Ви у його/її чорному списку. *
+[Global-Text-Static]
+CaptionTunnglenews=Новини Tunngle
+CaptionStart=Tunngle старт
+CaptionStartPage=Tunngle старт
+CaptionQuickstart=Початок
+CaptionSupport=Підтримка
+CaptionBetainfo=Інформація
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Завантижити
+CaptionResults=Результати...
+CaptionChat=Чат
+CaptionLobby=Загальна кімната
+CaptionNetwork=Мережа
+CaptionTunngleforum=Форум Tunngle
+CaptionEventplaner=Планувальник завдань
+CaptionForumfaq=Форумний FAQ
+CaptionForum=Форум
+CaptionTunngleskins=Скіни для Tunngle
+CaptionSearch=Пошук
+CaptionBrowser=Браузер
+CaptionSkinconfig=Опції скіна
+CaptionSoundconfig=Звуки
+CaptionPrivacylists=Чорний список
+CaptionConfiguration=Опції
+CaptionFavorite=Обране
+CaptionSubBrowser=Мережі
+SplashPleaseWait=Зачекайте будь ласка...
+SplashLoaddata=Завантаження даних...
+SplashReset=Сброс...
+SplashConfig=Конфігурація...
+SplashLoading=Завантаження...
+SplashConnecting=Підключення...
+SplashVersion=Перевірка версії...
+SplashSafe=Захист з'єднання...
+SplashUPnP=Спроба UPnP перенаправлення портів...
+SplashAuth=Авторизація...
+SplashAdatperset=Настройка адаптера...
+SplashAdapterinit=Ініціалізація адаптера...
+SplashAdapterstart=Запуск адаптера...
+SplashAdapterchkprim=Перевірка пріоритетів адаптера...
+SplashAdapterchkbc=Перевірка передачі данних адаптера...
+SplashAdapterchkstop=Перевірка зупинки адаптера...
+SplashFinalize=Завершення...
+SplashServiceinit=Ініцалізація служби Tunngle...
+SplashServicecontact=Підключення до служби Tunngle...
+SplashServercontact=Підключення до серверу Tunngle...
+SplashConfigurate=Налаштування Tunngle...
+SplashWinSock2=Перевірка мережевих налаштувань...
+SearchInWork=Триває пошук...
+Lobby=ЧАТ
+NetLeft=Залишив мережу.
+NoIP=Ваш IP: -
+ChatJoined=Ви успішно приєдналися до чату.
+NetJoined=Ви успішно приєдналися до ігрової кімнати.
+LobbyJoined=Ви успішпо зайшли до загального чату.
+FoundNothing=Нічого не знайдено!
+NetChangeBegin=Спроби мережевої комутації. Будь ласка зачекайте...
+NetChangeEnd=Успішна мережева комутація. Будь ласка зачекайте...
+NotLoggedIn=Ви не увійшли до ігрової кімнати.
+EnterNamePW=Будь ласка, вкажіть свій логін та пароль.
+MessageSendFail=* Неможливо відправити повідомлення. *
+MessageSendFlood=* Ви відправляєте повідомлення занадто швидко. Будь ласка заспокойтесь. *
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Спільнота
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Знайти ігрові кімнати та друзів
+SpeedButtonCommunity2=До останньої активної вкладки
+SpeedButtonMessenger=Приватні повідомлення
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Стартова сторінка
+ButtonQABetaInfo=Інформація про бету
+ButtonQAForum=Форум
+ButtonQAEventPlanner=Планувальник завдань
+ButtonQALobby=Чат Tunngle
+ButtonQAFavorites=Закладки
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Мережевий навігатор
+ExPanelFindnetwork=Мережевий пошук
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Пошук
+MenuItemNetFavorite=Обране
+MenuItemNetCreate=Створити
+MenuItemTunnglelobby=Загальний чат
+MenuItemEventplaner=Планувальник завдань
+MenuItemSounds=Звуки
+MenuItemSkins2=Скіни
+MenuItemPrivacylists=Чорний список
+MenuItemConfiguration=Опції
+MenuItemAbout=Про Tunngle
+MenuItemTrayOpen=Відкрити
+MenuItemTrayClose=Закрити
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Сповіщення
+MenuItemAddContact=Додати до списку друзів
+MenuItemAddBlacklist=Додати до чорного списку
+MenuItemEditBlacklist=Редагувати чорний список
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Відправити
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Назад
+ButtonForward=Далі >>
+ButtonActualize=Оновити
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Назва
+ListViewNet-1=Онлайн
+ListViewNet-2=Жанр
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=додати в обране
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Оновити
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Ім'я
+ListViewNet-1=Онлайн
+ListViewNet-2=Жанр
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Додати до обраного
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Назад
+ButtonForward=Впреред >>
+ButtonActualize=Оновити
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Назва
+ListViewNet-1=Онлайн
+ListViewNet-2=Жанр
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Видалити з обраного
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Оновити
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Ім'я
+ListViewNet-1=Онлайн
+ListViewNet-2=Жанр
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Вилучити з обраного
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Перехоплення трансляцій з усіх інтерфейсів
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Задіяний порт
+CheckRadioBoxUPnP=Використовувати UPnP
+CheckRadioBoxTCActive=Дозволити
+CheckRadioBoxSignature=Мережевий підпис
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Примітка!\r\nЗазвичай вимкнено.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Зберегти
+ButtonCancel=Відміна
+ButtonTest=Тест
+ButtonDefault=Скинути налаштування
+ButtonWizard=Майстер
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Інтерфейс
+GroupBoxNetconfig=Мережа
+GroupBoxRouterconfig=Роутер
+GroupBoxTrafficcontroller=Контроллер трафіку
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Мова
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Увага! Для того, щоб задіяти нові налаштування, будь ласка перезапустіть Tunngle!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Пошук Tunngle
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Сховати повні мережі
+CheckRadioBoxEmpty=Сховати пусті мережі
+CheckRadioBoxPassword=Сховати мережі захищені паролем
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Пошукові фільтри
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Пошукові фільтри >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Назад
+ButtonForward=Далі >>
+ButtonActualize=Оновити
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Назва
+ListViewResults-1=Онлайн
+ListViewResults-2=Жанр
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Сповіщення
+MenuItemAddContact=Додати до списку друзів
+MenuItemAddBlacklist=Додати у чорний список
+MenuItemEditBlacklist=Редагувати чорний список
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Відправити
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Застосувати
+ButtonCancel=Відміна
+ButtonFind=Пошук
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Нік
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Пошук
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Глобальний чорний список
+StdLabelChatmessages=Чорний список чату
+StdLabelName=Ім'я
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Видалити
+MenuItemDeleteChat=Видалити
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Застосувати
+ButtonCancel=Відміна
+ButtonDownload=Закачати більше скінів
+ButtonDefault=Стандартний скін Tunngle
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Попередній перегляд вигляду
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Заголовок
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Текстове поле
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Поле для заповнення
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Чек-бокс
+CheckRadioBox2=Прапорець
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Застосувати
+ButtonCancel=Відміна
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Увімкнути звуки
+CheckRadioBoxStart=Запуск
+CheckRadioBoxLogin=Вхід
+CheckRadioBoxLeave=Користувач залишає мережу
+CheckRadioBoxJoin=Користувач входить в мережу
+CheckRadioBoxReceive=Отримано повідомлення
+CheckRadioBoxQuit=Вимкнути
+CheckRadioBoxSend=Повідомлення відправлено
+CheckRadioBoxKey=Натискання кнопки вікна чату
+CheckRadioBoxDirectopen=Нове вікно прямого чату
+CheckRadioBoxDirectmessage=Отримано повідомлення з прямого чату
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Браузер
+ButtonFavorite=Обране
+ButtonQuicklaunch=Розпочати
+ButtonBetainfo=Інформація
+ButtonForum=Форум
+ButtonEventplaner=Планувальник завдань
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Назад
+StatusPanelForward=Далі
+StatusPanelStop=Стоп
+StatusPanelReload=Оновити
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Сповіщення
+MenuItemAddContact=Додати у список друзів
+MenuItemAddBlacklist=Додати у чорний список
+MenuItemEditBlacklist=Редагувати чорний список
+MenuItemCopyIP=Зберегти IP в буфер
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Відправити
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Закрити
+[FormAbout-Infos]
+Caption=Про Tunngle
+[FormLogin-Infos]
+Caption=Вхід
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Вхід
+ButtonCancel=Відмінити
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Ім'я
+LabelPassword=Пароль:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Запам'ятати
+CheckRadioBoxAuto=Автоматичний вхід
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Отримайте безкоштовний акаунт Tunngle
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Відмінити
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Відпрвити
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Додати групу
+MenuItemContactAdd=Додати контакт
+MenuItemContactHideOffline2=Сховати не в мережі
+MenuItemRights=Права
+MenuItemTunngleShares=Загальні ресурси Tunngle
+MenuItemContactInfo=Інформація про контакт
+MenuItemContactAlert=Сповіщення контакту
+MenuItemContactNote=Замітка контакту
+MenuItemReadAwayMessage=Прочитати повідомлення Away
+MenuItemContactRename=Переіменувати контакт
+MenuItemContactDelete=Видалити контакт
+MenuItemMoveToGroup=Перемістити в групу
+MenuItemContactHideOffline3=Сховати не в мережі
+MenuItemMessage=Чат
+MenuItemRights2=Права
+MenuItemTunngleShares2=Загальні ресури Tunngle
+MenuItemGroupRename=Змінити назву групи
+MenuItemGroupDelete=Видалити групу
+MenuItemGroupExpandCollapse=Розгорнути/Згорнути групу
+MenuItemContactHideOffline=Сховати не в мережі
+MenuItemMain=&Меню
+MenuItemAddContact=Додати контакт
+MenuItemInNetwork=Мережева інформація
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Відмінити
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Файл
+ListViewLanguage-1=Мова
+ListViewLanguage-2=Автор
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Продовжити
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Будь ласка, спочатку оберіть мову для Tunngle.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Ім'я
+ListViewAdapter-1=IP
+ListViewAdapter-2=Ім'я пристрою
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Продовжити
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Будь ласка, оберіть адаптер Tunngle.

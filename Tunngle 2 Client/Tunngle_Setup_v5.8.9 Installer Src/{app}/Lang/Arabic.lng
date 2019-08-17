@@ -1,0 +1,629 @@
+
+[Header]
+Author=BrockLesnar05 (Community)
+Date=2014.12.19
+Language=Arabic
+CharSet=DEFAULT_CHARSET
+PrimLangID=1
+CodePage=1256
+[Global-Ressource]
+MI_MINCAPTION=ÊÕÛíÑ
+MI_MAXCAPTION=ÊßÈíÑ
+MI_CLOSECAPTION=ÅÛáÇŞ
+MI_RESTORECAPTION=ÇÓÊÑÌÇÚ
+MI_MINTOTRAYCAPTION=ÇáÊÕÛíÑ Çáì ÔÑíØ ÇáãåÇã
+MI_ROLLUPCAPTION=ÑİÚ
+MINBUTTON_HINT=ÊÕÛíÑ
+MAXBUTTON_HINT=ÊßÈíÑ
+CLOSEBUTTON_HINT=ÅÛáÇŞ
+TRAYBUTTON_HINT=ÊÕÛíÑ Çáì ÔÑíØ ÇáãåÇã
+ROLLUPBUTTON_HINT=ÑİÚ
+MENUBUTTON_HINT=ŞÇÆãÉ ÇáäÙÇã
+RESTORE_HINT=ÇÓÊÑÌÇÚ
+EDIT_UNDO=ÊÑÇÌÚ
+EDIT_COPY=äÓÎ
+EDIT_CUT=ŞÕ
+EDIT_PASTE=áÕŞ
+EDIT_DELETE=ãÓÍ
+EDIT_SELECTALL=ÇÎÊíÇÑ Çáßá
+MSG_BTN_YES=äÚã
+MSG_BTN_NO=áÇ
+MSG_BTN_OK=ãæÇİŞ
+MSG_BTN_CANCEL=ÅáÛÇÁ
+MSG_BTN_ABORT=ÅáÛÇÁ
+MSG_BTN_RETRY=ÅÚÇÏÉ ÇáãÍÇæáÉ
+MSG_BTN_IGNORE=ÊÌÇåá
+MSG_BTN_ALL=Çáßá
+MSG_BTN_NOTOALL=áÇ ááßá
+MSG_BTN_YESTOALL=äÚã ááßá
+MSG_BTN_HELP=ÇáãÓÇÚÏÉ
+MSG_BTN_OPEN=İÊÍ
+MSG_BTN_SAVE=ÍİÙ
+MSG_BTN_CLOSE=ÅÛáÇŞ
+MSG_BTN_BACK_HINT=ÇáĞåÇÈ Åáì ÂÎÑ ãÌáÏ Êã İÊÍå
+MSG_BTN_UP_HINT=ÇÑÊİÚ ãÓÊæì æÇÍÏ
+MSG_BTN_NEWFOLDER_HINT=ÕäÚ ãÌáÏ ÌÏíÏ
+MSG_BTN_VIEWMENU_HINT=ÚÑÖ ÇáŞÇÆãÉ
+MSG_BTN_STRETCH_HINT=ÊãÏíÏ ÇáÕæÑÉ
+MSG_FILENAME=ÇÓã Çáãáİ:
+MSG_FILETYPE=äæÚ Çáãáİ:
+MSG_NEWFOLDER=ãÌáÏ ÌÏíÏ
+MSG_LV_DETAILS=ÊİÇÕíá
+MSG_LV_ICON=ÃíŞæäÇÊ ßÈíÑÉ
+MSG_LV_SMALLICON=ÃíŞæäÇÊ ÕÛíÑÉ
+MSG_LV_LIST=ŞÇÆãÉ
+MSG_PREVIEWSKIN=ãÚÇíäÉ
+MSG_PREVIEWBUTTON=ÒÑ
+MSG_OVERWRITE=åá ÊÑíÏ ÇÓÊÈÏÇá Çáãáİ ÇáŞÏíã ¿
+MSG_CAP_WARNING=ÊÍĞíÑ
+MSG_CAP_ERROR=ÎØÃ
+MSG_CAP_INFORMATION=ãÚáæãÇÊ
+MSG_CAP_CONFIRM=ÊÃßíÏ
+MSG_CAP_SHOWFLAG=áÇ ÊÙåÑ åĞå ÇáÑÓÇáÉ ãÑÉ ÃÎÑì
+CALC_CAP=ÇáÂáÉ ÇáÍÇÓÈÉ
+ERROR=ÎØÃ
+COLORGRID_CAP=ÇáÃáæÇä ÇáÃÓÇÓíÉ
+CUSTOMCOLORGRID_CAP=ÇáÃáæÇä ÇáÇÎÊíÇÑíÉ
+ADDCUSTOMCOLORBUTTON_CAP=ÅÖÇİÉ Åáì ÇáÃáæÇä ÇáÇÎÊíÇÑíÉ
+FONTDLG_COLOR=áæä:
+FONTDLG_NAME=ÇÓã:
+FONTDLG_SIZE=ÍÌã:
+FONTDLG_HEIGHT=Øæá:
+FONTDLG_EXAMPLE=ãËÇá:
+FONTDLG_STYLE=ØÑÇÒ:
+FONTDLG_SCRIPT=ÓßÑÈÊ:
+DB_DELETE_QUESTION=åá ÇäÊ ãÊÇßÏ ÊÑíÏ ãÓÍ åĞÇ ÇáãÏÎá ¿
+DB_MULTIPLEDELETE_QUESTION=ãÓÍ ÌãíÚ ÇáãÏÎáÇÊ ÇáãÚíäå ¿
+NODISKINDRIVE=áÇ íæÌÏ Ãí ŞÑÕ İí ãÍÑß ÇáÃŞÑÇÕ Ãæ ãÍÑß ÇáÃŞÑÇÕ ÛíÑ ÌÇåÒ
+NOVALIDDRIVEID=ãÚÑİ ÇáãÍÑß ÛíÑ ÕÇáÍ
+FLV_NAME=ÇáÇÓã
+FLV_SIZE=ÇáÍÌã
+FLV_TYPE=ÇáäæÚ
+FLV_LOOKIN=ÇáäÙÑ İí:
+FLV_MODIFIED=ãÚÏá
+FLV_ATTRIBUTES=ÎÕÇÆÕ
+FLV_DISKSIZE=ÍÌã ÇáŞÑÕ
+FLV_FREESPACE=ãÌÇá İÇÑÛ
+PRNDLG_NAME=ÇÓã:
+PRNDLG_PRINTER=ÇáØÇÈÚå
+PRNDLG_PROPERTIES=ÎÕÇÆÕ...
+PRNDLG_TYPE=äæÚ:
+PRNDLG_STATUS=ÍÇáå:
+PRNDLG_WHERE=Çíä:
+PRNDLG_COMMENT=ÊÚáíŞ:
+PRNDLG_PRINTRANGE=ØÈÚ ÇáãÏì
+PRNDLG_COPIES=ÇáäÓÎ
+PRNDLG_NUMCOPIES=ÑŞã ÇáäÓÎå:
+PRNDLG_COLLATE=æÇÒä
+PRNDLG_ALL=Çáßá
+PRNDLG_PAGES=ÇáÕİÍÇÊ
+PRNDLG_SELECTION=ÇáÇÎÊíÇÑ
+PRNDLG_PRINTTOFILE=ÇáØÈÚ ááãáİ
+PRNDLG_FROM=ãä:
+PRNDLG_TO=Çáì:
+PRNDLG_ORIENTATION=ÇáÊæÌíå
+PRNDLG_PAPER=æÑŞå
+PRNDLG_PORTRAIT=ÚÇãæÏíå
+PRNDLG_LANDSCAPE=ÇİŞí
+PRNDLG_SOURCE=ãÕÏÑ
+PRNDLG_SIZE=ÇáÍÌã:
+PRNDLG_MARGINS=ÇáåæÇãÔ (ãáíãÊÑÇÊ)
+PRNDLG_MARGINS_INCHES=åæÇãÔ (ÇäÔÇÊ)
+PRNDLG_LEFT=íÓÇÑ:
+PRNDLG_RIGHT=íãíä:
+PRNDLG_TOP=ÇÚáì:
+PRNDLG_BOTTOM=ÇÓİá:
+PRNDLG_WARNING=áÇ íæÌÏ ØÇÈÚÇÊ İí äÙÇãß!
+FIND_NEXT=ÇáÈÍË Úä ÇáãŞÈá
+FIND_WHAT=ÈÍË Úä:
+FIND_DIRECTION=ÇáÇÊÌÇå
+FIND_DIRECTIONUP=ÇáÇÚáì
+FIND_DIRECTIONDOWN=ÇáÇÓİá
+FIND_MATCH_CASE=ãØÇÈŞÉ ÇáÍÇáå
+FIND_MATCH_WHOLE_WORD_ONLY=ãØÇÈŞÉ Çáßáãå æÍÏåÇ İŞØ
+FIND_REPLACE_WITH=ÇáÇÓÈÏÇá ãÚ:
+FIND_REPLACE=ÇÓÊÈÏÇá
+FIND_REPLACE_All=ÇÓÊÈÏÇá Çáßá
+FIND_REPLACE_CLOSE=ÇÛáÇŞ
+MORECOLORS=ÇáæÇä ÇßËÑ...
+AUTOCOLOR=ÇæÊæãÇÊíßí
+CUSTOMCOLOR=ÇÎÊíÇÑí...
+[Global-MessageBox-Information]
+Select=íÌÈ Çä ÊÎÊÇÑ áÇÚÈÇ ÇæáÇ.
+Controller=ãÑÇŞÈÉ ÍÑßÉ ÇáãÑæÑ Êã ÊÚØíáåÇ İí ÇáäÙÇã ÇáÍÇáí
+EnterSearchText=ÇáÑÌÇÁ æÖÚ ÔíÆÇ áÈÍËå.
+EnterSearchUser=ÇáÑÌÇÁ æÖÚ ÔíÆÇ áÈÍËå.
+ContactDeny=%s áÇ íÑíÏ ÇÖÇİÊß ßÕÏíŞ
+ContactAccept=%s ŞÈá ÈÇÖÇİÊß ßÕÏíŞ
+ConnectionLost=ŞØÚ ÇáÇÊÕÇá.\r\nCode: %s
+ConnectionProblem=ãÔÇßá ÇáÇÊÕÇá Çáããßäå.\r\nYour router NAT configuration could hamper the Tunngle ability\r\nto establish successful P2P connections with the other users.\r\nOpen İÊÍ ÕİÍÉ ÇáãÓÇÚÏå ÇáÇä ¿
+PortReachable=ÇáÈæÑÊ ÇáãÎÊÇÑ ãİÊæÍ æíÓÊŞÈá ÇáÇÊÕÇáÇÊ.
+CreateNet=åĞå ÇáæÙíİå ÛíÑ ãÊæİÑå ÍÊì ÇáÇä.\r\nPlease ÇáÑÌÇÁ æÖÚ ÇŞÊÑÇÍß İí ãäÊÏì ÇáÏÚã áÊäßá.\r\nWould åá ÊÑíÏ İÊÍ ÕİÍÉ ãäÊÏì ÇáÏÚã ÇáÇä ¿
+EnterNamePW=ÇáÑÌÇÁ æÖÚ ÇáÇÓã æ ßáãÉ ÇáÓÑ
+NewVersion=åäÇß ÇÕÏÇÑ ÌÏíÏ æíãßä ÊÍãíáå ÇáÇä 
+FriendNoNetwork=%s áíÓ ãæÌæÏÇ İí Çí ÔÈßå
+Close=Óæİ íÛáŞ ÇáÇğä Tunngle
+LSPOK=%d LSP ÇáãÔßáÉ ÍáÊ
+LastTab=áÇ íãßä ÇÛáÇŞ ÇÎÑ áÓÇä
+NetFull=ÇáÔÈßÉ ãáíÆÉ.
+TempNetPassword=ßáãÉ ÇáÓÑ ÎØÃ
+TempNetInvalid=ÇáÇÓã ÇáãÎÊÇÑ ÛíÑ ÕÍíÍ, ÃÎÊÑ ÇÓãÇ ÇÎÑ
+[Global-MessageBox-Warning]
+UPnP=áã äÓÊØÚ æÖÚ ÈæÑÊ ÇÑÓÇá ÇæÊæãÇÊíßí ÈÇÓÊÚãÇá UPnP.
+ServerUnreachable=áã äÓÊØÚ ÇáÇÊÕÇá ÈÓíÑİÑ Êäßá.\r\nShall åá ÊÑíÏ ÊÔÛíá Êäßá ÈÃí ÍÇá ¿
+Offline=áã äÓÊØÚ ÇÊãÇã ÇáÇÊÕÇá.\r\nThe Çæ ããßä ÇáÇÊÕÇá ÇáãÎÊÇÑ ÛíÑ ãÊæÇÌÏ.
+ConnectionFail=áã äÓÊØÚ ÇÊãÇã ÇáÇÊÕÇá.
+SelectLanguage=ÑÌÇÁÇ ÇÎÊÑ ÇááÛå ÇæáÇ
+SelectAdapter=ÑÌÇÁÇ ÇÎÊÑ ßÑÊ ÇáÔÈßå ÇæáÇ
+NetworkBusy=ÃÑÌæß ÃÎÊÑ ÔÈßÉ ÃÎÑì \r\nÇáÔÈßÉ ãÔÛæáÉ ÌÏÇğ ÍÇáíÇğ 
+LoginRequired=íÌÈ Ãä ÊÓÌá ÏÎæáß ÃæáÇ
+[Global-MessageBox-Question]
+Contact=åá ÇäÊ ãÊÇßÏ ÊÑíÏ ÇÖÇİÉ %s áŞÇÆãÉ ÇÕÏŞÇÆß
+Delete=åá ÊÑíÏ ÍŞÇ ÍĞİ %s ãä ÇáŞÇÆãå ÇáÓæÏÇÁ ¿
+ChangeNet=åá ÊÑíÏ ÍŞÇó Ãä ÊÛáŞ Çá "%s" ÔÈßÉ áßì ÊäÖã Åáì "%s" ÔÈßÉ¿
+CloseChat=åá ÊÑíÏ ÍŞÇó Ãä ÊÛáŞ ÇáÏÑÏÔÉ %s?
+CloseLobby=åá ÊÑíÏ ÍŞÇó Ãä ÊÊÑß Çá %s?
+CloseTab=åá ÊÑíÏ Ãä ÊÛáŞ ÕİÍÉ "%s"?
+AddContact=åá ÊÑíÏ Ãä ÊŞÈá ØáÈå¿ \r\n ŞÏ ÃÑÓá Åáíß ØáÈ áÊßæä ÕÏíŞå %s
+Quit=åá ÊÑíÏ ÍŞÇó ÇáÎÑæÌ¿
+DelFavorite=åá ÊÑíÏ ÍŞÇó Ãä ÊÍĞİ %s?
+NewVersion=äÓÎÉ ÌÏíÏÉ %s ãä ÊäÌá ãÊÇÍÉ. /r/nåá ÊÑíÏ Ãä ÊÍãáåÇ ÇáÇóä¿
+RestoreOptions=åá ÊÑíÏ ÅÓÊÚÇÏÉ ÇáÎíÇÑÇÊ¿
+PremiumFeature=åá ÊÑÛÈ İì İÊÍ ÇáãÊÕİ ÎÇÕÊß áßì ÊŞÑÃ ÇáãÒíÏ Úä ÚÑÖäÇ¿ \r\nÇáãÊŞÏã áßì ÊÓÊÎÏã åĞå ÇáÎÇÕíÉ Tunngle ÓÊÍÊÇÌ
+[Global-MessageBox-Error]
+RunOnce=íãßäß Ãä ÊÔÛá ÊäÌá ãÑÉ æÇÍÏÉ İì ÇáãÑÉ
+NotInstalled=Êäßá ÛíÑ ãËÈÊå ÈÔßá ÕÍíÍ.
+NoAdapter=áã äÓÊØÚ ÇíÌÇÏ ÔÈßÉ ÊäÌá.
+AccountBann=áŞÏ Êã ãäÚ ÍÓÇÈß ãä ÇáÏÎæá  \r\nÊÓÌíá ÇáÏÎæá İÔá
+MasterServer=áã íÓÊØÇÚ ÇáæÕæá Åáì ÓíÑİÑÇÊ ÊäÌá ÇáÑÆíÓíÉ
+Version=åá ÊÑíÏ ÊÍÏíËå ÇáÇğä¿ \r\n ÊäÌá ÇáÎÇÕ Èß ŞÏíã
+Safe=ÇáÃÊÕÇá ÛíÑ Ããä
+ServiceFound=áÇ íãßä ÇíÌÇÏ ÎÏãÉ ÊäÌá
+ServiceContact=áÇ íãßä ÇáÃÊÕÇá ãÚ ÎÏãÉ ÊäÌá!
+LSPRedo=ÇáÊÎÒíä İÔá
+WrongPassword=ßáãÉ ÓÑ ÎÇØÆÉ
+[Global-Text-Dynamic]
+Loading=ÊÍãíá &s...
+FromTo=%d Åáì %d ãä %d
+LastAct=ÇÎÑ ÊÍÏíË %s
+Lobby=ÑÏåÉ (%d)
+ChatJoined=<%s "%s" ÃäÖã Åáì ÇáÏÑÏÔÉ
+NetJoined=<%s "%s" ÃäÖã Åáì ÇáÔÈßÉ
+LobbyJoined=<%s "%s" ÃäÖã Åáì ÇáÑÏåÉ
+ChatLeft=<%s "%s" ÊÑß ÇáÏÑÏÔÉ
+NetLeft=<%s "%s" ÊÑß ÇáÔÈßÉ
+LobbyLeft=<%s "%s" ÊÑß ÇáÑÏåÉ
+ConnectionDeny1=áã íÓÊØÇÚ ÇáæÕæá Åáì %s áÇäß İì ÇáŞÇÆãÉ ÇáÓæÏÇÁ áåĞÇ ÇáÎÕ
+ConnectionDeny2=áã íÓÊØÇÚ ÇáæÕæá Åáì %s áÇäå İì ŞÇÆãÊß ÇáÓæÏÇÁ
+ConnectionLost=[%sTunngle! İŞÏ ÇáæÕæá Åáì ÓíİÑ]
+VirtualIP=ÇáÑÇÈØ ÇáÑŞãí  %s
+LoginNick=Êã ÊÓÌíá ÇáÏÎæá ÈÇÓã  %s
+Version=ÇáÅÕÏÇÑ : %s
+Connecting=ÃÊÕÇá
+ChatMe=ÃäÇ: %s
+ChannelMode=äæÚ %s
+Ports=ÈæÇÈÉ%s
+AddedBlackList=%s ÃÖíİ Åáì ŞÇÆãÊß ÇáÓæÏÇÁ ÈäÌÇÍ
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle ÃÎÈÇÑ
+CaptionSupport=ÇáÏÚã
+CaptionDownloadarea=ãäØŞÉ ÇáÊÍãíá
+CaptionResults=ÇáäÊíÌå...
+CaptionChat=ÇáÏÑÏÔÉ
+CaptionLobby=ÑÏåÉ
+CaptionNetwork=ÔÈßÉ
+CaptionTunngleforum=ãäÊÏíÇÊ ÊäÌá
+CaptionSearch=ÈÍË
+CaptionBrowser=ãÓÊÚÑÖ
+CaptionSkinconfig=ÎíÇÑÇÊ ÇáãÙåÑ
+CaptionSoundconfig=ÇáÃÕæÇÊ
+CaptionPrivacylists=ÇáŞÇÆãå ÇáÓæÏÇÁ
+CaptionConfiguration=ÇáÎíÇÑÇÊ
+SplashPleaseWait=ãä İÖáß ÇäÊÙÑ...
+SplashLoaddata=ÊÍãíá ÇáÈíÇäÇÊ...
+SplashLoading=...íÊã ÇáÊÍãíá
+SplashConnecting=...íÊÕá
+SplashVersion=...íÊã ÇáÊÍŞŞ ãä ÇáäÓÎÉ
+SplashAdapterstart=...íÊã ÇáÅÊÕÇá ÈÇáãÍæá
+Lobby=ÛÑİÉ
+NetLeft=ÊÑß ÇáÔÈßÉ
+NoIP=Virtual IP:
+ChatJoined=.Êã ÇáÅäÖãÇã ÈäÌÇÍ
+NetJoined=.Êã ÇáÅäÖãÇã ááÔÈßÉ ÈäÌÇÍ
+LobbyJoined=.Êã ÇáÅäÖãÇã ááÛÑİÉ ÈäÌÇÍ
+FoundNothing=!áÇ íæÌÏ äÊÇÆÌ
+NetChangeBegin=äÍÇæá ÊÛííÑ ÇáÔÈßÉ.... ÇÑÌæß ÇäÊÙÑ
+NetChangeEnd=ÇáÇäÊŞÇá Êã ÈäÌÇÍ.... ÇÑÌæß ÇäÊÙÑ
+NotLoggedIn=.áŞÏ Êã ÊÓÌíá ÏÎæáß
+EnterNamePW=.ÃÑÌæß ÃÏÎá ÇáÇÓã æßáãÉ ÇáÓÑ
+MessageSendFail=* áã äÓÊØÚ ÇÑÓÇá ÇáÑÓÇáÉ *
+TypeStandard=Tunngler
+TypeTunngleTeam=Tunngle İÑíŞ
+TypeEnthusiast=ãÊÍãÓí Tunngle
+TypeLifetime=Tunngler ãÏì ÇáÍíÇÉ
+TypePremium=Tunngler ãÊŞÏã
+TypeInactive=áã íÓÊØÇÚ ÇáÅÊÕÇá  ÈåĞÇ ÇááÇÚÈ
+SplashExecuteJoin=...ÃÑÌæß ÃäÊÙÑ
+StartAdapterFail=Error: áã äÓÊØÚ ÇáÇÊÕÇá ÈãÍæá Tunngle
+StatusBarRegister=áíÓ áÏíß ÍÓÇÈ¿ ÓÌá åäÇ !
+ConnectionGood=ÇáÈæÑÊ ãİÊæÍ
+ConnectionBad=ÇĞÇ ããßä Portforward ÇÚãá
+ConnectionNeutral=ÇáÈæÑÊ ãÛáŞ
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=ÇáãäÊÏì
+SpeedButtonCommunity2=<
+SpeedButtonLogin=ÓÌá ÏÎæáß
+SpeedButtonCancel=ÃáÛì
+SpeedButtonCancelStatus=ÃáÛì
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=ÃÌÏ ÔÈßÇÊ æÃÕÏŞÇÁ
+SpeedButtonMessenger=ÇáãÑÓá
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=ÕİÍÉ ÇáÈÏÇíÉ
+ButtonQABetaInfo=ãÚáæãÇÊ Úä Çá Beta
+ButtonQAForum=ãäÊÏì
+ButtonQAEventPlanner=ãäÙã ÇáÃÍÏÇË
+ButtonQALobby=Tunngle ÛÑİÉ
+ButtonQAFavorites=ÇáãİÖáÉ
+ButtonQACreateNetwork=ÔÈßÇÊ ÎÇÕÉ
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=ÕİÍÉ ÑÆíÓíÉ
+spDynamicSkinFormMain-1=ÔÈßÇÊ ÎÇÕÉ
+spDynamicSkinFormMain-2=ãäÊÏì
+spDynamicSkinFormMain-4=ÑÏåÉ Tunngle
+spDynamicSkinFormMain-5=ÇáãİÖáÉ
+spDynamicSkinFormMain-7=İíÓÈæß
+spDynamicSkinFormMain-8=ÊæíÊÑ
+spDynamicSkinFormMain-9=Google+
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=ãÓÊßÔİ ÇáÔÈßÇÊ
+ExPanelFindnetwork=ÈÍË Úä ÔÈßÉ
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=ÈÍË
+MenuItemNetFavorite=ÇáãİÖáÉ
+MenuItemNetCreate=ÅäÔÇÁ
+MenuItemNetCreateOwn=ÔÈßÇÊ ÎÇÕÉ
+MenuItemTunnglelobby=ÑÏåÉ Tunngle
+MenuItemCommunityBanner=ÅÚáÇä
+MenuItemSounds=ÇáÃÕæÇÊ
+MenuItemPrivacylists=ÇáŞÇÆãÉ ÇáÓæÏÇÁ
+MenuItemConfiguration=ÇáÎíÇÑÇÊ
+MenuItemRestore=ÃÓÊÑÌÚ ÇáäÕÇÆÍ
+MenuItemAbout=Úä Tunngle
+MenuItemTrayOpen=İÊÍ
+MenuItemTrayClose=ÇÛáÇŞ
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=ÇÓã ÇáãÓÊÎÏã
+StdLabelPassword=ßáãÉ ÇáÓÑ
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=ÊĞßÑäì
+CheckRadioBoxAutologon=ÊÓÌíá ÇáÏÎæá ÃæÊæãÇÊíßì
+CheckRadioBoxDontShowAgain=áÇ ÊÙåÑ åĞå ÇáÑÓÇáÉ ãÌÏÏÇó
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=ÅÎØÇÑÇÊ
+MenuItemAddContact=ÃÖÇİÉ Çáì ŞÇÆãÉ ÇáÃÕÏŞÇÁ
+MenuItemAddBlacklist=ÃÖÇİÉ Çáì ÇáŞÇÆãÉ ÇáÓæÏÇÁ
+MenuItemEditBlacklist=ÊÚÏíá ÇáŞÇÆãÉ ÇáÓæÏÇÁ
+MenuItemSortNicks=ÑÊÈ ÍÓÈ ÇáÇÓãÇÁ
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=ÃÑÓÇá
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=ÏÑÏÔÉ :
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< ÑÌæÚ 
+ButtonForward=ÇáÊÇáí >>
+ButtonActualize=ÊÍÏíË
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=ÇáÃÓã
+ListViewNet-1=Úáì ÇáÎØ
+ListViewNet-2=äæÚ
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=ÃÖİ Åáì ÇáÚáÇãÇÊ
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=ÊÍÏíË
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=ÇáÃÓã
+ListViewNet-1=Úáì ÇáÇäÊÑäÊ
+ListViewNet-2=äæÚ
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=ÃÖİ Åáì ÇáÚáÇãÇÊ
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=Çáì ÇáæÑÇÁ
+ButtonForward=Çá ÇáÇãÇã
+ButtonActualize=ÊÍÏíË
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=ÇÓã
+ListViewNet-1=Úáì ÇáÇäÊÑäÊ
+ListViewNet-2=äæÚ
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=ÃÍĞİ ÇáÚáÇãÇÊ
+MenuItemSortFavorite=İÑÒ ÇáÚáÇãÇÊ
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=ÊÍÏíË
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=ÇÓã
+ListViewNet-1=Úáì ÇáÇäÊÑäÊ
+ListViewNet-2=äæÚ
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=ÃÍĞİ ÇáÚáÇãÇÊ
+MenuItemSortFavorite=İÑÒ ÇáÚáÇãÇÊ
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxTCActive=İÚÇá
+CheckRadioBoxSignature=ÊæŞíÚ ÇáÔÈßÉ
+CheckRadioBoxLog=íÏÎá ÇáÔÈßÉ.
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=ãáÇÍÙÉ! ÇæŞİ ÊáŞÇÆíÇ.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=ãæÇİŞ
+ButtonAccept=ÊİÚíá
+ButtonCancel=ÇÛáÇŞ
+ButtonTest=ÇÎÊÈÇÑ
+ButtonDefault=ÇáÇÚÇÏÇÊ ÇáÇÓÇÓíå
+ButtonWizard=ÇáãÚÇáÌ
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=ÇáæÇÌåå
+GroupBoxNetconfig=ÇáÔÈßå
+GroupBoxRouterconfig=ÇáÑÇæÊÑ
+GroupBoxTrafficcontroller=ãÍßã ÇáãÑæÑ
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=ÇááÛå
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=ÇáÑÌÇÁ ÇÚÇÏÉ ÇáÊÔÛíá áÊİÚíá ÇáÇÚÏÇÏÇÊ ÇáÌÏíÏå
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=ÈÍË ÈÊäßá
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=ÇÎİÇÁ ÇáÔÈßÇÊ ÇáããáæÆå
+CheckRadioBoxEmpty=ÇÎİÇÁ ÇáÔÈßÇÊ ÇáİÇÑÛå
+CheckRadioBoxPassword=ÇÎİÇÁ ÇáÔÈßÇÊ ÇáãÍãíå ÈßáãÉ ÓÑ
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=İáÇÊÑ ÇáÈÍË
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=İáÊÑ ÇáÈÍË >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<<ááÎáİ
+ButtonForward=ááÇãÇã >>
+ButtonActualize=ÊÍÏíË
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=ÇáÇÓã
+ListViewResults-1=ãÊæÇÌÏ
+ListViewResults-2=ÇáäæÚ
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=ÇÖİ Åáì ÇáÓÌá
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=ÇáÇÎØÇÑÇÊ
+MenuItemAddContact=ÇÖÇİå Çáì İåÑÓ ÇáÇÕÏŞÇÁ
+MenuItemAddBlacklist=ÇÖÇİå Çáì ÇáİåÑÓ ÇáÇÓæÏ
+MenuItemEditBlacklist=ÊÚÏíá ÇáİåÑÓ ÇáÇÓæÏ
+MenuItemSortNicks=İÑÒ ÇáÇÓãÇÁ
+MenuItemShowProfile=ÃÙåÑ ÇáÕİÍÉ ÇáÔÎÕíÉ
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=ÇÑÓÇá
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=ãÍÇÏËå:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=ãæÇİŞ
+ButtonAccept=ÊİÚíá
+ButtonCancel=ÇÛáÇŞ
+ButtonFind=ÈÍË
+ButtonExport=ÊÕÏíÑ
+ButtonImport=ÇÓÊíÑÇÏ
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=ÑãÒ
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=ÈÍË
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=ÇáİåÑÓ ÇáÇÓæÏ ÇáÔÇãá
+StdLabelChatmessages=ÇáİåÑÓ ÇáÇÓæÏ ááãÇÍÏËå
+StdLabelName=ÇÓã
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=ãÓÍ
+MenuItemDeleteChat=ãÓÍ
+MenuItemAddBlacklist=ÇÖÇİÉ Åáì ÇáŞÇÆãÉ ÇáÓæÏÇÁ
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=ãæÇİŞ
+ButtonAccept=ÊİÚíá
+ButtonCancel=ÇÛáÇŞ
+ButtonDownload=ÊÍãíá ËíãÇÊ ÇßËÑ
+ButtonDefault=Ëíã Êäßá ÇáÑÆíÓí
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=ãÚÇíäå
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=ãíÒå
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=ÍŞá ÇáßÊÇÈå
+[FrameSkins-TspSkinEdit-Text]
+EditInput=ÍŞæá ÇáÇÏÎÇá
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=ãÑÈÚ
+CheckRadioBox2=ãÑÈÚ
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=ãæÇİŞ
+ButtonAccept=ÊİÚíá
+ButtonCancel=ÇáÛÇÁ
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=ÊÔÛíá ÇáÇÕæÇÊ
+CheckRadioBoxStart=ÈÏÃ
+CheckRadioBoxLogin=ÏÎæá
+CheckRadioBoxLeave=ÎÑÌ áÇÚÈ ãä ÇáÔÈßå
+CheckRadioBoxJoin=ÏÎá áÇÚÈ ÌÏíÏ ááÔÈßå
+CheckRadioBoxReceive=æÕáÊ ÑÓÇáå
+CheckRadioBoxQuit=ÇØİÇÁ
+CheckRadioBoxSend=ÑÓáÊ ÇáÑÓÇáå
+CheckRadioBoxKey=ÃÖÛØ Úáì ÕäÏæŞ ÇáãÍÇÏËÉ
+CheckRadioBoxDirectopen=äÇİĞÉ ãÍÇÏËå ÊáŞÇÆíå ÌÏíÏå
+CheckRadioBoxDirectmessage=æÕáÊ ÑÓÇáÉ ãÍÇÏËå ÊáŞÇÆíå
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=ÇáãÊÕİÍ
+ButtonFavorite=ÇáãİÖáÉ
+ButtonQuicklaunch=ÈÏÇíå ÓÑíÚå
+ButtonBetainfo=ãÚáæãÇÊ ÇáÈíÊÇ
+ButtonForum=ÇáãäÊÏì
+ButtonEventplaner=ãÎØØ ÇáİÚÇáíÇÊ
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=ÇáÑÌæÚ
+StatusPanelForward=ááÇãÇã
+StatusPanelStop=ÇíŞÇİ
+StatusPanelReload=ÊÍÏíË
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Îáİ
+StatusPanelForward=ÇãÇã
+StatusPanelStop=æŞİ
+StatusPanelReload=ÍÏË
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=ÇáÇÎØÇÑÇÊ
+MenuItemAddContact=ÇáÇÖÇİå Çáì ŞÇÆãÉ ÇáÇÕÏŞÇÁ
+MenuItemAddBlacklist=ÇáÇÖÇİå ááŞÇÆãå ÇáÓæÏÇÁ
+MenuItemEditBlacklist=ÊÚÏíá ÇáŞÇÆãå ÇáÓæÏÇÁ
+MenuItemCopyIP=äÓÎ ÚäæÇä ÇáÇíÈí 
+MenuItemSortNicks=İÑÒ ÈæÇÓØÉ ÇáÇÓã
+MenuItemSortIPs=İÑÒ ÈæÇÓØÉ ÇáÈäÌ
+MenuItemConfig=ÇÚÏÇÏÇÊ
+MenuItemShowProfile=ÃÙåÑ ÇáÕİÍÉ ÇáÔÎÕíÉ
+MenuItemCopy=ÃäÓÎ
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=ÇÑÓÇá
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=ãÍÇÏËå:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=ÇÛáÇŞ
+[FormAbout-Infos]
+Caption=Íæá Êäßá
+[FormLogin-Infos]
+Caption=ÏÎæá
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=ÏÎæá
+ButtonCancel=ÇáÛÇÁ
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=ÇÓã ÇáãÓÊÎÏã:
+LabelPassword=ßáãÉ ÇáÓÑ:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=ÊĞßÑäí
+CheckRadioBoxAuto=ÏÎæá ÇæÊæãÇÊíßí
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=ÊÓÌíá ÍÓÇÈ Êäßá ãÌÇäí
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=ÇáÛÇÁ
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=ÇÑÓÇá
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=ÇáãÍÇÏËå:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=ÇÖÇİÉ ãÌãæÚå
+MenuItemContactAdd=ÇÖÇİÉ ÇÊÕÇá
+MenuItemContactHideOffline2=ÇÎİÇÁ ÇáÛíÑ ãÊæÇÌÏíä
+MenuItemRights=ÇáÕáÇÍíÇÊ
+MenuItemTunngleShares=ãÔÇÑßÇÊ ÇáÊäßá
+MenuItemContactInfo=ãÚáãæÇÊ ÇáÇÊÕÇá
+MenuItemContactAlert=ÇäĞÇÑ ÇáÇÊÕÇá
+MenuItemContactNote=ãáÇÍÙÇÊ ÇáÇÊÕÇá
+MenuItemReadAwayMessage=ŞÑÇÆÉ ÇáÑÓÇáå ÇáÈÚíÏå
+MenuItemContactRename=ÇÚÇÏÉ ÊÓãíÉ ÇáÇÊÕÇá
+MenuItemContactDelete=ãÓÍ ÇáÇÊÕÇá
+MenuItemMoveToGroup=ÊÛííÑ ÇáãÌãæÚå
+MenuItemContactHideOffline3=ÇÎİÇÁ ÇáÛíÑ ãÊæÇÌÏíä
+MenuItemMessage=ÇáãÍÇÏËå ÇáãÈÇÔÑå
+MenuItemRights2=ÇáÕáÇÍíÇÊ
+MenuItemTunngleShares2=ãÔÊÑßÇÊ Êäßá
+MenuItemGroupRename=ÇÚÇÏÉ ÊÓãíÉ ÇáãÌãæÚå
+MenuItemGroupDelete=ãÓÍ ÇáãÌãæÚå
+MenuItemGroupExpandCollapse=ÊæÓíÚ\ÇäØæÇÁ ÇáãÌãæÚå
+MenuItemContactHideOffline=ÇÎİÇÁ ÇáÛíÑ ãÊæÇÌÏíä
+MenuItemMain=&ÇáŞÇÆãå
+MenuItemAddContact=ÇÖÇİÉ ÇÊÕÇá
+MenuItemInNetwork=ãÚáæãÇÊ ÇáÇÊÕÇá
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=ÃÙåÑ ÎÇÑÌ ÇáÎÏãÉ
+[FormFindContact-Infos]
+Caption=ÈÍË ÇááÇÚÈ
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=ÃÈÍË
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=:ÇáÇÓã
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=ÃÖİ áÇÚÈ
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=ÇáÛÇÁ
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=ÇáãÌáÏ
+ListViewLanguage-1=ÇááÛÉ
+ListViewLanguage-2=ÇáßÇÊÈ
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Çßãá
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=ÇáÑÌÇÁ ÇÎÊíÇÑ ÇááÛÉ ááÈÑäÇãÌ
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=ÇáÇÓã
+ListViewAdapter-1=ÇáÚäæÇä
+ListViewAdapter-2=ÇÓã ÇáÌåÇÒ
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Çßãá
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=ÇáÑÌÇÁ ÇÎÊíÇÑ ãÍæá ÔÈßÉ ÊäŞá
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=ãæÇİŞ
+ButtonCancel=ÅáÛÇÁ ÇáÃãÑ
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=ãÍÇÏËÉ İŞØ
+CheckRadioBoxComplete=ÍÙÑ ßÇãá
+CheckRadioBoxHours=ÓÇÚÇÊ
+CheckRadioBoxDate=Çáì ÍÊì
+CheckRadioBoxInfinite=ááÇÈÏ
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=ãæÇİŞ
+ButtonCancel=ÇáÛÇÁ
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=ÇÏÎá ßáãÉ ÇáÓÑ
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=ÅÎØÇÑÇÊ
+MenuItemAddContact=ÃÖİ Åáì ŞÇÆãÉ ÇáÃÕÏŞÇÁ
+MenuItemCopyIP=ÃäÓÎ IP
+MenuItemSortNicks=ÇáÊÑÊíÈ ÍÓÈ ÇáÇÓã
+MenuItemSortIPs=ÇáÊÑÊíÈ ÍÓÈ ÇáãÓÇİÉ
+MenuItemConfig=ßæä
+MenuItemShowProfile=ÃÙåÑ ÕİÍÊß ÇáÔÎÕíÉ
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=ÃÑÓá
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=ÏÑÏÔÉ
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=ÑÓÇáÉ ÊÑÍíÈ
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=ÅÏÇÑÉ ÔÈßÊß
+GroupBoxJoin=ÃäÖã Åáì ÔÈßÉ ãæÌæÏÉ
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkNameT=ÇÓã ÇáÔÈßÉ
+LabelNetworkPasswordT=ßáãÉ ÓÑ ÇáÔÈßÉ
+LabelNetworkSize=ÍÌã ÇáÔÈßÉ
+LabelNetworkNameB=ÇÓã ÇáÔÈßÉ
+LabelNetworkPasswordB=ßáãÉ ÓÑ ÇáÔÈßÉ
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=ÃÕäÚ-ÍÏË
+ButtonJoin=ÃäÖã
+ButtonJoinOwn=ÃäÖã Åáì ÔÈßÊß
+ButtonNetworkList=ŞÇÆãÉ ÇáÔÈßÇÊ
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=ãÍÇßì ÇáÔÈßÉ
+UrlLabelInterlink=ÇáÑÇÈØ Èíä ÇáÓíÑİÑ
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=ÔÈßÉ ÚÇÏíÉ
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=ÇáÊÈáíÛÇÊ
+MenuItemAddContact=ÃÖİ Åáì ŞÇÆãÉ ÇáÃÕÏŞÇÁ
+MenuItemCopyIP=äÓÎ ÇáIP
+MenuItemSortNicks=ÑÊÈ ÍÓÈ ÇáÇÓãÇÁ
+MenuItemSortIPs=ÑÊÈ ÍÓÈ ÇáÈÚÏ (Ping)
+MenuItemShowProfile=ÃÙåÑ ÔÎÕíÊß
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=ÃÑÓá
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=ãÍÇÏËÉ
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=áÇ ÊÙåÑ ËÇäíÉ
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=Çæß
+ButtonCancel=ÃáÛì
+[FrameNetCreateEasy-TspSkinButton-Caption]
+ButtonJoin=ÃäÖã
+ButtonNetworkList=ŞÇÆãÉ ÇáÔÈßÇÊ
+[FrameNetCreateEasy-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=ÔÈßÉ ÚÇÏíÉ

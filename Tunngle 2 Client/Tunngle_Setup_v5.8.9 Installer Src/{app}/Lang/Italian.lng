@@ -1,0 +1,1088 @@
+[Header]
+Author=Brioche (Tunngle)
+Date=2016.06.23
+Language=Italian
+CharSet=DEFAULT_CHARSET
+PrimLangID=16
+CodePage=1252
+[Global-Ressource]
+MI_MINCAPTION=Mi&nimizza
+MI_MAXCAPTION=Ma&ssimizza
+MI_CLOSECAPTION=&Chiudi
+MI_RESTORECAPTION=&Ripristina
+MI_MINTOTRAYCAPTION=Minimizza al &tray
+MI_ROLLUPCAPTION=Ar&rotola
+MINBUTTON_HINT=Minimizza
+MAXBUTTON_HINT=Massimizza
+CLOSEBUTTON_HINT=Chiudi
+TRAYBUTTON_HINT=Minimizza al tray
+ROLLUPBUTTON_HINT=Arrotola
+MENUBUTTON_HINT=Menu di sistema
+RESTORE_HINT=Ripristina
+EDIT_UNDO=Annulla
+EDIT_COPY=Copia
+EDIT_CUT=Taglia
+EDIT_PASTE=Incolla
+EDIT_DELETE=Cancella
+EDIT_SELECTALL=Seleziona tutto
+MSG_BTN_YES=&Sì
+MSG_BTN_NO=&No
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Annulla
+MSG_BTN_ABORT=&Arresta
+MSG_BTN_RETRY=&Riprova
+MSG_BTN_IGNORE=&Ignora
+MSG_BTN_ALL=&Tutti
+MSG_BTN_NOTOALL=N&o a tutti
+MSG_BTN_YESTOALL=&Sì a tutti
+MSG_BTN_HELP=&Aiuto
+MSG_BTN_OPEN=&Apri
+MSG_BTN_SAVE=&Salva
+MSG_BTN_CLOSE=Chiudi
+MSG_BTN_BACK_HINT=Vai all'ultima cartella aperta
+MSG_BTN_UP_HINT=Vai su di un livello
+MSG_BTN_NEWFOLDER_HINT=Crea una nuova cartella
+MSG_BTN_VIEWMENU_HINT=Menu visualizza
+MSG_BTN_STRETCH_HINT=Estendi immagine
+MSG_FILENAME=Nome del file:
+MSG_FILETYPE=Tipo di file:
+MSG_NEWFOLDER=Nuova cartella
+MSG_LV_DETAILS=Dettagli
+MSG_LV_ICON=Icone grandi
+MSG_LV_SMALLICON=Icone piccole
+MSG_LV_LIST=Lista
+MSG_PREVIEWSKIN=Anteprima
+MSG_PREVIEWBUTTON=Bottone
+MSG_OVERWRITE=Vuoi sovrascrivere il vecchio file?
+MSG_CAP_WARNING=Attenzione
+MSG_CAP_ERROR=Errore
+MSG_CAP_INFORMATION=Informazione
+MSG_CAP_CONFIRM=Conferma
+MSG_CAP_SHOWFLAG=Non visualizzare più questo messaggio
+CALC_CAP=Calcolatrice
+ERROR=Errore
+COLORGRID_CAP=Colori di base
+CUSTOMCOLORGRID_CAP=Colori personalizzati
+ADDCUSTOMCOLORBUTTON_CAP=Aggiungi ai colori personalizzati
+FONTDLG_COLOR=Colore:
+FONTDLG_NAME=Nome:
+FONTDLG_SIZE=Dimensione:
+FONTDLG_HEIGHT=Altezza:
+FONTDLG_EXAMPLE=Esempio:
+FONTDLG_STYLE=Carattere:
+FONTDLG_SCRIPT=Scrittura:
+DB_DELETE_QUESTION=Sei sicuro di voler cancellare questa voce?
+DB_MULTIPLEDELETE_QUESTION=Cancellare tutte le voci selezionate?
+NODISKINDRIVE=Non c'è un disco nell'unità oppure l'unità non è pronta
+NOVALIDDRIVEID=L'identificativo dell'unità specificata non è valido
+FLV_NAME=Nome
+FLV_SIZE=Dimensione
+FLV_TYPE=Tipo
+FLV_LOOKIN=Guarda in: 
+FLV_MODIFIED=Modificato
+FLV_ATTRIBUTES=Attributi
+FLV_DISKSIZE=Dimensione del disco
+FLV_FREESPACE=Spazio disponibile
+PRNDLG_NAME=Nome:
+PRNDLG_PRINTER=Stampante
+PRNDLG_PROPERTIES=Proprietà...
+PRNDLG_TYPE=Tipo:
+PRNDLG_STATUS=Stato:
+PRNDLG_WHERE=Dove:
+PRNDLG_COMMENT=Commento:
+PRNDLG_PRINTRANGE=Pagine da stampare
+PRNDLG_COPIES=Copie
+PRNDLG_NUMCOPIES=Numero di copie:
+PRNDLG_COLLATE=Fascicola
+PRNDLG_ALL=Tutte
+PRNDLG_PAGES=Pagine
+PRNDLG_SELECTION=Selezione
+PRNDLG_PRINTTOFILE=Stampa su file
+PRNDLG_FROM=da:
+PRNDLG_TO=a:
+PRNDLG_ORIENTATION=Orientamento
+PRNDLG_PAPER=Carta
+PRNDLG_PORTRAIT=Verticale
+PRNDLG_LANDSCAPE=Orizzontale
+PRNDLG_SOURCE=Origine:
+PRNDLG_SIZE=Dimensione:
+PRNDLG_MARGINS=Margini (millimetri)
+PRNDLG_MARGINS_INCHES=Margini (pollici)
+PRNDLG_LEFT=Sinistra:
+PRNDLG_RIGHT=Destra:
+PRNDLG_TOP=Superiore:
+PRNDLG_BOTTOM=Inferiore:
+PRNDLG_WARNING=Non ci sono stampanti installate!
+FIND_NEXT=Trova successivo
+FIND_WHAT=Trova:
+FIND_DIRECTION=Direzione
+FIND_DIRECTIONUP=Su
+FIND_DIRECTIONDOWN=Giù
+FIND_MATCH_CASE=Maiuscole/minuscole
+FIND_MATCH_WHOLE_WORD_ONLY=Solo parole intere
+FIND_REPLACE_WITH=Sostituisci con:
+FIND_REPLACE=Sostituisci
+FIND_REPLACE_All=Sostituisci tutto
+FIND_REPLACE_CLOSE=Chiudi
+MORECOLORS=Altri colori...
+AUTOCOLOR=Automatico
+CUSTOMCOLOR=Personalizzati...
+
+[Global-MessageBox-Information]
+Select=Devi selezionare un nome utente prima di procedere.
+Controller=Il gestore del traffico è disabilitato in questa versione.
+EnterSearchText=Inserire qualcosa da cercare prima di effettuare la ricerca.
+EnterSearchUser=Inserire qualcuno da cercare prima di effettuare la ricerca.
+ContactDeny=%s non ha accettato la tua richiesta.
+ContactAccept=%s ha accettato la tua richiesta.
+ConnectionLost=La connessione è stata interrotta.\r\nCodice: %s
+ConnectionProblem=Possibili problemi di connessione.\r\nIl comportamento della NAT del router in uso potrebbe influire negativamente\r\nsulla capacità di Tunngle di stabilire connessioni p2p con gli altri giocatori.\r\nServe aiuto?
+PortReachable=La porta selezionata è raggiungibile.
+CreateNet=Questa funzione non è ancora disponibile.\r\nVi preghiamo di inviarci i vostri suggerimenti tramite il forum.\r\nVuoi accedere al forum adesso?
+AdapterPrim=Alla scheda di rete di Tunngle non è stata assegnata la priorità corretta. (0)\r\nSe questo non cambia, i server presenti nelle reti di Tunngle potrebbero\r\nnon essere visualizzati correttamente nel LAN browser dei tuoi giochi.
+EnterNamePW=Inserire nome utente e password.
+NewVersion=L'aggiornamento di Tunngle alla versione %s è ora disponibile per il download.
+FriendNetwork=%s è nella rete "%s".\r\nVuoi raggiungerlo?
+FriendNoNetwork=%s non è al momento in alcuna rete.
+Close=Chiudere Tunngle?
+LSPBackup=Il file di ripristino dei Layered Service Provider è stato creato correttamente.\r\n%s
+LSPOK=Sono stati individuati e risolti %d problemi relativi ai Layered Service Provider di Windows.
+LastTab=Questo tab non può essere chiuso.
+NetFull=La rete è piena.
+TempNetInfo=Le Reti Basic vengono rimosse dopo un periodo di inattività.
+TempNetDisabled=La creazione di nuove reti è temporaneamente disabilitata. Riprova più tardi.
+TempNetLimit=Al momento non è possibile creare nuove reti. Riprova più tardi.
+TempNetMissing=La rete selezionata non esiste. Puoi sceglierne una esistente o crearne una tua.
+TempNetFull=La rete selezionata è piena. Puoi sceglierne una differente o crearne una tua.
+TempNetExist=Questa rete esiste già. Puoi scegliere un nome diverso o accedere a quella esistente.
+TempNetPassword=La password è errata.
+TempNetInvalid=Il nome selezionato non è valido. Puoi sceglierne uno differente.
+ConfigAttention=Occorre riavviare Tunngle per applicare le nuove impostazioni.
+ProcessSuccess=Operazione riuscita.
+NickChange=Puoi cambiare il tuo pseudonimo utilizzando il pannello di controllo sul nostro sito.\r\nQuando premerai OK, Tunngle aprirà la pagina necessaria nel tuo web browser preferito.\r\nUna volta cambiato lo pseudonimo sul nostro sito, dovrai riavviare Tunngle per completare l'operazione.
+PremiumExpire=La tua licenza Premium scade il %s.\r\nVuoi visitare la pagina per gestire la sottoscrizione?
+FirewallZone=Suggerimento:\r\nQuando Windows Firewall ti chiede se vuoi consentire le connessioni per un gioco, ricordati di spuntare sempre sia la casella pubblica che quella privata.\r\nIn linea di massima, tutti i giochi devono avere entrambe le caselle spunate quando controlli le eccezioni di Windows Firewall nel Pannello di Controllo.\r\nSeleziona Aiuto per ottenere ulteriori informazioni.
+
+[Global-MessageBox-Warning]
+PortUnreachable=La porta selezionata sembra non essere aperta.\r\nNota: Se Tunngle funziona correttamente consigliamo\r\ndi non dare troppo peso a questo avvertimento.
+UPnP=Non è stato possibile configurare automaticamente il port forwarding utilizzando UPnP.
+ServerUnreachable=Il server di Tunngle non è raggiungibile.\r\nAvviare Tunngle lo stesso?
+Offline=Impossibile stabilire una connessione.\r\nIl contatto selezionato è offline.
+ConnectionFail=Impossibile stabilire una connessione.
+Messenger=Attenzione!\r\nDal momento che le funzionalità del messenger sono ancora in costruzione,\r\nla traduzione di alcune delle sue aree non è ancora stata completata.\r\nQuesto verrà risolto nelle prossime versioni.
+WriteRegistry=Non è stato possibile salvare la configurazione nel registro di sistema.\r\nSi consiglia di contattare un amministratore.
+SelectLanguage=E' necessario selezionare una lingua prima di procedere.
+SelectAdapter=E' necessario selezionare una scheda di rete prima di procedere.
+NetworkBusy=La rete selezionata è occupata.\r\nScegline un'altra.
+LoginRequired=Prima di procedere è necessario effettuare l'accesso.
+ConfigAdapter=E' stato rilevato un problema durante la configurazione della scheda di rete.\r\nLa rete potrebbe non funzionare correttamente.
+ProcessFail=Operazione fallita.
+NickInvalid=Il tuo pseudonimo può solo contenere i seguenti caratteri:
+AdapterBug=La configurazione della scheda di rete di Tunngle sta impiegando tanto tempo.\r\nQuesto potrebbe essere il risultato di problemi del sistema Operativo. Si prega di attendere.
+FlashMissing=Il web browser integrato richiede Flash Player per funzionare.\r\nVuoi scaricarlo ora?
+
+[Global-MessageBox-Question]
+Contact=Vuoi veramente aggiungere %s alla tua lista degli amici?
+Delete=Vuoi veramente rimuovere %s dagli utenti bloccati?
+ChangeNet=Vuoi veramente lasciare la rete "%s" per accedere alla rete "%s"?
+CloseChat=Vuoi veramente chiudere la chat "%s"?
+CloseLobby=Vuoi veramente chiudere la "%s"?
+CloseTab=Vuoi veramente chiudere il tab "%s"?
+AddContact=%s ti ha aggiunto alla lista dei propri amici.\r\nVuoi accettare?
+Quit=Sei sicuro di voler uscire?
+DelFavorite=Vuoi veramente rimuovere %s?
+NewVersion=E' disponibile l'aggiornamento di Tunngle alla versione %s.\r\nScaricarlo ora?
+Adapter=E' stato rilevata la seguente scheda di rete:\r\n%s\r\nAssociarla con Tunngle ora?
+Language=La localizzazione di sistema è compatibile con il linguaggio seguente: "%s"\r\nUtilizzarlo come predefinito?
+LanguageID=La lingua selezionata non corrisponde alla localizzazione di sistema corrente.\r\nProcedere comunque?
+LanguageCP=Il Code Page di sistema non corrisponde ai requisiti del linguaggio selezionato.\r\nAlcuni caratteri potrebbero non essere visualizzati correttamente.\r\nProcedere lo stesso?
+CliQuit=Per applicare le nuove imposazioni occorre riavviare Tunngle.\r\nVuoi uscire adesso?
+TempNetActivate=Prima di poter utilizzare questa funzione occorre attivare le reti private.\r\nL'attivazione e l'utilizzo sono gratuiti al 100%.\r\nVuoi avviare il browser per attivare ora?
+TempNetActivateB=Il tuo browser sta ora caricando la pagina di attivazione.\r\nCompleta la procedura e premi Ok.
+FileExists=Il file esiste già. Vuoi sovrascriverlo?
+RestoreDefault=Vuoi ripristinare tutti i suggerimenti nascosti in precedenza?
+RestoreOptions=Vuoi ripristinare le impostazioni predefinite?
+PremiumFeature=Questa funzione è disponibile solo agli utenti con licenza Premium e Lifetime.\r\nVuoi consultare la nostra offerta ora?
+ExternalLink=Hai fatto clic su di un link esterno.\r\nTunngle.Net GmbH non è responsabile per i link pubblicati in chat. Pertanto, se apri questi link lo fai a tuo rischio e pericolo.\r\nSe accetti, il link sarà caricato nel tuo web browser di sistema. Vuoi procedere?
+Reconnect=Il server di Tunngle è di nuovo raggiungibile.\r\nVuoi riconnetterti ora?
+DownloadPlugin=Per utilizzare questa funzione ti serve un plugin.\r\nVuoi scaricarlo ora?
+DownloadDependency=Per utilizzare questa funzione ti serve un componente aggiuntivo.\r\nVuoi scaricarlo ora?
+
+[Global-MessageBox-Error]
+RunOnce=Puoi eseguire solo un'istanza di Tunngle per volta.
+NotInstalled=Tunngle non è installato correttamente.
+NoAdapter=Impossibile trovare la scheda di rete di Tunngle.
+AccountVerify=Accesso fallito.\r\nL'Account non è stato convalidato.
+AccountBann=Accesso fallito.\r\nIl tuo account è stato bloccato.
+ConnectionProblem=Errore di connessione!\r\nImpossibile stabilire una connessione UDP con il server.\r\nProbabilmente il tuo firewall non è configurato in maniera corretta.\r\nServe aiuto?
+NATProblem=Errore NAT!\r\nLa configurazione della NAT del tuo router sta\r\nimpedendo a Tunngle di funzionare correttamente.\r\nE' necessario impostare il port forwarding.\r\nServe aiuto?
+ConnectionProblemInfo=Errore di connessione!\r\nImpossibile stabilire una connessione UDP con il server.\r\nProbabilmente il tuo firewall non è configurato in maniera corretta.\r\nServe aiuto?
+MasterServer=Impossibile contattare i server principali di Tunngle.
+Version=Il client di Tunngle è obsoleto.\r\nAggiornare ora?
+Safe=Non è stato possibile mettere in sicurezza la connessione.
+AuthFail=Accesso fallito.\r\nControlla il tuo nome utente e la tua password.\r\nSe il problema persiste, sul sito, puoi reimpostare la password.\r\nTi serve ulteriore aiuto?
+AdapterInit=Impossibile inizializzare la scheda di rete!
+UDPSocket=Errore Socket UDP!\r\nImpossibile creare un socket UDP.\r\nProbabilmente il tuo firewall non è configurato in maniera corretta.\r\nServe aiuto?
+AdapterPrim1=Alla scheda di rete di Tunngle non è stata assegnata la priorità corretta. (1)\r\nSe questo non cambia, i server presenti nelle reti di Tunngle potrebbero\r\nnon essere visualizzati correttamente nel LAN browser dei tuoi giochi.\r\nServe aiuto?
+AdapterPrim2=Alla scheda di rete di Tunngle non è stata assegnata la priorità corretta. (2)\r\nSe questo non cambia, i server presenti nelle reti di Tunngle potrebbero\r\nnon essere visualizzati correttamente nel LAN browser dei tuoi giochi.\r\nServe aiuto?
+ServiceFound=Servizio di Tunngle non trovato! 
+ServiceContact=Impossibile contattare il servizio di Tunngle!
+CryptFail=Impossibile caricare le librerie crittografiche.
+PortFail=La porta selezionata non è valida per effettuare il port forwarding. Per piacere scegline un'altra!
+WinSock2=Il WinSock non risponde.\r\nNon è stato possibile controllare la configurazione di rete.
+LSPProblems=Sono stati rilevati %d problemi relativi ai Layered Service Provider.\r\nRipararli ora?
+LSPBackup=Non è stato possibile creare il file di ripristino dei Layered Service Provider.\r\nAnnullare?
+LSPSafePoint=Non è stato possibile creare un punto di ripristino per i Layered Service Provider.\r\nAnnullare?
+LSPRepair=Non è stato possibile riparare %d problemi relativi ai Layered Service Provider.\r\nRipristinare la configurazione precedente?
+LSPRedo=Ripristino fallito.
+ConfigAdapter=Impossibile configurare la scheda di rete!
+WrongPassword=La password è errata.
+GUIVersionMismatch=Tunngle ha rilevato un problema con i file installati.
+InterlinkFormat=La sintassi dell'Interlink non è valida. Dovrebbe essere nella forma "Indirizzo:Porta".
+cProgram=È stato rielevato un file nel tuo computer con percorso "C:\\program" che potrebbe impedire l'esecuzione corretta di Tunngle.\r\nÈ possibile risolvere il problema rinominandolo in "C:\\program1".
+ProcessFail=Operazione fallita.
+ServerUnreachable=Il server non è raggiungibile. Riprova più tardi.
+SelectNetRange=Seleziona un intervallo di rete.
+ConnectionBug=Sebbene tu abbia impostato il Port Forward, il router non funziona come dovrebbe.\r\nEliminando il Port Forward nasconderai questo errore e avrai maggiori possibilità di connetterti agli altri giocatori.
+
+[Global-Text-Dynamic]
+Loading=Caricamento in corso di %s...
+FromTo=%d-%d di %d
+LastAct=Ultimo Aggiornamento: %s
+Lobby=Lobby (%d)
+ChatJoined=<%s "%s" è entrato nella chat.>
+NetJoined=<%s "%s" è entrato nella rete.>
+LobbyJoined=<%s "%s" è entrato nella lobby.>
+ChatLeft=<%s "%s" è uscito dalla chat.>
+NetLeft=<%s "%s" è uscito dalla rete.>
+LobbyLeft=<%s "%s" è uscito dalla lobby.>
+ConnectionDeny1=* Impossibile connettersi con %s perché il tuo nome utente è presente sulla sua lista nera.
+ConnectionDeny2=* Impossibile connettersi con %s perché il suo nome utente è presente sulla tua lista nera.
+ConnectionLost=[ %s La connessione con il server di Tunngle è stata interrotta! ]
+VirtualIP=IP Virtuale: %s
+LoginNick=Accesso effettuato come: %s
+Version=Versione: %s
+Connecting=Connessione in corso %s
+ChatMe=Io: %s
+ChatDeny=* Impossibile ricevere messaggi da %s poichè questi si trova sulla tua lista nera. *
+AddBlacklist=Per quanto tempo vuoi bloccare %s?
+PingMs=Ping: %s ms
+ChannelMode=Tipo: %s
+Ports=Port: %s
+Lobby=Lobby (%d)
+WaitingQueue=In coda... %d/%d
+AddedBlackList=%s è stato inserito nella lista degli utenti bloccati.
+UserID=ID: %d
+
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle News
+CaptionStart=Avvio
+CaptionStartPage=Avvio
+CaptionQuickstart=Guida Veloce
+CaptionSupport=Supporto
+CaptionBetainfo=Informazioni
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Area Download
+CaptionResults=Risultati...
+CaptionChat=Chat
+CaptionLobby=Lobby
+CaptionNetwork=Reti
+CaptionTunngleforum=Tunngle Forum
+CaptionEventplaner=Calendario
+CaptionForumfaq=Forum FAQ
+CaptionForum=Forum
+CaptionTunngleskins=Scarica Skin 
+CaptionSearch=Ricerca
+CaptionBrowser=Esplora
+CaptionSkinconfig=Personalizza
+CaptionSoundconfig=Opzioni Audio
+CaptionPrivacylists=Utenti Bloccati
+CaptionConfiguration=Opzioni Generali
+CaptionFavorite=Preferiti
+CaptionSubBrowser=Reti
+CaptionCreateNet=Reti Private
+CaptionAccount=Account
+SplashPleaseWait=Attendere...
+SplashLoaddata=Caricamento dati...
+SplashReset=Ripristino in corso...
+SplashConfig=Configurazione in corso...
+SplashLoading=Caricamento in corso...
+SplashConnecting=Connessione in corso...
+SplashVersion=Controllo versione in corso...
+SplashSafe=Cifratura in corso...
+SplashUPnP=Configurazione del port forwarding tramite UPnP in corso...
+SplashAuth=Autenticazione in corso...
+SplashAdatperset=Configurazione della scheda in corso...
+SplashAdapterinit=Inizializzazione della scheda in corso...
+SplashAdapterstart=Connessione della scheda in corso...
+SplashAdapterchkprim=Verifica della priorità della scheda in corso...
+SplashAdapterchkbc=Verifica dei broadcast della scheda in corso...
+SplashAdapterchkstop=Verifica della disconnessione della scheda in corso...
+SplashFinalize=Finalizzazione in corso...
+SplashServiceinit=Inizializzazione del servizio in corso...
+SplashServicecontact=Comunicazione con il servizio in corso...
+SplashServercontact=Comunicazione con il server in corso...
+SplashConfigurate=Configurazione di Tunngle in corso...
+SplashWinSock2=Verifica della configurazione di rete in corso...
+SplashNetzone=Verifica del percorso di rete...
+SearchInWork=Ricerca in corso...
+Lobby=Lobby
+NetLeft=Hai lasciato la rete.
+NoIP=IP Virtuale: -
+ChatJoined=Accesso alla chat effettuato correttamente.
+NetJoined=Accesso alla rete effettuato correttamente.
+LobbyJoined=Accesso alla lobby effettuato correttamente.
+FoundNothing=Nessun risultato.
+NetChangeBegin=Preparazione al cambio di rete in corso. Attendere prego...
+NetChangeEnd=Cambio di rete effettuato correttamente. Attendere prego...
+NotLoggedIn=Accesso non effettuato.
+EnterNamePW=Inserire nome utente e password.
+MessageSendFail=* Impossibile inviare il messaggio *
+MessageSendFlood=* Stai inviando messaggi troppo velocemente. Rallenta per piacere. *
+LaunchParameter=Parametri di avvio:
+TypeStandard=Tunngler
+TypeInterlink=Server Interlink 
+TypeTunngleTeam=Tunngle Team
+TypeEnthusiast=Tunngle Enthusiast
+TypeLifetime=Lifetime Tunngler
+TypePremium=Premium Tunngler
+TypeInactive=Non è stato possibile stabilire una connessione con questo giocatore.
+SplashExecuteJoin=Attendere prego...
+StopAdapter=Disconnessione della scheda di rete in corso...
+StartAdapter=Connessione della scheda di rete in corso... (l'operazione potrebbe durare un po')
+StartAdapterFail=Errore: Impossibile connettere la scheda di rete.
+Interlink=Indirizzo:Porta
+StatusBarRegister=Non hai ancora un Account? Fai click qui per Registrarti!
+ConnectionGood=Porta Aperta
+ConnectionBad=Se possibile effettua il Port Forward!
+ConnectionNeutral=Porta Chiusa
+ConnectionBug=Router Malfunction
+CmdHlpVPN=I comandi disponibili sono:\r\n - /banip IPvirtuale (aggiunge agli utenti bloccati il giocatore che corrisponde all'IPvirtuale selezionato)\r\n - /ipsearch IPvirtuale (trova il nickname dell'utente che corrisponde all'IPvirtuale selezionato, usare "all" per la lista completa)\r\n - /clear (pulisce la chat)\r\n - /help (mostra questo messaggio d'aiuto)
+ChangeNick=Segli il tuo Pseudonimo:
+StatusBarCreateNet=Se hai una licenza Premium, puoi creare simultaneamente una rete Basic ed una rete Premium.
+StatusBarJoinNet=Se hai problemi con un gioco, fai clic su DON'T PANIC a destra per ricevere aiuto dalla Community.
+StatusBarJoinNet2=Per un avvio più rapido, aggiungi l'exe del gioco al Launcher premendo il pulsante Play.
+AccStateBasic=Tunngle Basic - Fai l'upgrade ora
+AccStatePremium=Tunngle Premium
+AccStateLifetime=Tunngle Lifetime
+SplashDownloadUpdate=Scaricamento aggiornamento...
+
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonPlayGame=Giochi
+SpeedButtonPlayGame2=<
+SpeedButtonPrivNet=Reti Private
+SpeedButtonPrivNet2=<
+SpeedButtonCommunity=Community
+SpeedButtonCommunity2=<
+SpeedButtonSettings=Impostazioni
+SpeedButtonSettings2=<
+SpeedButtonMessenger=
+SpeedButtonLogin=Accedi
+SpeedButtonCancel=Annulla
+SpeedButtonCancelStatus=Annulla
+
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonPlayGame=Gioca ai tuoi giochi
+SpeedButtonPlayGame2=Vai all'ultimo tab attivo
+SpeedButtonPrivNet=Accedi e gestisci le reti private
+SpeedButtonPrivNet2=Vai all'ultimo tab attivo
+SpeedButtonCommunity=Vivi la Community
+SpeedButtonCommunity2=Vai all'ultimo tab attivo
+SpeedButtonSettings=Impostazioni
+SpeedButtonSettings2=Vai all'ultimo tab attivo
+SpeedButtonMessenger=Lista degli amici
+SpeedButtonWiki=Ricevi aiuto
+
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Pagina Iniziale
+ButtonQABetaInfo=Informazioni
+ButtonQAForum=Forum
+ButtonQAEventPlanner=Calendario
+ButtonQALobby=Lobby
+ButtonQAFavorites=Preferiti
+ButtonQACreateNetwork=Reti Private
+
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=Pagina Iniziale
+spDynamicSkinFormMain-1=Reti Private
+spDynamicSkinFormMain-2=Forum
+spDynamicSkinFormMain-3=Calendario
+spDynamicSkinFormMain-4=Lobby
+spDynamicSkinFormMain-5=Preferiti
+spDynamicSkinFormMain-7=Facebook
+spDynamicSkinFormMain-8=Twitter
+spDynamicSkinFormMain-9=Google+
+spDynamicSkinFormMain-10=YouTube
+spDynamicSkinFormMain-11=Il Blog di Tunngle
+
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Esplora Reti
+ExPanelFindnetwork=Ricerca Rete
+ExPanelStatus=Informazioni Licenza
+ExPanelBuyOptions=Acquista un gioco
+
+[FormMain-TMenuItem-Caption]
+MenuItemNetBrowse=Lista
+MenuItemNetSearch=Cerca
+MenuItemNetFavorite=Preferiti
+MenuItemNetCreate=Richiedi un Gioco
+MenuItemWebGames=Giochi Web
+MenuItemNetCreateOwn=Crea
+MenuItemNetJoinOwn=Accedi
+MenuItemNetFavoriteOwn=Preferiti
+MenuItemNetForumListOwn=Lista sul Forum
+MenuItemTunnglelobby=Lobby per Chattare
+MenuItemGameForums=Forum dei Giochi
+MenuItemGetHelp=Richiedi Assistenza
+MenuItemEventplaner=Calendario delle Partite
+MenuItemRegionalForums=Forum Regionali
+MenuItemFindPlayers=Trova Giocatori
+MenuItemMediaForums=Forum Artistici
+MenuItemVideoPlayer=Avvio di Tunngle
+MenuItemSupportSearch=Cerca una Guida
+MenuItemWizard=Mostra la Guida Video
+MenuItemBanner=Nascondi pubblicità
+MenuItemCommunityBanner=Nascondi community banner
+MenuItemAccount=Opzioni Account
+MenuItemSounds=Opzioni Audio
+MenuItemSkins2=Cambia Skin
+MenuItemPrivacylists=Utenti bloccati
+MenuItemConfiguration=Opzioni Generali
+MenuItemRestore=Ripristina Suggerimenti Nascosti
+MenuItemAbout=Informazioni su Tunngle
+MenuItemAutoUpdate=Aggiornamento automatico
+MenuItemAutoReconnect=Riconnessione automatica
+MenuItemGameOffers=Opzioni d'acquisto giochi
+
+MenuItemTrayNetFavorite=Preferiti
+MenuItemTrayForum=Forum
+MenuItemTrayLobby=Lobby per Chattare
+MenuItemTrayOpen=Mostra Tunngle
+MenuItemTrayClose=Esci
+
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=Nome utente:
+StdLabelPassword=Password:
+
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Salva credenziali
+CheckRadioBoxAutologon=Accesso automatico
+CheckRadioBoxDontShowAgain=Nascondi in futuro
+
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Notifiche
+MenuItemAddContact=Aggiungi alla lista degli amici
+MenuItemAddBlacklist=Aggiungi agli utenti bloccati
+MenuItemEditBlacklist=Gestisci gli utenti bloccati
+MenuItemCopyIP=Copia IP negli appunti
+MenuItemSortNicks=Ordina per nome
+MenuItemSortIPs=Ordina per ping
+MenuItemConfig=Configura
+MenuItemShowProfile=Vedi il profilo
+MenuItemSelectAll=Seleziona tutto
+MenuItemCopy=Copia
+MenuItemChangeNick=Cambia pseudonimo
+
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Invia
+
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Chat:
+
+[FrameChat-TspSkinCheckBox-Hint]
+CheckBoxScroll=Scorrimento Automatico
+
+[FrameChat-TspSkinButton-Hint]
+ButtonLauncher=Avvia il Gioco
+ButtonVideo=Ricerca Video
+
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Indietro
+ButtonForward=Avanti >>
+ButtonActualize=Aggiorna
+
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nome
+ListViewNet-1=Online
+ListViewNet-2=Genere
+
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Aggiungi ai Preferiti
+
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Aggiorna
+
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nome
+ListViewNet-1=Online
+ListViewNet-2=Genere
+
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Aggiungi ai Preferiti
+
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Indietro
+ButtonForward=Avanti >>
+ButtonActualize=Aggiorna
+
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nome
+ListViewNet-1=Online
+ListViewNet-2=Genere
+
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Rimuovi Preferito
+MenuItemSortFavorite=Ordina Preferiti
+
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Aggiorna
+
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nome
+ListViewNet-1=Online
+ListViewNet-2=Genere
+
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Rimuovi Preferito
+MenuItemSortFavorite=Ordina Preferiti
+
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Intercetta i broadcast da tutte le interfacce
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Porta inoltrata
+CheckRadioBoxUPnP=Usa UPnP
+CheckRadioBoxTCActive=Abilitato
+CheckRadioBoxSignature=Signature per il Web
+CheckRadioBoxLog=Registro di Rete
+CheckRadioBoxExp=Mostra Opzioni Avanzate
+
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Nota!\r\nNormalmente disabilitato.
+CheckRadioBoxDNS=
+CheckRadioBoxPort=
+CheckRadioBoxUPnP=
+CheckRadioBoxTCActive=
+
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Applica
+ButtonCancel=Annulla
+ButtonTest=Prova
+ButtonDefault=Valori Predefiniti
+ButtonWizard=Wizard
+
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Interfaccia
+GroupBoxNetconfig=Rete
+GroupBoxRouterconfig=Configurazione del Router
+GroupBoxTrafficcontroller=Gestore del Traffico
+
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Lingua
+StdLabelLocalIP=IP per Connessioni Locali
+
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Attenzione! Per attivare le nuove impostazioni occorre riavviare Tunngle!
+
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Cerca
+
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Nascondi le reti piene
+CheckRadioBoxEmpty=Nascondi le reti vuote
+CheckRadioBoxPassword=Nascondi le reti protette da password
+
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Opzioni avanzate
+
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Opzioni avanzate >>
+
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Indietro
+ButtonForward=Avanti >>
+ButtonActualize=Aggiorna
+
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Nome
+ListViewResults-1=Online
+ListViewResults-2=Genere
+
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Aggiungi ai Preferiti
+
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Notifiche
+MenuItemAddContact=Aggiungi alla lista degli amici
+MenuItemAddBlacklist=Aggiungi agli utenti bloccati
+MenuItemEditBlacklist=Gestisci gli utenti bloccati
+MenuItemCopyIP=Copia IP negli appunti
+MenuItemSortNicks=Ordina per nome
+MenuItemSortIPs=Ordina per ping
+MenuItemConfig=Configura
+MenuItemShowProfile=Vedi il profilo
+MenuItemSelectAll=Seleziona tutto
+MenuItemCopy=Copia
+MenuItemChangeNick=Cambia pseudonimo
+
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Invia
+
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Chat:
+
+[FrameLobby-TspSkinCheckBox-Hint]
+CheckBoxScroll=Scorrimento Automatico
+
+[FrameLobby-TspSkinButton-Hint]
+ButtonLauncher=Avvia il Gioco
+ButtonVideo=Ricerca Video
+ButtonWindow=Chat in finestra singola
+
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Applica
+ButtonCancel=Annulla
+ButtonFind=Cerca
+ButtonExport=Esporta
+ButtonImport=Importa
+
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=ID
+ListViewResults-1=Nome
+ListViewConnection-0=ID
+ListViewConnection-1=Nome
+ListViewChat-0=ID
+ListViewChat-1=Nome
+
+[FramePrivateLists-TspSkinComboBox-Item]
+ComboBoxSearchType-0=Nome
+ComboBoxSearchType-1=ID
+
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Cerca
+
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Blocca utente (Ban Completo)
+StdLabelChatmessages=Blocca utente (Solo Chat)
+StdLabelName=Nome
+
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Rimuovi
+MenuItemDeleteChat=Rimuovi
+MenuItemAddBlacklist=Add to black list
+
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Applica
+ButtonCancel=Annulla
+ButtonDownload=Scarica Skin Aggiuntive
+ButtonDefault=Skin Predefinita
+
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Anteprima
+
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Etichetta
+
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Campo di testo
+
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Campo di input
+
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Checkbox
+CheckRadioBox2=Checkbox
+
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Applica
+ButtonCancel=Annulla
+
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Abilita Suoni
+CheckRadioBoxStart=Avvio
+CheckRadioBoxLogin=Accesso
+CheckRadioBoxLeave=Un utente lascia la rete
+CheckRadioBoxJoin=Un utente accede alla rete
+CheckRadioBoxReceive=Messaggio ricevuto
+CheckRadioBoxQuit=Chiusura
+CheckRadioBoxSend=Messaggio inviato
+CheckRadioBoxKey=Digitazione in chat
+CheckRadioBoxDirectopen=Nuova finestra di chat diretta
+CheckRadioBoxDirectmessage=Nuovo messaggio di chat diretta
+CheckRadioBoxCEF=Pannelli Web
+
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Browser
+ButtonFavorite=Preferiti
+ButtonQuicklaunch=Guida Veloce
+ButtonBetainfo=Informazioni
+ButtonForum=Forum
+ButtonEventplaner=Calendario
+
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Indietro
+StatusPanelForward=Avanti
+StatusPanelStop=Arresta
+StatusPanelReload=Aggiorna
+
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Indietro
+StatusPanelForward=Avanti
+StatusPanelStop=Arresta
+StatusPanelReload=Aggiorna
+
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Notifiche
+MenuItemAddContact=Aggiungi alla lista degli amici
+MenuItemAddBlacklist=Aggiungi agli utenti bloccati
+MenuItemEditBlacklist=Gestisci gli utenti bloccati
+MenuItemCopyIP=Copia IP negli appunti
+MenuItemSortNicks=Ordina per nome
+MenuItemSortIPs=Ordina per ping
+MenuItemConfig=Configura
+MenuItemShowProfile=Vedi il profilo
+MenuItemSelectAll=Seleziona tutto
+MenuItemCopy=Copia
+MenuItemChangeNick=Cambia pseudonimo
+
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Invia
+
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+
+[FrameVPN-TspSkinCheckBox-Hint]
+CheckBoxScroll=Scorrimento Automatico
+
+[FrameVPN-TspSkinButton-Hint]
+ButtonLauncher=Avvia il Gioco
+ButtonVideo=Ricerca Video
+
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Chiudi
+
+[FormAbout-Infos]
+Caption=About Tunngle
+
+[FormLogin-Infos]
+Caption=Accesso
+
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Accedi
+ButtonCancel=Annulla
+
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Nome utente:
+LabelPassword=Password:
+
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Salva credenziali
+CheckRadioBoxAuto=Accesso automatico
+
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister= Crea gratuitamente un nuovo account
+
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Annulla
+
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Invia
+
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Chat:
+
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Aggiungi gruppo
+MenuItemContactAdd=Aggiungi contatto
+MenuItemContactHideOffline2=Nascondi offline
+MenuItemRights=Autorizzazioni
+MenuItemTunngleShares=Accedi alle condivisioni
+MenuItemContactInfo=Vedi profilo
+MenuItemContactAlert=Notifiche contatto
+MenuItemContactNote=Note contatto
+MenuItemReadAwayMessage=Messaggio di assenza
+MenuItemContactRename=Rinomina contatto
+MenuItemContactDelete=Rimuovi contatto
+MenuItemMoveToGroup=Sposta nel gruppo
+MenuItemContactHideOffline3=Nascondi offline
+MenuItemMessage=Chat diretta
+MenuItemRights2=Autorizzazioni
+MenuItemTunngleShares2=Accedi alle condivisioni
+MenuItemGroupRename=Rinomina gruppo
+MenuItemGroupDelete=Cancella gruppo
+MenuItemGroupExpandCollapse=Mostra/Nascondi Gruppo
+MenuItemContactHideOffline=Nascondi offline
+MenuItemMain=&Menu
+MenuItemAddContact=Aggiungi contatto
+MenuItemInNetwork=Info di Rete
+
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=Invisibile
+
+[FormFindContact-Infos]
+Caption=Ricerca Contatti
+
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Cerca
+
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=Nome:
+
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Aggiungi contatto
+
+[FormFindContact-TspSkinListView-Column]
+ListViewResults-0=ID
+ListViewResults-1=Nome
+
+[FormFindContact-TspSkinComboBox-Item]
+ComboBoxSearchType-0=Nome
+ComboBoxSearchType-1=ID
+
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Annulla
+
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=File
+ListViewLanguage-1=Lingua
+ListViewLanguage-2=Autore
+
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Continua
+
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Selezione della lingua.
+
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Nome
+ListViewAdapter-1=IP
+ListViewAdapter-2=Nome del Dispositivo
+
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Continua
+
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Selezione della scheda di rete.
+
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Annulla
+
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Solo Chat
+CheckRadioBoxComplete=Ban Completo
+CheckRadioBoxHours=Ore
+CheckRadioBoxDate=Fino a 
+CheckRadioBoxInfinite=Per Sempre
+
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Annulla
+
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Immetti la Password:
+
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Notifiche
+MenuItemAddContact=Aggiungi alla lista degli amici
+MenuItemAddBlacklist=Aggiungi agli utenti bloccati
+MenuItemEditBlacklist=Gestisci gli utenti bloccati
+MenuItemCopyIP=Copia IP negli appunti
+MenuItemSortNicks=Ordina per nome
+MenuItemSortIPs=Ordina per ping
+MenuItemConfig=Configura
+MenuItemShowProfile=Vedi il profilo
+MenuItemSelectAll=Seleziona tutto
+MenuItemCopy=Copia
+MenuItemChangeNick=Cambia pseudonimo
+
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Invia
+
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+
+[FrameTVPN-TspSkinCheckBox-Hint]
+CheckBoxScroll=Scorrimento Automatico
+
+[FrameTVPN-TspSkinButton-Hint]
+ButtonLauncher=Avvia il Gioco
+ButtonVideo=Ricerca Video
+
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Messaggio di Benvenuto
+
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Gestisci la tua Rete
+GroupBoxJoin=Accedi ad una Rete Esistente
+
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=Tipo di Rete:
+LabelNetworkNameT=Nome della Rete:
+LabelNetworkPasswordT=Password di Rete:
+LabelNetworkSize=Dimensione della Rete:
+LabelNetworkTypeB=Tipo di Rete:
+LabelNetworkNameB=Nome della Rete:
+LabelNetworkPasswordB=Password di Rete:
+
+[FrameNetCreate-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Basic
+ComboBoxNetTypeT-1=Premium
+
+ComboBoxNetTypeB-0=Basic
+ComboBoxNetTypeB-1=Premium
+
+ComboBoxNetRange-0=7.*.*.* (Standard)
+ComboBoxNetRange-1=7.x.x.*
+ComboBoxNetRange-2=7.x.*.* (Emulatore Client)
+ComboBoxNetRange-3=7.x.x.* (Emulatore Client)
+ComboBoxNetRange-4=10.*.*.*
+ComboBoxNetRange-5=10.x.x.*
+ComboBoxNetRange-6=10.x.x.* (Emulatore Client)
+ComboBoxNetRange-7=192.168.x.* (Emulatore Client)
+
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Crea - Aggiorna
+ButtonJoin=Accedi
+ButtonJoinOwn=Accedi
+ButtonNetworkList=Lista Reti
+
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Emulatore di Rete:
+UrlLabelInterlink=Server per l'Interlink:
+UrlLabelNetRange=Intervallo di Rete:
+UrlLabelManagement=Gestore Indirizzi:
+
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Rete Basic
+CheckRadioBoxNetPremium=Rete Premium
+
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Notifiche
+MenuItemAddContact=Aggiungi alla lista degli amici
+MenuItemAddBlacklist=Aggiungi agli utenti bloccati
+MenuItemEditBlacklist=Gestisci gli utenti bloccati
+MenuItemCopyIP=Copia IP negli appunti
+MenuItemSortNicks=Ordina per nome
+MenuItemSortIPs=Ordina per ping
+MenuItemConfig=Configura
+MenuItemShowProfile=Vedi il profilo
+MenuItemSelectAll=Seleziona tutto
+MenuItemCopy=Copia
+MenuItemChangeNick=Cambia pseudonimo
+
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Invia
+
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+
+[FramePVPN-TspSkinCheckBox-Hint]
+CheckBoxScroll=Scorrimento Automatico
+
+[FramePVPN-TspSkinButton-Hint]
+ButtonLauncher=Avvia il Gioco
+ButtonVideo=Ricerca Video
+
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Non mostrare più
+
+[FrameAccount-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSignature=Firma Web
+
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Applica
+ButtonCancel=Annulla
+ButtonChangeNick=Cambia Pseudonimo
+ButtonAskAge=Controllo Genitori
+
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=Opzioni Account
+
+[FrameAccount-TspSkinStdLabel-Caption]
+StdLabelFriendsRequests=Richieste di Amicizia
+
+[FrameAccount-TspSkinComboBox-Item]
+ComboBoxFriendRequests-0=Chiedi
+ComboBoxFriendRequests-1=Consenti
+ComboBoxFriendRequests-2=Rifiuta
+
+[FormWizard-Infos]
+Caption=Introduzione Video
+
+[FrameBeforeLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Non mostrare più
+
+[FrameNetCreateEasy-TspSkinMemo-Text]
+MemoWelcome=Benvenuto
+
+[FrameNetCreateEasy-TspSkinGroupBox-Caption]
+GroupBoxCreate=Gestisci la tua Rete
+GroupBoxJoin=Accedi ad una Rete Esistente
+
+[FrameNetCreateEasy-TspSkinLabel-Caption]
+LabelNetworkTypeT=Tipo di Rete:
+LabelNetworkNameT=Nome della Rete:
+LabelNetworkPasswordT=Password di Rete:
+LabelNetworkTypeB=Tipo di Rete:
+LabelNetworkNameB=Nome della Rete:
+LabelNetworkPasswordB=Password di Rete:
+
+[FrameNetCreateEasy-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Basic
+ComboBoxNetTypeT-1=Premium
+
+ComboBoxNetTypeB-0=Basic
+ComboBoxNetTypeB-1=Premium
+
+ComboBoxNetRange-0=7.*.*.* (Standard)
+ComboBoxNetRange-1=7.x.x.* (Client Emu)
+ComboBoxNetRange-2=192.168.x.* (Client Emu)
+ComboBoxNetRange-3=10.x.x.* (Server Emu)
+
+[FrameNetCreateEasy-TspSkinButton-Caption]
+ButtonCreate=Crea - Aggiorna
+ButtonJoin=Accedi
+ButtonJoinOwn=Accedi
+ButtonNetworkList=Lista Reti
+
+[FrameNetCreateEasy-TspSkinStdLabel-Caption]
+UrlLabelNetRange=Intervallo di Rete:
+
+[FrameNetCreateEasy-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Rete Basic
+CheckRadioBoxNetPremium=Rete Premium
+
+[FrameStartup-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Non mostrare più
+
+[FormGames-Infos]
+Caption=Opzione d'acquisto
+
+[FormGames-TspSkinButton-Caption]
+ButtonGetIt=Acquista
+
+[FormGames-TspSkinStdLabel-Caption]
+UrlLabelLink=Note legali
+
+[FrameAskAge-Infos]
+Caption=Controllo Genitori
+
+[FrameAskAge-TspSkinMemo-Text]
+MemoText=Completa il modulo con il tuo mese e anno di nascita* per personalizzare la tua esperienza di gioco.\r\n*Questa informazione è salvata localmente e non è condivisa con nessuno
+MemoAdultText=Completa il modulo per determinare i contenuti che appaiono in Tunngle*.\r\n*Esclusi i contenuti pubblicati da altri giocatori.
+
+[FrameAskAge-TspSkinStdLabel-Caption]
+StdLabelMonth=Mese:
+StdLabelYear=Anno:
+
+[FrameAskAge-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxAdult=Visualizza i contenuti per adulti.
+
+[FrameAskAge-TspSkinButton-Caption]
+ButtonAccept=Applica
+ButtonSkip=Salta

@@ -1,0 +1,595 @@
+
+[Header]
+Author=Ελληνική κοινότητα (Community)
+Date=2014.12.19
+Language=Greek
+CharSet=DEFAULT_CHARSET
+PrimLangID=8
+CodePage=1253
+[Global-Ressource]
+MI_MINCAPTION=Ελαχιστοποίηση
+MI_MAXCAPTION=Μεγιστοποίηση
+MI_CLOSECAPTION=Κλείσιμο
+MI_RESTORECAPTION=Επαναφορά
+MI_MINTOTRAYCAPTION=Ελαχιστοποίηση στη γραμμή εργαλειών
+MI_ROLLUPCAPTION=Κύλησε προς τα επάνω
+MINBUTTON_HINT=Ελαχιστοποίηση
+MAXBUTTON_HINT=Μεγιστοποίηση
+CLOSEBUTTON_HINT=Κλείσιμο
+TRAYBUTTON_HINT=Ελαχιστοποίηση στη γραμμή εργαλείων
+ROLLUPBUTTON_HINT=Κύλησε προς τα επάνω
+MENUBUTTON_HINT=Μενού συστήματος
+RESTORE_HINT=Επαναφορά
+EDIT_UNDO=Αναίρεση
+EDIT_COPY=Αντιγραφή
+EDIT_CUT=Αποκοπή
+EDIT_PASTE=Επικόλληση
+EDIT_DELETE=Διαγραφή
+EDIT_SELECTALL=Επιλογή όλων
+MSG_BTN_YES=Ναι
+MSG_BTN_NO=Όχι
+MSG_BTN_OK=Εντάξει
+MSG_BTN_CANCEL=’κυρο
+MSG_BTN_ABORT=Ματαίωση
+MSG_BTN_RETRY=Επανάληψη
+MSG_BTN_IGNORE=Αγνόηση
+MSG_BTN_ALL=Όλα
+MSG_BTN_NOTOALL=Όχι σε όλα
+MSG_BTN_YESTOALL=Ναι σε όλα
+MSG_BTN_HELP=Βοήθεια
+MSG_BTN_OPEN=’νοιγμα
+MSG_BTN_SAVE=Αποθήκευση
+MSG_BTN_CLOSE=Κλείσιμο
+MSG_BTN_BACK_HINT=Πίσω
+MSG_BTN_UP_HINT=Πάνω
+MSG_BTN_NEWFOLDER_HINT=Δημιουργία καινούριου φακέλου
+MSG_BTN_VIEWMENU_HINT=Εμφάνιση μενού
+MSG_BTN_STRETCH_HINT=Παραμόρφωση εικόνας
+MSG_FILENAME=Όνομα αρχείου:
+MSG_FILETYPE=Έιδος αρχείου:
+MSG_NEWFOLDER=Καινούριος φάκελος
+MSG_LV_DETAILS=Λεπτομέρειες
+MSG_LV_ICON=Μεγάλα εικονίδια
+MSG_LV_SMALLICON=Μικρά εικονίδια
+MSG_LV_LIST=Λίστα
+MSG_PREVIEWSKIN=Προεπισκόπηση
+MSG_PREVIEWBUTTON=Κουμπί
+MSG_OVERWRITE=Θα θέλατε να αντικαταστήσετε το παλιό αρχείο;
+MSG_CAP_WARNING=Προσοχή
+MSG_CAP_ERROR=Σφάλμα
+MSG_CAP_INFORMATION=Πληροφορίες
+MSG_CAP_CONFIRM=Επιβεβαιώση
+MSG_CAP_SHOWFLAG=Να μην εμφανιστεί ξανά αυτό το μήνυμα
+CALC_CAP=Αριθμομηχανή
+ERROR=Σφάλμα
+COLORGRID_CAP=Βασικά χρώματα
+CUSTOMCOLORGRID_CAP=Προσαρμοσμένα χρώματα
+ADDCUSTOMCOLORBUTTON_CAP=Προσθήκη στα Προσαρμοσμένα Χρώματα
+FONTDLG_COLOR=Χρώμα:
+FONTDLG_NAME=Όνομα:
+FONTDLG_SIZE=Μέγεθος:
+FONTDLG_HEIGHT=Ύψος:
+FONTDLG_EXAMPLE=Παράδειγμα:
+FONTDLG_STYLE=Στύλ:
+FONTDLG_SCRIPT=Σενάριο εντολών
+DB_DELETE_QUESTION=Είστε σίγουροι για την διαγραφή της καταγραφής;
+DB_MULTIPLEDELETE_QUESTION=Να διαγραφούν όλες οι καταγραφές;
+NODISKINDRIVE=Δεν υπάρχει δίσκος στην μονάδα ή η μονάδα δεν είναι έτοιμη
+NOVALIDDRIVEID=Μη έγκυρη ταυτότητα μονάδας 
+FLV_NAME=Όνομα
+FLV_SIZE=Μέγεθος
+FLV_TYPE=Έιδος
+FLV_LOOKIN=Βλέπε:
+FLV_MODIFIED=Τροποποιήθηκε
+FLV_ATTRIBUTES=Χαρακτηριστικά
+FLV_DISKSIZE=Μέγεθος Δίσκου
+FLV_FREESPACE=Ελεύθερος χώρος
+PRNDLG_NAME=Όνομα:
+PRNDLG_PRINTER=Εκτυπωτής
+PRNDLG_PROPERTIES=Ιδιότητες...
+PRNDLG_TYPE=Είδος:
+PRNDLG_STATUS=Κατάσταση:
+PRNDLG_WHERE=Που:
+PRNDLG_COMMENT=Σχόλιο:
+PRNDLG_PRINTRANGE=Εύρος εκτύπωσης
+PRNDLG_COPIES=Αντίγραφα
+PRNDLG_NUMCOPIES=Πλήθος αντίγραφων:
+PRNDLG_COLLATE=Σύμπτυξη
+PRNDLG_ALL=Όλα
+PRNDLG_PAGES=Σελίδες
+PRNDLG_SELECTION=Επιλογή
+PRNDLG_PRINTTOFILE=Εκτύπωση σε αρχείο
+PRNDLG_FROM=Από:
+PRNDLG_TO=μέχρι:
+PRNDLG_ORIENTATION=Προσανατολισμός
+PRNDLG_PAPER=Χαρτί
+PRNDLG_PORTRAIT=Πορτραίτο
+PRNDLG_LANDSCAPE=Tοπίο
+PRNDLG_SOURCE=Πηγή:
+PRNDLG_SIZE=Μέγεθος:
+PRNDLG_MARGINS=Περιθώρια (χιλιοστά)
+PRNDLG_MARGINS_INCHES=Περιθώρια (ίντσες)
+PRNDLG_LEFT=Αριστερά:
+PRNDLG_RIGHT=Δεξιά:
+PRNDLG_TOP=Πάνω:
+PRNDLG_BOTTOM=Κάτω:
+PRNDLG_WARNING=Δεν υπάρχουν συνδεδεμένοι εκτυπωτές!
+FIND_NEXT=Αναζήτηση επόμενου
+FIND_WHAT=Αναζήτηση για:
+FIND_DIRECTION=Κατεύθυνση
+FIND_DIRECTIONUP=Πάνω
+FIND_DIRECTIONDOWN=Κάτω
+FIND_MATCH_CASE=Ταίριασμα πεζών/κεφαλαίων
+FIND_MATCH_WHOLE_WORD_ONLY=Μόνο ολόκληρες λέξεις
+FIND_REPLACE_WITH=Αντικατάσταση με:
+FIND_REPLACE=Αντικατάσταση
+FIND_REPLACE_All=Αντικατάσταση όλων
+FIND_REPLACE_CLOSE=Κλείσιμο
+MORECOLORS=Περισσότερα χρώματα...
+AUTOCOLOR=Αυτόματα
+CUSTOMCOLOR=Προσαρμογή...
+[Global-MessageBox-Information]
+Select=Πρέπει πρώτα να επιλέξετε ένα Tunngler.
+Controller=Ο ελεγκτής δικτύου είναι απενεργοποιημένος σε αυτή την έκδοση.
+EnterSearchText=Παρακαλώ εισάγετε κάτι για αναζήτηση.
+EnterSearchUser=Παρακαλώ εισάγετε κάτι για αναζήτηση.
+ContactDeny=Ο/η %s αρνήθηκε το αίτημα φιλίας.
+ContactAccept=Ο/η %s δέχτηκε το αίτημα φιλίας
+ConnectionLost=Η σύνδεση διακόπηκε.\r\nΚωδικός: %s
+ConnectionProblem=Πιθανά προβλήματα σύνδεσης.\r\nΟι ρυθμίσεις του δρομολογητή δικτύου NAT μπορεί να παρεμποδίζουν την λειτουργία Tunngle\r\nνα δημιουργήσει επιτυχημένες συνδέσεις P2P με άλλους χρήστες.\r\nΝα ανοιχθεί η σελίδα βοήθειας τώρα?  
+PortReachable=Η συγκεκριμένη πόρτα είναι ανοιχτή και δέχεται συνδέσεις.
+CreateNet=Αυτή η δυνατότητα δεν είναι ακόμη διαθέσιμη.\r\nΠαρακαλώ κάνετε τις προτάσεις σας στον τόπο συζητήσεως τις κοινότητας.\r\nΘέλετε να μεταβείτε στον τόπο συζητήσεως τώρα? 
+AdapterPrim=Η προτεραιότητα του προσαρμογέα δικτύου Tunngle δεν είναι σωστή. (0)\r\nΔεν θα βρείτε κανένα δίκτυο στον περιηγητή τοπικού δικτύου των παιχνιδιών σας.
+EnterNamePW=Παρακαλώ εισάγετε ένα όνομα χρήστη και κωδικό. 
+NewVersion=Η νέα έκδοση %s του Tunngle μόλις βγήκε και μπορείτε να την κατεβάσετε άμεσα.
+FriendNetwork=Ο/Η %s βρίσκεται στο δίκτυο "%s".\r\nΘέλετε να συνδεθείτε σ' αυτό το δίκτυο? 
+FriendNoNetwork=Ο/Η %s δεν βρίσκεται σ' αυτό το δίκτυο.
+Close=Το Tunngle τώρα θα κλείσει. 
+LSPBackup=Αντίγραφο ασφαλείας LSP δημιουργήθηκε επιτυχώς
+LSPOK=%d Διορθώθηκαν τα προβλήματα LSP
+LastTab=Δεν μπορεί να κλήσει η καρτέλα
+NetFull=Το δίκτυο είναι γεμάτο.
+TempNetDisabled=Η δημιουργία δικτύου είναι προς το παρόν μη διαθέσιμη. Προσπαθήστε ξανά αργότερα
+TempNetLimit=Δεν μπορεί να γίνει δημιουργία περισσότερων δικτύων αυτή την στιγμή. Προσπαθήστε ξανά αργότερα.
+TempNetMissing=Το επιλεγμένο δίκτυο δεν υπάρχει. Επιλέξτε ένα άλλο δίκτυο η δημιουργήστε ένα δικό σας.
+TempNetFull=Το επιλεγμένο δίκτυο είναι γεμάτο. Επιλέξτε ένα άλλο δίκτυο ή δημιουργήστε ένα δικό σας.
+[Global-MessageBox-Warning]
+PortUnreachable=Η συγκεκριμενή πόρτα δεν φαίνεται να είναι ανοιχτή.\r\nΣημείωμα: Αν το Tunngle δεν εμφανίζει προβλήματα, δεν πρέπει να σας ανησυχεί αυτό το μύνημα.
+UPnP=Δεν ήταν δυνατή η ρύθμιση μιας αυτόματοματοποιημένης προόθησης πόρτας με χρήση της UPnP. 
+ServerUnreachable=Δεν ήταν δυνατή η επικοινωνία με τον σέρβερ του Tunngle.\r\nΝα  εκκινηθεί το Tunngle παρ' όλα αυτά?
+Offline=Δεν ήταν δυνατή η σύνδεση.\r\nΟ επιλεγμένος χρήστης είναι εκτός σύνδεσης.
+ConnectionFail=Δεν ήταν δυνατή η σύνδεση.
+Messenger=Προσοχή!\r\nΕπειδή ο αποστολέας μηνυμάτων είναι ακόμη υπό κατασκευή,\r\nH μετάφραση δεν είναι ακόμη τελειοποιημένη.\r\nΘα διορθωθει στις επόμενες εκδόσεις του Tunngle.
+WriteRegistry=Η διαμόρφωση ρυθμίσεως δεν ήταν δυνατόν να αποθηκευτεί στο μητρώο.\r\n Παρακαλώ επικοινωνήστε με τον διαχειριστή του συστήματος.
+SelectLanguage=Παρακαλώ επιλέξτε πρώτα μια γλώσσα.
+SelectAdapter=Παρακαλώ επιλέξτε πρώτα έναν προσαρμογέα.
+[Global-MessageBox-Question]
+Contact=Θέλετε πραγματικά να προσθέσετε τον/τη %s στη λίστα των φίλων σας?
+Delete=Θέλετε πραγματικά να αφαιρέσετε τον/την %s από την μαύρη λίστα?
+ChangeNet=Θέλετε πραγματικά να αποσυνδεθείτε απο το δίκτυο "%s" για να συνδεθείτε με το δίκτυο '%s"?
+CloseChat=Θέλετε πραγματικά να κλείσετε το παράθυρο άμεσης επικοινωνίας του "%s"?
+CloseLobby=θέλετε πραγματικά να αποσυνδεθείτε απο το %s?
+CloseTab=θέλετε πραγματικά να κλείσετε την καρτέλα του "%s"?
+AddContact=Ο/Η %s σας πρόσθεσε στη φιλική του λίστα.\r\nΑποδέχεστε?
+Quit=Θέλετε πραγματικά να κλείσετε την εφαρμογή?
+DelFavorite=Θέλετε πραγματικά να διαγράψετε το %s
+NewVersion=Η νέα έκδοση %s του Tunngle μόλις βγήκε και μπορείτε να την κατεβάσετε άμεσα.
+Adapter=Ο παρακάτω αντάπτοραςTunngle βρέθηκε.\r\n%s\r\nΘέλετε να συνδέσετε τον αντάπτορα με το Tunngle;
+Language=Ανιχνεύσαμε ότι η γλώσσα του σύστήματός σας είναι συμβατή με το αρχείο "%s" γλώσσας. Θέλετε να την επιλέξετε τώρα;
+LanguageID=Η επιλεγμένη γλώσσα δεν είναι ίδια με την τρέχουσα επιλεγμένη γλώσσα του συστήματος σας. \r\nΣυνέχεια παρ' όλα αυτά ?
+LanguageCP=Η τρέχουσα κωδικοποίηση χαρακτήρων του συστήματος δεν ταιριάζει με αυτήν που απαιτείται για την επιλεγμένη γλώσσα.. \r\n\Μερικοί χαρακτήρες ίσως να μην απεικονίζονται σωστά. \r\n\Συνέχεια παρ' όλα αυτά ?
+[Global-MessageBox-Error]
+RunOnce=Μόνο μια διεργασία Tunngle μπορεί να τρέχει άμεσα. 
+NotInstalled=Το Tunngle δεν εγκαταστάθηκε σωστά.
+NoAdapter=Δεν μπορεί να βρεθεί ο προσαρμογέας δικτύου Tunngle!
+AccountVerify=Αποτυχία εισόδου.r\nΟ λογαριασμός δεν έχει επαληθευτεί
+AccountBann=Αποτυχία εισόδου.r\nΟ λογαριασμός έχει αποκλειστεί.
+ConnectionProblem=Σφάλμα σύνδεσης!\r\nΔεν είναι δυνατή η επίτευξη σύνδεσης UDP με τον σέρβερ.\r\nΤο τείχος προστασίας σας μπορεί να είναι η αιτία.\r\nΧρειάζεστε βοήθεια?
+NATProblem=Σφάλμα υπηρεσίας NAT!\r\nΗ υπηρεσία NAT του δρομολογητή (router) σας εμποδίζει το Tunngle να δουλέψει σωστά.\r\nΧρειάζεται να ρυθμίσετε την προόθηση θύρων (port forwarding).\r\nΘέλετε βοήθεια για τη διαδικασία αυτή?  
+ConnectionProblemInfo=Σφάλμα σύνδεσης!\r\nΔεν είναι δυνατή η επίτευξη σύνδεσης UDP με τον σέρβερ.\r\nΤο Firewall σας μπορεί να ευθύνεται.\r\nΧρειάζεστε βοήθεια ?
+MasterServer=Δεν μπορέσατε να συνδεθείτε με τον κεντρικό server του Tunngle.
+Version=Ο client σας είναι ανενημέρωτος.\r\nΕνημέρωση τώρα;
+Safe=Η σύνδεσή σας δεν είναι ασφαλής.
+AuthFail=Είσοδος απέτυχε.\r\nΠαρακαλώ ελέγξτε το όνομα χρήστη και τον κωδικό σας.\r\n(Μην μπερδεύτετε τον κωδικό χρήστη με τον κωδικό λογαριασμού!)\r\nΧρειάζεστε βοήθεια;
+ServiceFound=Δεν μπορέσε να βρεθεί η υπηρεσία Tunngle!
+ServiceContact=Δεν μπορέσατε να συνδεθείτε με την υπηρεσία Tunngle!
+PortFail=Η επιλεγμένη θύρα δεν είναι έγκυρη για διαβίβαση. Παρακαλώ εισάγετε άλλη θύρα!
+LSPRedo=Αποτυχία επαναφοράς.
+[Global-Text-Dynamic]
+Loading=Φορτώνει %s...
+LastAct=Τελευταία Ενημέρωση: %s
+Lobby=Αίθουσα αναμονής (%d)
+ChatJoined=<%s "%s" έχει ενταχθεί στην κουβέντα.>
+NetJoined=<%s "%s" έχει ενταχθεί στο δίκτυο.>
+LobbyJoined=<%s "%s" έχει ενταχθεί στην αίθουσα αναμονής.>
+ChatLeft=<%s "%s" έφυγε από την κουβέντα.>
+NetLeft=<%s "%s" έφυγε από το δίκτυο.>
+LobbyLeft=<%s "%s" έφυγε από την αίθουσα αναμονής.>
+ConnectionDeny1=Δεν μπορέσατε να συνδεθείτε στον %s επειδή είσαστε στην μαύρη λίστα του/της.
+ConnectionDeny2=* Δεν μπορέσατε να συνδεθείτε στον %s επειδή βρίσκεται στην μαύρη λίστα σας. *
+ConnectionLost=[ %s Χάθηκε η σύνδεση στον Tunngle server! ]
+VirtualIP=Εικονική IP: %s
+LoginNick=Συνδεδεμένος ως: %s
+Version=Έκδοση: %s
+Connecting=Γίνεται σύνδεση %s
+ChatMe=Εγώ: %s
+ChatDeny=* Αποτυχία λήψεως μηνύματος από %s επειδή βρίσκεται στη μαύρη λίστα συνομιλιών σας *
+Ports=Θύρα %s
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle Νέα
+CaptionStart=Εκκινηση Tunngle
+CaptionStartPage=Εκκίνηση Tunngle
+CaptionQuickstart=Γρήγορη Εκκίνηση
+CaptionSupport=Υποστήριξη
+CaptionBetainfo=Περί Beta
+CaptionTunnglefaq=Συχνές Ερωτήσεις Tunngle
+CaptionDownloadarea=Περιοχή Κατεβάσματος
+CaptionResults=Αποτελέσματα...
+CaptionChat=Φιλική Συζήτηση
+CaptionLobby=Αίθουσα αναμονής
+CaptionNetwork=Δίκτυο
+CaptionForum=Φόρουμ
+CaptionTunngleskins=Εμφανίσεις Tunngle
+CaptionSearch=Αναζήτηση
+CaptionBrowser=Περιηγητής
+CaptionSkinconfig=Επιλογές Εμφάνισης
+CaptionSoundconfig=Ήχοι
+CaptionPrivacylists=Μαύρη λίστα
+CaptionConfiguration=Επιλογές
+CaptionFavorite=Σελιδοδείκτες
+CaptionSubBrowser=Δίκτυα
+SplashPleaseWait=Παρακαλώ περιμένετε...
+SplashLoaddata=Φόρτωση δεδομένων...
+SplashReset=επανεκκίνηση...
+SplashConfig=Ρύθμιση...
+SplashLoading=Φόρτωση...
+SplashConnecting=Σύνδεση...
+SplashVersion=Έλεγχος έκδοσης...
+SplashSafe=Ασφαλίζει την σύνδεση...
+SplashUPnP=Απόπειρα UPnP προώθηση θύρας...
+SplashAuth=Επικυρώνει...
+SplashAdatperset=Σύνθεση προσαρμογέα...
+SplashAdapterinit=Αρχικοποίηση προσαρμογέα
+SplashAdapterstart=Εκκίνηση προσαρμογέα...
+SplashAdapterchkprim=Έλεγχος προτεραιότητας προσαρμογέα...
+SplashAdapterchkbc=Έλεγχος εκπομπής προσαρμογέα...
+SplashAdapterchkstop=Έλεγχος στάσης προσαρμογέα...
+SplashFinalize=Οριστικοποίηση...
+SplashServiceinit=Αρχικοποίηση υπηρεσίας Tunngle...
+SplashServicecontact=Επικοινωνώντας με την υπηρεσία Tunngle...
+SplashServercontact=Επικοινωνώντας με τον server του Tunngle...
+SplashConfigurate=Ρύθμιση Tunngle...
+SplashWinSock2=Έλεγχος ρυθμίσεων δικτύου
+SplashNetzone=Έλεγχος τοποθεσίας δικτύου
+SearchInWork=Αναζήτηση σε εξέλιξη...
+Lobby=Αίθουσα αναμονής
+NetLeft=Εγκατέλειψε το δίκτυο
+NoIP=Εικονική διεύθυνση IP: -
+ChatJoined=Επιτυχής σύνδεση στο Chat.
+NetJoined=Επιτυχής σύνδεση στο Δίκτυο.
+LobbyJoined=Επιτυχής σύνδεση στο Lobby.
+FoundNothing=Κανένα αποτέλεσμα!
+NetChangeEnd=Αλλαγή δικτύου επιτιχής. Παρακαλώ περιμένετε....
+NotLoggedIn=Δεν είστε συνδεδεμένος.
+EnterNamePW=Παρακαλώ εισάγεται ένα όνομα χρήστη και ενα κωδικό.
+MessageSendFail=* Αποτυχία αποστολής μυνήματος. *
+MessageSendFlood=* Στέλνετε μηνύματα πολύ γρήγορα. Παρακαλώ κάντε chat πιό αργά
+TypeTunngleTeam=Ομάδα Tunngle
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Κοινότητα
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Έυρεση δικτύων και φίλων
+SpeedButtonCommunity2=Προς την τελευταία ενεργή καρτέλα
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Σελίδα Εκκίνησης
+ButtonQABetaInfo=Πληροφορίες Beta
+ButtonQAForum=Φόρουμ
+ButtonQAFavorites=Αγαπημένα
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Εξερευνητής Δικτύου
+ExPanelFindnetwork=Αναζήτηση Δικτύου
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Αναζήτηση
+MenuItemNetFavorite=Σελιδιδείκτες
+MenuItemNetCreate=Δημιουργία
+MenuItemTunnglelobby=Αίθουσα αναμονής Tunngle
+MenuItemEventplaner=Οργανωτής Συμβάντων
+MenuItemSounds=Ήχοι
+MenuItemSkins2=Εμφανίσεις
+MenuItemPrivacylists=Μαύρη Λίστα
+MenuItemConfiguration=Επιλογές
+MenuItemAbout=Περί Tunngle
+MenuItemTrayOpen=’νοιγμα
+MenuItemTrayClose=Κλείσιμο
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Ανακοίνωση
+MenuItemAddContact=Προσθήκη στην λίστα φίλων
+MenuItemAddBlacklist=Προσθήκη στην Μαύρη Λίστα
+MenuItemEditBlacklist=Επεξεργασία Μαύρης Λίστας
+MenuItemSortNicks=Ταξινόμηση ανα nickname
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Στείλε
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Κουβέντα:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Πίσω
+ButtonForward=Μπροστά >>
+ButtonActualize=Ανανέωση
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Όνομα
+ListViewNet-1=Σε σύδεση
+ListViewNet-2=Είδος
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Προσθήκη στους σελιδοδείκτες
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Ανανέωση
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Όνομα
+ListViewNet-1=Σε σύνδεση
+ListViewNet-2=Είδος
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Προσθήκη στα αγαπημένα
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Πίσω
+ButtonForward=Μπροστά >>
+ButtonActualize=Ανανέωση
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Όνομα
+ListViewNet-1=Σε σύνδεση
+ListViewNet-2=Είδος
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Διαγραφή σελιδοδείκτη
+MenuItemSortFavorite=Ταξινόμηση σελιδοδεκτών
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Ανανέωση
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Όνομα
+ListViewNet-1=Online
+ListViewNet-2=Είδος
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Διαγραφή αγαπημένου
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Παρακολούθηση εκπομπών από όλες τις διασυνδέσεις
+CheckRadioBoxPort=Προωθημένη θύρα
+CheckRadioBoxUPnP=Χρησιμοποίησε UPnP πρωτόκολλο
+CheckRadioBoxTCActive=Ενεργοποιημένο
+CheckRadioBoxSignature=Υπογραφή Web
+CheckRadioBoxLog=Καταγραφή δυκτίου
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Σημείωση!\r\nΚανονικά απενεργοποιημένο
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=Εντάξει
+ButtonAccept=Εφαρμογή
+ButtonCancel=Ακύρωση
+ButtonTest=Δοκιμή
+ButtonDefault=Προκαθορισμένες Ρυθμίσεις
+ButtonWizard=Οδηγός
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Διεπαφή
+GroupBoxNetconfig=Δίκτυο
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=Ελεγκτής κυκλοφορίας
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Γλώσσα
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Προσοχή! Πρέπει να γίνει επανεκκίνηση του Tunngle για να εφαρμοστούν οι νέες ρυθμίσεις!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Αναζήτηση Tunngle
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Απόκρυψη πλήρων δικτύων.
+CheckRadioBoxEmpty=Απόκρυψη άδειων δικτύων.
+CheckRadioBoxPassword=Απόκρυψη προστατευμένων δικτύων με κωδικό. 
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Φίλτρα Αναζήτησης.
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Φίλτρα Αναζήτησης >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Πίσω
+ButtonForward=Επόμενο >>
+ButtonActualize=Ανανέωση
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Όνομα
+ListViewResults-1=Χρήστης
+ListViewResults-2=Είδος
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Προσθήκη στους σελιδοδέκτες
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Ειδοποίησεις
+MenuItemAddBlacklist=Προσθήκη στη μαύρη λίστα
+MenuItemEditBlacklist=Τροποποίηση μαύρης λίστας
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Αποστολή
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=Εντάξει
+ButtonAccept=Εφαρμογή
+ButtonCancel=’κυρο
+ButtonFind=Αναζήτηση
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Ψευδώνυμο
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Αναζήτηση
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Παγκόσμια μαύρη λίστα
+StdLabelChatmessages=Μαύρη λίστα άμεση συνομιλίας
+StdLabelName=Όνομα
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Αφαίρεση
+MenuItemDeleteChat=Αφαίρεση
+MenuItemAddBlacklist=Προσθήκη στη μαύρη λίστα
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=Εντάξει
+ButtonAccept=Εφαρμογή
+ButtonCancel=’κυρο
+ButtonDownload=Κατεβάστε περισσότερες εμφανίσεις
+ButtonDefault=Προεπιλεγμένη εμφάνιση του Tunngle
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Προεπισκόπηση
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Τίτλος
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Πεδίο κειμένου
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Πεδίο εισαγωγής
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Κουτί επιλογής
+CheckRadioBox2=Κουτί επιλογής
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=Εντάξει
+ButtonAccept=Εφαρμογή
+ButtonCancel=’κυρο
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Ενεργοποίηση ήχων
+CheckRadioBoxStart=Εκκίνηση
+CheckRadioBoxLogin=Είσοδος
+CheckRadioBoxLeave=Ένας Tunngler βγαίνει απο το δίκτυο
+CheckRadioBoxJoin=Ένας Tunngler εισέρχεται στο δίκτυο
+CheckRadioBoxReceive=Μήνυμα ελήφθη
+CheckRadioBoxQuit=Απενεργοποίηση
+CheckRadioBoxSend=Μήνυμα εστάλη
+CheckRadioBoxKey=Πλήκτρο chat box πιέστε
+CheckRadioBoxDirectopen=Καινούριο παράθυρο άμεσης συνομιλίας
+CheckRadioBoxDirectmessage=Μήνυμα άμεση συνομιλίας ελήφθη
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Περιηγητής
+ButtonFavorite=Αγαπημένα
+ButtonQuicklaunch=Γρήγορη εκκίνηση
+ButtonBetainfo=Πληροφορίες για την Beta έκδοση
+ButtonForum=Φόρουμ
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Προηγούμενο
+StatusPanelForward=Επόμενο
+StatusPanelReload=Ανανέωση
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelReload=Ανανέωση
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Ειδοποιήσεις
+MenuItemAddContact=Προσθήκη στη λίστα φίλων
+MenuItemAddBlacklist=Προσθήκη στη μάυρη λίστα
+MenuItemEditBlacklist=Επεξεργασία μαύρης λίστας
+MenuItemCopyIP=Αντιγραφή διεύθυνσης (IP) στο πρόχειρο
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Αποστολή
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Κλείσιμο
+[FormAbout-Infos]
+Caption=Περί Tunngle
+[FormLogin-Infos]
+Caption=Είσοδος
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Είσοδος
+ButtonCancel=’κυρο
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Όνομα χρήστη:
+LabelPassword=Κωδικός:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Να με θυμάσαι
+CheckRadioBoxAuto=Αυτόματη είσοδος
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Δημιουργήστε έναν δωρεάν λογαριασμό Tunngle
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Ακύρο
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Αποστολή
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Ομιλία:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Προσθήκη ομάδας
+MenuItemContactAdd=Προσθήκη επαφής
+MenuItemContactHideOffline2=Απόκρυψη "Εκτός δικτύου"
+MenuItemRights=Δικαιώματα
+MenuItemContactInfo=Πληροφορίες επαφής
+MenuItemContactAlert=Προειδοποίηση επαφής
+MenuItemContactNote=Σημείωμα επαφής
+MenuItemContactRename=Μετονομασία επαφής
+MenuItemContactDelete=Διαγραφή επαφής
+MenuItemMoveToGroup=Μετακίνηση σε ομάδα
+MenuItemContactHideOffline3=Απόκρυψη εκτός σύνδεσης
+MenuItemMessage=’μεση επικοινωνία
+MenuItemRights2=Δικαιώματα
+MenuItemGroupRename=Μετονομασία ομάδας
+MenuItemGroupDelete=Δαιγραφή ομάδας
+MenuItemGroupExpandCollapse=Ανάπτυξη/Σύμπτυξη ομάδας
+MenuItemContactHideOffline=Απόκρυψη εκτός σύνδεσης
+MenuItemMain=&Μενού
+MenuItemAddContact=Προσθήκη επαφής
+MenuItemInNetwork=Πληροφορίες Δικτύου
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=΄Ακυρο
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Αρχείο
+ListViewLanguage-1=Γλώσσα
+ListViewLanguage-2=Συντάκτης
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Συνέχεια
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Παρακαλώ διαλέξτε μια γλώσσα για το Tunngle.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Όνομα
+ListViewAdapter-1=IP
+ListViewAdapter-2=Όνομα συσκευής
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Συνέχεια
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Παρακαλώ διαλέξτε μια γλώσσα για το Tunngle.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=ΟΚ
+ButtonCancel=Ακύρωση
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxComplete=Πλήρης αποκλεισμός
+CheckRadioBoxHours=Ώρες
+CheckRadioBoxDate=Μέχρι
+CheckRadioBoxInfinite=Δια παντός
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=ΟΚ
+ButtonCancel=Ακύρωση
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Εισαγωγή κωδικού:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Ειδοποιήσεις
+MenuItemAddContact=Προσθήκη στη λίστα φίλων
+MenuItemCopyIP=Αντιγραφή της IP στο παρασκήνιο
+MenuItemSortNicks=Ταξινόμησε παρατσούκλια
+MenuItemSortIPs=Ταξινόμησε κατα Ping
+MenuItemConfig=Ρυθμήσεις
+MenuItemShowProfile=Προβολή προφίλ
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Αποστολή
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Συζήτηση
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Μήνυμα υποδοχής
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Διαχείρηση προσωπικού δικτύου
+GroupBoxJoin=Συνδέσου σε ενα υπάρχον δίκτυο
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkNameT=Ονομα Δικτύου:
+LabelNetworkPasswordT=Κωδικός Δικτύου:
+LabelNetworkSize=Μέγεθος Δικτύου:
+LabelNetworkNameB=Ονομα Δικτύου:
+LabelNetworkPasswordB=Κωδικός Δικτύου:
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Δημηούρησε - Ενημέρωσε
+ButtonJoin=Σύνδεση
+ButtonJoinOwn=Σύνδεση στο επόμενο
+ButtonNetworkList=Λίστα Δικτύου
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Προσομοιωτής Δικτύου
+UrlLabelInterlink=Σέρβερ Διασύνδεσης
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Βασικό Δίκτυο
+CheckRadioBoxNetPremium=Ιδιοτικό Δίκτυο
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Ειδοποιήσεις
+MenuItemAddContact=Προσθήκη στη λίστα φίλων
+MenuItemCopyIP=Αντιγραφή ΙΡ στο παρασκήνιο
+MenuItemSortNicks=Ταξινόμησε παρατσούκλια
+MenuItemSortIPs=Ταξινόμησε ping
+MenuItemConfig=Ρυθμήσεις
+MenuItemShowProfile=Προβολή προφίλ
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Αποστολή
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Συζήτηση:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Μην εμφανηστεί ξανά

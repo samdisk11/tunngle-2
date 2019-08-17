@@ -1,0 +1,603 @@
+
+[Header]
+Author=JohnBlack666 (Community)
+Date=2014.12.19
+Language=Romanian
+CharSet=DEFAULT_CHARSET
+PrimLangID=24
+CodePage=1250
+[Global-Ressource]
+MI_MINCAPTION=Mi&nimizeaza
+MI_MAXCAPTION=Ma&ximizeaza
+MI_CLOSECAPTION=Inchide
+MI_RESTORECAPTION=&Restaurare
+MI_MINTOTRAYCAPTION=Minimizeaza la &tray
+MI_ROLLUPCAPTION=Ru&leaza in sus
+MINBUTTON_HINT=Minimizeaza
+MAXBUTTON_HINT=Maximizeaza
+CLOSEBUTTON_HINT=Inchide
+TRAYBUTTON_HINT=Minimizeaza la tray
+ROLLUPBUTTON_HINT=Ruleaza in sus
+MENUBUTTON_HINT=Meniu de sistem
+RESTORE_HINT=Restaureaza
+EDIT_UNDO=Anuleaza
+EDIT_COPY=Copiaza
+EDIT_CUT=Taie
+EDIT_PASTE=Lipeste
+EDIT_DELETE=Sterge
+EDIT_SELECTALL=Selecteaza tot
+MSG_BTN_YES=&Da
+MSG_BTN_NO=&Nu
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Sterge
+MSG_BTN_ABORT=&Abandoneaza
+MSG_BTN_RETRY=&Reincearca
+MSG_BTN_IGNORE=&Ignora
+MSG_BTN_ALL=&Tot
+MSG_BTN_NOTOALL=N&uLaToate
+MSG_BTN_YESTOALL=&DaLaToate
+MSG_BTN_HELP=&Ajutor
+MSG_BTN_OPEN=&Deschide
+MSG_BTN_SAVE=&Salveaza
+MSG_BTN_CLOSE=Inchide
+MSG_BTN_BACK_HINT=Dute la ultimul folder vizitat
+MSG_BTN_UP_HINT=Urca un nivel
+MSG_BTN_NEWFOLDER_HINT=Creaza un nou folder
+MSG_BTN_VIEWMENU_HINT=Vizualizeaza meniul
+MSG_BTN_STRETCH_HINT=Mareste imaginea
+MSG_FILENAME=Numele fisierului:
+MSG_FILETYPE=Tipul fisierului:
+MSG_NEWFOLDER=Fisier nou
+MSG_LV_DETAILS=Detalii
+MSG_LV_ICON=Pictograma mare
+MSG_LV_SMALLICON=Pictograma mica
+MSG_LV_LIST=Lista
+MSG_PREVIEWSKIN=Previzualizare
+MSG_PREVIEWBUTTON=Buton
+MSG_OVERWRITE=Vreti sa suprascrieti fisierul vechi?
+MSG_CAP_WARNING=Avertisment
+MSG_CAP_ERROR=Eroare
+MSG_CAP_INFORMATION=Informatie
+MSG_CAP_CONFIRM=Confirma
+MSG_CAP_SHOWFLAG=Nu imi mai arata acest mesaj din nou
+CALC_CAP=Calculator
+ERROR=Eroare
+COLORGRID_CAP=Culori de baza
+CUSTOMCOLORGRID_CAP=Culori personale
+ADDCUSTOMCOLORBUTTON_CAP=Adauga culorilor personale
+FONTDLG_COLOR=Culoare:
+FONTDLG_NAME=Nume:
+FONTDLG_SIZE=Marime:
+FONTDLG_HEIGHT=Inaltime:
+FONTDLG_EXAMPLE=Exemplu:
+FONTDLG_STYLE=Stil:
+FONTDLG_SCRIPT=Script:
+DB_DELETE_QUESTION=Sunteti sigur ca vreti sa stergeti aceasta inregistrare?
+DB_MULTIPLEDELETE_QUESTION=Vreti sa stergeti toate inregistrarile?
+NODISKINDRIVE=Nu este nici un disc in drive sau driver-ul nu l-a incarcat
+NOVALIDDRIVEID=ID-ul driverului nu este valid
+FLV_NAME=Nume
+FLV_SIZE=Marime
+FLV_TYPE=Tip
+FLV_LOOKIN=Uita-te in:
+FLV_MODIFIED=Modificat
+FLV_ATTRIBUTES=Atribute
+FLV_DISKSIZE=Spatiul total pe disc
+FLV_FREESPACE=Spatiu liber pe disc
+PRNDLG_NAME=Nume:
+PRNDLG_PRINTER=Imprimanta
+PRNDLG_PROPERTIES=Proprietati...
+PRNDLG_TYPE=Tip:
+PRNDLG_STATUS=Status:
+PRNDLG_WHERE=Unde:
+PRNDLG_COMMENT=Comentariu:
+PRNDLG_PRINTRANGE=Raza de imprimare
+PRNDLG_COPIES=Copii
+PRNDLG_NUMCOPIES=Numar de copii:
+PRNDLG_COLLATE=Alatura
+PRNDLG_ALL=Tot
+PRNDLG_PAGES=Pagini
+PRNDLG_SELECTION=Selectie
+PRNDLG_PRINTTOFILE=Imprima pe fisier
+PRNDLG_FROM=de la:
+PRNDLG_TO=la:
+PRNDLG_ORIENTATION=Orientare
+PRNDLG_PAPER=Hartie
+PRNDLG_PORTRAIT=Portret
+PRNDLG_LANDSCAPE=Peisaj
+PRNDLG_SOURCE=Sursa:
+PRNDLG_SIZE=Marime:
+PRNDLG_MARGINS=Margini (milimetri)
+PRNDLG_MARGINS_INCHES=Margini (inchi)
+PRNDLG_LEFT=Stanga:
+[Global-MessageBox-Information]
+Select=Mai intai trebuie sa selectati un tunngler.
+Controller=Controlorul de trafic este dezactivat in aceasta versiune.
+EnterSearchText=Va rog scrieti ceva de cautat.
+EnterSearchUser=Va rog scrieti ceva de cautat.
+ContactDeny=%s a refuzat cererea voastra de prietenie.
+ContactAccept=%s a fost de acord cu cererea voastra de prietenie.
+ConnectionLost=Conexiunea a fost pierduta.\r\nCode %s
+ConnectionProblem=Posibile probleme de conexiune.\r\nConfiguratia voastra NAT a routerului ar putea intra in conflict cu abilitatile Tunnglelului\r\nto stabilire conexiune P2P cu ceilalti useri.\r\nVreti sa deschideti pagina ajutatoare acum?
+PortReachable=Portul selectat e deschis si accepta conexiuni.
+CreateNet=Aceasta functie nu este inca valabila.\r\nVa rugam sa postati sugestiile voastre pe forum.\r\nAti vrea sa deschideti pagina forumului acum?
+AdapterPrim=Adaptorul de retea Tunggle nu este corect priorizat. (0)\r\nNu veti gasi nici un server in browserul LAN al jocurilor.
+EnterNamePW=Va rog introduceti numele si parola.
+NewVersion=O noua versiune %s de Tunngle a fost lansata si poate fi descarcata
+FriendNetwork=%s este in reteaua ,,%s'' . \r\ Vrei sa intri in aceasta retea ?
+FriendNoNetwork=%s nu este intr-o retea
+Close=Tunngle v-a iesi acum
+LSPBackup=Backup-ul LSP a fost creeat cu succes. \r\n%s
+LSPOK=%d Problemele LSP reparate
+LastTab=Nu se poate inchide ultimul TAB
+NetFull=Reteaua e plina
+TempNetInfo=Retele goale vor fi sterse automat
+TempNetDisabled=Creearea de retele e temporar oprita. Incercati mai tarziu.
+[Global-MessageBox-Warning]
+PortUnreachable=Portul selectat nu pare a fi deschis.\r\nNotati: Daca Tunngle functioneaza regular, N-ar trebui sa va faceti griji pentru asta.
+UPnP=Nu s-a putut seta un port forward automat folosind UPnP.
+ServerUnreachable=Nu s-a putut contacta serverul Tunngle.\r\nVreti sa il pornim oricum?
+Offline=Nu s-a putut stabili conexiunea.\r\nContactul selectat e offline.
+ConnectionFail=Nu s-a putut stabili conexiunea.
+Messenger=Avertisment!\r\nCum messengerul e inca in constructie,\r\ntranslarea ferestrelor sale e nu s-a terminat inca.\r\nAceasta problema va fi rezolvata in noua versiune de Tunngle.
+WriteRegistry=Configuratia nu a putut fi salvata in registry. \r\nVa rugam sa contactati un administrator
+SelectLanguage=Va rugam sa selectati o limba mai intii
+SelectAdapter=VA rugam sa selectati un adaptor prima data
+[Global-MessageBox-Question]
+Contact=Vreti sa-l adaugati pe %s in lista voastra?
+Delete=Vreti sa il stergeti pe %s din lista voastra neagra?
+ChangeNet=Vreti s parasiti reteaua "%s" pentru a intra in reteaua "%s"?
+CloseChat=Vreti sa inchideti chatul "%s"?
+CloseLobby=Vreti sa parasiti %s?
+CloseTab=Vreti sa inchideti tabul "%s"?
+AddContact=%s va adaugat in lista lui/ei de prieteni.\r\nVreti sa acceptati cererea?
+Quit=Chiar vreti sa iesiti?
+DelFavorite=Chiar doriti stergerea %s?
+NewVersion=O noua versiune %s Tunngle a aparut.\r\nDoriti
+[Global-MessageBox-Error]
+RunOnce=Doar o singura cerere de deschidere a Tunnglelului poate fi trimisa intr-un anumit moment.
+NotInstalled=Tunngle nu a fost corect instalat.
+NoAdapter=Nu s-a putut gasi adaptorul de retea Tunngle!
+AccountVerify=Login esuat.\r\Contul vostru nu a fost confirmat.
+AccountBann=Login esuat.\r\nContul vostru a primit bann.
+ConnectionProblem=Eroare de conexiune!\r\nNu s-a putut stabili o conexiune UDP cu serverul.\r\nS-ar putea ca firewallul sa fie cauza.\r\n Aveti nevoie de ajutor?
+NATProblem=Eroare NAT!\r\nConfiguratia voastra NAT impiedica Tunngle sa functioneze corect.\r\nTrebuie setat port forwardingul.\r\n Aveti nevoie de ajutor?
+ConnectionProblemInfo=Eroare de conexiune!\r\nNu s-a putut stabili p conexiune UDP cu serverul.\r\nS-ar putea ca firewallul sa fie cauza.\r\n Aveti nevoie de ajutor?
+MasterServer=Nu s-a putut conecta la serverul principal Tunngle.
+Version=A aparut o versiune mai noua.\r\nUpdatati acum?
+Safe=Conexiunea voastra nu poate fi securizata.
+AuthFail=Login esuat.\r\nVa rog sa verificati numele si parola.\r\n(Va rog nu confundati parola userului cu parola contului)\r\nAveti nevoie de ajutor?
+AdapterInit=Nu s-a putut initializa adaptorul de retea Tunngle!
+UDPSocket=Eroare socket UDP!\r\nNu s-a putut crea un socket UDP.\r\nS-ar putea ca firewallul sa fie cauza.\r\n Aveti nevoie de ajutor?
+AdapterPrim1=Adaptorul de retea Tunngle nu e corect priorizat. (1)\r\nNu veti gasi nici un server in browserul LAN al jocului.\r\n Aveti nevoie de ajutor?
+AdapterPrim2=Adaptorul de retea Tunngle nu e corect priorizat. (2)\r\nNu veti gasi nici un server in browserul LAN al jocului.\r\n Aveti nevoie de ajutor?
+ServiceFound=Nu s-a putut gasi serviciul Tunngle!
+ServiceContact=Nu s-a putut comunica cu Tunngle!
+CryptFail=Nu s-a putut incarca libraria criptografica
+LSPRedo=Restaurare esuata
+ConfigAdapter=Nu s-a putut configura adaptorul Tunngle
+WrongPassword=Parola gresita.
+GUIVersionMismatch=Instalatia curenta de Tunngle pare a fi corupta
+[Global-Text-Dynamic]
+Loading=Se incarca %s...
+FromTo=%d la %d de %d
+LastAct=Ultimul update %s
+Lobby=Lobby (%d)
+ChatJoined=<%s "%s" s-a alaturat chatului
+NetJoined=<%s "%s" s-a alaturat retelei.>
+LobbyJoined=<%s "%s" a intrat in Lobby.>
+ChatLeft=<%s "%s" a parasit chatul.>
+NetLeft=<%s "%s" a parasit reteaua.>
+LobbyLeft=<%s "%s" a iesit din Lobby.>
+ConnectionDeny1=*Nu s-a putut conecta cu %s deoarece sunteti pe lista sa neagra.
+ConnectionDeny2=*Nu s-a putut conecta cu %s pentru ca se afla pe lista voastra neagra.
+ConnectionLost=[ %s Conexiunea cu serverul Tunngle a fost pierduta! ]
+VirtualIP=IP virtual: %s
+LoginNick=Loggat ca: %s
+Version=Versiune: %s
+Connecting=Se conecteaza %s
+ChatMe=Eu: %s
+ChatDeny=Nu s-au putut primi mesaje din partea %s pentru ca se afla pe lista de ignorare.
+[Global-Text-Static]
+CaptionTunnglenews=Noutati Tunngle
+CaptionStart=Tunngle Start
+CaptionStartPage=Tunngle Start
+CaptionQuickstart=Start rapid
+CaptionSupport=Suport
+CaptionBetainfo=Informatii despre BETA
+CaptionTunnglefaq=FAQ Tunngle
+CaptionDownloadarea=Zona de download
+CaptionResults=Rezultatele...
+CaptionChat=Chat
+CaptionLobby=Lobby
+CaptionNetwork=Retea
+CaptionTunngleforum=Forum Tunngle
+CaptionEventplaner=Calendar evenimente
+CaptionForumfaq=FAQ Forum
+CaptionForum=Forum
+CaptionTunngleskins=Teme Tunngle
+CaptionSearch=Cautare
+CaptionBrowser=Browser
+CaptionSkinconfig=Optiuni teme
+CaptionSoundconfig=Sunete
+CaptionPrivacylists=Lista neagra
+CaptionConfiguration=Optiuni
+CaptionFavorite=Favorite
+CaptionSubBrowser=Retele
+CaptionCreateNet=Retele private
+SplashPleaseWait=Va rugam asteptati...
+SplashLoaddata=Se incarca datele...
+SplashReset=Se reseteaza...
+SplashConfig=Configurez
+SplashLoading=Se incarca...
+SplashConnecting=Se conecteaza...
+SplashVersion=Se verifica versiunea...
+SplashSafe=Fixez conexiunea...
+SplashUPnP=Se incearca port forwarding UPnP...
+SplashAuth=Autentificare...
+SplashAdatperset=Setez adaptorul...
+SplashAdapterinit=Initializez adaptorul...
+SplashAdapterstart=Pornesc adaptorul...
+SplashAdapterchkprim=Verific prioritatea adaptorului...
+SplashAdapterchkbc=Verific transmisia adaptorului...
+SplashAdapterchkstop=Verific oprirea adaptorului...
+SplashFinalize=Finalizez...
+SplashServiceinit=Initializez serviciul Tunngle...
+SplashServicecontact=Contactez serviciul Tunngle...
+SplashServercontact=Contactez serviciul Tunngle...
+SplashConfigurate=Configurez Tunngle
+SplashWinSock2=Verific configuratia retelei
+SplashNetzone=Se verifica locatia retelei...
+SearchInWork=Cautare in desfasurare...
+Lobby=Lobby
+NetLeft=A parasit conexiunea
+NoIP=IP virtual: -
+ChatJoined=S-a intrat in chat.
+NetJoined=S-a intrat pe retea.
+LobbyJoined=S-a intrat pe Lobby
+FoundNothing=Nici un rezultat!
+NetChangeBegin=Incerc sa schimb reteaua. Va rog asteptati...
+NetChangeEnd=Reteaua s-a schimbat cu succes. Va rog asteptati...
+NotLoggedIn=Nu sunteti autentificat.
+EnterNamePW=Va rog introduceti numele si parola
+MessageSendFail=* Nu s-a putut trimite mesajul. *
+MessageSendFlood=Trimiti mesaje prea repede. Te rog mai incet.
+LaunchParameter=Parametrii liniei de comanda
+TypeStandard=Tunngler
+TypeInterlink=Server Interlink
+TypeTunngleTeam=Echipa Tunngle
+TypeEnthusiast=Entuziast Tunngle
+SplashExecuteJoin=Va rugam asteptati...
+StopAdapter=Se deconecteaza adaptorul Tunngle
+StartAdapter=Se conecteaza adaptorul Tunngle (s-ar putea sa dureze ceva)
+StartAdapterFail=Eroare: Nu sa putut conecta Adaptorul Tunngle
+Interlink=GameServer:Port
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Comunitate
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Gaseste retele si prieteni
+SpeedButtonCommunity2=La ultimul tab activ
+SpeedButtonMessenger=Messenger
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Pagina de start
+ButtonQABetaInfo=Beta Info
+ButtonQAForum=Forum
+ButtonQAEventPlanner=Calendar evenimente
+ButtonQALobby=Tunngle Lobby
+ButtonQAFavorites=Favorite
+ButtonQACreateNetwork=Retele private
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Explorare retea
+ExPanelFindnetwork=Cautare retea
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Cautare
+MenuItemNetFavorite=Favorite
+MenuItemNetCreate=Creare
+MenuItemNetCreateOwn=Retele private
+MenuItemTunnglelobby=Lobbyul Tunngle
+MenuItemEventplaner=Calendar evenimente
+MenuItemSounds=Sunete
+MenuItemSkins2=Skinuri
+MenuItemPrivacylists=Lista neagra
+MenuItemConfiguration=Optiuni
+MenuItemAbout=Despre Tunngle
+MenuItemTrayOpen=Deschide
+MenuItemTrayClose=Inchide
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Notificari
+MenuItemAddContact=Adauga la lista de prieteni
+MenuItemAddBlacklist=Adauga la lista neagra
+MenuItemEditBlacklist=Editeaza lista neagra
+MenuItemSortNicks=Sorteaza nickname-urile
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Trimite
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Inapoi
+ButtonForward=Inainte >>
+ButtonActualize=Refresh
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nume
+ListViewNet-1=Online
+ListViewNet-2=Gen
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Adauga la favorite
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Reincarcare
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nume
+ListViewNet-1=Online
+ListViewNet-2=Gen
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Adauga la favorite
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<<Inapoi
+ButtonForward=Inainte>>
+ButtonActualize=Reincarcare
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nume
+ListViewNet-1=Online
+ListViewNet-2=Gen
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Stergere favorite
+MenuItemSortFavorite=Sortare marcaje
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Reincarcare
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nume
+ListViewNet-1=Online
+ListViewNet-2=Tip
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Stergere favorite
+MenuItemSortFavorite=sortare marcaje
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Interceptare transmisii de pe toate interfetele
+CheckRadioBoxDNS=DNS Tunngle
+CheckRadioBoxPort=Port inaintat
+CheckRadioBoxUPnP=Foloseste UPnP
+CheckRadioBoxTCActive=Activat
+CheckRadioBoxSignature=Semnatura Web
+CheckRadioBoxLog=Logare in retea
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Notati!\r\nInactiv in mod normal
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Aplica
+ButtonCancel=Anuleaza
+ButtonTest=Test
+ButtonDefault=Setari prestabilite
+ButtonWizard=Initiere
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Interfata
+GroupBoxNetconfig=Retea
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=Controlor de trafic
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Limba
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Atentie! Va rugam restartati Tunnglelul pentru a aplica noile setari!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Cautare Tunngle
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Ascunde retelele pline
+CheckRadioBoxEmpty=Ascunde retelele goale
+CheckRadioBoxPassword=Ascunde retelele protejate de parola
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Filtre pentru cautare
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Filtre pentru cautare >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Inapoi
+ButtonForward=Inainte >>
+ButtonActualize=Refresh
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Nume
+ListViewResults-1=Online
+ListViewResults-2=Gen
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Adauga la marcaje
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Notificari
+MenuItemAddContact=Adauga la lista de prieteni
+MenuItemAddBlacklist=Adauga la lista neagra
+MenuItemEditBlacklist=Editeaza lista neagra
+MenuItemSortNicks=Sorteaza nickname-urile
+MenuItemShowProfile=Vizualizeaza profil
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Trimite
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Aplica
+ButtonCancel=Anuleaza
+ButtonFind=Cauta
+ButtonExport=Exporta
+ButtonImport=Importa
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Porecla
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Cauta
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Lista neagra globala
+StdLabelChatmessages=Chat lista neagra
+StdLabelName=Nume
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Sterge
+MenuItemDeleteChat=Sterge
+MenuItemAddBlacklist=Adauga la lista neagra
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Aplica
+ButtonCancel=Sterge
+ButtonDownload=Descarcare teme
+ButtonDefault=Tema prestabilita
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Prevedere
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Eticheta
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Sector de text
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Sector de intrare
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Checkbox
+CheckRadioBox2=Checkbox
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Aplica
+ButtonCancel=Anuleaza
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Activeaza suntele
+CheckRadioBoxStart=Initiere
+CheckRadioBoxLogin=Login
+CheckRadioBoxLeave=Un tunngler paraseste reteaua
+CheckRadioBoxJoin=Un tunngler intra in retea
+CheckRadioBoxReceive=Ai primit un mesaj
+CheckRadioBoxQuit=Inchidere
+CheckRadioBoxSend=Mesaj trimis
+CheckRadioBoxKey=Apasare tasta pentru fereastra de chat
+CheckRadioBoxDirectopen=Noua fereastra directa de chat
+CheckRadioBoxDirectmessage=Ai primit un mesaj direct de chat
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Browser
+ButtonFavorite=Favorite
+ButtonQuicklaunch=Start rapid
+ButtonBetainfo=Informatii despre BETA
+ButtonForum=Forum
+ButtonEventplaner=Planificare eveniment
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Inapoi
+StatusPanelForward=Inainte
+StatusPanelStop=Stop
+StatusPanelReload=Refresh
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Inapoi
+StatusPanelForward=Inainte
+StatusPanelStop=Stop
+StatusPanelReload=Reimprospateaza
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Notificari
+MenuItemAddContact=Adauga la lista de prieteni
+MenuItemAddBlacklist=Adauga la lista neagra
+MenuItemEditBlacklist=Editeaza lista neagra
+MenuItemCopyIP=Copiati IP pe clipboard
+MenuItemSortNicks=Sorteaza nickname-urile
+MenuItemSortIPs=Sorteaza dupa ping
+MenuItemConfig=Configureaza
+MenuItemShowProfile=Vizualizeaza profil
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Trimite
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Inchide
+[FormAbout-Infos]
+Caption=Despre tunngle
+[FormLogin-Infos]
+Caption=Login
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Login
+ButtonCancel=Anuleaza
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Nume:
+LabelPassword=Parola:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Tine-ma minte
+CheckRadioBoxAuto=Login automat
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Inscriete pentru un cont Tunngle gratis
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Anuleaza
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Trimite
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Adauga grup
+MenuItemContactAdd=Adauga contact
+MenuItemContactHideOffline2=Ascunde pe cei offline
+MenuItemRights=Permisiuni
+MenuItemTunngleShares=Impartasirile Tunnglelului
+MenuItemContactInfo=Informatii contact
+MenuItemContactAlert=Alerta contact
+MenuItemContactNote=Notatii contact
+MenuItemReadAwayMessage=Citeste mesaj
+MenuItemContactRename=Redenumeste contact
+MenuItemContactDelete=Sterge contact
+MenuItemMoveToGroup=Muta in grup
+MenuItemContactHideOffline3=Ascunde pe cei offline
+MenuItemMessage=Chat direct
+MenuItemRights2=Permisiuni
+MenuItemTunngleShares2=Impartasiri tunngle
+MenuItemGroupRename=Redenumeste grup
+MenuItemGroupDelete=Sterge grup
+MenuItemGroupExpandCollapse=Extinde\Pravaleste grup
+MenuItemContactHideOffline=Ascunde pe cei offline
+MenuItemMain=&Meniu
+MenuItemAddContact=Adauga contact
+MenuItemInNetwork=Info retea
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Anuleaza
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Fila
+ListViewLanguage-1=Limba
+ListViewLanguage-2=Autor
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Continua
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Va rugam selectati limba pentru Tunngle.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Nume
+ListViewAdapter-1=IP
+ListViewAdapter-2=Nume device
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Continua
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Va rugam selectati adaptorul Tunngle.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Cancel
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Numai Chat 
+CheckRadioBoxComplete=Ban complet
+CheckRadioBoxHours=Ore
+CheckRadioBoxDate=Pina la
+CheckRadioBoxInfinite=Mereu
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Anuleaza
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Introduceti parola:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Notificari
+MenuItemAddContact=Adauga la lista de prieteni
+MenuItemCopyIP=Copiaza IP 
+MenuItemSortNicks=Sorteaza nickname-urile
+MenuItemSortIPs=Sorteaza dupa ping
+MenuItemConfig=Configureaza
+MenuItemShowProfile=Vizualizeaza profil
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Trimite
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Mesaj de primire
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Administrati-va propria retea
+GroupBoxJoin=Intrati intr-o retea existenta
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkNameT=Numele retelei:
+LabelNetworkPasswordT=Parola retelei:
+LabelNetworkNameB=Numele retelei:
+LabelNetworkPasswordB=Parola retelei:
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Creeaza Update
+ButtonJoin=Participa
+ButtonJoinOwn=Participa la propria retea
+ButtonNetworkList=Lista de retele
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Emulator de retea:
+UrlLabelInterlink=Server Interlink:

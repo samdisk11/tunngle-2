@@ -1,0 +1,662 @@
+
+[Header]
+Author=SPiRiT7777 (Community)
+Date=2014.12.19
+Language=Czech
+CharSet=DEFAULT_CHARSET
+PrimLangID=5
+CodePage=1250
+[Global-Ressource]
+MI_MINCAPTION=Mi&nimalizovat
+MI_MAXCAPTION=Ma&ximalizovat
+MI_CLOSECAPTION=&Zavøít
+MI_RESTORECAPTION=&Obnovit
+MI_MINTOTRAYCAPTION=Minimalizovatj do &lišty
+MI_ROLLUPCAPTION=Srolovat
+MINBUTTON_HINT=Minimalizovat
+MAXBUTTON_HINT=Maximalizovat
+CLOSEBUTTON_HINT=Zavøít
+TRAYBUTTON_HINT=Minimalizovat do systémové lišty
+ROLLUPBUTTON_HINT=Srolovat
+MENUBUTTON_HINT=Nabídka
+RESTORE_HINT=Obnovit
+EDIT_UNDO=Zpìt
+EDIT_COPY=Kopírovat
+EDIT_CUT=Vyjmout
+EDIT_PASTE=Vloit
+EDIT_DELETE=Smazat
+EDIT_SELECTALL=Vybrat vše
+MSG_BTN_YES=&Ano
+MSG_BTN_NO=&Ne
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Zrušit
+MSG_BTN_ABORT=&Pøerušit
+MSG_BTN_RETRY=&Opakovat
+MSG_BTN_IGNORE=&Ignorovat
+MSG_BTN_ALL=&Všechno
+MSG_BTN_NOTOALL=N&eVšechno
+MSG_BTN_YESTOALL=&AnoVšechno
+MSG_BTN_HELP=&Pomoc
+MSG_BTN_OPEN=&Otevøit
+MSG_BTN_SAVE=&Uloit
+MSG_BTN_CLOSE=Zavøít
+MSG_BTN_BACK_HINT=Pøejít do poslední navštívené sloky
+MSG_BTN_UP_HINT=O úroveò vıše
+MSG_BTN_NEWFOLDER_HINT=Vytvoøit Novou Sloku
+MSG_BTN_VIEWMENU_HINT=Zobrazit Nabídku
+MSG_BTN_STRETCH_HINT=Roztáhnout Obraz
+MSG_FILENAME=Soubor:
+MSG_FILETYPE=Typ souboru:
+MSG_NEWFOLDER=Nová Sloka
+MSG_LV_DETAILS=Detaily
+MSG_LV_ICON=Velké ikony
+MSG_LV_SMALLICON=Malé ikony
+MSG_LV_LIST=Seznam
+MSG_PREVIEWSKIN=Náhled
+MSG_PREVIEWBUTTON=Tlaèítko
+MSG_OVERWRITE=Chcete pøepsat ji existující soubor?
+MSG_CAP_WARNING=Varováni
+MSG_CAP_ERROR=Chyba
+MSG_CAP_INFORMATION=Informace
+MSG_CAP_CONFIRM=Potvrdit
+MSG_CAP_SHOWFLAG=Nezobrazovat tuto zprávu znova
+CALC_CAP=Kalkulaèka
+ERROR=Chyba
+COLORGRID_CAP=Základní barvy
+CUSTOMCOLORGRID_CAP=Vlastní barvy
+ADDCUSTOMCOLORBUTTON_CAP=Pøidat do vlastních barev
+FONTDLG_COLOR=Barva:
+FONTDLG_NAME=Název:
+FONTDLG_SIZE=Velikost:
+FONTDLG_HEIGHT=Vıška:
+FONTDLG_EXAMPLE=Pøíklad:
+FONTDLG_STYLE=Styl:
+FONTDLG_SCRIPT=Script:
+DB_DELETE_QUESTION=Opravdu chcete smazat tento záznam?
+DB_MULTIPLEDELETE_QUESTION=Smazat všechny vybrané záznamy?
+NODISKINDRIVE=V mechanice není disk nebo neni pøipravena
+NOVALIDDRIVEID=ID mechaniky není platné
+FLV_NAME=Název
+FLV_SIZE=Velikost
+FLV_TYPE=Typ
+FLV_LOOKIN=Náhled:
+FLV_MODIFIED=Zmìnìno
+FLV_ATTRIBUTES=Atributy
+FLV_DISKSIZE=Velikost disku
+FLV_FREESPACE=Volné místo
+PRNDLG_NAME=Název:
+PRNDLG_PRINTER=Tiskárna 
+PRNDLG_PROPERTIES=Vlastnosti...
+PRNDLG_TYPE=Typ:
+PRNDLG_STATUS=Stav:
+PRNDLG_WHERE=Kde:
+PRNDLG_COMMENT=Komentáø:
+PRNDLG_PRINTRANGE=Rozsah tisku
+PRNDLG_COPIES=Vıtiskù
+PRNDLG_NUMCOPIES=Poèet vıtiskù:
+PRNDLG_COLLATE=Porovnat
+PRNDLG_ALL=Všechno
+PRNDLG_PAGES=Stránky
+PRNDLG_SELECTION=Vıbìr
+PRNDLG_PRINTTOFILE=Tisknout do souboru
+PRNDLG_FROM=z:
+PRNDLG_TO=do:
+PRNDLG_ORIENTATION=Orientace
+PRNDLG_PAPER=Papír
+PRNDLG_PORTRAIT=Portrét
+PRNDLG_LANDSCAPE=Krajina
+PRNDLG_SOURCE=Zdroj:
+PRNDLG_SIZE=Velikost:
+PRNDLG_MARGINS=Jednotky (Milimetry)
+PRNDLG_MARGINS_INCHES=Jednotky (Palce)
+PRNDLG_LEFT=Vlevo:
+PRNDLG_RIGHT=Vpravo:
+PRNDLG_TOP=Nahoøe:
+PRNDLG_BOTTOM=Dole:
+PRNDLG_WARNING=Tiskárny nejsou pøipojeny!
+FIND_NEXT=Najdi další
+FIND_WHAT=Najdi:
+FIND_DIRECTION=Smìr
+FIND_DIRECTIONUP=Nahoru
+FIND_DIRECTIONDOWN=Dolù
+FIND_MATCH_CASE=Hledat vše
+[Global-MessageBox-Information]
+Select=Budete muset vybrat nejdøíve Tunngler
+Controller=Monitorování sítì je v aktuální verzi vypnuto.
+EnterSearchText=Prosím, vlote nìco ke hledání.
+EnterSearchUser=Prosím vlote nìco ke hledání.
+ContactDeny=%s nesouhlasí s pøidáním do pøátel.
+ContactAccept=%s souhlasí s pøidáním do pøátel.
+ConnectionLost=Spojení ztraceno.\r\nKód: %s
+ConnectionProblem=Moné potíe s pøipojením.\r\nKonfigurace NAT tvého routeru mùe ztìovat schopnoti Tunngle pro úspìšné navázání P2P spojení s ostatními uivateli.\r\nOtevøít nápovìdu?
+PortReachable=Vybranı port je otevøen a pøíjmá pøipojení.
+CreateNet=Tato funkce ještì není k dispozici.\r\nProsím napiš podnìt na naše forum.\r\nChcete otevøít stránku fóra nyní?
+AdapterPrim=Síovı adaptér programu Tunngle nemá správnou prioritu. (0)\r\nNebude moné vyhledat ádné servery v místní síti(LAN) tvé hry.
+EnterNamePW=Vlo prosím své uivatelské jméno a heslo.
+NewVersion=Nová verze %s Tunngle je k dispozici a mùe bıt staena.
+FriendNetwork=%s je v "%s" síti.\r\nChcete se k této síti pøipojit?
+FriendNoNetwork=%s není v síti.
+Close=Tunngle se nyní vypne.
+LSPBackup=LPS záloní soubor úspìšnì vytvoøen.\r\n%s
+LSPOK=%d LPS problém opraven.
+LastTab=Nelze zavøít poslední okno.
+NetFull=Sí je plná.
+TempNetInfo=Si verze "Basic" bude automaticky smazána pokud bude prázdná a neaktivní.
+TempNetDisabled=Vytváøení sítí je doèasnì zakázáno. Zkuste prosím pozdìji.
+TempNetLimit=Nyní neumoòujeme vytváøet více Sítí. Zkuste to prosím pozdìji
+TempNetMissing=Vybraná sí neexistuje, Vyberte existující nebo vytvoøte vlastní.
+TempNetFull=Vybraná sí je plná Vyberte jinou nebo vytvoøte vlastní.
+TempNetExist=Sí ji existuje. Vyberte jinı název síì nebo se pøipojte do ji existující.
+TempNetPassword=Špatné heslo.
+TempNetInvalid=Toto jméne je neplatné. Prosím vyberte jedno.
+ConfigAttention=Prosím, restartujte Tunngle, aby se potvrdili nové nastavení.
+ProcessSuccess=Operace probìhla úspìšnì.
+[Global-MessageBox-Warning]
+PortUnreachable=Vybranı port se nezdá bıt otevøenı.\r\nPoznámka: Jestli Tunngle pracuje správnì, nemusíte mít obavy.
+ServerUnreachable=Server je nedostupnı.\r\nSpustit Tunngle i pøesto?
+Offline=Nelze vytvoøit spojení.\r\nVybranı kontakt je odpojenı.
+ConnectionFail=Nelze navázat spojení.
+Messenger=Varování!\r\nJeliko posílání zpráv je zatím ve vıvoji,\r\npøeklad všech oken zatím není dokonèen.\r\nOprava bude v další verzi Tunngle.
+WriteRegistry=Konfigurace nemohla bıt uloena do registrù.\r\nProsím kontaktujte administrátora.
+SelectLanguage=Nejdøíve zvolte jazyk.
+SelectAdapter=Nejdøíve zvolte adaptér.
+[Global-MessageBox-Question]
+Contact=Chcete opravdu pøidat %s do svıch kamarádù?
+Delete=Chcete opravdu odebrat %s z vaší èerné listiny?
+ChangeNet=Chcete opravdu odejít z "%s" sítì a pøipojit se do "%s" sítì?
+CloseChat=Chcete opravdu zavøít "%s" rozhovor?
+CloseLobby=Chcete opravdu odejít z %s?
+CloseTab=Chcete opravdu zavøít "%s" záloku?
+AddContact=%s si tì pøidal(a) do jeho/jejího seznamu pøátel.\r\nSouhlasíš s tím?
+Quit=Chcete opravdu odejít?
+DelFavorite=Opravdu chcete smazat %s?
+NewVersion=Nová verze %s Tunngle je k dispozici. Chcete ji nyní stáhnout?
+Adapter=Byl nalezen tento adaptér.\r\n%s\r\nChcete ho pøiøadit k Tunngle?
+Language=Zjistili jsme, e váš systém je kompatibilní s "%s" jazykem.\r\nChcete ho pouít?
+LanguageID=Vybranı jazyk nesouhlasí s vaší systémovou lokalizací.\r\nPokraèovat i pøes to?
+LanguageCP=Aktuální kódování systému nesouhlasí s vybranım jazykovım souborem.\r\nNìkteré znaky nemusí bıt zobrazeny správnì.\r\nPøesto pokraèovat?
+[Global-MessageBox-Error]
+RunOnce=Nelze spustit více jak jeden proces Tunngle zároveò.
+NotInstalled=Tunngle není správnì nainstalován.
+NoAdapter=Nepodaøilo se nalézt Tunngle síovı adaptér!
+AccountVerify=Pøihlášení selhalo.\r\nTvùj úèet nebyl ovìøen.
+AccountBann=Pøihlášení selhalo.\r\nTvùj úèet byl zablokován.
+ConnectionProblem=Problém s pøipojením!\r\nNelze navázat UDP spojení se serverem.\r\nPøíèinou mùe bıt tvùj firewall.\r\nPotøebuješ pomoc?
+NATProblem=Chyba pøekladu síovıch adres (NAT)!\r\nKonfigurace NAT tvého routeru zabraòuje správnému fungování Tunngle.\r\nMusíš správnì nastavit pøesmìrování portù.\r\nPotøebuješ pomoc?
+ConnectionProblemInfo=Problém s pøipojením!\r\nNelze navázat UDP spojení se serverem.\r\nPøíèinou mùe bıt tvùj firewall.\r\nPotøebuješ pomoc?
+MasterServer=Spojeni s hlavnim serverem Tunngle nelze uskuteènit.
+Version=Tvùj klient není aktualizovanı.\r\nChceš aktualizovat nyní?
+Safe=Tvé spojení nemùe bıt zabezpeèeno.
+AuthFail=Pøihlášení selhalo.\r\nProsím zkontroluj své uivatelské jméno a tvé heslo .\r\n(Neple si své uivatelské heslo se svım heslem k úètu!)\r\nPotøebuješ pomoc?
+AdapterInit=Nepodaøilo se inicializovat Tunngle síovı adaptér!
+UDPSocket=Chyba UDP Socketu!\r\nNedaøí se vytvoøit UDP Socket.\r\nPøíèínou mùe bıt tvùj firewall.\r\nPotøebuješ pomoc?
+AdapterPrim1=Síovı adaptér programu Tunngle nemá správnou prioritu. (1)\r\nNebude moné vyhledat ádné servery v místní síti(LAN) tvé hry.\r\nPotøebuješ pomoc?
+AdapterPrim2=Síovı adaptér programu Tunngle nemá správnou prioritu. (2)\r\nNebude moné vyhledat ádné servery v místní síti(LAN) tvé hry.\r\nPotøebuješ pomoc?
+ServiceFound=Nelze najít slubu Tunngle!
+ServiceContact=Nelze komunikovat se slubou Tunngle!
+CryptFail=Nelze naèíst kryptografickou knihovnu!
+PortFail=Vybranı port není vhodnı k pøesmìrování. Prosím vyberte jinı!
+WinSock2=Nelze pøistoupit k WinSocketu.\r\nNastavení síe nelze naèíst.
+LSPProblems=%d LSP detekoval problém.\r\nOpravit jej teï?
+LSPBackup=Chyba pøi vytváøení LSP záloního souboru.\r\nChcete operaci pøerušit?
+LSPSafePoint=Chyba pøi vytváøení LSP bodu obnovení.\r\nChceš operaci pøerušit?
+LSPRepair=%d LSP problémy nemohou bıt opraveny.\r\nObnovit pøedchozí nastavení?
+LSPRedo=Obnovení selhalo.
+[Global-Text-Dynamic]
+Loading=Naèítám %s...
+FromTo=%d do %d z %d
+LastAct=Poslední aktualizace: %s
+Lobby=Hala (%d)
+ChatJoined=<%s "%s" se pøipojil do chatu.>
+NetJoined=<%s "%s" se pøipojil do sítì.>
+LobbyJoined=<%s "%s" se pøipojil do haly.>
+ChatLeft=<%s "%s" se odpojil z chatu.>
+NetLeft=<%s "%s" se odpojil ze sítì.>
+LobbyLeft=<%s "%s" se odpojil z haly.>
+ConnectionDeny1=* Nelze se pøipojit k %s ,protoe jsi na jeho/její èerné listinì.
+ConnectionDeny2=* Nelze se pøipojit k %s ,protoe je na tvojí èerné listinì.
+ConnectionLost=[ %s Ztraceno pøipojení na Tunngle server! ]
+VirtualIP=Virtuální IP: %s
+LoginNick=Pøihlášen jako: %s
+Version=Verze: %s
+Connecting=Pøipojování %s
+ChatMe=Já: %s
+ChatDeny=* Nebylo moné pøijmout zprávy od %s , protoe je ve vaší èerné listinì.
+AddBlacklist=Jak dlouho bude %s na èerné listinì?
+PingMs=Odezva: %s ms
+ChannelMode=Typ: %s
+Ports=Port: %s
+WaitingQueue=Èekám na frontu %d/%d
+AddedBlackList=%s úspìšnì pøidán na tvùj black list.
+[Global-Text-Static]
+CaptionTunnglenews=Novinky na Tunngle
+CaptionStart=Zaèátek s Tunngle
+CaptionStartPage=Zaèátek s Tunngle
+CaptionQuickstart=Rychlı Zaèátek
+CaptionSupport=Podpora
+CaptionBetainfo=Beta Informace
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Ke Staení
+CaptionResults=Vısledky...
+CaptionChat=Chat
+CaptionLobby=Hala
+CaptionNetwork=Sí
+CaptionTunngleforum=Tunngle Forum
+CaptionEventplaner=Plánovaè událostí
+CaptionForumfaq=Forum FAQ
+CaptionForum=Forum
+CaptionTunngleskins=Skiny pro Tunngle
+CaptionSearch=Hledat
+CaptionBrowser=Prohlíeè
+CaptionSkinconfig=Nastavení skinu
+CaptionSoundconfig=Zvuky
+CaptionPrivacylists=Èerná listina
+CaptionConfiguration=Nastavení
+CaptionFavorite=Záloky
+CaptionSubBrowser=Sítì
+CaptionCreateNet=Soukromé sítì
+SplashPleaseWait=Èekejte prosím...
+SplashLoaddata=Naèítám data...
+SplashReset=Restartuji...
+SplashConfig=Konfiguruji...
+SplashLoading=Naèítání...
+SplashConnecting=Pøipojování...
+SplashVersion=Ovìøuji verzi...
+SplashSafe=Zabezpeèuji pøipojení...
+SplashUPnP=Pokouším se pomocí UPnP pøesmìrovat porty...
+SplashAuth=Ovìøování...
+SplashAdatperset=Nastavování adaptéru...
+SplashAdapterinit=Inicializuji adaptér...
+SplashAdapterstart=Startuji adaptér...
+SplashAdapterchkprim=Ovìøuji prioritu adaptéru...
+SplashAdapterchkbc=Ovìøuji vysílání adaptéru...
+SplashAdapterchkstop=Ovìøuji zastavení adaptéru...
+SplashFinalize=Dokonèuji...
+SplashServiceinit=Inicializuji slubu Tunngle...
+SplashServicecontact=Kontaktuji slubu Tunngle...
+SplashServercontact=Kontaktuji Tunngle server...
+SplashConfigurate=Konfiguruji Tunngle...
+SplashWinSock2=Ovìøuji nastavení sítì...
+SplashNetzone=Ovìøuji síovou lokaci.
+SearchInWork=Hledání probíhá...
+Lobby=Hala
+NetLeft=Odešel ze sítì.
+NoIP=Virtuální IP: -
+ChatJoined=Úspìšnì pøipojeno k chatu.
+NetJoined=Úspìšnì pøipojeno k síti.
+LobbyJoined=Úspìšnì pøipojeno do haly.
+FoundNothing=ádné vısledky!
+NetChangeBegin=Pokus o zmìnu sítì. Poèkejte prosím...
+NetChangeEnd=Zmìna sítì úspìšná. Èekejte prosím...
+NotLoggedIn=Nejsi pøihlášen.
+EnterNamePW=Prosím zadejte uivatelské jméno a heslo.
+MessageSendFail=* Nelze poslat zprávu. *
+MessageSendFlood=* Posíláte zprávy pøíliš rychle. Prosím zpomalte. *
+LaunchParameter=Parametry spuštìní programu:
+TypeStandard=tunngler
+TypeInterlink=Server 
+TypeTunngleTeam=Tım Tunngle
+TypeEnthusiast=Fanda Tunngle
+SplashExecuteJoin=Poèkejte prosím...
+StopAdapter=Odpojuji Tunngle adaptér
+StartAdapter=Pøipojování k Tunngle adaptéru... (mùe trvat nìjakou chvíli)
+StartAdapterFail=Chyba: Nelze se pøipojit na Tunngle adaptér
+Interlink=Herní server:Port
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Komunita
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Najít sítì a pøátele
+SpeedButtonCommunity2=Na poslední aktivní záloku
+SpeedButtonMessenger=Posílání zpráv
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Základní stránka
+ButtonQABetaInfo=Beta informace
+ButtonQAForum=Forum
+ButtonQAEventPlanner=Plánovaè událostí
+ButtonQALobby=Tunngle Hala
+ButtonQAFavorites=Oblíbené
+ButtonQACreateNetwork=Soukromé sítì
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Prohlíet sítì
+ExPanelFindnetwork=Hledání sítí
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Hledat
+MenuItemNetFavorite=Záloky
+MenuItemNetCreate=Vytvoøit
+MenuItemNetCreateOwn=Soukromé sítì
+MenuItemTunnglelobby=Tunngle hala
+MenuItemEventplaner=Plánovaè událostí
+MenuItemSounds=Zvuky
+MenuItemSkins2=Skiny
+MenuItemPrivacylists=Èerná Listina
+MenuItemConfiguration=Nastvení
+MenuItemAbout=O Tunngle
+MenuItemTrayOpen=Otevøít
+MenuItemTrayClose=Zavøít
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Oznámení
+MenuItemAddContact=Pøidat do seznamu pøátel
+MenuItemAddBlacklist=Pøidat na èernou listinu
+MenuItemEditBlacklist=Upravit èernou listinu
+MenuItemSortNicks=Tøídit nicky
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Poslat
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Vzad
+ButtonForward=Vpøed >>
+ButtonActualize=Obnovit
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Název
+ListViewNet-1=Online
+ListViewNet-2=ánr
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Pøidat do záloek
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Obnovit
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Jméno
+ListViewNet-1=Online
+ListViewNet-2=Styl
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Pøidat záloku
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Zpìt
+ButtonForward=Vpøed >>
+ButtonActualize=Obnovit
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Jméno
+ListViewNet-1=Online
+ListViewNet-2=ánr
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Smazat záloku
+MenuItemSortFavorite=Tøídit záloky
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Obnovit
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Jméno
+ListViewNet-1=Online
+ListViewNet-2=ánr
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Smazat z oblíbenıch
+MenuItemSortFavorite=Tøídit oblíbené poloky
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Zachycovat vysílání ze všech rozhraní
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Pøesmìrovanı port
+CheckRadioBoxUPnP=Pouití UPnP
+CheckRadioBoxTCActive=Zapnuto
+CheckRadioBoxSignature=Webová signatura
+CheckRadioBoxLog=Pøihlašování sitì
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Poznámka!\r\nNormálnì vypnuto.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Pouít
+ButtonCancel=Zrušit
+ButtonTest=Vyzkoušet
+ButtonDefault=Základní Nastavení
+ButtonWizard=Prùvodce
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Rozhraní
+GroupBoxNetconfig=Sí
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=Kontrola síového provozu
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Jazyk
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Varování! Prosím restartujte Tunngle aby se projevila nová nastavení!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle Hledání
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Skrıt plné sítì
+CheckRadioBoxEmpty=Skrıt prázdné sitì
+CheckRadioBoxPassword=Skrıt heslem chránìné sítì
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Hledací filtry
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Hledací Filtry >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Zpìt
+ButtonForward=Vpøed >>
+ButtonActualize=Obnovit
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Název
+ListViewResults-1=Online
+ListViewResults-2=ánr
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Pøidat do oblíbenıch
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Oznámení
+MenuItemAddContact=Pøidat do seznamu pøátel
+MenuItemAddBlacklist=Pøidat na èernou listinu
+MenuItemEditBlacklist=Upravit èernou listinu
+MenuItemSortNicks=Tøídit nicky
+MenuItemShowProfile=Zobrazit profil
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Poslat
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Pouít
+ButtonCancel=Zrušit
+ButtonFind=Hledat
+ButtonExport=Exportovat
+ButtonImport=Imporotvat
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Nick
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Hledat
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Èerná Listina Globální
+StdLabelChatmessages=Èerná Listina Chatu
+StdLabelName=Název
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Odstranit
+MenuItemDeleteChat=Odstranit
+MenuItemAddBlacklist=Pøidat do èerné listiny
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Pouít
+ButtonCancel=Zrušit
+ButtonDownload=Stáhnout více skinù
+ButtonDefault=Základní skin Tunngle
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Náhled
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Oznaèení
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Textové pole
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Vstupní pole
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Políèko
+CheckRadioBox2=Políèko
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Pouít
+ButtonCancel=Zrušit
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Zapnout zvuky
+CheckRadioBoxStart=Zapnutí
+CheckRadioBoxLogin=Pøihlášení
+CheckRadioBoxLeave=Uivatel opustil sí
+CheckRadioBoxJoin=Uivatel pøipojen do sítì
+CheckRadioBoxReceive=Pøijatá zpráva
+CheckRadioBoxQuit=Vypnutí
+CheckRadioBoxSend=Zpráva odeslána
+CheckRadioBoxKey=Stisknutí klávesy chatové schránky
+CheckRadioBoxDirectopen=Nové okno chatu
+CheckRadioBoxDirectmessage=Pøijata zpráva v chatu
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Prohlíeè
+ButtonFavorite=Záloky
+ButtonQuicklaunch=Zaèínáme
+ButtonBetainfo=Beta Informace
+ButtonForum=Forum
+ButtonEventplaner=Plánovaè událostí
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Zpìt
+StatusPanelForward=Vpøed
+StatusPanelStop=Pøerušit
+StatusPanelReload=Obnovit
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Zpìt
+StatusPanelForward=Vpøed
+StatusPanelStop=Stop
+StatusPanelReload=Obnovit
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Oznámení
+MenuItemAddContact=Pøidat do seznamu kamarádù
+MenuItemAddBlacklist=Pøidat na èernou listinu
+MenuItemEditBlacklist=Upravit èernou listinu
+MenuItemCopyIP=Kopírovat IP do schránky
+MenuItemSortNicks=Tøídit podle nicku
+MenuItemSortIPs=Tøídit podle odezvy
+MenuItemConfig=Konfigurovat
+MenuItemShowProfile=Zobrazit profil
+MenuItemCopy=Kopírovat
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Poslat
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameVPN-TspSkinButton-Hint]
+ButtonLauncher=Herní spoušteè
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Zavøít
+[FormAbout-Infos]
+Caption=O Tunngle
+[FormLogin-Infos]
+Caption=Pøihlásit
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Pøihlásit
+ButtonCancel=Zrušit
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Uivatelské jméno:
+LabelPassword=Heslo:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Uloit pøihlášení
+CheckRadioBoxAuto=Automaticky pøihlásit
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Zaregistrovat bezplatnı Tunngle úèet
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Zrušit
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Poslat
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Pøidat skupinu
+MenuItemContactAdd=Pøidat kontakt
+MenuItemContactHideOffline2=Skrıt offline
+MenuItemRights=Práva
+MenuItemTunngleShares=Sdílení Tunngle
+MenuItemContactInfo=Informace
+MenuItemContactAlert=Záznam
+MenuItemContactNote=Poznámka ke kontaktu
+MenuItemReadAwayMessage=Èíst zprávu
+MenuItemContactRename=Pøejmenovat kontakt
+MenuItemContactDelete=Smazat kontakt
+MenuItemMoveToGroup=Pøesunout do skupiny
+MenuItemContactHideOffline3=Skrıt offline
+MenuItemMessage=Chat
+MenuItemRights2=Práva
+MenuItemTunngleShares2=Sdílení Tunngle
+MenuItemGroupRename=Pøejmenovat skupinu
+MenuItemGroupDelete=Smazat skupinu
+MenuItemGroupExpandCollapse=Roztáhnout/skrıt skupinu
+MenuItemContactHideOffline=Skrıt offline kontakty
+MenuItemMain=&Nabídka
+MenuItemAddContact=Pøidat kontakt
+MenuItemInNetwork=Informace o síti
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Hledat
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=Jméno
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Pøidat kontakt
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Zrušit
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Soubor
+ListViewLanguage-1=Jazyk
+ListViewLanguage-2=Autor
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Pokraèovat
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Prosím vyberte jazyk pro Tunngle.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Jméno
+ListViewAdapter-1=IP
+ListViewAdapter-2=Název zaøízení
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Pokraèovat
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Prosím vyberte platnı Tunngle adaptér
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Zrušit
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Pouze chat
+CheckRadioBoxComplete=Úplnı zákaz
+CheckRadioBoxHours=Hodin
+CheckRadioBoxDate=Do
+CheckRadioBoxInfinite=Navdy
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Zrušit
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Vloit heslo:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Oznámení
+MenuItemAddContact=Pøidat do pøátel
+MenuItemCopyIP=Zkopíruj IP
+MenuItemSortNicks=Seøadit podle nicku
+MenuItemSortIPs=Seøadit podle odezvy
+MenuItemConfig=Konfigurovat
+MenuItemShowProfile=Zobrazit profil
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Poslat
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Uvítací zpráva
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Spravovat vlastní sítì
+GroupBoxJoin=Pøipojit k existující síti
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=Typ sítì
+LabelNetworkNameT=Název sítì: 
+LabelNetworkPasswordT=Heslo sítì: 
+LabelNetworkSize=Velikost sítì
+LabelNetworkNameB=Název sítì: 
+LabelNetworkPasswordB=Heslo sítì: 
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Vytvoøit - Aktualizovat
+ButtonJoin=Pøipojit
+ButtonNetworkList=Seznam sití
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelNetRange=Dosah sitì
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Oznamení
+MenuItemAddContact=Pøidat do seznamu pøátel
+MenuItemConfig=Konfigurovat
+MenuItemShowProfile=Zobrazit profil
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Poslat
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Pøíštì nezobrazovat
+[FrameAccount-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSignature=Vebovy podpis
+[FrameAccount-TspSkinButton-Caption]
+ButtonAccept=Pouít
+ButtonCancel=Zrušit
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=Nastavení ùètu
+[FrameNetCreateEasy-TspSkinLabel-Caption]
+LabelNetworkTypeT=Typ sítì
+LabelNetworkNameT=Jméno sítì
+LabelNetworkPasswordT=Heslo sítì

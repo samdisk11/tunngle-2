@@ -1,0 +1,665 @@
+
+[Header]
+Author=Chogosu (Community)
+Date=2014.12.19
+Language=Korean
+CharSet=DEFAULT_CHARSET
+PrimLangID=18
+CodePage=949
+[Global-Ressource]
+MI_MINCAPTION=최소화(&n)
+MI_MAXCAPTION=최대화(&x)
+MI_CLOSECAPTION=닫기(&c)
+MI_RESTORECAPTION=복구(&R)
+MI_MINTOTRAYCAPTION=트레이아이콘으로 최소화(&t)
+MI_ROLLUPCAPTION=줄이기(&l)
+MINBUTTON_HINT=최소화
+MAXBUTTON_HINT=최대화
+CLOSEBUTTON_HINT=닫기
+TRAYBUTTON_HINT=트레이아이콘으로 최소화
+ROLLUPBUTTON_HINT=줄이기
+MENUBUTTON_HINT=시스템 메뉴
+RESTORE_HINT=복구
+EDIT_UNDO=되돌리기
+EDIT_COPY=복사
+EDIT_CUT=잘라내기
+EDIT_PASTE=붙여넣기
+EDIT_DELETE=삭제
+EDIT_SELECTALL=모두 선택
+MSG_BTN_YES=예(&Y)
+MSG_BTN_NO=아니오(&N)
+MSG_BTN_OK=확인
+MSG_BTN_CANCEL=취소
+MSG_BTN_ABORT=중지(&A)
+MSG_BTN_RETRY=다시시도(&R)
+MSG_BTN_IGNORE=무시(&I)
+MSG_BTN_ALL=전체(&A)
+MSG_BTN_NOTOALL=모두 아니오(&o)
+MSG_BTN_YESTOALL=모두 예(&Y)
+MSG_BTN_HELP=도움말(&H)
+MSG_BTN_OPEN=열기(&O)
+MSG_BTN_SAVE=저장(&S)
+MSG_BTN_CLOSE=닫기
+MSG_BTN_BACK_HINT=마지막으로 본 폴더로 가기
+MSG_BTN_UP_HINT=상위 폴더로 가기
+MSG_BTN_NEWFOLDER_HINT=새 폴더 만들기
+MSG_BTN_VIEWMENU_HINT=메뉴 보기
+MSG_BTN_STRETCH_HINT=그림 크게보기
+MSG_FILENAME=파일 이름:
+MSG_FILETYPE=파일 형태:
+MSG_NEWFOLDER=새 폴더
+MSG_LV_DETAILS=세부사항
+MSG_LV_ICON=큰 아이콘
+MSG_LV_SMALLICON=작은 아이콘
+MSG_LV_LIST=목록
+MSG_PREVIEWSKIN=미리보기
+MSG_PREVIEWBUTTON=버튼
+MSG_OVERWRITE=이전 파일에 덮어씌울까요?
+MSG_CAP_WARNING=경고
+MSG_CAP_ERROR=오류
+MSG_CAP_INFORMATION=정보
+MSG_CAP_CONFIRM=확인
+MSG_CAP_SHOWFLAG=이 메시지를 다시 표시하지 않음
+CALC_CAP=계산기
+ERROR=오류
+COLORGRID_CAP=기본 색
+CUSTOMCOLORGRID_CAP=사용자 정의 색
+ADDCUSTOMCOLORBUTTON_CAP=사용자 정의 색 추가
+FONTDLG_COLOR=색:
+FONTDLG_NAME=이름:
+FONTDLG_SIZE=크기:
+FONTDLG_HEIGHT=너비:
+FONTDLG_EXAMPLE=예:
+FONTDLG_STYLE=스타일:
+FONTDLG_SCRIPT=스크립트:
+DB_DELETE_QUESTION=정말 이 기록을 지우시겠습니까?
+DB_MULTIPLEDELETE_QUESTION=선택한 기록을 모두 지우시겠습니까?
+NODISKINDRIVE=드라이브에 디스크가 없거나 드라이브가 준비되지 않았습니다.
+NOVALIDDRIVEID=드라이브 ID 가 잘못되었습니다.
+FLV_NAME=이름
+FLV_SIZE=크기
+FLV_TYPE=형태
+FLV_LOOKIN=들여다보기:
+FLV_MODIFIED=수정됨
+FLV_ATTRIBUTES=속성
+FLV_DISKSIZE=디스크 용량
+FLV_FREESPACE=빈 용량
+PRNDLG_NAME=이름:
+PRNDLG_PRINTER=프린터
+PRNDLG_PROPERTIES=속성...
+PRNDLG_TYPE=형태:
+PRNDLG_STATUS=상태:
+PRNDLG_WHERE=위치:
+PRNDLG_COMMENT=설명:
+PRNDLG_PRINTRANGE=인쇄 영역
+PRNDLG_COPIES=부
+PRNDLG_NUMCOPIES=부수:
+PRNDLG_COLLATE=순서대로
+PRNDLG_ALL=모두
+PRNDLG_PAGES=페이지수
+PRNDLG_SELECTION=선택
+PRNDLG_PRINTTOFILE=파일 인쇄
+PRNDLG_FROM=부터:
+PRNDLG_TO=까지:
+PRNDLG_ORIENTATION=방향
+PRNDLG_PAPER=종이
+PRNDLG_PORTRAIT=세로
+PRNDLG_LANDSCAPE=가로
+PRNDLG_SOURCE=원본:
+PRNDLG_SIZE=크기:
+PRNDLG_MARGINS=여백 (밀리미터)
+PRNDLG_MARGINS_INCHES=여백 (인치)
+PRNDLG_LEFT=왼쪽:
+PRNDLG_RIGHT=오른쪽:
+PRNDLG_TOP=위:
+PRNDLG_BOTTOM=아래:
+PRNDLG_WARNING=시스템에 프린터가 설치되어있지 않습니다!
+FIND_NEXT=다음 찾기
+FIND_WHAT=이 내용을 찾기:
+FIND_DIRECTION=방향
+FIND_DIRECTIONUP=위
+FIND_DIRECTIONDOWN=아래
+FIND_MATCH_CASE=맞는 케이스
+FIND_MATCH_WHOLE_WORD_ONLY=한 단어로 모두 맞추기
+FIND_REPLACE_WITH=다음으로 바꾸기:
+FIND_REPLACE=바꾸기
+FIND_REPLACE_All=모두 바꾸기
+FIND_REPLACE_CLOSE=닫기
+MORECOLORS=더 많은 색...
+AUTOCOLOR=자동
+CUSTOMCOLOR=사용자정의...
+[Global-MessageBox-Information]
+Select=먼저 Tunngler 선택을 해야합니다.
+Controller=이 버전에서는 트래픽 컨트롤러가 작동하지 않습니다.
+EnterSearchText=검색하기 위해 아무말을 넣어주세요.
+EnterSearchUser=검색하기 위해 아무말을 넣어주세요.
+ContactDeny=%s 님이 친구 요청을 거절하였습니다.
+ContactAccept=%s 님이 친구 요청을 수락하였습니다.
+ConnectionLost=접속이 끊겼습니다.\r\n코드: %s
+ConnectionProblem=일어날 수 있는 접속 문제.\r\n공유기의 NAT 설정 때문에 Tunngle 이 다른 유저과\r\n성공적인 P2P 연결을 할 수 없도록 방해할 수 있습니다.\r\n지금 도움말 페이지를 여시겠습니까?
+PortReachable=선택하신 포트가 열려있고 접속이 가능합니다.
+CreateNet=이 기능은 아직 사용할 수 없습니다.\r\n커뮤니티 포럼에 제안을 올려주세요.\r\n포럼 페이지를 지금 열까요?
+AdapterPrim=Tunngle 네트워크 어댑터가 제대로 우선시 되지 않았습니다. (0)\r\nLAN 게임 목록에서 서버를 찾을 수 없을 것입니다.
+EnterNamePW=사용자ID와 비밀번호를 입력해주세요.
+NewVersion=새로운 Tunngle 버전 %s 가 나왔고, 다운로드 가능합니다.
+FriendNetwork=%s 님이 "%s" 네트워크에 있습니다.\r\n이 네트워크에 들어가시겠습니까?
+FriendNoNetwork=%s 님은 지금 네트워크 안에 있지 않습니다.
+Close=Tunngle 을 지금 종료하겠습니다.
+LSPBackup=LSP 백업파일이 성공적으로 생성되었습니다.\r\n%s
+LSPOK=%d LSP 문제가 해결되었습니다.
+LastTab=마지막 탭은 닫을 수 없습니다.
+NetFull=네트워크가 꽉 찼습니다.
+TempNetPassword=잘못된 암호입니다.
+[Global-MessageBox-Warning]
+PortUnreachable=선택하신 포트가 열리지 않은 것 같습니다.\r\n메모: Tunngle 이 제대로 작동한다면, 걱정안하셔도 됩니다.
+UPnP=UPnP 로 자동 포트포워딩을 할 수 없습니다.
+ServerUnreachable=Tunngle 서버에 도달할 수 없습니다.\r\nTunngle 을 재시작할까요?
+Offline=연결할 수 없었습니다.\r\n선택하신 사람이 오프라인입니다.
+ConnectionFail=연결할 수 없습니다.
+Messenger=경고!\r\n메신저는 아직 공사중입니다,\r\n메신저 창 번역이 아직 끝나지 않았습니다.\r\n다음 버전의 Tunngle 에서 고쳐질 것입니다.
+WriteRegistry=레지스트리에 설정을 저장할 수 없었습니다.\r\n관리자 계정으로 시도해보세요.
+SelectLanguage=먼저 언어를 선택해주세요.
+SelectAdapter=먼저 어댑터를 선택해주세요.
+LoginRequired=로그인 먼저 하세요.
+[Global-MessageBox-Question]
+Contact=%s 님을 친구목록에 추가하시겠습니까?
+Delete=%s 님을 당신의 블랙리스트에서 제거하시겠습니까?
+ChangeNet="%s" 네트워크를 나가고 "%s" 네트워크에 들어가시겠습니까?
+CloseChat="%s" 채팅방을 닫으시겠습니까?
+CloseLobby=%s 에서 나가시겠습니까?
+CloseTab=정말 "%s" 탭을 닫으시겠습니까?
+AddContact=%s 님이 친구목록에 당신을 추가하셨습니다.\r\n친구 요청을 수락하시겠습니까?
+Quit=정말 종료하시겠습니까?
+DelFavorite=정말 %s 를 제거하겠습니까?
+NewVersion=새로운 Tunngle 버전 %s 가 나왔습니다.\r\n지금 다운로드 할까요?
+Adapter=아래의 Tunngle 어댑터를 찾았습니다.\r\n%s\r\nTunngle 과 이 어댑터를 연결할까요?
+Language=당신의 시스템과 호환되는 "%s" 언어 파일을 찾아냈습니다.\r\n바로 이 언어파일을 선택할까요?
+LanguageID=선택하신 언어 파일이 현재 시스템 지역 설정과 일치하지 않습니다.\r\n어쨌든 계속할까요?
+LanguageCP=이 시스템의 코드페이지가 현재 선택한 언어 파일과 일치하지 않습니다.\r\n몇몇 문자가 제대로 표시되지 않을 수 있습니다.\r\n어쨌든 계속할까요?
+[Global-MessageBox-Error]
+RunOnce=오직 하나의 Tunngle 만 실행하실 수 있습니다.
+NotInstalled=Tunngle 이 제대로 설치되지 않았습니다.
+NoAdapter=Tunngle 네트워크 어댑터를 찾을 수 없습니다!
+AccountVerify=로그인 실패.\r\n당신의 계정은 활성화되지 않았습니다.
+AccountBann=로그인 실패.\r\n당신의 계정은 영구추방 당하였습니다.
+ConnectionProblem=접속 오류!\r\nUDP 연결로 서버에 접속할 수 없습니다.\r\n당신의 방화벽이 문제일 수도 있습니다.\r\n도움이 필요하신가요?
+NATProblem=NAT 오류!\r\n당신의 공유기 NAT 설정이 Tunngle 의 작동을 방해하고 있습니다.\r\n공유기에서 포트포워딩 설정이 필요합니다.\r\n도움이 필요하신가요?
+ConnectionProblemInfo=접속 오류!\r\nUDP 연결로 서버에 접속할 수 없습니다.\r\n당신의 방화벽이 문제일 수도 있습니다.\r\n도움이 필요하신가요?
+MasterServer=Tunngle 중앙 서버에 도달할 수 없습니다.
+Version=당신의 클라이언트는 오래되었습니다.\r\n바로 업데이트를 할까요?
+Safe=당신의 연결을 안전하게 만들 수 없습니다.
+AuthFail=로그인 실패.\r\n사용자ID 와 비밀번호를 확인해주세요.\r\n(계정 비밀번호와 유저 비밀번호를 혼동하지 마세요!)\r\n도움이 필요하신가요?
+AdapterInit=Tunngle 네트워크 어댑터를 초기화 할 수 없습니다!
+UDPSocket=UDP 소켓 에러!\r\nUDP 소켓을 만들 수 없습니다.\r\n당신의 방화벽이 문제일 수도 있습니다.\r\n도움이 필요하신가요?
+AdapterPrim1=Tunngle 네트워크 어댑터가 제대로 우선시 되지 않았습니다. (1)\r\nLAN 게임 목록에서 서버를 찾을 수 없을 것입니다.\r\n도움이 필요하신가요?
+AdapterPrim2=Tunngle 네트워크 어댑터가 제대로 우선시 되지 않았습니다. (2)\r\nLAN 게임 목록에서 서버를 찾을 수 없을 것입니다.\r\n도움이 필요하신가요?
+ServiceFound=Tunngle 서비스를 찾을 수 없습니다.
+ServiceContact=Tunggle 서비스와 연결할 수 없습니다!
+CryptFail=암호화 라이브러리를 불러올 수 없습니다!
+PortFail=선택된 포트는 제대로 포워드 되지 않았습니다. 다른 포트를 넣어주세요!
+WinSock2=WinSock 에 접근할 수 없습니다.\r\n네트워크 설정을 확인할 수 없습니다.
+LSPProblems=%d LSP 문제를 발견하였습니다.\r\n지금 바로 고칠까요?
+LSPBackup=LSP 백업 파일을 만드는 도중에 오류가 발생하였습니다.\r\n작업을 끝낼까요?
+LSPSafePoint=LSP 복원 지점을 만드는 도중 오류가 발생하였습니다.\r\n작업을 취소할까요?
+LSPRepair=%d LSP 문제를 해결할 수 없습니다.\r\n이전 상태로 복원하시겠습니까?
+LSPRedo=복원 실패
+WrongPassword=잘못된 암호입니다.
+ServerUnreachable=서버에 연결할 수 없습니다. 다시 시도하세요.
+SelectNetRange=네트워크 범위를 선택하세요.
+[Global-Text-Dynamic]
+Loading=불러오는 중 %s...
+FromTo=%d 부터 %d  %d 개의 게임 중
+LastAct=마지막 업데이트: %s
+Lobby=대기실 (%d)
+ChatJoined=<%s "%s" 님이 채팅방에 접속하였습니다.>
+NetJoined=<%s "%s" 님이 네트워크에 접속하였습니다.>
+LobbyJoined=<%s "%s" 님이 대기실에 접속하였습니다.>
+ChatLeft=<%s "%s" 님이 채팅방에서 나가셨습니다.>
+NetLeft=<%s "%s" 님이 네트워크에서 나가셨습니다.>
+LobbyLeft=<%s "%s" 님이 대기실에서 나가셨습니다.>
+ConnectionDeny1=* 당신이 이 분의 블랙리스트에 등록되어 있기 때문에, %s 님과 연결할 수 없습니다. *
+ConnectionDeny2=* 당신의 블랙리스트에 등록되어 있기 때문에, %s 님과 연결할 수 없습니다. *
+ConnectionLost=[ %s 님이 Tunngle server 와의 접속이 끊겼습니다! ]
+VirtualIP=가상 IP: %s
+LoginNick=이 ID로 로그인: %s
+Version=Version: %s
+Connecting=접속중 %s
+ChatMe=나: %s
+ChatDeny=* 당신의 블랙리스트에 등록되어 있기 때문에 %s 님으로부터 메시지를 받을 수 없습니다. *
+AddBlacklist=%s 를 얼마만큼 블랙리스트에 올려놓으시겠습니까?
+PingMs=Ping: %s ms
+ChannelMode=Type: %s
+Ports=포트: %s
+WaitingQueue=대기순 %d/%d
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle 뉴스
+CaptionStart=Tunngle 시작
+CaptionStartPage=Tunngle 시작
+CaptionQuickstart=빠른 시작
+CaptionSupport=고객 지원
+CaptionBetainfo=베타 정보
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=다운로드
+CaptionResults=결과...
+CaptionChat=채팅방
+CaptionLobby=대기실
+CaptionNetwork=네트워크
+CaptionTunngleforum=Tunngle 포럼
+CaptionEventplaner=일정 계획
+CaptionForumfaq=포럼 FAQ
+CaptionForum=포럼
+CaptionTunngleskins=Tunngle 스킨
+CaptionSearch=검색
+CaptionBrowser=게임 목록
+CaptionSkinconfig=스킨 옵션
+CaptionSoundconfig=소리
+CaptionPrivacylists=블랙 리스트
+CaptionConfiguration=옵션
+CaptionFavorite=즐겨찾기
+CaptionSubBrowser=네트워크
+CaptionAccount=계정
+SplashPleaseWait=잠시만 기다려주세요...
+SplashLoaddata=데이타 불러오는 중...
+SplashReset=재시작 중...
+SplashConfig=설정 중...
+SplashLoading=불러오는 중...
+SplashConnecting=접속 중...
+SplashVersion=버전 확인 중...
+SplashSafe=접속 보호 중...
+SplashUPnP=UPnP 포트포워딩 시도 중...
+SplashAuth=인증하는 중...
+SplashAdatperset=어댑터 설정 중...
+SplashAdapterinit=어댑터 초기화 중...
+SplashAdapterstart=어댑터 시작 중...
+SplashAdapterchkprim=어댑터 우선순위 확인 중...
+SplashAdapterchkbc=어댑터 브로드캐스트 확인 중...
+SplashAdapterchkstop=어댑터 멈춤 확인 중...
+SplashFinalize=마무리 중...
+SplashServiceinit=Tunngle 서비스 초기화 중...
+SplashServicecontact=Tunngle 서비스 접속 중...
+SplashServercontact=Tunngle 서버에 접속 중...
+SplashConfigurate=Tunngle 설정 중...
+SplashWinSock2=네트워크 설정 확인 중...
+SplashNetzone=네트워크 위치 확인 중...
+SearchInWork=검색 중...
+Lobby=대기실
+NetLeft=네트워크 나감.
+NoIP=가상 IP: -
+ChatJoined=채팅방에 성공적으로 접속하였습니다.
+NetJoined=네트워크에 성공적으로 접속하였습니다.
+LobbyJoined=대기실에 성공적으로 접속하였습니다.
+FoundNothing=결과 없음!
+NetChangeBegin=네트워크 스위치 시도중. 잠시만 기다려주세요...
+NetChangeEnd=네트워크 스위치 성공. 잠시만 기다려주세요...
+NotLoggedIn=로그인 되어있지 않습니다.
+EnterNamePW=사용자ID 와 비밀번호를 입력해주세요.
+MessageSendFail=* 메시지를 보낼 수 없습니다. *
+MessageSendFlood=* 메시지를 너무 빨리 쓰고 있습니다. 천천히 써주세요. *
+LaunchParameter=커맨드라인 파라메터:
+TypeStandard=텅글유저
+TypeInterlink=상호연결 서버
+TypeTunngleTeam=Tunngle 운영자
+TypeEnthusiast=Tunngle 광팬
+SplashExecuteJoin=기다려주세요...
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=커뮤니티
+SpeedButtonCommunity2=<
+SpeedButtonLogin=로그인
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=친구와 네트워크 찾기
+SpeedButtonCommunity2=마지막으로 활성화 된 탭
+SpeedButtonMessenger=메신저
+SpeedButtonWiki=도움
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=시작 페이지
+ButtonQABetaInfo=베타 정보
+ButtonQAForum=포럼
+ButtonQAEventPlanner=일정 계획
+ButtonQALobby=Tunngle 대기실
+ButtonQAFavorites=즐겨찾기
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=시작 페이지
+spDynamicSkinFormMain-2=포럼
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=네트워크 목록
+ExPanelFindnetwork=네트워크 검색
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=검색
+MenuItemNetFavorite=즐겨찾기
+MenuItemNetCreate=만들기
+MenuItemTunnglelobby=Tunngle 대기실
+MenuItemEventplaner=일정 계획
+MenuItemBanner=광고
+MenuItemSounds=효과음
+MenuItemSkins2=스킨
+MenuItemPrivacylists=블랙리스트
+MenuItemConfiguration=옵션
+MenuItemAbout=Tunngle 이란
+MenuItemTrayOpen=열기
+MenuItemTrayClose=닫기
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=알림
+MenuItemAddContact=친구목록에 추가
+MenuItemAddBlacklist=블랙리스트에 추가
+MenuItemEditBlacklist=블랙리스트 편집
+MenuItemSortNicks=닉네임으로 정렬
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=보내기
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=채팅:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< 뒤로
+ButtonForward=다음 >>
+ButtonActualize=새로고침
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=이름
+ListViewNet-1=온라인
+ListViewNet-2=장르
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=즐겨찾기에 추가
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=새로고침
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=이름
+ListViewNet-1=온라인
+ListViewNet-2=장르
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=즐겨찾기에 추가
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< 뒤로
+ButtonForward=다음 >>
+ButtonActualize=새로고침
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=이름
+ListViewNet-1=온라인
+ListViewNet-2=장르
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=즐겨찾기에서 삭제
+MenuItemSortFavorite=즐겨찾기로 정렬
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=새로고침
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=이름
+ListViewNet-1=온라인
+ListViewNet-2=장르
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=즐겨찾기 삭제
+MenuItemSortFavorite=즐겨찾기로 정렬
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=모든 인터페이스에서 방송 가로막기
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=포워드된 포트
+CheckRadioBoxUPnP=UPnP 사용
+CheckRadioBoxTCActive=활성화
+CheckRadioBoxSignature=웹 서명
+CheckRadioBoxLog=네트워크 로깅
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=메모!\r\n보통은 비활성화
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=확인
+ButtonAccept=적용
+ButtonCancel=취소
+ButtonTest=테스트
+ButtonDefault=기본 설정
+ButtonWizard=마법사
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=인터페이스
+GroupBoxNetconfig=네트워크
+GroupBoxRouterconfig=공유기
+GroupBoxTrafficcontroller=트래픽 컨트롤러
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=언어
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=경고! 새로운 설정을 적용하기 위해 Tunngle 을 재시작합니다!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle 검색
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=모든 네트워크 숨기기
+CheckRadioBoxEmpty=빈 네트워크 숨기기
+CheckRadioBoxPassword=비밀번호로 보호된 네트워크 숨기기
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=검색 필터
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=검색 필터 >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< 뒤로
+ButtonForward=다음 >>
+ButtonActualize=새로고침
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=이름
+ListViewResults-1=온라인
+ListViewResults-2=장르
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=즐겨찾기에 추가
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=알림
+MenuItemAddContact=친구목록에 추가하기
+MenuItemAddBlacklist=블랙리스트에 추가하기
+MenuItemEditBlacklist=블랙리스트 편집
+MenuItemSortNicks=닉네임으로 정렬
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=보내기
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=채팅:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=확인
+ButtonAccept=적용
+ButtonCancel=취소
+ButtonFind=검색
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=닉네임
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=검색
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=글로벌 블랙리스트
+StdLabelChatmessages=채팅 블랙리스트
+StdLabelName=이름
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=제거
+MenuItemDeleteChat=제거
+MenuItemAddBlacklist=블랙리스트에 추가
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=확인
+ButtonAccept=적용
+ButtonCancel=취소
+ButtonDownload=더 많은 스킨 다운로드
+ButtonDefault=기본 Tunngle 스킨
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=미리보기
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=라벨
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=텍스트 필드
+[FrameSkins-TspSkinEdit-Text]
+EditInput=입력 필드
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=체크박스
+CheckRadioBox2=체크박스
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=확인
+ButtonAccept=적용
+ButtonCancel=취소
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=효과음 켜기
+CheckRadioBoxStart=시작
+CheckRadioBoxLogin=로그인
+CheckRadioBoxLeave=Tunngle 유저가 네트워크를 떠남
+CheckRadioBoxJoin=Tunngle 유저가 네트워크에 들어옴
+CheckRadioBoxReceive=메시지 받음
+CheckRadioBoxQuit=종료
+CheckRadioBoxSend=메시지 보냄
+CheckRadioBoxKey=채팅칸에 키 누름
+CheckRadioBoxDirectopen=새로운 사설채팅창이 뜸
+CheckRadioBoxDirectmessage=사설채팅방
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=게임목록
+ButtonFavorite=즐겨찾기
+ButtonQuicklaunch=빠른 시작
+ButtonBetainfo=베타 정보
+ButtonForum=포럼
+ButtonEventplaner=일정 계획
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=뒤로
+StatusPanelForward=다음
+StatusPanelStop=중지
+StatusPanelReload=새로고침
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=뒤로
+StatusPanelForward=다음
+StatusPanelStop=중지
+StatusPanelReload=새로고침
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=알림
+MenuItemAddContact=친구목록에 추가
+MenuItemAddBlacklist=블랙리스트에 추가
+MenuItemEditBlacklist=블랙리스트 편집
+MenuItemCopyIP=클립보드에 IP 복사
+MenuItemSortNicks=닉네임으로 정렬
+MenuItemSortIPs=지연시간 순으로 정렬
+MenuItemConfig=설정
+MenuItemShowProfile=프로필 보기
+MenuItemSelectAll=모두 선택
+MenuItemCopy=복사하기
+MenuItemChangeNick=이름 변경하기
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=보내기
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=채팅:
+[FrameVPN-TspSkinCheckBox-Hint]
+CheckBoxScroll=자동 스크롤
+[FrameVPN-TspSkinButton-Hint]
+ButtonLauncher=게임 런처
+ButtonVideo=영상 검색
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=닫기
+[FormAbout-Infos]
+Caption=Tunngle 에 대해
+[FormLogin-Infos]
+Caption=로그인
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=로그인
+ButtonCancel=취소
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=사용자ID:
+LabelPassword=비밀번호:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=기억하기
+CheckRadioBoxAuto=자동 로그인
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=무료 Tunngle 계정 만들기
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=취소
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=보내기
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=채팅:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=그룹 추가
+MenuItemContactAdd=친구 추가
+MenuItemContactHideOffline2=오프라인 유저 숨기기
+MenuItemRights=권한
+MenuItemTunngleShares=Tunngle 공유
+MenuItemContactInfo=친구 정보
+MenuItemContactAlert=친구 경계
+MenuItemContactNote=친구 메모
+MenuItemReadAwayMessage=자리비움 메시지 읽기
+MenuItemContactRename=친구 이름바꾸기
+MenuItemContactDelete=친구 지우기
+MenuItemMoveToGroup=그룹 옮기기
+MenuItemContactHideOffline3=오프라인 유저 숨기기
+MenuItemMessage=직접 채팅
+MenuItemRights2=권한
+MenuItemTunngleShares2=Tunngle 공유
+MenuItemGroupRename=그룹 이름바꾸기
+MenuItemGroupDelete=그룹 지우기
+MenuItemGroupExpandCollapse=그룹 확장/축소
+MenuItemContactHideOffline=오프라인 유저 숨기기
+MenuItemMain=메뉴(&M)
+MenuItemAddContact=친구 추가하기
+MenuItemInNetwork=네트워크 정보
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=취소
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=파일
+ListViewLanguage-1=언어
+ListViewLanguage-2=제작자
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=계속
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=텅글에서 쓸 언어를 선택해주세요.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=이름
+ListViewAdapter-1=아이피
+ListViewAdapter-2=장치 이름
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=계속
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=텅글에서 쓸 언어를 선택해주세요
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=확인
+ButtonCancel=취소
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=채팅만 허용
+CheckRadioBoxComplete=전부 차단
+CheckRadioBoxHours=시간
+CheckRadioBoxDate=까지
+CheckRadioBoxInfinite=영원히
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=확인
+ButtonCancel=취소
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=패스워드를 입력하세요:
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonJoin=들어가기
+ButtonNetworkList=네트워크 목록
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelNetRange=네트워크 범위:
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=기본 네트워크
+CheckRadioBoxNetPremium=프리미엄 네트워크
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=알림
+MenuItemAddContact=친구 추가하기
+MenuItemCopyIP=IP 복사하기
+MenuItemSortNicks=이름순으로 정렬
+MenuItemSortIPs=핑 순으로 정렬
+MenuItemConfig=설정
+MenuItemShowProfile=프로필 보기
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=보내기
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=채팅:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=다시 보지 않기
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=확인
+ButtonAccept=적용하기
+ButtonCancel=닫기
+ButtonChangeNick=이름 변경
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=계정 옵션
+[FormWizard-Infos]
+Caption=인트로 영상
+[FrameBeforeLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=다시 보지 않기
+[FrameNetCreateEasy-TspSkinMemo-Text]
+MemoWelcome=환영 메시지
+[FrameNetCreateEasy-TspSkinLabel-Caption]
+LabelNetworkTypeT=네트워크 유형:
+LabelNetworkNameT=네트워크 이름:
+LabelNetworkPasswordT=네트워크 암호:
+LabelNetworkTypeB=네트워크 유형:
+LabelNetworkNameB=네트워크 이름:
+LabelNetworkPasswordB=네트워크 암호:
+[FrameNetCreateEasy-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=기본
+ComboBoxNetTypeT-1=프리미엄
+ComboBoxNetTypeB-1=프리미엄
+ComboBoxNetRange-0=7.x.x.x (기본)
+[FrameNetCreateEasy-TspSkinButton-Caption]
+ButtonNetworkList=네트워크 목록
+[FrameNetCreateEasy-TspSkinStdLabel-Caption]
+UrlLabelNetRange=네트워크 범위:
+[FrameNetCreateEasy-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=기본 네트워크
+CheckRadioBoxNetPremium=프리미엄 네트워크

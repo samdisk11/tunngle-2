@@ -1,0 +1,767 @@
+
+[Header]
+Author=Alban Mulaki (Community)
+Date=2014.12.19
+Language=Albanian
+CharSet=DEFAULT_CHARSET
+PrimLangID=28
+CodePage=1250
+[Global-Ressource]
+MI_MINCAPTION=Mi&nimize
+MI_MAXCAPTION=Ma&ximize
+MI_CLOSECAPTION=&Close
+MI_RESTORECAPTION=&Restore
+MI_MINTOTRAYCAPTION=Minimizo tek &tray
+MI_ROLLUPCAPTION=Ro&ll up
+MINBUTTON_HINT=Minimizo
+MAXBUTTON_HINT=Maksimizo
+CLOSEBUTTON_HINT=Mbylle
+TRAYBUTTON_HINT=Minimizoje tek tray 
+ROLLUPBUTTON_HINT=Lëvize
+MENUBUTTON_HINT=Menu sistemit
+RESTORE_HINT=Riktheje
+EDIT_UNDO=Riktheje
+EDIT_COPY=Kopjo
+EDIT_CUT=Zhvendose
+EDIT_PASTE=Vendose këtu
+EDIT_DELETE=Fshije
+EDIT_SELECTALL=Selektoj të gjitha
+MSG_BTN_YES=&Po
+MSG_BTN_NO=&Jo
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Anulo
+MSG_BTN_ABORT=&Anulo
+MSG_BTN_RETRY=&Provo Prap
+MSG_BTN_IGNORE=&Injoro
+MSG_BTN_ALL=&Të Gjitha
+MSG_BTN_NOTOALL=J&oTëGjitha
+MSG_BTN_YESTOALL=&PoTëGjitha
+MSG_BTN_HELP=&Ndihmë
+MSG_BTN_OPEN=&Hape
+MSG_BTN_SAVE=&Ruaje
+MSG_BTN_CLOSE=Mbylle
+MSG_BTN_BACK_HINT=Shko tek folderi vizituar për herë te fundit
+MSG_BTN_UP_HINT=Shko një nivel më lartë
+MSG_BTN_NEWFOLDER_HINT=Krijo një follder
+MSG_BTN_VIEWMENU_HINT=Shiko Menyn
+MSG_BTN_STRETCH_HINT=Tërhiqe Pikturën
+MSG_FILENAME=Emri skedarit:
+MSG_FILETYPE=Tipi skedarit:
+MSG_NEWFOLDER=Krijo Follder
+MSG_LV_DETAILS=Detailet
+MSG_LV_ICON=Ikonat e mëdhoja
+MSG_LV_SMALLICON=Ikonat e vogla
+MSG_LV_LIST=List
+MSG_PREVIEWSKIN=Parashiko
+MSG_PREVIEWBUTTON=Button
+MSG_OVERWRITE=Dëshiron ti mbishkruash skedarët e vjeter?
+MSG_CAP_WARNING=Paralajmërim
+MSG_CAP_ERROR=Error
+MSG_CAP_INFORMATION=Informacion
+MSG_CAP_CONFIRM=Konfirmo
+MSG_CAP_SHOWFLAG=Mos e paraqit prap këtë mesazh
+CALC_CAP=Kalkulator
+ERROR=Error
+COLORGRID_CAP=Nuanca bazë
+CUSTOMCOLORGRID_CAP=Ngjyra sipas zgjedhjes
+ADDCUSTOMCOLORBUTTON_CAP=Shto një ngjyr
+FONTDLG_COLOR=Ngjyrë:
+FONTDLG_NAME=Emri:
+FONTDLG_SIZE=Madhësia
+FONTDLG_HEIGHT=Lartësia:
+FONTDLG_EXAMPLE=Shembull:
+FONTDLG_STYLE=Stili:
+FONTDLG_SCRIPT=Script:
+DB_DELETE_QUESTION=A jeni të sigurt që dëshironi të fshini ?
+DB_MULTIPLEDELETE_QUESTION=Fshij të gjitha të selektuarat ?
+NODISKINDRIVE=Këtu nuk ka mundësi instalimi ose HardDisku nuk është e gatëshme
+NOVALIDDRIVEID=Drive ID nuk është valide
+FLV_NAME=Emri
+FLV_SIZE=Madhësia
+FLV_TYPE=Tipi:
+FLV_LOOKIN=Shiko në:
+FLV_MODIFIED=Modifikuar
+FLV_ATTRIBUTES=Atributtet
+FLV_DISKSIZE=Madhësia Diskut
+FLV_FREESPACE=Hapësir e Lirë
+PRNDLG_NAME=Emri:
+PRNDLG_PRINTER=Printer
+PRNDLG_PROPERTIES=Rregullimi...
+PRNDLG_TYPE=Tipi:
+PRNDLG_STATUS=Status:
+PRNDLG_WHERE=Kur:
+PRNDLG_COMMENT=Komment
+PRNDLG_PRINTRANGE=Madhësia e printimeve
+PRNDLG_COPIES=Kopjet
+PRNDLG_NUMCOPIES=Numri Printimeve:
+PRNDLG_COLLATE=Grumbulloj
+PRNDLG_ALL=Të Gjitha
+PRNDLG_PAGES=Faqet
+PRNDLG_SELECTION=Të Zgjedhurat
+PRNDLG_PRINTTOFILE=Printo në skedar
+PRNDLG_FROM=nga:
+PRNDLG_TO=tek:
+PRNDLG_ORIENTATION=Orientimi
+PRNDLG_PAPER=Fleta
+PRNDLG_PORTRAIT=Portret
+PRNDLG_LANDSCAPE=Peisazh
+PRNDLG_SOURCE=Burimi:
+PRNDLG_SIZE=Madhësia:
+PRNDLG_MARGINS=Margjinat ( milimeter)
+PRNDLG_MARGINS_INCHES=Margjinat ( Inq )
+PRNDLG_LEFT=Majtas:
+PRNDLG_RIGHT=Djathtas:
+PRNDLG_TOP=Lartë:
+PRNDLG_BOTTOM=Fundi:
+PRNDLG_WARNING=Nuk keni printer të kyqur në sistem!
+FIND_NEXT=Gjeje tjetrën
+FIND_WHAT=Kërko diqka:
+FIND_DIRECTION=Direksioni
+FIND_DIRECTIONUP=Lartë
+FIND_DIRECTIONDOWN=Posht
+FIND_MATCH_CASE=Perputhet
+FIND_MATCH_WHOLE_WORD_ONLY=Përputhet vetëm me një skedar
+FIND_REPLACE_WITH=Zëvendësoje me:
+FIND_REPLACE=Zëvendësoje
+FIND_REPLACE_All=Zëvendësoj të gjithat
+FIND_REPLACE_CLOSE=Mbylle
+MORECOLORS=Më Shumë ngjyra...
+AUTOCOLOR=Automatik
+CUSTOMCOLOR=Zgjedhje...
+[Global-MessageBox-Information]
+Select=You duhet të zgjidhin Tunnglerin së pari.
+Controller=Kontrollimi i trafikut është deaktivizuar në këtë verzion.
+EnterSearchText=Ju lutemi shtypni diqka për të kërkuar
+EnterSearchUser=Ju lutemi shtypni diqka për të kërkuar
+ContactDeny=%s ka refuzuar kërkesen tënde për shok/shoqe.
+ContactAccept=%s ka pranuar kërkesen tënde për shok/shoqe.
+ConnectionLost=Lidhja ishte humbur./r/nCode: %s
+ConnectionProblem=Problemi mundëshm mund të jet lidhja.\r\n Ruteri juaj nuk mund të konfigurhet nga Tunngle\r\t për ta bër konektimin me sukses të P2P me përdoruesit tjerë.\r\n Hapni faqen Ndihmëse?
+PortReachable=Porti që ju selektuat është i hapur dhe pranon konektime.
+CreateNet=Ky funksion nuk është i gatshëm ende.\r\nJu lutemi postoni sygjerimin tuaj ne forum.\r\nDo të dëshironi të hapni tani faqen e forumit Tunngle?
+AdapterPrim=Adapteri Tunngle nuk ka prioritet.(0)\r\nJu nuk mund te gjeni ndonjë server në LAN .
+EnterNamePW=Ju lutemi shtypni identifikimin dhe fjalëkalimin
+NewVersion=Verzioniri %s i Tunngle është publikuar ju mund ta shkarkoni atë.
+FriendNetwork=%s është në "%s" rrjetin .\r\n Dëshironi te lidheni në këtë rrjet?
+FriendNoNetwork=%s nuk është ne rrjet.
+Close=Tunngle tani do të mbyllet
+LSPBackup=Backup LSP është kryer me sukses.\r\n%s
+LSPOK=Problemi %d LSP është zgjidhur.
+LastTab=Nuk mund te mbyllet tab i fundit
+NetFull=Networku është full
+TempNetInfo=Rrjetet bazike pas një kohe të gjatë joaktive do të fshihen.
+TempNetDisabled=Krijimi rrjetit për momentin është ndaluar.Ju lutemi provoni më von.
+TempNetLimit=Nuk lejohet krijimi i më shumë rrjeteve në këtë moment.Ju lutemi provoni më vonë.
+TempNetMissing=Rrjeti që ju selektuat nuk egziston.Ju lutemi selektoni ndonjë tjeter ose krijoni një rrjet vet.
+TempNetFull=Rrjeti i selektuar është full.Ju lutemi zgjidhni një tjeter ose krijoni.
+TempNetExist=Ky rrjet egziston.Ju lutemi zgjidhni një tjeter emër ose lidhuni në një tjeter.
+TempNetPassword=Fjalëkalimi Gabim !.
+TempNetInvalid=Emri që ju selektuat nuk është valide.Ju lutemi zgjidhni një tjetër
+ConfigAttention=Ju lutemi restartoni Tunngle për ndryshimet e reja.
+ProcessSuccess=Ndryshimi përfundoj me sukses.
+NickChange=Ju mund të ndryshoni Nickanme në Tunngle duke përdoru Kontrol Panelin në website Tunngle.net\r\nShtypni OK për ta ndryshuar.\r\n Kujdes!! Ju mundeni vetëm një herë te ndryshoni nick.
+[Global-MessageBox-Warning]
+PortUnreachable=Porti selektuar nuk duket që është i hapur .\r\nMbishkrim:Nëse Tunngle punon në rregull ju nuk keni se përse të brengoseni.
+UPnP=Nuk mundi të bëj prot forwarding automatikishit duke e përdorur UPnP
+ServerUnreachable=Nuk mund të lidhet me serverin Tunngle.\r\nStartoje Tunngle sido që të jetë?
+Offline=Lidhja dështoi. \r\n Kontakti i selektuar është offline
+ConnectionFail=Lidhja nuk mundi të bëhej
+Messenger=Kujdes!\r\është në përpunim.\r\nPërkthimi nuk është përfunduar ende.\r\nKjo do të zgjidhet ne verzionet tjera të Tunngle.
+WriteRegistry=Konfigurimi nuk mund të ruhet tek regjistrat.\r\nJu lutemi kontaktoni Administratorin.
+SelectLanguage=Ju lutemi zgjidhni gjuhën së pari.
+SelectAdapter=Ju lutemi zgjidhin përshtatsin së pari.
+NetworkBusy=Ky rrjet është shumë i nxën për momentin.\r\nJu lutemi zgjidhni tjeter rrjet.
+LoginRequired=Ju duhet te identifikoheni së pari.
+ConfigAdapter=Një error u afishua gjatë konfigurimit te rrjetit.\r\nRrjeti ndoshta nuk është duke punuar mirë.
+ProcessFail=Ndryshimi dështoi.
+NickInvalid=Nickname juaj mund të përmbajn vetëm këto karaktere:
+[Global-MessageBox-Question]
+Contact=Dëshironi të shtoni %s si shok/shoqe ?
+Delete=A jeni të sigurt që të fshini %s nga lista juaj e zezë?
+ChangeNet=A jeni të sigurt që të lini këtë rrjet  "%s" për tu lidur në  "%s" ? 
+CloseChat=A jeni të sigurt që ta mbyllni këtë "%s" chat?
+CloseLobby=A jeni të sigurt që dëshironi të lini %s?
+CloseTab=A jeni të sigurt që ta mbyllni këtë "%s" tab?
+AddContact=%s të ka dërguar ftes shoqërie.\r\nDëshironi ta pranoni?
+Quit=A jeni të sigurt që do të dilni?
+DelFavorite=A jeni të sigurt qe do ti fshini %s?
+NewVersion=Verzioni i ri %s i Tunngle është publike.\r\nA dëshironi ta pranonin?
+Adapter=%s të ka shtuar si shok/shoqe .\r\nDëshironi ta pranoni?
+Language=Ne kemi detektuar se gjuha sistemit nuk ka kompatibilitet me gjuhën %s.\r\nDëshironi ta selektoni një tjeter tani ?
+LanguageID=Gjuha selektuar nuk përputhet me lokacionin e sistemit tuaj.\r\nVazhdoni sidoqoftë?
+LanguageCP=Sistemi tanishëm nuk korrospendon me gjuhen e selektuar.\r\nDisa karaktere nuk do te afishohen.\r\nVazhdoni si që të jetë?
+CliQuit=Tunngle duhet të restartohet për ndryshime të reja.\r\nA dëshironi të restartoni Tunngle?
+TempNetActivate=Aktivizimi është i obliguar për ta përdorur.\r\nAktivizoni dhe përdorni 100% të gjitha funksionet.\r\nDëshironi te hapni shfletuesin tani për ta aktivizuar?
+TempNetActivateB=Shfletuesi tani do tju dërgoj tek një rrjet privat per aktivizim.\r\n Ju lutemi kompletoni aktivizimi dhe pastaj shtypni OK kur të përfundoni.
+FileExists=Ky skedar egziston. Dëshironi ta mbishkruani atë?
+RestoreDefault=Dëshironi të riktheni të gjitha opsient  sikur më parë ?
+RestoreOptions=Dëshironi ti vendosni vlerat default ?
+PremiumFeature=Kërkohet Tunngle Premmium akkount për të përdoru këtë pjesë.\r\n Dëshironi të hapni shfletuesin për të lexuar me shumë rreth shërbimeve?
+ExternalLink=Ju keni klikuar një link të jashtëm.\r\nMbishkrim Tunnge.Net GmbH nuk jep përgjegjësi për linqet që postohen në chat dhe ju i hapni ato.\r\nNëse ju klikoni Po,Do të hapet linku
+[Global-MessageBox-Error]
+RunOnce=Nuk mund të hapni dy her Tunngle në të njejtën kohë.
+NotInstalled=Tunngle nuk është instaluar siq duhet.
+NoAdapter=Nuk gjindet rrjeti Tunngle!
+AccountVerify=Kyqja dështoj.\r\nAkkounti juaj nuk është verifikuar.
+AccountBann=Kyqja dështoj.\r\nAkkounti juaj isht përjashtuar
+ConnectionProblem=Gabim gjatë lidhjes!\r\nNuk mund të bëhet lidha UDP me serverin,\r\nFirewall juaj mund ta shkaktoj këtë.\r\n Keni nevoj për ndihmë?
+NATProblem=NAT gabim!\r\n Ruteri juaj nuk u konfigura për Tunngle,\r\nJu duhet te bëni port forwarding,\r\nNdhihmë?
+ConnectionProblemInfo=Identifikimi dështoi.\r\nJu lutemi kontrolloni username tuaj ose passwordin tuaj.\r\n nëse gjitha tjetër dështon , provoni të resetoni passwordin tuaj.\r\nKeni nevojë për me shum ndihmë?
+MasterServer=Nuk mundi te bëhej lidhja me serverin kryesor të Tunngle
+Version=Update tani ?
+Safe=Lidhja juaj nuk mund të jet e siguruar.
+AuthFail=Identifikimi dështoi.\r\nJu lutemi kontrolloni username dhe passwordin tuaj.\r\nNëse gjithqka është në dështon ,atëher provoni të resetoni passwordin.\r\nKeni nevojë për ndihmë?
+AdapterInit=Nuk mund të bëj inicializimin e përshtatsit Tunngle
+UDPSocket=UDP socket gabim!\r\nNuk mund te krijohet tunneli UDP.\r\nFirewall juaj ndosht është duke bër problem.\r\nKërkoni ndihmë?
+AdapterPrim1=Rrjeti Tunngle nuk ka prioritet.(1)\r\nJu nuk mund të gjeni njdonjë server në LAN.\r\nKërkoni Ndihmë?
+AdapterPrim2=Rrjeti Tunngle nuk ka prioritet.(2)\r\nJu nuk mund të gjeni njdonjë server në LAN.\r\nKërkoni Ndihmë?
+ServiceFound=Nuk mundi të gjente Servisin Tunngle!
+ServiceContact=Nuk mund të komunikoj me Tunngle!
+CryptFail=Nuk mundi të ngarkonte librarin e kriptografis
+PortFail=Porti selektuar nuk është vailde për tu bër forward.Ju lutemi shytpni një tjeter port!
+WinSock2=Nuk mund të ket akcess tek WinSock.\r\nKonfigurimi rrjetit nuk mund të kontrollohet.
+LSPProblems=%d Probleme me LSP.\r\nZgjidhni tani?
+LSPBackup=U bë një gabim gjatë krijimit të backup LSP.\r\nDëshironi ta ndaloni ?
+LSPSafePoint=U bë një gabim gjatë krijimit të rikthimit LSP.\r\nDëshironi të ndaloni?
+LSPRepair=Problemi %d LSP nuk mundej te zgjidhej.\r\nRiktheje si ne formën e mëparëshme
+LSPRedo=Rikthimi dështoi.
+ConfigAdapter=Nuk mundi ta bëj konfigurimin e Tunngle
+WrongPassword=Fjalkalimi Gabim!.
+GUIVersionMismatch=Instalimi i tanishëm duket se është korruptuar
+InterlinkFormat=Nërlidhjet ilegale të syntaksave.Mund të jet "GameServer:Port"
+cProgram=Ju keni një skedar ne kompjuter që thirret "C:\\program" cila mund te ndaloj që Tunngle të startoj normalisht.\r\n Riemerto ate në "C:\\program1" dhe do të zgjidhet
+ProcessFail=Ndryshimi dështoi.
+[Global-Text-Dynamic]
+Loading=Ngarkimi%s...
+FromTo=%d tek %d e %d
+LastAct=Update e fundit: %s
+Lobby=Paradhoma ( %d)
+ChatJoined=<%s"%s" është lidhur në chat.>
+NetJoined=<%s"%s" është lidhur në rrjet.>
+LobbyJoined=<%s"%s" është lidhur në dhomë.>
+ChatLeft=<%s"%s" është shkyqur nga chati.>
+NetLeft=<%s"%s" është shkyqur nga rrjeti.>
+ConnectionDeny1=* Lidhja nuk mundej të bëhej tek %s sepse ju jeni në listen e zezë të tij/saj. *
+ConnectionDeny2=* Lidhja nuk mundej të bëhej tek %s sepse ai është në listen tuaj të zezë. *
+ConnectionLost=[ %s Keni humbur lidhjen tek serveri Tunngle! ]
+VirtualIP=IP Virtuale: %s
+LoginNick=Identifikuar si : %s
+Version=Verzioni: %s
+Connecting=Duke u lidhur %s
+ChatMe=Unë:%s
+ChatDeny=* Nuk mund të marrësh mesazhe nga %s sepse ai ësht në listen e zez. *
+AddBlacklist=Sa gjatë %s do të jet në listen e zezë?
+PingMs=Ping:%s ms
+ChannelMode=Tipi:%s
+Ports=Port:%s
+WaitingQueue=Duke pritur në radh %d/%d
+AddedBlackList=%s është shtuar me sukses ne listen e zezë.
+UserID=ID: %d
+[Global-Text-Static]
+CaptionTunnglenews=Të rejat nga Tunngle
+CaptionStart=Starto Tunngle
+CaptionStartPage=Starto Tunngle
+CaptionQuickstart=Fillo Shpejt
+CaptionSupport=Mbështetja(Support)
+CaptionBetainfo=Beta Info
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Shkarko Zonën
+CaptionResults=Rezultatet...
+CaptionChat=Chat
+CaptionLobby=Dhoma
+CaptionNetwork=Rrjeti
+CaptionTunngleforum=Forumi Tunngle
+CaptionEventplaner=Planifikuesi Ngjarjeve
+CaptionForumfaq=Forum FAQ
+CaptionForum=Forum
+CaptionTunngleskins=Themet Tunngle
+CaptionSearch=Kërko
+CaptionBrowser=Shfletues
+CaptionSkinconfig=Opsionet e themes
+CaptionSoundconfig=Zërimi
+CaptionPrivacylists=Lista e zezë
+CaptionConfiguration=Opsionet
+CaptionFavorite=Bookmark
+CaptionSubBrowser=Rrjetet
+CaptionCreateNet=Rrjetet Private
+CaptionAccount=Akkount
+SplashPleaseWait=Ju lutemi prisni...
+SplashLoaddata=Përgaditja e të dhënave
+SplashReset=Duke u restartuar...
+SplashConfig=Duke u konfiguruar...
+SplashLoading=Përgaditja...
+SplashConnecting=Duke u lidhur...
+SplashVersion=Kontrollimi verzionit
+SplashSafe=Lidhjen e sigurimit...
+SplashUPnP=Duke u përpjekur të bëj port forwarding...
+SplashAuth=Duke u vërtetuar...
+SplashAdatperset=Ngritja e prioritetit...
+SplashAdapterinit=Inicializimi...
+SplashAdapterstart=Duke u lidhur...
+SplashAdapterchkprim=Kontrollimi i prioritetit...
+SplashAdapterchkbc=Kontrollimi transsmetimit...
+SplashAdapterchkstop=Verifikimi i qkyqkjes...
+SplashFinalize=Finalizimi...
+SplashServiceinit=Inicializimi i Tunngle-s
+SplashServicecontact=Duker provuar të lidhet në Tunngle
+SplashServercontact=Duke u lidhur në serverin Tunngle
+SplashConfigurate=Konfigurimi Tunngle-s
+SplashWinSock2=Kontrollimi konfigurimit të rrjetit...
+SplashNetzone=Kontrollimi lokacionit të rrjetit
+SearchInWork=Kërkimi në progress...
+Lobby=Dhoma
+NetLeft=La rrjetin.
+NoIP=IP Virtuale : -
+ChatJoined=Jeni konektuar me sukses në chat.
+NetJoined=Jeni konektuar me sukses në rrjet.
+LobbyJoined=Ju jeni lidhur në dhomë me sukses
+FoundNothing=Nuk ka rezultate!
+NetChangeBegin=Atentimi i lidhjes me rrjet.Ju lutemi prisni...
+NetChangeEnd=Lidhja u bë me sukses. Ju lutemi prisni...
+NotLoggedIn=Ju nuk jeni te kyqur.
+EnterNamePW=Ju lutemi shtypni username dhe passwordin
+MessageSendFail=* Mesazhi nuk u dërgua me sukses *
+MessageSendFlood=* Ju jeni duke dërguar mesazhe shumë shpejt.Ju lutemi ngadalsoni. *
+LaunchParameter=Parametrat Command Line :
+TypeStandard=Tunngler
+TypeInterlink=Ndërlidhja me serverin
+TypeTunngleTeam=Ekipi Tunngle
+TypeEnthusiast=Entuziastat Tunngle
+TypeLifetime=Tunngler i përjetëshm
+TypePremium=Premium Tunngler
+TypeInactive=Nuk mund të lidhet me këtë koleg.
+SplashExecuteJoin=Ju lutemi prisni...
+StopAdapter=Qkyqja nga Tunngle...
+StartAdapter=Lidhja me Tunngle....(Ndoshta do të marr pak kohë)
+StartAdapterFail=Error:Nuk mund te lidhet me Tunngle.
+Interlink=Gameserver(IP):port
+StatusBarRegister=Nuk keni akkount ende ?Kliko këtu për tu regjistruar!
+ConnectionGood=Porti hapur
+ConnectionBad=Ju lutemi bëni Port Forward nëse ju mundeni!
+ConnectionNeutral=Porti Mbyllur
+CmdHlpVPN=Komandat valide për chat janë: \r\n - /banip IP Virtuale (Shton në listen e zezë) \r \n - /ipsearch IP Virtuale (Gjen emrin a atij peresoni) \r\n - /clear (Pastron)
+ChangeNick=Zgjidhni nickname tuaj për Tunnglee
+StatusBarCreateNet=Nëse ju keni Premium Subs,ju mund të startoni rrjetin bazik  dhe një premium në të njejten kohë.
+StatusBarJoinNet=Nëse ju keni probleme me lojën, klikoni DON'T PANIC në anen e djatht për ndhihmë
+AccStateBasic=Tunngle Bazike - Upgrade tani
+AccStatePremium=Premium Tunngle
+AccStateLifetime=Tunngle i përjetshëm
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Kommuniteti
+SpeedButtonCommunity2=<
+SpeedButtonLogin=Kyqu
+SpeedButtonCancel=Anulo
+SpeedButtonCancelStatus=Anulo
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Gjej rrjetet dhe shokët
+SpeedButtonCommunity2=Tek tab i fundit aktiv
+SpeedButtonMessenger=Messengjeri
+SpeedButtonWiki=Merr Ndihmë
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Faqja startuese
+ButtonQABetaInfo=Beta Info
+ButtonQAForum=Forum
+ButtonQAEventPlanner=Planifikimi i ngjarjeve
+ButtonQALobby=Dhoma Tunngle
+ButtonQAFavorites=Bookmarks
+ButtonQACreateNetwork=Rrjetet Private
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=Fillimi faqes
+spDynamicSkinFormMain-1=Rrjetet Private
+spDynamicSkinFormMain-2=Forum
+spDynamicSkinFormMain-3=Planifikimi i ngjarjeve
+spDynamicSkinFormMain-4=Dhooma Tunngle
+spDynamicSkinFormMain-5=Bookmarks
+spDynamicSkinFormMain-7=Facebook
+spDynamicSkinFormMain-8=Twitter
+spDynamicSkinFormMain-9=Google+
+spDynamicSkinFormMain-10=YouTube
+[FormMain-TspSkinExPanel-Caption]
+ExPanelFindnetwork=Kërkimi Rrjeteve
+ExPanelStatus=Subscriptons Status
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Kërko
+MenuItemNetFavorite=Bookmarks
+MenuItemNetCreate=Kërkesat e Video Lojrave
+MenuItemWebGames=Shfletuesi Lojrave
+MenuItemNetCreateOwn=Rrjetet Private
+MenuItemTunnglelobby=Dhooma Tunngle
+MenuItemEventplaner=Planifikimi i Ngjarjeve
+MenuItemBanner=Reklama
+MenuItemCommunityBanner=Reklama Komunitetit
+MenuItemAccount=Akkount
+MenuItemSounds=Zërimi
+MenuItemSkins2=Theme
+MenuItemPrivacylists=Lista Zezë
+MenuItemConfiguration=Opsionet
+MenuItemRestore=Këthej këshillat
+MenuItemAbout=Rreth Tunngle
+MenuItemTrayOpen=Hape
+MenuItemTrayClose=Mbylle
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=Identifikimi:
+StdLabelPassword=Passwordi:
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Mbaje në mend
+CheckRadioBoxAutologon=Auto login
+CheckRadioBoxDontShowAgain=Mos e paraqit prap
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Lajmërimet:
+MenuItemAddContact=Shto si shok/shoqe
+MenuItemAddBlacklist=Shto tek Lista e zezë
+MenuItemEditBlacklist=Ndrysho Listen e zezë
+MenuItemSortNicks=Sortoj emrat nga (A-Z)
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Dërgo
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=< < Mbarapa
+ButtonForward=Forward > >
+ButtonActualize=Rifresko
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Emri
+ListViewNet-1=Online
+ListViewNet-2=Lloji
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Shto tek bookmark
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Rifresko
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Emri
+ListViewNet-1=Online
+ListViewNet-2=Lloji
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Shto tek bookmark
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Kthehu
+ButtonActualize=Rifresko
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Emri
+ListViewNet-1=Online
+ListViewNet-2=Lloji
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Fshij Bookmark
+MenuItemSortFavorite=Sortoj Bookmarket
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Rifresko
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Emri
+ListViewNet-1=Online
+ListViewNet-2=Lloji
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Fshij bookmark
+MenuItemSortFavorite=Sortoj Bookmarket
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Ndërprerësi transmetimit nga gjitha interfejset
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Ju keni bër Port Forward
+CheckRadioBoxUPnP=Përdore UPnP
+CheckRadioBoxTCActive=Aktive
+CheckRadioBoxSignature=Web Signature
+CheckRadioBoxLog=Transportimi në rrjet
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Mbishkrim!\r\n Deaktivizuar
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zbatoje
+ButtonCancel=Anulo
+ButtonTest=Testo
+ButtonDefault=Konfigurimet Default
+ButtonWizard=Wizard
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Interfejsi
+GroupBoxNetconfig=Rrjet
+GroupBoxRouterconfig=Ruteri
+GroupBoxTrafficcontroller=Kontrolluesi Traffikut
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Gjuhët
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Kujdes! Ju lutemi restartoni tunngle per ti aplikuar konfigurimet e reja!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle Kërko
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Hiq rrjetet full
+CheckRadioBoxEmpty=Hiq rrjetet boshe
+CheckRadioBoxPassword=Hiq rrjetet te mbrojtuar me password
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Kërko 
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Kërko >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Kthehu
+ButtonForward=Forward >>
+ButtonActualize=Rifresko
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Emri
+ListViewResults-1=Online
+ListViewResults-2=Lloji
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Shto tek bookmark
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Lajmërimet
+MenuItemAddContact=Shto si shok/shoqe
+MenuItemAddBlacklist=Shto tek lista e zezë
+MenuItemEditBlacklist=Ndrysho listen e zezë
+MenuItemSortNicks=Sortoj emrat nga (A-Z)
+MenuItemShowProfile=Shiko Profilin
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Dërgo
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zbatoje
+ButtonCancel=Anulo
+ButtonFind=Kërko
+ButtonExport=Eksporto
+ButtonImport=Importo
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Nickname
+ListViewResults-1=Emri
+ListViewConnection-0=ID
+ListViewConnection-1=Emri
+ListViewChat-0=ID
+ListViewChat-1=Emri
+[FramePrivateLists-TspSkinComboBox-Item]
+ComboBoxSearchType-0=Emri
+ComboBoxSearchType-1=ID
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Kërko
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Lista e Zezë Globale
+StdLabelChatmessages=Chat Black List
+StdLabelName=Emri
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Fshij
+MenuItemDeleteChat=Fshij
+MenuItemAddBlacklist=Shto tek lista e zezë
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zbatoje
+ButtonCancel=Anulo
+ButtonDownload=Shkarko më shumë template
+ButtonDefault=Template Default tunngle
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Parashikoje
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Labeli
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Zona tekstit
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Zona hyrjeve
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Checkbox
+CheckRadioBox2=Checkbox
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zbatoje
+ButtonCancel=Anulo
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Aktivizoj zërin
+CheckRadioBoxStart=Startup
+CheckRadioBoxLogin=Kyqu
+CheckRadioBoxLeave=Një tunngler është diskonektuar nga rrjeti
+CheckRadioBoxJoin=Një Tunngler është lidhur në rrjet
+CheckRadioBoxReceive=Mesazhi është pranuar
+CheckRadioBoxQuit=Mbylle
+CheckRadioBoxSend=Mesazhi dërguar
+CheckRadioBoxKey=Chat box shtyp button
+CheckRadioBoxDirectopen=Direkt chat i ri
+CheckRadioBoxDirectmessage=Chat direkt është pranuar
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Shfletuesi
+ButtonFavorite=Bookmark
+ButtonQuicklaunch=Starto shpejt
+ButtonBetainfo=Beta Info
+ButtonForum=Forum
+ButtonEventplaner=Planifikimi i ngjarjeve
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Mbrapa
+StatusPanelForward=Forward
+StatusPanelStop=Ndalo
+StatusPanelReload=Rifresko
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Mbrapa
+StatusPanelForward=Forward
+StatusPanelStop=Ndalo
+StatusPanelReload=Rifresko
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Lajmërimet
+MenuItemAddContact=Shto si shok/shoqe
+MenuItemAddBlacklist=Shto tek lista e zezë
+MenuItemEditBlacklist=Ndrysho listen e zezë
+MenuItemCopyIP=Kopjo IP
+MenuItemSortNicks=Sortoja emrat nga (A-Z)
+MenuItemSortIPs=Sortoj nga pingu
+MenuItemConfig=Konfigurimi
+MenuItemShowProfile=Shiko profilin
+MenuItemSelectAll=Selektoj të gjitha
+MenuItemCopy=Kopjo
+MenuItemChangeNick=Ndrysho Nickname
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Dërgo
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameVPN-TspSkinCheckBox-Hint]
+CheckBoxScroll=Lëvizje automatike
+[FrameVPN-TspSkinButton-Hint]
+ButtonLauncher=Hapësi Lojës
+ButtonVideo=Kërko Video
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Perfundo
+[FormAbout-Infos]
+Caption=Rreth Tunngle
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Kyqu
+ButtonCancel=Anulo
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Identifikimi:
+LabelPassword=Passwordi:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Mbaje në mend
+CheckRadioBoxAuto=Auto Kyqje
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Hap akkount falas në Tunngle
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Anulo
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Dërgo
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Krijo grup
+MenuItemContactAdd=Shto kontakte
+MenuItemContactHideOffline2=Hiq kontaktet offline
+MenuItemRights=Të Drejtat
+MenuItemTunngleShares=Tunngle Aksione
+MenuItemContactInfo=Info kontakte
+MenuItemContactAlert=Kontakte A
+MenuItemContactNote=Shënimet rreth kontakteve
+MenuItemReadAwayMessage=Lexo tutje mesazhin
+MenuItemContactRename=Riemerto kontakte
+MenuItemContactDelete=Fshij kontakte
+MenuItemMoveToGroup=Transferohuni në grup
+MenuItemContactHideOffline3=Fsheh shokët offline
+MenuItemMessage=Chat direkt
+MenuItemRights2=Akcesset
+MenuItemTunngleShares2=Tunngle Akssione
+MenuItemGroupRename=Riemerto grupin
+MenuItemGroupDelete=Hiq grupin
+MenuItemGroupExpandCollapse=Zgjero/Largo grupe
+MenuItemContactHideOffline=Fsheh shokët offline
+MenuItemMain=&Menu
+MenuItemAddContact=Shto kontakt
+MenuItemInNetwork=Info rreth rrjetit
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=Offline
+[FormFindContact-Infos]
+Caption=Kërko kontakte
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Kërko
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=Emri:
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Shto kontakt
+[FormFindContact-TspSkinListView-Column]
+ListViewResults-0=ID
+ListViewResults-1=Nickname
+[FormFindContact-TspSkinComboBox-Item]
+ComboBoxSearchType-0=Nickname
+ComboBoxSearchType-1=ID
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Anulo
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Skedar
+ListViewLanguage-1=Gjuha
+ListViewLanguage-2=Autori
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Vazhdo
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Ju lutemi zgjidhni gjuhën tuaj për Tunngle
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Emri
+ListViewAdapter-1=IP
+ListViewAdapter-2=Emri pajisjes
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Vazhdo
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Ju lutemi zgjidhni Tunngle Adp
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Anulo
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Vetem Chat
+CheckRadioBoxComplete=Përjashtim të plot
+CheckRadioBoxHours=Orët
+CheckRadioBoxDate=Deri
+CheckRadioBoxInfinite=Përgjithmon
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Anulo
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Shtyp Passwordin:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Lajmërimet
+MenuItemAddContact=Shto tek lista shokve
+MenuItemCopyIP=Kopjoj IP
+MenuItemSortNicks=Sortoj emrat nga (A-Z)
+MenuItemSortIPs=Rradhiti nga pingu
+MenuItemConfig=Konfiguro
+MenuItemShowProfile=Shiko Profilin
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Dërgo
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Mesazhi Mirësevjen
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Menaxho rrjetin tend
+GroupBoxJoin=Lidhu në një rrjet që egzizton
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=Lloji rrjetit:
+LabelNetworkNameT=Emri rrjetit
+LabelNetworkPasswordT=Passwordi rrjetit
+LabelNetworkSize=Numri rrjeteve
+LabelNetworkTypeB=Lloji rrjetit:
+LabelNetworkNameB=Emri rrjetit
+LabelNetworkPasswordB=Passwordi rrjetit
+[FrameNetCreate-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Bazike
+ComboBoxNetTypeT-1=Premium
+ComboBoxNetTypeB-0=Bazike
+ComboBoxNetTypeB-1=Premium
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Krijo - Update
+ButtonJoin=Bashkohu
+ButtonJoinOwn=Lidhu ne rrjetin tënd
+ButtonNetworkList=Lista e Rrjeteve
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Emulator i Rrjetave
+UrlLabelInterlink=Lidhë serveret
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Rrjetet Bazike
+CheckRadioBoxNetPremium=Rrjetet Premium
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Lajmërimet
+MenuItemAddContact=Shto si shok në listë
+MenuItemCopyIP=Kopjo IP
+MenuItemSortNicks=Sortoj nga nickname
+MenuItemSortIPs=Sortoj nga pingu
+MenuItemConfig=Konfigurimi
+MenuItemShowProfile=Shiko Profilin
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Dergo
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Mos e paraqit heren tjeter
+[FrameAccount-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSignature=Signature Web
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zbatoje
+ButtonCancel=Anulo
+ButtonChangeNick=Ndrysho Nickname
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=Opsionet e Akkountit

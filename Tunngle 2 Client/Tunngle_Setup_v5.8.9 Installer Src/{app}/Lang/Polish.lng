@@ -1,0 +1,742 @@
+
+[Header]
+Author=Cekino, ESTcobs, Jaszczur89, Taishi, Maniac02, artur1318 (Community)
+Date=2014.12.19
+Language=Polish
+CharSet=DEFAULT_CHARSET
+PrimLangID=21
+CodePage=1250
+[Global-Ressource]
+MI_MINCAPTION=Mi&nimalizuj
+MI_MAXCAPTION=Ma&ksymalizuj
+MI_CLOSECAPTION=&Zamknij
+MI_RESTORECAPTION=&Przywróæ
+MI_MINTOTRAYCAPTION=Minimalizuj do paska
+MI_ROLLUPCAPTION=Przewiñ
+MINBUTTON_HINT=Zminimalizuj
+MAXBUTTON_HINT=Zmaksymalizuj
+CLOSEBUTTON_HINT=Zamknij
+TRAYBUTTON_HINT=Minimalizuj do paska
+ROLLUPBUTTON_HINT=Przewiñ
+MENUBUTTON_HINT=Menu systemowe
+RESTORE_HINT=Przywróæ
+EDIT_UNDO=Cofnij
+EDIT_COPY=Kopiuj
+EDIT_CUT=Wytnij
+EDIT_PASTE=Wklej
+EDIT_DELETE=Skasuj
+EDIT_SELECTALL=Zaznacz wszystko
+MSG_BTN_YES=&Tak
+MSG_BTN_NO=&Nie
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Anuluj
+MSG_BTN_ABORT=&Przerwij
+MSG_BTN_RETRY=&Ponów
+MSG_BTN_IGNORE=&Ignoruj
+MSG_BTN_ALL=&Wszystko
+MSG_BTN_NOTOALL=N&ie na wszystko
+MSG_BTN_YESTOALL=Tak na wszystko
+MSG_BTN_HELP=&Pomoc
+MSG_BTN_OPEN=&Otwórz
+MSG_BTN_SAVE=&Zapisz
+MSG_BTN_CLOSE=Zamknij
+MSG_BTN_BACK_HINT=IdŸ do ostatnio odwiedzanego folderu
+MSG_BTN_UP_HINT=Poziom wy¿ej
+MSG_BTN_NEWFOLDER_HINT=Nowy folder
+MSG_BTN_VIEWMENU_HINT=Poka¿ Menu
+MSG_BTN_STRETCH_HINT=Rozci¹gnij obraz
+MSG_FILENAME=Nazwa pliku:
+MSG_FILETYPE=Typ pliku:
+MSG_NEWFOLDER=Nowy katalog
+MSG_LV_DETAILS=Szczegó³y
+MSG_LV_ICON=Du¿e ikony
+MSG_LV_SMALLICON=Ma³e ikony
+MSG_LV_LIST=Lista
+MSG_PREVIEWSKIN=Podgl¹d
+MSG_PREVIEWBUTTON=Przycisk
+MSG_OVERWRITE=Czy chcesz nadpisaæ stary plik?
+MSG_CAP_WARNING=Ostrze¿enie
+MSG_CAP_ERROR=B³¹d
+MSG_CAP_INFORMATION=Informacja
+MSG_CAP_CONFIRM=Potwierdzenie
+MSG_CAP_SHOWFLAG=Nie wyœwietlaj ponownie
+CALC_CAP=Kalkulator
+ERROR=B³¹d
+COLORGRID_CAP=Podstawowe kolory
+CUSTOMCOLORGRID_CAP=Moje kolory
+ADDCUSTOMCOLORBUTTON_CAP=Dodaj do moich kolorów
+FONTDLG_COLOR=Kolor:
+FONTDLG_NAME=Nazwa:
+FONTDLG_SIZE=Rozmiar:
+FONTDLG_HEIGHT=Wysokoœæ:
+FONTDLG_EXAMPLE=Przyk³ad:
+FONTDLG_STYLE=tyStyl:
+FONTDLG_SCRIPT=Skrypt:
+DB_DELETE_QUESTION=Na pewno chcesz usun¹æ t¹ wartoœæ?
+DB_MULTIPLEDELETE_QUESTION=Usun¹æ wszsytkie zaznaczone wartoœci?
+NODISKINDRIVE=Nie ma dysku w napêdzie lub napêd nie jest gotowy
+NOVALIDDRIVEID=Z³a litera dysku
+FLV_NAME=Nazwa
+FLV_SIZE=Rozmiar
+FLV_TYPE=Typ
+FLV_LOOKIN=Szukaj w:
+FLV_MODIFIED=Zmodyfikowany
+FLV_ATTRIBUTES=W³aœciwoœci
+FLV_DISKSIZE=Rozmiar dysku
+FLV_FREESPACE=Wolne miejsce
+PRNDLG_NAME=Nazwa:
+PRNDLG_PRINTER=Drukarka
+PRNDLG_PROPERTIES=W³aœciwoœci...
+PRNDLG_TYPE=Typ:
+PRNDLG_STATUS=Status:
+PRNDLG_WHERE=Gdzie:
+PRNDLG_COMMENT=Komentarz
+PRNDLG_PRINTRANGE=Zakres wydruku
+PRNDLG_COPIES=Kopie
+PRNDLG_NUMCOPIES=Liczba kopii:
+PRNDLG_COLLATE=Porównaj
+PRNDLG_ALL=Wszystko
+PRNDLG_PAGES=Strony
+PRNDLG_SELECTION=Wybieranie
+PRNDLG_PRINTTOFILE=Drukuj do pliku
+PRNDLG_FROM=od:
+PRNDLG_TO=do:
+PRNDLG_ORIENTATION=Orientacja
+PRNDLG_PAPER=Papier
+PRNDLG_PORTRAIT=Portret
+PRNDLG_LANDSCAPE=Tapeta
+PRNDLG_SOURCE=¯ród³o:
+PRNDLG_SIZE=Rozmiar
+PRNDLG_MARGINS=Marginesy(milimetry)
+PRNDLG_MARGINS_INCHES=Marginesy(cale)
+PRNDLG_LEFT=Lewa:
+PRNDLG_RIGHT=Prawa:
+PRNDLG_TOP=Góra:
+PRNDLG_BOTTOM=Dó³:
+PRNDLG_WARNING=Nie masz zainstalowanej drukarki!
+FIND_NEXT=ZnajdŸ nastêpne
+FIND_WHAT=OdnajdŸ:
+FIND_DIRECTION=Kierunek
+FIND_DIRECTIONUP=W górê
+FIND_DIRECTIONDOWN=W dó³
+FIND_MATCH_CASE=Litery
+FIND_MATCH_WHOLE_WORD_ONLY=Tylko ca³e s³owa
+[Global-MessageBox-Information]
+Select=Musisz najpierw wybraæ Tunnglera.
+Controller=Kontroler ruchu jest wy³¹czony w obecnej wersji....
+EnterSearchText=Wpisz coœ ¿eby poszukaæ.
+EnterSearchUser=WprowadŸ frazê do wyszukania.
+ContactDeny=%s odrzuci³ Twoje zaproszenie do znajomych.
+ContactAccept=%s przyj¹³ Twoje zaproszenie do znajomych.
+ConnectionLost=Utracono po³¹czenie. \r\nKod: %s
+ConnectionProblem=Mo¿liwe problemy zwi¹zane z po³¹czeniem.\r\nTwoja konfiguracja NAT w routerze mo¿ê utrudniaæ zdolnoœæ Tunngle\r\ndo ustanowienia pomyœlnych po³¹czeñ P2P z innymi u¿ytkownikami.\r\nOtworzyæ stronê pomocy teraz?
+PortReachable=Wybrany port jest otwarty i przyjmuje po³¹czenia.
+CreateNet=Ta funkcja nie jest jeszcze dostêpna.\r\nProsimy opisaæ swoje sugestie na forum spo³ecznoœci.\r\n Czy chcesz otworzyæ teraz stronê forum?
+AdapterPrim=Karta sieciowa Tunngle jest niepoprawnie prioretytowana. (0)\r\nNie bêdziesz móg³ znaleŸæ ¿adnych serwerów w wyszukiwarce LAN w Twojej grze.
+EnterNamePW=Proszê wprowadziæ nazwê u¿ytkownika i has³o.
+NewVersion=Nowa wersja Tunngle %s jest dostêpna i mo¿e zostaæ teraz pobrana
+FriendNetwork=%s jest w "%s" sieci.\r\nChcesz do³¹czyæ siê do tej sieci?
+FriendNoNetwork=%s nie jest w sieci
+Close=Tunngle zostanie teraz zamkniête.
+LSPBackup=LSP kopia zosta³a utworzona pomyœlnie.\r\n%s
+LSPOK=%d LSP problemy naprawione.
+LastTab=Nie mo¿na zamkn¹æ ostatniej karty.
+NetFull=Sieæ jest pe³na.
+TempNetInfo=Pusta podstawowa sieæ zostanie automatycznie usuniêta po okreœlonym czasie nieaktywnoœci.
+TempNetDisabled=Tworzenie nowych sieci jest czasowo niedostêpne, proszê spróbowaæ poŸniej.
+TempNetLimit=Nie mo¿na utworzyæ wiêcej sieci w tej chwili, prosimy spróbowaæ póŸniej.
+TempNetMissing=Wybrana sieæ nie istnieje. Proszê wybraæ inn¹, lub utworzyæ w³asn¹
+TempNetFull=Wybrana sieæ jest pe³na. Proszê wybraæ inn¹, lub utworzyæ w³asn¹.
+TempNetExist=Sieæ o podanej nazwie ju¿ istnieje. Proszê wybraæ inn¹ nazwê, lub do³¹czyæ do istniej¹cej sieci.
+TempNetPassword=Has³o nieprawid³owe
+TempNetInvalid=Wybrana nazwa jest nieprawid³owa, proszê wybraæ inn¹.
+ConfigAttention=Zrestartuj Tunngle aby zapisaæ ustawienia
+ProcessSuccess=Operacja zakoñczona powodzeniem
+NickChange=Mo¿esz zmieniæ Twoj¹ nazwê u¿ytkownika u¿ywaj¹c panelu na naszej stronie. Kiedy naciœniesz OK, Tunngle za³aduje panel w twojej domyœlnej przegl¹darce.
+[Global-MessageBox-Warning]
+PortUnreachable=Wybrany port nie wydaje siê byæ otwarty.\r\nUwaga: Je¿eli Tunngle dzia³a normalnie, nie powinieneœ siê tym przejmowaæ.
+UPnP=Nie mo¿na ustawiæ automatycznego przekierowania portu u¿ywanego przez UPnP.
+ServerUnreachable=Serwer Tunngle jest nieosi¹galny. Czy chcesz uruchomiæ Tunngle mimo to?
+Offline=Nie mo¿na ustanowiæ po³¹czenia.\r\nWybrany kontakt jest offline.
+ConnectionFail=Nie mo¿na ustanowiæ po³¹czenia.
+Messenger=Uwaga!\r\nOdk¹d komunikator jest w konstrukcji,\r\nt³umaczenia tych okien nie s¹ jeszcze ukoñczone.\r\nTo bêdzie poprawione w nastêpnej wersji Tunngle.
+WriteRegistry=Konfiguracja nie mo¿e zostaæ zapisana w rejestrze. \r\nProszê skontaktowaæ siê z administratorem.
+SelectLanguage=Proszê wybraæ jêzyk najpierw.
+SelectAdapter=Proszê wybraæ najpierw adapter.
+NetworkBusy=Sieæ jest w tej chwili zajêta. \r\nProszê wybraæ inn¹ sieæ.
+LoginRequired=Musisz siê najpierw zalogowaæ.
+ConfigAdapter=Wyst¹pi³ b³¹d podczas konfiguracji adaptera sieci. \r\nSieæ mo¿e nie dzia³aæ poprawnie.
+ProcessFail=Operacja nie powiod³a siê.
+NickInvalid=Twój nick mo¿e zawieraæ jedynie nastêpuj¹ce znaki:
+[Global-MessageBox-Question]
+Contact=Czy na pewno chcesz dodaæ %s do listy znajomych?
+Delete=Czy na pewno chcesz usun¹æ %s z czarnej listy?
+ChangeNet=Czy na pewno chcesz opuœciæ sieæ "%s" aby do³¹czyæ do sieci "%s"?
+CloseChat=Czy na pewno chcesz zamkn¹æ czat "%s" ?
+CloseLobby=Czy na pewno chcesz opuœciæ %s?
+CloseTab=Czy na pewno chcesz zamkn¹æ zak³adkê "%s"?
+AddContact=%s doda³ Ciê do listy znajomych.\r\nZaakceptujesz?
+Quit=Na pewno chcesz wyjœæ?
+DelFavorite=Czy na pewno chcesz usun¹æ %s?
+NewVersion=Nowa wersja %s Tunngle jest dostêpna.\r\nCzy chcesz pobraæ j¹ teraz?
+Adapter=Nastêpuj¹cy adapter Tunngle zosta³ odnaleziony.\r\n%s\r\nCzy chcesz skojarzyæ ten adapter z Tunngle?
+Language=Wykryliœmy, ¿e twój jêzyk systemowy jest kompatybilny z "%s" jêzykiem pliku.\r\nCzy chcesz go wybraæ teraz?
+LanguageID=Wybrany plik jêzyka nie pasuje do obecnej localizacji systemu.\r\nKontynuowaæ mimo to?
+LanguageCP=Obecne kodowanie strony systemu nie pasuje do tego potrzebnego dla obecnie wybranego pliku jêzyka.\r\nNiektóre s³owa mog¹ nie byæ wyœwietlane poprawnie.\r\nKontynuowaæ mimo to?
+CliQuit=Trzeba uruchomiæ Tunngle ponownie, aby wprowadziæ nowe ustawienia.\r\nCzy chcesz wyjœæ teraz?
+TempNetActivate=Aktywacja jest wymagana, aby uzyæ tej opcji.\r\nAktywacja i korzystanie z us³ugi jest w 100% darmowe.\r\nCzy chcesz otworzyæ przegl¹darkê, aby aktywowaæ teraz?
+TempNetActivateB=Twoja przegl¹darka internetowa za³aduje teraz stronê aktywacyjn¹ prywatnej sieci.\r\nProszê ukoñczyæ proces aktywacji i wcisn¹æ OK kiedy bêdziesz gotowy.
+FileExists=Plik ju¿ istnieje, czy chcesz go nadpisaæ?
+RestoreDefault=Czy chcesz przywróciæ wszystkie poprzednie ukryte ¿ó³te wiadomoœci pomocy?
+RestoreOptions=Czy chcesz przywróciæ domyœlne ustawienia?
+PremiumFeature=Aby u¿yæ tej funkcji wymagane jest Tunngle Premium.\r\nCzy chcesz otworzyæ przegl¹darkê i dowiedzieæ siê wiêcej o naszej ofercie?
+[Global-MessageBox-Error]
+RunOnce=Tylko jedno Tunngle mo¿e byc jednoczesnie uruchomione.
+NotInstalled=Tunngle nie jest zainstalowane poprawnie.
+NoAdapter=Nie mo¿na odnaleœæ karty sieciowej Tunngle!
+AccountVerify=B³¹d logowania.\r\nTwoje konto nie zostalo zweryfikowane.
+AccountBann=B³¹d logowania.\r\nTwoje konto zosta³o zbanowane.
+ConnectionProblem=B³¹d po³¹czenia!\r\nNie mo¿na ustanowiæ po³aczenia UDP z serwerem.\r\nTwoja zapora firewall mo¿e byæ przyczyn¹\r\nPotrzebujesz pomocy?
+NATProblem=B³¹d NAT!\r\nTwoja konfiguracja routera NAT uniemo¿liwia Tunngle poprawn¹ pracê.\r\nMusisz otworzyæ porty.\r\nPotrzeujesz pomocy?
+ConnectionProblemInfo=B³¹d po³aczenia!\r\nNie mo¿na ustanowiæ po³aczenie UDP z serwerem.\r\nTwoja zapora firewall mo¿e byæ przyczyn¹.\r\nPotrzebujesz pomocy?
+MasterServer=G³ówny serwer Tunngle jest nieosi¹galny.
+Version=Twój klient jest nieaktualny.\r\nAktualizowaæ teraz?
+Safe=Twoje po³¹czenie nie mo¿e byæ zabezpieczone.
+AuthFail=B³¹d logowania.\r\nSprawdŸ swoj¹ nazwê i has³o.\r\n(Nie pomyl has³a u¿ytkownika z has³em do konta!)\r\nPotrzebujesz pomocy?
+AdapterInit=Nie mo¿na zainicjowaæ karty sieciowej Tunngle!
+UDPSocket=B³¹d gniazda UDP!\r\nNie mo¿esz stworzyæ gniazda UDP.\r\nTwój firewall mo¿e byæ przyczyn¹.\r\nPotrzebujesz pomocy?
+AdapterPrim1=Karta sieciowa Tunngle jest niepoprawnie prioretytowana. (1)\r\nNie bêdziesz móg³ znaleŸæ ¿adnych serwerów w wyszukiwarce LAN w Twojej grze.\r\nPotrzebujesz pomocy?
+AdapterPrim2=Karta sieciowa Tunngle jest niepoprawnie prioretytowana. (2)\r\nNie bêdziesz móg³ znaleŸæ ¿adnych serwerów w wyszukiwarce LAN w Twojej grze.\r\nPotrzebujesz pomocy?
+ServiceFound=Nie mo¿na znaleŸæ us³ugi Tunngle!
+ServiceContact=Nie mo¿na po³¹czyæ z us³ug¹ Tunngle!
+CryptFail=Nie mo¿na za³adowaæ biblioteki kryptograficznej!
+PortFail=Wybrany port nie jest poprawny dla przejœcia, proszê wprowadziæ inny port.
+WinSock2=Nie mo¿na uzyskaæ dostêpu do WinSock.\r\nKonfiguracja sieci nie mo¿e byæ sprawdzona.
+LSPProblems=%dPoblemy z LSP wykryte.\r\nNaprawiæ je teraz?
+LSPBackup=B³¹d podczas tworzenia kopii zapasowej LSP.\r\nCzy chcesz przerwaæ?
+LSPSafePoint=B³¹d podczas tworzenia punktu przywracania LSP.\r\nCzy chcesz przerwaæ?
+LSPRepair=%dProblemy z LSP nie mog¹ zostaæ naprawione.\r\nCzy chcesz przywróciæ poprzedni stan?
+LSPRedo=Przywracanie nie powiod³o siê.
+ConfigAdapter=Nie mo¿na skonfigurowaæ adaptera sieci Tunngle
+WrongPassword=Has³o nieprawid³owe.
+GUIVersionMismatch=Obecna instalacja Tunngle wydaje siê byæ uszkodzona.
+InterlinkFormat=Nieprawid³owe po³¹czenie sk³adni. Powinno byæ "GameServer:Port".
+ProcessFail=Operacja nie powiod³a siê.
+ServerUnreachable=Serwer jest niedostêpny, proszê spróbowaæ póŸniej.
+[Global-Text-Dynamic]
+Loading=Wczytywanie %s...
+FromTo=%d do %d z %d
+LastAct=Ostatnia aktualizacja: %s
+Lobby=Lobby (%d)
+ChatJoined=<%s "%s" do³¹czy³ do rozmowy.>
+NetJoined=<%s "%s" do³¹czy³ do sieci.>
+LobbyJoined=<%s "%s" do³¹czy³ do lobby.>
+ChatLeft=<%s "%s" opuœci³ rozmowê.>
+NetLeft=<%s "%s" opuœci³ sieæ.>
+LobbyLeft=<%s "%s" opuœci³ lobby.>
+ConnectionDeny1=nie mo¿na siê po³aczyæ do %s bo jestes na jego/jej czarnej liœcie.
+ConnectionDeny2=* Nie mo¿na siê po³¹czyæ z %s, poniewa¿ on jest na Twojej czarnej liœcie.
+ConnectionLost=[ %s Zerwano po³¹czenie z serwerem Tunngle! ]
+VirtualIP=Wirtualne IP: %s
+LoginNick=Zalogowany jako: %s
+Version=Wersja: %s
+Connecting=£¹czenie %s
+ChatMe=Ja: %s
+ChatDeny=* Nie mo¿na otrzymywaæ wiadomoœci od %s, poniewa¿ znajduje siê on na twojej czarnej liœcie. *
+AddBlacklist=Jak d³ugo %s powinien byæ na czarnej liœcie?
+PingMs=ping %s ms
+ChannelMode=WprowadŸ: %s
+Ports=Port: %s
+WaitingQueue=W kolejce %d/%d
+AddedBlackList=%s pomyœlnie dodany do czarnej listy.
+[Global-Text-Static]
+CaptionTunnglenews=Wiadomoœci Tunngle
+CaptionStart=Start Tunngle
+CaptionStartPage=Strona g³ówna
+CaptionQuickstart=Szybki start
+CaptionSupport=Wsparcie
+CaptionBetainfo=Informacje
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Miejsce œci¹gania
+CaptionResults=Wyniki...
+CaptionChat=Rozmowa
+CaptionLobby=Lobby
+CaptionNetwork=Sieæ
+CaptionTunngleforum=Forum Tunngle
+CaptionEventplaner=Planowanie wydarzeñ
+CaptionForumfaq=Forum FAQ
+CaptionForum=Forum
+CaptionTunngleskins=Skórki Tunngle
+CaptionSearch=Szukaj
+CaptionBrowser=Wyszukiwarka
+CaptionSkinconfig=Opcje skórki
+CaptionSoundconfig=DŸwiêki
+CaptionPrivacylists=Czarna lista
+CaptionConfiguration=Opcje...
+CaptionFavorite=Zak³adki
+CaptionSubBrowser=Sieci
+CaptionCreateNet=Sieci prywatne
+CaptionAccount=Konto
+SplashPleaseWait=Proszê czekaæ...
+SplashLoaddata=£adowanie danych...
+SplashReset=Resetowanie...
+SplashConfig=Konfigurowanie...
+SplashLoading=£adowanie...
+SplashConnecting=£¹czenie...
+SplashVersion=Sprawdzanie wersji...
+SplashSafe=Zapewnianie po³¹czenia...
+SplashUPnP=Próbowanie portu przekierowania UPnP...
+SplashAuth=Uwierzytelnianie...
+SplashAdatperset=Ustawianie karty...
+SplashAdapterinit=Inicjalizacja karty...
+SplashAdapterstart=Uruchamianie karty...
+SplashAdapterchkprim=Sprawdzanie priorytetu karty...
+SplashAdapterchkbc=Sprawdzanie transmisji karty...
+SplashAdapterchkstop=Sprawdzanie zatrzymania karty...
+SplashFinalize=Finalizowanie...
+SplashServiceinit=Inicjalizacja us³ugi Tunngle...
+SplashServicecontact=£¹czenie z us³ug¹ Tunngle...
+SplashServercontact=£¹czenie z serwerem Tunngle...
+SplashConfigurate=Konfigurujê Tunngle...
+SplashWinSock2=Sprawdzanie konfiguracji sieci...
+SplashNetzone=Sprawdzanie lokalizacji sieci...
+SearchInWork=Przeszukiwanie trwa...
+Lobby=Lobby
+NetLeft=Opuœci³ sieæ.
+NoIP=Wirtualny IP: brak
+ChatJoined=Pomyœlnie do³¹czono do rozmowy.
+NetJoined=Pomyœlnie do³¹czono do sieci.
+LobbyJoined=Pomyœlnie do³¹czono do lobby.
+FoundNothing=Brak wyników!
+NetChangeBegin=Rozpoczynanie zmiany sieci. Proszê czekaæ...
+NetChangeEnd=Zmiana sieci zakoñczona. Proszê czekaæ...
+NotLoggedIn=Nie jesteœ zalogowany.
+EnterNamePW=Proszê wpisaæ nazwê u¿ytkownika i has³o.
+MessageSendFail=* Nie mo¿na wys³aæ wiadomoœci. *
+MessageSendFlood=* Nie spamuj N00bie :D *
+LaunchParameter=Parametry linii poleceñ:
+TypeStandard=Tunngler
+TypeInterlink=Przy³¹czenie Serwera
+TypeTunngleTeam=Ekipa Tunngle
+TypeEnthusiast=Entuzjasta Tunngle
+TypeInactive=Nie mo¿na ustanowiæ po³¹czenia z tym graczem.
+SplashExecuteJoin=Proszê czekaæ...
+StopAdapter=Roz³¹czanie adaptera Tunngle...
+StartAdapter=£¹czenie adaptera Tunngle... (mo¿e chwilê potrwaæ)
+StartAdapterFail=B³¹d: Nie mo¿na po³¹zyæ siê z adapterem Tunngle.
+Interlink=Serwer gry:Port
+StatusBarRegister=Nie masz jeszcze konta? Kliknij tutaj, aby siê zarejestrowaæ!
+ConnectionGood=Port otwarty
+ConnectionBad=Proszê skonfiguruj Port Forward, je¿eli potrafisz!
+ConnectionNeutral=Port zamnkniêty
+ChangeNick=Wybierz swoj¹ nazwê u¿ytkownika Tunngle
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Spo³ecznoœæ
+SpeedButtonCommunity2=<
+SpeedButtonMessenger=Komunikator
+SpeedButtonLogin=Login
+SpeedButtonCancel=Anuluj
+SpeedButtonCancelStatus=Anuluj
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Szukaj sieci i znajomych
+SpeedButtonCommunity2=Do ostatniej aktywnej zak³adki
+SpeedButtonMessenger=Komunikator
+SpeedButtonWiki=Potrzebujesz pomocy?
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Strona startowa
+ButtonQABetaInfo=Informacje na temat Bety
+ButtonQAForum=Forum
+ButtonQAEventPlanner=Planowanie wydarzeñ
+ButtonQALobby=Lobby Tunngle
+ButtonQAFavorites=Zak³adki
+ButtonQACreateNetwork=Prywatne sieci
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=Strona g³ówna
+spDynamicSkinFormMain-1=Sieci prywatne
+spDynamicSkinFormMain-2=Forum
+spDynamicSkinFormMain-3=Planowanie wydarzeñ
+spDynamicSkinFormMain-4=Lobby Tunngle
+spDynamicSkinFormMain-5=Zak³adki
+spDynamicSkinFormMain-7=Facebook
+spDynamicSkinFormMain-8=Twitter
+spDynamicSkinFormMain-9=Google+
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Network Explorer
+ExPanelFindnetwork=Przeszukaj sieæ
+ExPanelStatus=Status subskrybcji
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Szukaj
+MenuItemNetFavorite=Zak³adki
+MenuItemNetCreate=Stwórz
+MenuItemNetCreateOwn=Prywatne sieci
+MenuItemTunnglelobby=Tunngle Lobby
+MenuItemEventplaner=Planowanie wydarzeñ
+MenuItemWizard=Wyœwietl poradnik
+MenuItemAccount=Konto
+MenuItemSounds=DŸwiêki
+MenuItemSkins2=Skórki
+MenuItemPrivacylists=Czarna lista
+MenuItemConfiguration=Opcje
+MenuItemRestore=Przywróæ porady
+MenuItemAbout=O programie Tunngle
+MenuItemTrayOpen=Otwóz
+MenuItemTrayClose=Zamknij
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=Nazwa u¿ytkownika:
+StdLabelPassword=Has³o:
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Zapamiêtaj mnie
+CheckRadioBoxAutologon=Auto logowanie
+CheckRadioBoxDontShowAgain=Nie pokazuj ponownie
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Powiadomienia
+MenuItemAddContact=Dodaj do listy znajomych
+MenuItemAddBlacklist=Dodaj do czarnej listy
+MenuItemEditBlacklist=Edytuj czarn¹ listê
+MenuItemSortNicks=Sortuj nicki
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Wyœlij
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Rozmowa:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Cofnij
+ButtonForward=Do przodu >>
+ButtonActualize=Odœwie¿
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nazwa
+ListViewNet-1=Online
+ListViewNet-2=Gatunek
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Dodaj do zak³adek
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Odœwie¿
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nazwa
+ListViewNet-1=Online
+ListViewNet-2=Gatunek
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Dodaj zak³adkê
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Powrót
+ButtonForward=Do przodu >>
+ButtonActualize=Odœwie¿
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nazwa
+ListViewNet-1=Online
+ListViewNet-2=Gatunek
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Usuñ zak³adkê
+MenuItemSortFavorite=Sortuj zak³adki
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Odœwie¿
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nazwa
+ListViewNet-1=Online
+ListViewNet-2=Gatunek
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Usuñ zak³adkê
+MenuItemSortFavorite=Sortuj zak³adki
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Przerwij transmisjê we wszystkich interfejsach
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Przekierowanie portu
+CheckRadioBoxUPnP=U¿yj UPnP
+CheckRadioBoxTCActive=W³¹czone
+CheckRadioBoxSignature=Podpis sieciowy
+CheckRadioBoxLog=Logowanie sieci
+CheckRadioBoxExp=Tryb zaawansowany
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Uwagi!\r\nNormalnie wy³¹czone
+CheckRadioBoxDNS=DNS
+CheckRadioBoxPort=Port
+CheckRadioBoxUPnP=UPnP
+CheckRadioBoxTCActive=Aktywne
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zastosuj
+ButtonCancel=Anuluj
+ButtonTest=Test
+ButtonDefault=Ustawienia domyœlne
+ButtonWizard=Kreator
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Interfejs
+GroupBoxNetconfig=Sieæ
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=Kontrola ruchu
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Jêzyk
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Uwaga! Proszê zrestartowaæ Tunngle ¿eby zastosowaæ nowe ustawienia!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Przeszukaj Tunngle
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Ukryj pe³ne sieci
+CheckRadioBoxEmpty=Ukryj puste sieci
+CheckRadioBoxPassword=Ukryj sieci chronione has³em
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Filtry szukania
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Filtry szukania >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Cofnij
+ButtonForward=Do przodu >>
+ButtonActualize=Odœwie¿
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Nazwa
+ListViewResults-1=Online
+ListViewResults-2=Gatunek
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Dodaj do zak³adek
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Powiadomienia
+MenuItemAddContact=Dodaj do listy znajomych
+MenuItemAddBlacklist=Dodaj do czarnej listy
+MenuItemEditBlacklist=Edytuj czarn¹ listê
+MenuItemSortNicks=Sortuj nicki
+MenuItemShowProfile=Poka¿ profil
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Wyœlij
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Rozmowa:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zastosuj
+ButtonCancel=Anuluj
+ButtonFind=Szukaj
+ButtonExport=Eksportuj
+ButtonImport=Importuj
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Nick
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Szukaj
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Globalna czarna lista
+StdLabelChatmessages=Czarna lista rozmów
+StdLabelName=Nazwa
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Usuñ
+MenuItemDeleteChat=Usuñ
+MenuItemAddBlacklist=Dodaj do czarnej listy
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zastosuj
+ButtonCancel=Anuluj
+ButtonDownload=Œci¹gnij wiêcej skórek
+ButtonDefault=Domyœlna skórka Tunngle
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Podgl¹d
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Etykieta
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Pole tekstowe
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Pole wejœciowe
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Pole
+CheckRadioBox2=Pole
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Zastosuj
+ButtonCancel=Anuluj
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=W³¹cz dzwiêki
+CheckRadioBoxStart=Przy uruchamianiu
+CheckRadioBoxLogin=Logowanie
+CheckRadioBoxLeave=Tunngler opuœci³ sieæ
+CheckRadioBoxJoin=Tunngler do³¹czy³ do sieci
+CheckRadioBoxReceive=Otrzymano wiadomoœæ
+CheckRadioBoxQuit=Wy³¹cz
+CheckRadioBoxSend=Wys³ano wiadomoœæ
+CheckRadioBoxKey=Przycisk okna rozmowy
+CheckRadioBoxDirectopen=Nowe okno rozmowy
+CheckRadioBoxDirectmessage=Otrzymano wiadomoœæ prywatn¹
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Wyszukiwarka
+ButtonFavorite=Zak³adki
+ButtonQuicklaunch=Szybki start
+ButtonBetainfo=Informacje
+ButtonForum=Forum
+ButtonEventplaner=Planowane wydarzenia
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Cofnij
+StatusPanelForward=Do przodu
+StatusPanelStop=Zatrzymaj
+StatusPanelReload=Odœwie¿
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Wstecz
+StatusPanelForward=Do przodu
+StatusPanelStop=Stop
+StatusPanelReload=Odœwie¿
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Powiadomienia
+MenuItemAddContact=Dodaj do listy znajomych
+MenuItemAddBlacklist=Dodaj do czarnej listy
+MenuItemEditBlacklist=Edytuj czarn¹ listê
+MenuItemCopyIP=Kopiuj do schowka
+MenuItemSortNicks=Sortuj nicki
+MenuItemSortIPs=Sortuj wed³ug pingu
+MenuItemConfig=Konfiguruj
+MenuItemShowProfile=Poka¿ profil
+MenuItemSelectAll=Zaznacz wszystko
+MenuItemCopy=Kopiuj
+MenuItemChangeNick=Zmieñ nick
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Wyœlij
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Rozmowa:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Zamknij
+[FormAbout-Infos]
+Caption=O programie Tunngle
+[FormLogin-Infos]
+Caption=Logowanie
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Zaloguj
+ButtonCancel=Anuluj
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Nazwa u¿ytkownika:
+LabelPassword=Has³o:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Pamiêtaj mnie
+CheckRadioBoxAuto=Auto-logowanie
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Do³¹cz za darmo do Tunngle
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Anuluj
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Wyœlij
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Rozmowa:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Dodaj grupê
+MenuItemContactAdd=Dodaj kontakt
+MenuItemContactHideOffline2=Ukryj offline
+MenuItemRights=Uprawnienia
+MenuItemTunngleShares=Udostêpnianie Tunngle
+MenuItemContactInfo=Informacje
+MenuItemContactAlert=Alarmy
+MenuItemContactNote=Uwagi
+MenuItemReadAwayMessage=Przeczytaj wiadomoœæ od
+MenuItemContactRename=Zmieñ nazwê kontaktu
+MenuItemContactDelete=Skasuj kontakt
+MenuItemMoveToGroup=WejdŸ do grupy
+MenuItemContactHideOffline3=Ukryj offline
+MenuItemMessage=Rozmowa
+MenuItemRights2=Uprawnienia
+MenuItemTunngleShares2=Udostêpnianie poprzez Tunngle
+MenuItemGroupRename=Zmieñ nazwê grupy
+MenuItemGroupDelete=Usuñ grupê
+MenuItemGroupExpandCollapse=Po³¹cz/rozdziel grupê
+MenuItemContactHideOffline=Ukryj offline
+MenuItemMain=&Menu
+MenuItemAddContact=Dodaj kontakt
+MenuItemInNetwork=Informacji na temat sieci
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=Niewidoczny
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Szukaj
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Dodaj kontakt
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Anuluj
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Plik
+ListViewLanguage-1=Jêzyk
+ListViewLanguage-2=Autor
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Kontynuuj
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Proszê wybraæ jêzyk programu Tunngle
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Nazwa
+ListViewAdapter-1=IP
+ListViewAdapter-2=Nazwa urz¹dzenia
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Kontynuuj
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Proszê wybraæ adapter Tunngle
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Anuluj
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Tylko czat
+CheckRadioBoxComplete=Ca³kowity zakaz
+CheckRadioBoxHours=Godziny
+CheckRadioBoxDate=a¿
+CheckRadioBoxInfinite=Na zawsze
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Anuluj
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Has³o:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Powiadomienia
+MenuItemAddContact=Dodaj do znajomych
+MenuItemCopyIP=Skopiuj IP do schowka
+MenuItemSortNicks=Sortuj wed³ug nicku
+MenuItemSortIPs=Sortuj wed³ug pingu
+MenuItemConfig=Skonfiguruj
+MenuItemShowProfile=Zobacz profil
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Wyœlij
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Czat:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Wiadomoœæ powitalna
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Zarz¹dzaj swoj¹ sieci¹
+GroupBoxJoin=Do³¹cz do istniej¹cej sieci
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=Typ sieci:
+LabelNetworkNameT=Nazwa sieci:
+LabelNetworkPasswordT=Has³o:
+LabelNetworkSize=Rozmiar sieci
+LabelNetworkTypeB=Typ sieci:
+LabelNetworkNameB=Nazwa sieci:
+LabelNetworkPasswordB=Has³o:
+[FrameNetCreate-TspSkinComboBox-Item]
+ComboBoxNetRange-0=Standardowy
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Utwórz - Uaktualnij
+ButtonJoin=Do³¹cz
+ButtonJoinOwn=Do³¹cz do swojej sieci
+ButtonNetworkList=Lista sieci:
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Emulator Sieci:
+UrlLabelInterlink=Po³¹czony Serwer
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetPremium=Sieæ premium
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Powiadomienia
+MenuItemAddContact=Dodaj do znajomych
+MenuItemCopyIP=Skopiuj IP do schowka
+MenuItemSortNicks=Sortuj nicki
+MenuItemSortIPs=Sortuj wg pingu
+MenuItemConfig=Konfiguruj
+MenuItemShowProfile=Wyœwietl profil
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Wyœlij
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Czat
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Nie pokazuj ponownie
+[FrameAccount-TspSkinButton-Caption]
+ButtonAccept=Zastosuj
+ButtonCancel=Anuluj
+ButtonChangeNick=Zmieñ nick
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=Opcje konta
+[FrameBeforeLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Nie pokazuj ponownie
+[FrameNetCreateEasy-TspSkinGroupBox-Caption]
+GroupBoxJoin=Do³¹cz do istniej¹cej sieci
+[FrameNetCreateEasy-TspSkinLabel-Caption]
+LabelNetworkTypeT=Typ sieci
+LabelNetworkNameT=Nazwa sieci
+LabelNetworkPasswordT=Has³o sieci
+LabelNetworkTypeB=Typ sieci
+LabelNetworkNameB=Nazwa sieci
+LabelNetworkPasswordB=Has³o sieci
+[FrameNetCreateEasy-TspSkinButton-Caption]
+ButtonJoin=Do³¹cz
+ButtonNetworkList=Lista sieci

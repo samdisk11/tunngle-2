@@ -1,0 +1,775 @@
+
+[Header]
+Author=BG Users (Community)
+Date=2014.12.19
+Language=Bulgarian
+CharSet=DEFAULT_CHARSET
+PrimLangID=2
+CodePage=1251
+[Global-Ressource]
+MI_MINCAPTION=Сведи до минимум
+MI_MAXCAPTION=Увеличи до максимум
+MI_CLOSECAPTION=&Затвори
+MI_RESTORECAPTION=&Възстанови
+MI_MINTOTRAYCAPTION=Минимизирай в системния трей
+MI_ROLLUPCAPTION=Превърти нагоре
+MINBUTTON_HINT=Сведи до минимум
+MAXBUTTON_HINT=Увеличи до максимум
+CLOSEBUTTON_HINT=Затвори
+TRAYBUTTON_HINT=Минимизирай в системния трей
+ROLLUPBUTTON_HINT=Превърти нагоре
+MENUBUTTON_HINT=Системно меню
+RESTORE_HINT=Възстанови
+EDIT_UNDO=Oтмени
+EDIT_COPY=Копирай
+EDIT_CUT=Изрежи
+EDIT_PASTE=Постави
+EDIT_DELETE=Изтрий
+EDIT_SELECTALL=Избери всички
+MSG_BTN_YES=&Да
+MSG_BTN_NO=&Не
+MSG_BTN_OK=Добре
+MSG_BTN_CANCEL=Отмени
+MSG_BTN_ABORT=&Прекрати
+MSG_BTN_RETRY=&Опитай отново
+MSG_BTN_IGNORE=&Игнорирай
+MSG_BTN_ALL=&Всички
+MSG_BTN_NOTOALL=Не за всички
+MSG_BTN_YESTOALL=Да за всички
+MSG_BTN_HELP=&Помощ
+MSG_BTN_OPEN=&Отвори
+MSG_BTN_SAVE=&Съхрани
+MSG_BTN_CLOSE=Затвори
+MSG_BTN_BACK_HINT=Отиди до последна посетена папка
+MSG_BTN_UP_HINT=Отиди едно ниво нагоре
+MSG_BTN_NEWFOLDER_HINT=Създай нова папка
+MSG_BTN_VIEWMENU_HINT=Преглед на менюто
+MSG_BTN_STRETCH_HINT=Разтегни изображението
+MSG_FILENAME=Име на файл:
+MSG_FILETYPE=Вид на файл:
+MSG_NEWFOLDER=Нова папка
+MSG_LV_DETAILS=Детайли
+MSG_LV_ICON=Големи икони
+MSG_LV_SMALLICON=Малки икони
+MSG_LV_LIST=Списък
+MSG_PREVIEWSKIN=Прегледай
+MSG_PREVIEWBUTTON=Бутон
+MSG_OVERWRITE=Искате ли да презапишете върху стария файл?
+MSG_CAP_WARNING=Предупреждение
+MSG_CAP_ERROR=Грешка
+MSG_CAP_INFORMATION=Информация
+MSG_CAP_CONFIRM=Потвърдете
+MSG_CAP_SHOWFLAG=Не показвай това съобщение отново
+CALC_CAP=Калкулатор
+ERROR=Грешка
+COLORGRID_CAP=Основни цветове
+CUSTOMCOLORGRID_CAP=Собствени цветове
+ADDCUSTOMCOLORBUTTON_CAP=Добави към собствени цветове
+FONTDLG_COLOR=Цвят:
+FONTDLG_NAME=Име:
+FONTDLG_SIZE=Големина:
+FONTDLG_HEIGHT=Височина:
+FONTDLG_EXAMPLE=Образец:
+FONTDLG_STYLE=Стил:
+FONTDLG_SCRIPT=Скрипт:
+DB_DELETE_QUESTION=Сигурен ли сте, че искате да изтриете този запис?
+DB_MULTIPLEDELETE_QUESTION=Изтриване на всички посочени записи?
+NODISKINDRIVE=Няма диск в устройството или устройството не е готово
+NOVALIDDRIVEID=Идентификационният номер на устройството е невалиден
+FLV_NAME=Име
+FLV_SIZE=Големина
+FLV_TYPE=Вид
+FLV_LOOKIN=Погледни във:
+FLV_MODIFIED=Изменен
+FLV_ATTRIBUTES=Качествa
+FLV_DISKSIZE=Големина на диска
+FLV_FREESPACE=Свободно пространство
+PRNDLG_NAME=Име:
+PRNDLG_PRINTER=Принтер
+PRNDLG_PROPERTIES=Свойства...
+PRNDLG_TYPE=Вид:
+PRNDLG_STATUS=Статус:
+PRNDLG_WHERE=Къде:
+PRNDLG_COMMENT=Коментар:
+PRNDLG_PRINTRANGE=Обсег на печата
+PRNDLG_COPIES=Копия
+PRNDLG_NUMCOPIES=Брой копия:
+PRNDLG_COLLATE=Съпостави
+PRNDLG_ALL=Всички
+PRNDLG_PAGES=Страници
+PRNDLG_SELECTION=Подбор
+PRNDLG_PRINTTOFILE=Отпечатай към файл
+PRNDLG_FROM=от:
+PRNDLG_TO=до:
+PRNDLG_ORIENTATION=Насочване
+PRNDLG_PAPER=Хартия
+PRNDLG_PORTRAIT=Портрет
+PRNDLG_LANDSCAPE=Пейзаж
+PRNDLG_SOURCE=Източник:
+PRNDLG_SIZE=Големина:
+PRNDLG_MARGINS=Полета [милиметри]
+PRNDLG_MARGINS_INCHES=Полета [инчове]
+PRNDLG_LEFT=Ляво:
+PRNDLG_RIGHT=Дясно:
+PRNDLG_TOP=На върха:
+PRNDLG_BOTTOM=Най-долу:
+PRNDLG_WARNING=Няма свързани печатащи устройства към Вашата система!
+FIND_NEXT=Намери следващ
+FIND_WHAT=Намери какво:
+FIND_DIRECTION=Насока
+FIND_DIRECTIONUP=Нагоре
+FIND_DIRECTIONDOWN=Надолу
+FIND_MATCH_CASE=Съвпадения
+FIND_MATCH_WHOLE_WORD_ONLY=Съвпадения само на цели думи
+[Global-MessageBox-Information]
+Select=Първо трябва да изберете Tunngler.
+Controller=Трафик Контролерът е изключен в настоящата версия.
+EnterSearchText=Моля, въведете нещо за търсене.
+EnterSearchUser=Моля, въведете нещо за търсене.
+ContactDeny=%s отказа Вашата молба за приятелство.
+ContactAccept=%s прие Вашата молба за приятелство.
+ConnectionLost=Връзката беше загубена.\r\nCode: %s
+ConnectionProblem=Възможни проблеми с връзката.\r\nВъзможно е NAT настройките на Вашия рутер да затрудняват възмжноста на Tunngle\r\nда установи успешна P2P връзка с другите потребители.\r\nОтваряне на помощното меню сега?
+PortReachable=Посоченият порт е отворен и приема връзки.
+CreateNet=Тази функция все още не е налична.\r\nМоля, напишете Вашите предложения във форума.\r\nЖелаете ли да отворите страницата на форума сега?
+AdapterPrim=Мрежовият адаптер на Tunngle не е с приоритет (0)\r\nВ менюто LAN на Вашите игри няма да откриете сървър.
+EnterNamePW=Моля, въведете потребителско име и парола.
+NewVersion=Новата версия %s на Tunngle е налична и може да бъде свалена сега.
+FriendNetwork=%s е в мрежата на %s\r\nИскате ли да се включите в тази мрежа?
+FriendNoNetwork=%s не е в мрежата.
+Close=Tunngle сега ще се затвори.
+LSPBackup=Успешно създаден LSP резервен файл.\r\n%s
+LSPOK=%d LSP проблеми бяха оправени.
+LastTab=Не може да се затвори последния раздел.
+NetFull=Мрежата е пълна.
+TempNetInfo=Празните основни мрежи ще бъдат изтривани автоматично след известен период от неактивност.
+TempNetDisabled=Възможността за създаване на мрежи е временно изключена. Моля опитайте по-късно.
+TempNetLimit=Не можем да позволим създаването на повече мрежи в момента. Моля, опитайте по-късно.
+TempNetMissing=Избраната мрежа не съществува. Моля, изберете съществуваща мрежа или създайте своя.
+TempNetFull=Избраната мрежа е пълна. Моля изберете друга или създайте своя.
+TempNetExist=Тази мрежа вече съществува. Моля, изберете друго име или се присъединете към съществуваща.
+TempNetPassword=Грешна парола.
+TempNetInvalid=Избраното име не е валидно. Моля, изберете друго.
+ConfigAttention=Моля, рестартирайте Tunngle, за да влязат в сила новите настройки.
+ProcessSuccess=Успешно действие.
+NickChange=Можете да промените никнейм-а си, чрез контролния панел в сайта. После трябва да рестартирате Tunngle, за да се появи обновеният никнейм.
+PremiumExpire=Вашето Premium членство изтича на %s.\r\nИскате ли да посетите страницата за подновяване на членството?
+[Global-MessageBox-Warning]
+PortUnreachable=Избраният порт изглежда е затворен.\r\nПояснение: Ако Tunngle работи нормално, няма нужда да се притеснявате.
+UPnP=Не може да се настрои автоматичното пренасочване/отваряне на портове чрез UPnP.
+ServerUnreachable=Не може да се установи връзка със сървъра на Tunngle.\r\nДа стартираме ли Tunngle, въпреки това?
+Offline=Не може да се установи връзка.\r\nПосоченият контакт е извън линия.
+ConnectionFail=Не може да се установи връзка.
+Messenger=Внимание!\r\nТъй като системата за изпращане на съобщения все още е в процес на разработка, преводът на прозореца не е довършен.\r\nТова ще бъде поправено в някои от следващите версии на Tunngle.
+WriteRegistry=Настройките не могат да бъдат запаметени в регистрите.\r\nМоля, свържете се с администратор.
+SelectLanguage=Моля, изберете първо език.
+SelectAdapter=Моля, изберете първо адаптер.
+NetworkBusy=Тази мрежа е твърде заета в момента.\r\nМоля, изберете друга мрежа.
+LoginRequired=Трябва първо да влезете в профила си.
+ConfigAdapter=Възникна грешка при конфигурирането на мрежовия адаптер.\r\nВъзможно е мрежата да не работи правилно.
+ProcessFail=Неуспешна операция.
+NickInvalid=Вашето потребителско име може да съдържа само следните символи:
+[Global-MessageBox-Question]
+Contact=Наистина ли искате да добавите %s към Вашия списък с приятели?
+Delete=Наистина ли искате да премахнете %s от Вашия черен списък?
+ChangeNet=Наистина ли искате да напуснете мрежата на "%s" , за да се присъедините към мрежата на "%s"?
+CloseChat=Наистина ли искате да затворите чат прозореца с "%s" ?
+CloseLobby=Наистина ли искате да напуснете %s?
+CloseTab=Наистина ли искате да затворите "%s" секция?
+AddContact=%s Ви добави към неговия/нейния списък с приятели.\r\Искате ли да приемете?
+Quit=Наистина ли искате да излезете?
+DelFavorite=Наистина ли искате да премахнете %s?
+NewVersion=Новата версия %s на Tunngle е налична.\r\nИскате ли да я свалите сега ?
+Adapter=Следният Tunngle адаптер беше намерен.\r\n%s\r\nИскате ли да свържете този адаптер с Tunngle?
+Language=Засякохме, че езикът на Вашата система е съвместим с "%s" езиков файл.\r\nИскате ли да го изберете сега?
+LanguageID=Избраният езиков файл не съответства с този на сегашната система за локализиране.\r\nПродължаване въпреки това?
+LanguageCP=Текущата кодова система не съвпада с нужната за настоящия избран езиков файл.\r\nНякой знаци може да не бъдат показвани правилно.\r\nПродължаване въпреки това?
+CliQuit=Tunngle трябва да се рестартира, за да се приложат новите настройки.\r\nИскате ли да го затворите сега?
+TempNetActivate=Нужно е активация, за да използвате тази услуга.\r\nАктивацията и използването на услугата са 100% безплатни.\r\nИскате ли да отворите вашия браузър за да я активирате сега?
+TempNetActivateB=Вашият интернет браузър сега ще зареди страницата за активирането на частни мрежи.\r\n\Моля, завършете активацията и натиснете Ок, когато сте готови.
+FileExists=Файлът вече съществува. Искате ли да го заместите?
+RestoreDefault=Искате ли да възстановите всички предишни скрити жълти помощни съобщения?
+RestoreOptions=Искате ли да възстановите настройките по подразбиране?
+PremiumFeature=За да използвате тази услуга, се изисква Tunngle Premium.\r\nБихте ли искали да отворите Вашия браузър и да прочетете повече за нашата оферта?
+ExternalLink=Кликнахте на външен линк. Имайте предвид, че Tunngle не е отговорен за линкове в чата и, че ги отваряте на свой риск. Ако кликнете Да, Tunngle ще отвори избрания линк през браузъра Ви. Желаете ли да продължите?
+[Global-MessageBox-Error]
+RunOnce=Tunngle може да бъде стартиран само един път.
+NotInstalled=Tunngle не е инсталиран правилно.
+NoAdapter=Не може да бъде намерен мрежовият адаптер на Tunngle!
+AccountVerify=Неуспешно влизане.\r\nВашият акаунт не беше потвърден.
+AccountBann=Неуспешно влизане.\r\nВашият акаунт няма достъп.
+ConnectionProblem=Грешка при свързване!\r\nНе може да бъде установена UDP връзка със сървъра.\r\nПричината може да е във Вашия Windows Firewall.\r\nНуждаете ли се от помощ?
+NATProblem=NAT грешка!\r\nNAT настройките на Вашия рутер не позволяват на Tunngle да работи нормално.\r\nТрябва да пренасочите/отворите портовете.\r\nНуждаете ли се от помощ?
+ConnectionProblemInfo=Грешка при свързване!\r\nНе може да бъде установена UDP връзка със сървъра.\r\nВашият Windows Firewall може да е причината за проблема.\r\nНуждаете ли се от помощ?
+MasterServer=Не може да бъде установена връзка с главният сървър на Tunngle.
+Version=Вашата версия на Tunngle не е актуална.\r\nИскате ли да я обновите сега?
+Safe=Вашата връзка не може да бъде подсигурена.
+AuthFail=Неуспешно влизане в профила\r\nМоля, проверете Вашите потребителско име и парола.\r\nАко всички опити са неуспешни, можете да опитате с Възстановяване на парола.\r\nНуждаете ли се от помощ?
+AdapterInit=Не може да се стартира мрежовия адаптер на Tunngle!
+UDPSocket=Грешка с UDP контакта/гнездото!\r\nНе може да бъде създаден UDP контакт/гнездо.\r\nПричината може да е във Вашия Windows Firewall.\r\nНуждаете ли се от помощ?
+AdapterPrim1=Мрежовият адаптер на Tunngle не е с приоритет. (1)\r\nВ LAN менюто на Вашите игри няма да откриете сървър.\r\nНуждаете ли се от помощ?
+AdapterPrim2=Мрежовият адаптер на Tunngle не е с приоритет. (2)\r\nВ LAN менюто на Вашите игри няма да откриете сървър.\r\nНуждаете ли се от помощ?
+ServiceFound=Не може да се намери Tunngle услугата.
+ServiceContact=Не може да бъде установена връзка с Tunngle услугата!
+CryptFail=Не може да бъде заредена библиотеката за разшифроване!
+PortFail=Избрания порт не е валиден за пренасочване/отваряне. Моля, въведете друг порт!
+WinSock2=Няма достъп до Winsock.\r\nНастройките на мрежата не могат да бъдат проверени.
+LSPProblems=%d LSP проблеми са открити.\r\nДа се поправят ли сега?
+LSPBackup=Грешка при създаването на LSP резервен файл.\r\nИскате ли да прекратите операцията?
+LSPSafePoint=Грешка при създаването на LSP точка за възтановяване.\r\nИскате ли да прекратите операцията?
+LSPRepair=%d LSP проблемите не могат да се отстранят.\r\nВръщане на предишното състояние?
+LSPRedo=Възтановяването провалено.
+ConfigAdapter=Не може да настрои мрежовият адаптер на Tunngle!
+WrongPassword=Грешна парола.
+GUIVersionMismatch=Текущата инсталация на Tunngle вероятно е повредена.
+InterlinkFormat=Неправилно изписване. Трябва да бъде "IP или Web Address:Port". Пример: yourowndediserver.com:28960.
+cProgram=Във вашия компютър има файл с име "C:\\program\", който може би пречи да се стартира Tunngle услугата.\r\nПреименуването на файла на "C\\program1" ще оправи проблема.
+ProcessFail=Операцията е неуспешна.
+ServerUnreachable=Сървърът е недостъпен, моля да опитате отново по-късно.
+SelectNetRange=Моля, изберете обхват на мрежата.
+[Global-Text-Dynamic]
+Loading=Зареждане %s...
+FromTo=%d от %d до %d
+LastAct=Последно обновяване: %s
+Lobby=Лоби (%d)
+ChatJoined=<%s "%s" се присъедини към чата.>
+NetJoined=<%s "%s" се присъедини към мрежата.>
+LobbyJoined=<%s "%s" се присъедини към лобито.>
+ChatLeft=<%s "%s" напусна чата.>
+NetLeft=<%s "%s" напусна мрежата.>
+LobbyLeft=<%s "%s" напусна лобито.>
+ConnectionDeny1=* Не можете да се свържете с %s, защото сте в неговия/нейния черен списък. *
+ConnectionDeny2=* Не можете да се свържете с %s, защото той/тя е във Вашия черен списък. *
+ConnectionLost=[ %s Изгубена е връзката със сървъра на Tunngle! ]
+VirtualIP=Виртуален IP: %s
+LoginNick=Вписан като: %s
+Version=Версия: %s
+Connecting=Свързване %s
+ChatMe=Аз: %s
+ChatDeny=*Не можете да получавате съобщения от %s, защото той/тя е във Вашия Черен чат списък. *
+AddBlacklist=Колко време %s да бъде във Вашия Черен чат списък? *
+PingMs=Пинг: %s мс
+ChannelMode=Тип: %s
+Ports=Порт: %s
+WaitingQueue=Чакаща опашка %d/%d
+AddedBlackList=%s беше добавен/а успешно във Вашия черен списък.
+UserID=Потребителско ID: %d
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle Новини
+CaptionStart=Tunngle Начало
+CaptionStartPage=Tunngle Начална страница
+CaptionQuickstart=Бързо Начало
+CaptionSupport=Помощно търсене
+CaptionBetainfo=Beta Информация
+CaptionTunnglefaq=Tunngle ЧЗВ [FAQ]
+CaptionDownloadarea=Свалете Tunngle
+CaptionResults=Резултати...
+CaptionChat=Чат
+CaptionLobby=Лоби
+CaptionNetwork=Мрежа
+CaptionTunngleforum=Tunngle Форум
+CaptionEventplaner=Планиране на събития
+CaptionForumfaq=Форум ЧЗВ [FAQ]
+CaptionForum=Форум
+CaptionTunngleskins=Tunngle Фонове
+CaptionSearch=Търсене
+CaptionBrowser=Браузър
+CaptionSkinconfig=Настройки на фона
+CaptionSoundconfig=Звуци
+CaptionPrivacylists=Черен списък
+CaptionConfiguration=Настройки
+CaptionFavorite=Предпочитани мрежи
+CaptionSubBrowser=Мрежи
+CaptionCreateNet=Частни Мрежи
+CaptionAccount=Акаунт
+SplashPleaseWait=Моля, изчакайте...
+SplashLoaddata=Зареждане на данните...
+SplashReset=Пренастройване...
+SplashConfig=Настройване...
+SplashLoading=Зареждане...
+SplashConnecting=Свързване...
+SplashVersion=Проверка на версията...
+SplashSafe=Подсигуряване на връзката...
+SplashUPnP=Опит за UPnP пренасочване/отваряне на портовете...
+SplashAuth=Удостоверяване...
+SplashAdatperset=Настройване на адаптера...
+SplashAdapterinit=Стартиране на адаптера...
+SplashAdapterstart=Свързване на адаптера...
+SplashAdapterchkprim=Проверка приоритета на адаптера...
+SplashAdapterchkbc=Проверка на предаването на адаптера...
+SplashAdapterchkstop=Проверка прекъсването на адаптера...
+SplashFinalize=Завършване...
+SplashServiceinit=Стартиране на Tunngle услугата...
+SplashServicecontact=Свързване към Tunngle...
+SplashServercontact=Свързване към Tunngle сървъра...
+SplashConfigurate=Настройване на Tunngle …
+SplashWinSock2=Проверка на мрежовите настройки…
+SplashNetzone=Проверка на местоположението на мрежата...
+SearchInWork=В процес на търсене...
+Lobby=Лоби
+NetLeft=Напусна мрежата.
+NoIP=Виртуален IP адрес: -
+ChatJoined=Успешно присъединяване към чата.
+NetJoined=Успешно присъединяване към мрежата.
+LobbyJoined=Успешно присъединяване към лобито.
+FoundNothing=Няма резултати!
+NetChangeBegin=Опит за промяна на мрежата. Моля, изчакайте...
+NetChangeEnd=Мрежата е успешно променена. Моля, изчакайте...
+NotLoggedIn=Вие не сте влязъл.
+EnterNamePW=Моля, въведете потребителско име и парола.
+MessageSendFail=* Съобщението не може да бъде изпратено. *
+MessageSendFlood=* Изпращате съобщения твърде бързо. Моля, не бързайте. *
+LaunchParameter=Параметри на командния ред:
+TypeStandard=Tunngler
+TypeInterlink=Линк към външен сървър
+TypeTunngleTeam=Екип на Tunngle
+TypeEnthusiast=Tunngle Ентусиаст
+TypeLifetime=Пожизнен/Вечен Tunngler
+TypePremium=Премиум Tunngler
+TypeInactive=Не може да се установи връзка с този играч.
+SplashExecuteJoin=Моля, изчакайте...
+StopAdapter=Изключване на Tunngle адаптера ...
+StartAdapter=Свързване с Tunngle адаптера ... (може да отнеме известно време)
+StartAdapterFail=Грешка: Неуспешно свързване с Tunngle адаптера.
+Interlink=IP или Уеб адрес/Порт:
+StatusBarRegister=Все още ли нямате акаунт? Натиснете тук, за да се регистрирате!
+ConnectionGood=Портът е отворен
+ConnectionBad=Моля, отворете/пренасочете Вашия порт, ако можете!
+ConnectionNeutral=Портът е затворен
+CmdHlpVPN=Чат команди:\r\n - /banip ВиртуалноIP (добавя собственика на IP-то в черния списък) \r\n - /ipseach ВиртуалноIP (намира името на собственика на IP-то, ипозлвайте "all" за целият списък)\r\n - /clear (изтрива чата)r\n - /help (показва това съобщение)
+ChangeNick=Изберете Вашия никнейм в Tunngle:
+StatusBarCreateNet=Ако имате Premium абонамент, Вие можете да пуснете една Обикновена и една Премиум мрежи едновременно.
+StatusBarJoinNet=Ако имате проблеми с играта, кликнете на DON'T PANIC, горе, в дясно, за да получите помощ от Общността.
+AccStateBasic=Обикновенo Tunngle членство - обновете го сега
+AccStatePremium=Премиум Tunngler
+AccStateLifetime=Пожизнен/Вечен Tunngle потребител
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Общност
+SpeedButtonCommunity2=<
+SpeedButtonMessenger=Чат Бутон
+SpeedButtonLogin=Вписване
+SpeedButtonCancel=Отказ
+SpeedButtonCancelStatus=Отказ
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Намерете мрежи и приятели
+SpeedButtonCommunity2=Към последния активен раздел
+SpeedButtonMessenger=Списък с приятели
+SpeedButtonWiki=Получете помощ
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Начална страница
+ButtonQABetaInfo=Бета информация
+ButtonQAForum=Форум
+ButtonQAEventPlanner=Планиране на събития
+ButtonQALobby=Tunngle Лоби
+ButtonQAFavorites=Предпочитани мрежи
+ButtonQACreateNetwork=Частни Мрежи
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=Начална Страница
+spDynamicSkinFormMain-1=Частни Мрежи
+spDynamicSkinFormMain-2=Форум
+spDynamicSkinFormMain-3=Планиране на събития
+spDynamicSkinFormMain-4=Tunngle Лоби
+spDynamicSkinFormMain-5=Предпочитани мрежи
+spDynamicSkinFormMain-7=Фейсбук
+spDynamicSkinFormMain-8=Туитър
+spDynamicSkinFormMain-9=Гугъл+
+spDynamicSkinFormMain-10=ЮТюб
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Мрежи по жанрове
+ExPanelFindnetwork=Търсене на мрежа
+ExPanelStatus=Статус на членството
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Търсене
+MenuItemNetFavorite=Предпочитани мрежи
+MenuItemNetCreate=Запитване за игри 
+MenuItemWebGames=Браузърни игри
+MenuItemNetCreateOwn=Частни мрежи
+MenuItemTunnglelobby=Tunngle Лоби
+MenuItemEventplaner=Планиране на събития
+MenuItemWizard=Tunngle видео трейлър
+MenuItemBanner=Реклама
+MenuItemCommunityBanner=Банер на Общността
+MenuItemAccount=Акаунт
+MenuItemSounds=Звуци
+MenuItemSkins2=Фонове
+MenuItemPrivacylists=Черен списък
+MenuItemConfiguration=Настройки
+MenuItemRestore=Възстанови подсказките
+MenuItemAbout=Относно Tunngle
+MenuItemTrayOpen=Отвори
+MenuItemTrayClose=Затвори
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=Потребителско име:
+StdLabelPassword=Парола:
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Запомни ме
+CheckRadioBoxAutologon=Автоматично вписване
+CheckRadioBoxDontShowAgain=Не показвай повече
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Уведомления
+MenuItemAddContact=Добави към списъка с приятели
+MenuItemAddBlacklist=Добави към черния списък
+MenuItemEditBlacklist=Редактирай черния списък
+MenuItemSortNicks=Подреди имената по азбучен ред
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Изпрати
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Назад
+ButtonForward=Напред >>
+ButtonActualize=Обнови
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Име
+ListViewNet-1=На линия
+ListViewNet-2=Жанр
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Добави към предпочитаните мрежи
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Обнови
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Име
+ListViewNet-1=На линия
+ListViewNet-2=Жанр
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Добави към предпочитаните мрежи
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Назад
+ButtonForward=Напред >>
+ButtonActualize=Обнови
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Име
+ListViewNet-1=На линия
+ListViewNet-2=Жанр
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Изтрий от предпочитаните мрежи
+MenuItemSortFavorite=Подреди предпочитаните мрежи
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Обнови
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Име
+ListViewNet-1=На линия
+ListViewNet-2=Жанр
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Изтрий от предпочитаните мрежи
+MenuItemSortFavorite=Подреди предпочитаните мрежи
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Прекъсване на излъчванията на всички предавания
+CheckRadioBoxDNS=Tunngle DNS сървър
+CheckRadioBoxPort=Пренасочен/отворен порт
+CheckRadioBoxUPnP=Използвай UPnP
+CheckRadioBoxTCActive=Разрешено
+CheckRadioBoxSignature=Web Подпис
+CheckRadioBoxLog=Влизане в мрежата
+CheckRadioBoxExp=Експертен режим
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Забележка!\r\nОбикновено изключено.
+CheckRadioBoxDNS=DNS
+CheckRadioBoxPort=Порт
+CheckRadioBoxUPnP=UPnp
+CheckRadioBoxTCActive=TCactive
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=Добре
+ButtonAccept=Приложи
+ButtonCancel=Отмени
+ButtonTest=Изпитай
+ButtonDefault=Стандартни настройки
+ButtonWizard=Помощник за настройка
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Интерфейс
+GroupBoxNetconfig=Мрежа
+GroupBoxRouterconfig=Рутер
+GroupBoxTrafficcontroller=Трафик контролер
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Език
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Предупреждение! Моля, рестартирайте Tunngle, за да приложите новите настройки!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Търсене
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Скрий пълните мрежи
+CheckRadioBoxEmpty=Скрий празните мрежи
+CheckRadioBoxPassword=Скрий мрежите, защитени с парола
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Разширено търсене
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Разширено търсене >>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Назад
+ButtonForward=Напред >>
+ButtonActualize=Обнови
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Име
+ListViewResults-1=На линия
+ListViewResults-2=Жанр
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Добави към предпочитаните мрежи
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Уведомления
+MenuItemAddContact=Добави към списъка с приятели
+MenuItemAddBlacklist=Добави към черния списък
+MenuItemEditBlacklist=Редактирай черния списък
+MenuItemSortNicks=Подреди имената по азбучен ред
+MenuItemShowProfile=Разгледай профила
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Изпрати
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=Добре
+ButtonAccept=Приложи
+ButtonCancel=Отмени
+ButtonFind=Търсене
+ButtonExport=Изнасяне
+ButtonImport=Внасяне
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Потребителско ID
+ListViewResults-1=Никнейм
+ListViewConnection-0=ID
+ListViewConnection-1=Никнейм
+ListViewChat-0=ID
+ListViewChat-1=Никнейм
+[FramePrivateLists-TspSkinComboBox-Item]
+ComboBoxSearchType-0=Никнейм
+ComboBoxSearchType-1=ID
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Търсене
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Черен списък с напълно блокирани
+StdLabelChatmessages=Списък с блокирани за чат
+StdLabelName=Име
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Премахни
+MenuItemDeleteChat=Премахни
+MenuItemAddBlacklist=Добави към черния списък
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=Добре
+ButtonAccept=Приложи
+ButtonCancel=Отмени
+ButtonDownload=Изтегляне на още фонове
+ButtonDefault=Стандартен Tunngle фон
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Преглед
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Надпис
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Текстово поле
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Въвеждане на поле
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Квадратче за отметка
+CheckRadioBox2=Квадратче за отметка
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=Добре
+ButtonAccept=Приложи
+ButtonCancel=Отмени
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Включване на звуците
+CheckRadioBoxStart=Включване
+CheckRadioBoxLogin=Вписване
+CheckRadioBoxLeave=Tunngler напуска мрежата
+CheckRadioBoxJoin=Tunngler се присъединява към мрежата
+CheckRadioBoxReceive=Прието съобщение
+CheckRadioBoxQuit=Изключване
+CheckRadioBoxSend=Съобщението е изпратено
+CheckRadioBoxKey=Щракване на бутона за чат
+CheckRadioBoxDirectopen=Нов прозорец за директен чат
+CheckRadioBoxDirectmessage=Получено съобщение от директния чат
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Преглед по жанрове
+ButtonFavorite=Предпочитани мрежи
+ButtonQuicklaunch=Покажи шорткъта
+ButtonBetainfo=Beta информация
+ButtonForum=Форум
+ButtonEventplaner=Планиране на събития
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Назад
+StatusPanelForward=Напред
+StatusPanelStop=Стоп
+StatusPanelReload=Обнови
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Назад
+StatusPanelForward=Напред
+StatusPanelStop=Спри
+StatusPanelReload=Обнови
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Уведомления
+MenuItemAddContact=Добави към списъка с приятели
+MenuItemAddBlacklist=Добави към черния списък
+MenuItemEditBlacklist=Редактирай черния списък
+MenuItemCopyIP=Копирай IP адреса към междинния буфер
+MenuItemSortNicks=Подреди имената по азбучен ред
+MenuItemSortIPs=Подреди имената според пинга
+MenuItemConfig=Конфигурирай
+MenuItemShowProfile=Разгледай профила
+MenuItemSelectAll=Избери всички
+MenuItemCopy=Копирай
+MenuItemChangeNick=Промени никнейма
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Изпрати
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Чат
+[FrameVPN-TspSkinCheckBox-Hint]
+CheckBoxScroll=Автоматично превъртане
+[FrameVPN-TspSkinButton-Hint]
+ButtonLauncher=Пряк път към играта
+ButtonVideo=Видео преглед
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Затвори
+[FormAbout-Infos]
+Caption=Относно Tunngle
+[FormLogin-Infos]
+Caption=Вписване
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Вписване
+ButtonCancel=Отмени
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Потребителско име:
+LabelPassword=Парола:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Запомни ме
+CheckRadioBoxAuto=Автоматично вписване
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Регистрирайте се в Tunngle безплатно.
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Отмени
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Изпрати
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Добави група
+MenuItemContactAdd=Добави контакт
+MenuItemContactHideOffline2=Скрий тези, които са извън линия
+MenuItemRights=Разрешения
+MenuItemTunngleShares=Tunngle Спогодби
+MenuItemContactInfo=Разгледай профила
+MenuItemContactAlert=Контакт тревога
+MenuItemContactNote=Пояснение за контакта
+MenuItemReadAwayMessage=Моментен прочет на съобщението
+MenuItemContactRename=Преименувай контакта
+MenuItemContactDelete=Изтрий контакта
+MenuItemMoveToGroup=Премести в група
+MenuItemContactHideOffline3=Скрий тези, които са извън линия
+MenuItemMessage=Директен чат
+MenuItemRights2=Разрешения
+MenuItemTunngleShares2=Tunngle Спогодби
+MenuItemGroupRename=Преименувай групата
+MenuItemGroupDelete=Изтрий групата
+MenuItemGroupExpandCollapse=Разшири/Свий групата
+MenuItemContactHideOffline=Скрий тези, които са извън линия
+MenuItemMain=&Меню
+MenuItemAddContact=Добави контакт
+MenuItemInNetwork=Мрежова информация
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=Изглеждайте "Извън линия"
+[FormFindContact-Infos]
+Caption=Търси контакт
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Търси
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=Име:
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Добави контакт
+[FormFindContact-TspSkinListView-Column]
+ListViewResults-0=ID
+ListViewResults-1=Никнейм
+[FormFindContact-TspSkinComboBox-Item]
+ComboBoxSearchType-0=Никнейм
+ComboBoxSearchType-1=ID
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Отмени
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Файл
+ListViewLanguage-1=Език
+ListViewLanguage-2=Автор
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Продължи
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Моля, изберете език.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Име
+ListViewAdapter-1=IP адрес
+ListViewAdapter-2=Име на устройството
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Продължи
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Моля, изберете Tunngle адаптера.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=Добре
+ButtonCancel=Отмени
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Само чат
+CheckRadioBoxComplete=Пълно блокиране
+CheckRadioBoxHours=Часове
+CheckRadioBoxDate=Докато
+CheckRadioBoxInfinite=Завинаги
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=ОК
+ButtonCancel=Отказ
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Въведете парола:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Уведомления
+MenuItemAddContact=Добавете към списъка с приятели
+MenuItemCopyIP=Копирай IP-то към междинния буфер
+MenuItemSortNicks=Подреди имената по азбучен ред
+MenuItemSortIPs=Подреди имената според пинга
+MenuItemConfig=Конфигурирай
+MenuItemShowProfile=Разгледай профила
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Изпрати
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Приветствено съобщение
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Конфигурирайте Вашата собствена мрежа
+GroupBoxJoin=Присъединете се към съществуваща мрежа
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=Тип на мрежата:
+LabelNetworkNameT=Име на мрежата:
+LabelNetworkPasswordT=Парола на мрежата:
+LabelNetworkSize=Макс. брой играчи:
+LabelNetworkTypeB=Тип на мрежата:
+LabelNetworkNameB=Име на мрежата:
+LabelNetworkPasswordB=Парола на мрежата:
+[FrameNetCreate-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Основен
+ComboBoxNetTypeT-1=Премиум
+ComboBoxNetTypeB-0=Основен
+ComboBoxNetTypeB-1=Премиум
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Създай/Обнови
+ButtonJoin=Присъединете се
+ButtonJoinOwn=Присъединете се към Вашата мрежа
+ButtonNetworkList=Списък с  мрежи
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Мрежов емулатор:
+UrlLabelInterlink=Линк към външен сървър
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Основна мрежа
+CheckRadioBoxNetPremium=Премиум мрежа
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Уведомления
+MenuItemAddContact=Добави към списъка с приятели
+MenuItemCopyIP=Копирай IP-то към междинния буфер
+MenuItemSortNicks=Подреди имената по азбучен ред
+MenuItemSortIPs=Подреди имената според пинга
+MenuItemConfig=Настройки
+MenuItemShowProfile=Прегледай профила
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Изпрати
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Чат:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=Не показвай повече
+[FrameAccount-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSignature=Уеб подпис
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=Добре
+ButtonAccept=Приложи
+ButtonCancel=Отказ
+ButtonChangeNick=Промяна на потребителското име
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=Опции на профила

@@ -1,0 +1,711 @@
+
+[Header]
+Author=SirGerakul (Community)
+Date=2014.12.19
+Language=Catalan
+CharSet=DEFAULT_CHARSET
+PrimLangID=3
+CodePage=1252
+[Global-Ressource]
+MI_MINCAPTION=Mi&nimitzar
+MI_MAXCAPTION=Ma&ximitzar
+MI_CLOSECAPTION=&Tancar
+MI_RESTORECAPTION=&Restaurar
+MI_MINTOTRAYCAPTION=&Minimitzar a la safata
+MI_ROLLUPCAPTION=Desenrot&llar
+MINBUTTON_HINT=Minimitzar
+MAXBUTTON_HINT=Maximitzar
+CLOSEBUTTON_HINT=Tancar
+TRAYBUTTON_HINT=Minimitzar en safata
+ROLLUPBUTTON_HINT=Desenvolupar
+MENUBUTTON_HINT=Menu del Sistema
+RESTORE_HINT=Restaurar
+EDIT_UNDO=Desfer
+EDIT_COPY=Copiar
+EDIT_CUT=Retallar
+EDIT_PASTE=Enganxar
+EDIT_DELETE=Suprimir
+EDIT_SELECTALL=Seleccionar-ho tot
+MSG_BTN_YES=&Sí
+MSG_BTN_NO=&No
+MSG_BTN_OK=D'acord
+MSG_BTN_CANCEL=Cancel·lar
+MSG_BTN_ABORT=&Avortar
+MSG_BTN_RETRY=&Reintentar
+MSG_BTN_IGNORE=&Ignorar
+MSG_BTN_ALL=&Tot
+MSG_BTN_NOTOALL=N&o a tot
+MSG_BTN_YESTOALL=&Sí a tot
+MSG_BTN_HELP=&Ajuda
+MSG_BTN_OPEN=&Obrir
+MSG_BTN_SAVE=&Desar
+MSG_BTN_CLOSE=Tancar
+MSG_BTN_BACK_HINT=A l'última carpeta visitada
+MSG_BTN_UP_HINT=Puja un nivell
+MSG_BTN_NEWFOLDER_HINT=Crear nova carpeta
+MSG_BTN_VIEWMENU_HINT=Veure menú
+MSG_BTN_STRETCH_HINT=Estirar imatge
+MSG_FILENAME=Nom de l'arxiu
+MSG_FILETYPE=Tipus d'arxiu
+MSG_NEWFOLDER=Nova carpeta
+MSG_LV_DETAILS=Detalls
+MSG_LV_ICON=Icones grans
+MSG_LV_SMALLICON=Icones petits
+MSG_LV_LIST=Llista
+MSG_PREVIEWSKIN=Mostra
+MSG_PREVIEWBUTTON=Botó
+MSG_OVERWRITE=Vols reescriure l'arxiu?
+MSG_CAP_WARNING=Advertència
+MSG_CAP_ERROR=Error
+MSG_CAP_INFORMATION=Informació
+MSG_CAP_CONFIRM=Confirmar
+MSG_CAP_SHOWFLAG=No mostrar aquest missatge de nou
+CALC_CAP=Calculadora
+ERROR=Error
+COLORGRID_CAP=Colors bàsics
+CUSTOMCOLORGRID_CAP=Colors personalitzats
+ADDCUSTOMCOLORBUTTON_CAP=Afegir a colors personalitzats
+FONTDLG_COLOR=Color
+FONTDLG_NAME=Nom
+FONTDLG_SIZE=Mida
+FONTDLG_HEIGHT=Altura
+FONTDLG_EXAMPLE=Exemple
+FONTDLG_STYLE=Estil
+FONTDLG_SCRIPT=Guió
+DB_DELETE_QUESTION=Estas segur que vols suprimir aquest registre?
+DB_MULTIPLEDELETE_QUESTION=Suprimir tots els registres selecionats?
+NODISKINDRIVE=No hi ha cap disc en el driver, o el driver no esta preparat
+NOVALIDDRIVEID=La ID del Driver no és valida
+FLV_NAME=Nom
+FLV_SIZE=Mida
+FLV_TYPE=Mena
+FLV_LOOKIN=Cercar
+FLV_MODIFIED=Modificat
+FLV_ATTRIBUTES=Atributs
+FLV_DISKSIZE=Mida del disc
+FLV_FREESPACE=Espai lliure
+PRNDLG_NAME=Nom
+PRNDLG_PRINTER=Impressora
+PRNDLG_PROPERTIES=Propietats...
+PRNDLG_TYPE=Mena
+PRNDLG_STATUS=Estat
+PRNDLG_WHERE=On
+PRNDLG_COMMENT=Comentari
+PRNDLG_COPIES=Copies
+PRNDLG_NUMCOPIES=Número de copies
+PRNDLG_COLLATE=Col·lacionar
+PRNDLG_ALL=Tot
+PRNDLG_PAGES=Pàgines
+PRNDLG_SELECTION=Selecció
+PRNDLG_PRINTTOFILE=Imprimir a l'arxiu
+PRNDLG_FROM=De:
+PRNDLG_TO=A:
+PRNDLG_ORIENTATION=Orientació
+PRNDLG_PAPER=Paper
+PRNDLG_PORTRAIT=Retrat
+PRNDLG_LANDSCAPE=Paisatge
+PRNDLG_SOURCE=Font:
+PRNDLG_SIZE=Mida:
+PRNDLG_MARGINS=Marges (mil·limetres)
+PRNDLG_MARGINS_INCHES=Marges (polzades)
+PRNDLG_LEFT=Esquerre:
+PRNDLG_RIGHT=Dreta:
+PRNDLG_TOP=Inici:
+PRNDLG_BOTTOM=Final:
+PRNDLG_WARNING=No hi han immpresores en el teu sistema!
+FIND_NEXT=Cerca el següent:
+FIND_WHAT=Què cercar:
+FIND_DIRECTION=Direcció
+FIND_DIRECTIONUP=Amunt
+FIND_DIRECTIONDOWN=Avall
+FIND_MATCH_CASE=Coincidir majúscules i minúscules
+FIND_MATCH_WHOLE_WORD_ONLY=Coincidir tota la paraula
+FIND_REPLACE_WITH=Reemplaçar amb:
+FIND_REPLACE=Reemplaçar
+FIND_REPLACE_All=Reemplaçar-ho tot
+FIND_REPLACE_CLOSE=Tancar
+MORECOLORS=Més colors...
+AUTOCOLOR=Automàtic
+CUSTOMCOLOR=Personalitzat...
+[Global-MessageBox-Information]
+Select=Primer necessites seleccionar un Tunngle.
+Controller=El controlador de tràfic està desactivat en l'actual versió.
+EnterSearchText=Si us plau, escriu quelcom per cercar.
+EnterSearchUser=Si us plau, escriu quelcom per cercar.
+ContactDeny=%s ha denegat la teva petició d'amistat.
+ContactAccept=%s ha acceptat la teva petició d'amistat.
+ConnectionLost=S'ha perdut la conexió.\r\nCodi: %s
+ConnectionProblem=Possibles problemes de conexió.\r\nLa configuració NAT del teu router podria obstaculitzar l'acció de Tunngle\r\nper establir exitosament conexions P2P amb altres usuaris.\r\nObrir la pàgina d'ajuda?
+PortReachable=El port seleccionat està obert i acceptant conexions.
+CreateNet=Aquesta funció encara no està disponible.\r\nSi us plau, envia les teves suggerències al fòrum de la comunitat.\r\nLi agradaria obrir la web del fòrum ara?
+AdapterPrim=L'adaptador de xarxa de Tunngle no està correctament prioritzada. (0)\r\nNo trobaràs cap servidor en el cercador LAN de jocs.
+EnterNamePW=Si us plau, entri el seu nom d'usuari i contrasenya.
+NewVersion=La nova versió %s de Tunngle ja està disponible i pot ser descarregada.
+FriendNetwork=%s està a la xarxa "%s".\r\nVols unirte a aquesta xarxa?
+FriendNoNetwork=%s no està en cap xarxa.
+Close=Ara es tancara Tunngle.
+LSPBackup=Còpia de seguretat dels arxius LSP creada amb èxit.\r\n%s
+LSPOK=%d problemes LSP arreglats.
+LastTab=No s'ha pogut tancar l'última pestanya.
+NetFull=Aquesta xarxa està plena.
+[Global-MessageBox-Error]
+LSPRedo=Restauració fallida.
+ConfigAdapter=No s'ha pogut configurar l'adaptador de xarxa de Tunngle!
+WrongPassword=Contrasenya incorrecta.
+GUIVersionMismatch=L'actual instal·lació de Tunngle sembla estar corrupte :(
+ProcessFail=Operació fallida.
+ServerUnreachable=Aquest Servidor es inassolible, si us plau provi-ho més tard.
+SelectNetRange=Si us plau, seleccioni l'abast de la xarxa.
+[Global-Text-Dynamic]
+Loading=Carregant %s...
+FromTo=%d de %d de %d
+LastAct=Última actualització: %s
+Lobby=Vestíbul: (%d)
+ChatJoined=<%s !%s" s'ha unit al xat.>
+NetJoined=<%s "%s" s'ha unit a la xarxa.>
+LobbyJoined=<%s "%s" s'ha unit al vestíbul.>
+ChatLeft=<%s "%s" ha deixat el xat.>
+NetLeft=<%s "%s" ha deixat la xarxa.>
+LobbyLeft=<%s "%s" ha deixat el vestíbul.>
+ConnectionLost=[ %s Perduda la conexió amb el servidor Tunngle! ]
+VirtualIP=Ip virtual: %s
+LoginNick=Connectat com a: %s
+Version=Versió: %s
+Connecting=Connectant %s
+ChatMe=Jo: %s
+ChatDeny=* No s'ha pogut rebre el missatge de %s perquè està a la teva Llista Negra de Xat. *
+AddBlacklist=Per quant de temps ha d'estar %s a la Llista Negra?
+PingMs=Ping: %s ms
+ChannelMode=Mena: %s
+Ports=Port: %s
+WaitingQueue=Esperant cua %d/%d
+AddedBlackList=%s afegit a la teva Llista Negra amb èxit
+UserID=ID: %d
+[Global-Text-Static]
+CaptionTunnglenews=Notícies Tunngle
+CaptionStart=Inici Tunngle
+CaptionStartPage=Inici Tunngle
+CaptionQuickstart=Inici ràpid
+CaptionSupport=Suport
+CaptionBetainfo=Informació Beta
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Àrea de descàrregues
+CaptionResults=Resultats...
+CaptionChat=Xat
+CaptionLobby=Vestíbul
+CaptionNetwork=Xarxes
+CaptionTunngleforum=Fòrum Tunngle
+CaptionEventplaner=Planificador d'esdeveniments
+CaptionForumfaq=Fòrum FAQ
+CaptionForum=Fòrum
+CaptionTunngleskins=Temes de Tunngle
+CaptionSearch=Cercar
+CaptionBrowser=Navegador
+CaptionSkinconfig=Opcions del Tema
+CaptionSoundconfig=So
+CaptionPrivacylists=Llista Negra
+CaptionConfiguration=Opcions
+CaptionFavorite=Marcadors
+CaptionSubBrowser=Xarxes
+CaptionCreateNet=Xarxes privades
+CaptionAccount=Compte
+SplashPleaseWait=Si us plau, esperi...
+SplashLoaddata=Carregant dades...
+SplashReset=Restablint...
+SplashConfig=Configurant...
+SplashLoading=Carregant...
+SplashConnecting=Conectant...
+SplashVersion=Comprovant versió...
+SplashSafe=Assegurant la conexió...
+SplashUPnP=Intentant la redirecció dels ports UPnP...
+SplashAuth=Autentificant...
+SplashAdatperset=Establint l'adaptador...
+SplashAdapterinit=Iniciant l'adaptador...
+SplashAdapterstart=Connectant l'adaptador...
+SplashAdapterchkprim=Comprovant la prioritat de l'adaptador...
+SplashAdapterchkbc=Comprovant la transmissió de l'adaptador...
+SplashAdapterchkstop=Verificant la desconnexió de l'adaptador...
+SplashFinalize=Finalitzant...
+SplashServiceinit=Iniciant el servei de Tunngle...
+SplashServicecontact=Contactant el servei de Tunngle...
+SplashServercontact=Contactant el servidor de Tunngle...
+SplashConfigurate=Configurant Tunngle....
+SplashWinSock2=Comprovant la configuració de xarxa...
+SplashNetzone=Comprovant la localització de xarxa...
+SearchInWork=Cerca en progrés...
+Lobby=Vestíbul
+NoIP=IP Virtual: -
+ChatJoined=Connexió reeixida al Xat
+NetJoined=Connexió reeixida a la Xarxa.
+LobbyJoined=Connexió reeixida al Vestíbul.
+FoundNothing=Cap resultat!
+NetChangeBegin=Intentant el trasllat de xarxa. Si us plau, esperi...
+NetChangeEnd=Trasllat de xarxa reeixit. Siu us plau, esperi...
+NotLoggedIn=No estàs connectat.
+EnterNamePW=Si us plau, entri el seu usuari i contrasenya.
+MessageSendFail=* No s'ha pogut enviar el missatge. *
+MessageSendFlood=* Estàs enviant missatges massa ràpid. *
+LaunchParameter=Paràmetres de línia de comandament
+TypeStandard=Tunngler
+TypeTunngleTeam="Tunngle Team"
+TypeEnthusiast="Tunngler Enthusiast"
+TypeLifetime="Lifetime Tunngler"
+TypePremium="Premium Tunngler"
+TypeInactive=No s'ha pogut establir una connexió amb aquest jugador.
+SplashExecuteJoin=Si us plau, esperi...
+StopAdapter=Desconnectant l'adaptador de Tunngle...
+StartAdapter=Connectant l'adaptador de Tunngle.... (pot tardar una estona)
+StartAdapterFail=Error: no s'ha pogut connectar l'adaptador de Tunngle.
+Interlink=GameServer:Port
+StatusBarRegister=Encara no tens un compte? Fes clic aquí per a registrarte!
+ConnectionGood=Port obert
+ConnectionBad=Si us plau, obri els ports si pots!
+ConnectionNeutral=Port tancat
+ChangeNick=Tria el teu nom d'usuari Tunngle:
+StatusBarCreateNet=Si tens una Subscripció Premium, pots connectarte a una Xarxa Bàsica (Basic Network) i a una Xarxa Premium (Premium Network) alhora.
+StatusBarJoinNet=Si tens problemes amb un joc, fes clic a DON'T PANIC situat al menú de la dreta per accedir a l'Ajuda de la Comunitat.
+AccStateBasic=Tunngle Bàsic - Actualitzar ara
+AccStatePremium=Tunngle Premium
+AccStateLifetime=Tunngle Lifetime
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Comunitat
+SpeedButtonCommunity2=<
+SpeedButtonLogin=Iniciar sessió
+SpeedButtonCancel=Cancel·lar
+SpeedButtonCancelStatus=Cancel·lar
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Troba xarxes i amics
+SpeedButtonCommunity2=A l'última pestanya activa
+SpeedButtonMessenger=Llista d'amistats
+SpeedButtonWiki=Aconsegueix ajuda
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Pàgina d'Inici
+ButtonQABetaInfo=Informació Beta
+ButtonQAForum=Fòrum
+ButtonQAEventPlanner=Planificador d'esdeveniments
+ButtonQALobby=Vestíbul de Tunngle
+ButtonQAFavorites=Marcadors
+ButtonQACreateNetwork=Xarxes privades
+[FormMain-TspDynamicSkinForm-QuickButton-Hint]
+spDynamicSkinFormMain-0=Pàgina d'Inici
+spDynamicSkinFormMain-1=Xarxes privades
+spDynamicSkinFormMain-2=Fòrum
+spDynamicSkinFormMain-3=Planificador d'esdeveniments
+spDynamicSkinFormMain-4=Vestíbul de Tunngle
+spDynamicSkinFormMain-5=Marcadors
+spDynamicSkinFormMain-7=Facebook
+spDynamicSkinFormMain-8=Twitter
+spDynamicSkinFormMain-9=Google+
+spDynamicSkinFormMain-10=YouTube
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Explorador de Xarxes
+ExPanelFindnetwork=Cercador de Xarxes
+ExPanelStatus=Estat de la Subscripció
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Cercador
+MenuItemNetFavorite=Marcadors
+MenuItemNetCreate=Peticions de Joc
+MenuItemWebGames=Navega pels jocs
+MenuItemNetCreateOwn=Xarxes privades
+MenuItemTunnglelobby=Vestíbul de Tunngle
+MenuItemEventplaner=Planificador d'esdeveniments
+MenuItemWizard=Mostrar la guia
+MenuItemBanner=Publicitat
+MenuItemAccount=Compte
+MenuItemSounds=So
+MenuItemSkins2=Temes (skins)
+MenuItemPrivacylists=Llista Negra
+MenuItemConfiguration=Opcions
+MenuItemRestore=Reinstaurar els consells
+MenuItemAbout=Quant a Tunngle
+MenuItemTrayOpen=Obrir
+MenuItemTrayClose=Tancar
+[FormMain-TspSkinStdLabel-Caption]
+StdLabelUsername=Usuari:
+StdLabelPassword=Contrasenya:
+[FormMain-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Recorda'm
+CheckRadioBoxAutologon=Inici automàtic
+CheckRadioBoxDontShowAgain=No mostrar més
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Notificacions
+MenuItemAddContact=Afegir a la llista d'amics
+MenuItemAddBlacklist=Afegir a la Llista Negra
+MenuItemEditBlacklist=Editar la Llista Negra
+MenuItemSortNicks=Ordenar nicks
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Enviar
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Xat
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=< < Endarrere
+ButtonForward=Endavant > >
+ButtonActualize=Refrescar
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nom
+ListViewNet-1=En línia
+ListViewNet-2=Gènere
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Afegir als marcadors
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Refrescar
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Nom
+ListViewNet-1=En línia
+ListViewNet-2=Gènere
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Afegir als marcadors
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=< < Endarrera
+ButtonForward=Endavant > >
+ButtonActualize=Refrescar
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nom
+ListViewNet-1=En línia
+ListViewNet-2=Gènere
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Suprimir marcador
+MenuItemSortFavorite=Ordenar marcadors
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Refrescar
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Nom
+ListViewNet-1=En línia
+ListViewNet-2=Gènere
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Suprimir marcador
+MenuItemSortFavorite=Ordenar marcadors
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Interceptar emissions des de totes les interfícies
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Port Redireccionat
+CheckRadioBoxUPnP=Utilitza UPnP
+CheckRadioBoxTCActive=Activat
+CheckRadioBoxSignature=Signatura Web
+CheckRadioBoxExp=Mode expert
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Nota!\r\nDesactivada normalment.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=D'acord
+ButtonAccept=Aplicar
+ButtonCancel=Cancel·lar
+ButtonTest=Prova
+ButtonDefault=Configuració predeterminada
+ButtonWizard=Ajudant
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Interfície
+GroupBoxNetconfig=Xarxa
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=Controlador de tràfic
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Idioma
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Atencio! Si us plau, reiniciï Tunngle per aplicar la nova configuració!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Cercar
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Amagar Xarxes plenes
+CheckRadioBoxEmpty=Amagar Xarxes buides
+CheckRadioBoxPassword=Amagar Xarxes protegides per contrasenya
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Filtres de recerca
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Filtres de recerca > >
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=< < Endarrera
+ButtonForward=Endavant > >
+ButtonActualize=Refrescar
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Nom
+ListViewResults-1=En línia
+ListViewResults-2=Gènere
+[FrameFindResult-TMenuItem-Caption]
+MenuItemAddFavorite=Afegir als marcadors
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Notificacions
+MenuItemAddContact=Afegir a la llista d'amics
+MenuItemAddBlacklist=Afegir a la Llista Negra
+MenuItemEditBlacklist=Editar Llista Negra
+MenuItemSortNicks=Ordenar noms d'usuari
+MenuItemShowProfile=Veure perfil
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Enviar
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Xat:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=D'acord
+ButtonAccept=Aplicar
+ButtonCancel=Cancel·lar
+ButtonFind=Cercar
+ButtonExport=Exportar
+ButtonImport=Importar
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=ID
+ListViewResults-1=Nom d'usuari
+ListViewConnection-0=ID
+ListViewConnection-1=Nom d'usuari
+ListViewChat-0=ID
+ListViewChat-1=Nom d'usuari
+[FramePrivateLists-TspSkinComboBox-Item]
+ComboBoxSearchType-0=Nom d'usuari
+ComboBoxSearchType-1=ID
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Cercar
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Llista Negra Global
+StdLabelChatmessages=Xat de la Llista Negra
+StdLabelName=Nom
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Eliminar
+MenuItemDeleteChat=Eliminar
+MenuItemAddBlacklist=Afegir a la Llista Negra
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=D'acord
+ButtonAccept=Aplicar
+ButtonCancel=Cancel·lar
+ButtonDownload=Descarregar més temes (skins)
+ButtonDefault=Tema Tunngle per defecte
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Mostra
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Etiqueta
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Camp de text
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=D'acord
+ButtonAccept=Aplicar
+ButtonCancel=Cancel·lar
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Activar el So
+CheckRadioBoxStart=Iniciar
+CheckRadioBoxLogin=Iniciar Sessió
+CheckRadioBoxLeave=Un usuari ha deixat la xarxa
+CheckRadioBoxJoin=Un usuari s'ha unit a la xarxa
+CheckRadioBoxReceive=Missatge rebut
+CheckRadioBoxQuit=Apagar
+CheckRadioBoxSend=Missatge enviat
+CheckRadioBoxDirectopen=Nova finestra de xat directe
+CheckRadioBoxDirectmessage=Missatge de xat directe rebut
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Navegador
+ButtonFavorite=Marcadors
+ButtonQuicklaunch=Inici ràpid
+ButtonBetainfo=Informació Beta
+ButtonForum=Fòrum
+ButtonEventplaner=Planificador d'esdeveniments
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Endarrera
+StatusPanelForward=Endavant
+StatusPanelStop=Parar
+StatusPanelReload=Refrescar
+[FrameWebU-TspSkinStatusPanel-Caption]
+StatusPanelBack=Endarrera
+StatusPanelForward=Endavant
+StatusPanelStop=Parar
+StatusPanelReload=Refrescar
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Notificacions
+MenuItemAddContact=Afegir a la llista d'amics
+MenuItemAddBlacklist=Afegir a la Llista Negra
+MenuItemEditBlacklist=Editar Llista Negra
+MenuItemCopyIP=Copiar IP al portapapers
+MenuItemSortNicks=Ordenar per nom d'usuari
+MenuItemSortIPs=Ordenar per ping
+MenuItemConfig=Configurar
+MenuItemShowProfile=Veure perfil
+MenuItemSelectAll=Seleccionar-ho tot
+MenuItemCopy=Copiar
+MenuItemChangeNick=Canviar Nom d'usuari
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Enviar
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Xat:
+[FrameVPN-TspSkinCheckBox-Hint]
+CheckBoxScroll=Desplaçament automàtic
+[FrameVPN-TspSkinButton-Hint]
+ButtonLauncher=Executar Joc
+ButtonVideo=Cercar video
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Tancar
+[FormAbout-Infos]
+Caption=Quant Tunngle
+[FormLogin-Infos]
+Caption=Iniciar sessió
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Iniciar sessió
+ButtonCancel=Cancel·lar
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Usuari:
+LabelPassword=Contrasenya:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Recorda'm
+CheckRadioBoxAuto=Inici de sessió automàtic
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Uneix-te per a un compte Tunngle gratis
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Cancel·lar
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Enviar
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Xat:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Afegir grup
+MenuItemContactAdd=Afegir contacte
+MenuItemRights=Permisos
+MenuItemContactInfo=Veure perfil
+MenuItemContactAlert=Alerta de contacte
+MenuItemContactNote=Nota de contacte
+MenuItemContactRename=Rebatejar contacte
+MenuItemContactDelete=Suprimir contacte
+MenuItemMessage=Xat directe
+MenuItemRights2=Permisos
+MenuItemGroupRename=Rebatejar el grup
+MenuItemGroupDelete=Suprimir el grup
+MenuItemGroupExpandCollapse=Expandir el grup
+MenuItemMain=&Menú
+MenuItemAddContact=Afegir contacte
+MenuItemInNetwork=Informació de la Xarxa
+[FormMessenger-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxPrivacy=Aparèixer Desconectat
+[FormFindContact-Infos]
+Caption=Cercador de contacte
+[FormFindContact-TspSkinButton-Caption]
+ButtonSearch=Cercar
+[FormFindContact-TspSkinStdLabel-Caption]
+StdLabelName=Nom:
+[FormFindContact-TMenuItem-Caption]
+MenuItemAddContact=Afegir contacte
+[FormFindContact-TspSkinListView-Column]
+ListViewResults-0=ID
+ListViewResults-1=Nom d'usuari
+[FormFindContact-TspSkinComboBox-Item]
+ComboBoxSearchType-0=Nom d'usuari
+ComboBoxSearchType-1=ID
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Cancel·lar
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Arxiu
+ListViewLanguage-1=Idioma
+ListViewLanguage-2=Autor
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Continuar
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Si us plau, seleccioni un idioma per a Tunngle.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Nom
+ListViewAdapter-1=IP
+ListViewAdapter-2=Nom del dispositiu
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Continuar
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Si us plau, selecciona un adaptador Tunngle.
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=D'acord
+ButtonCancel=Cancel·lar
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Només Xat
+CheckRadioBoxHours=Hores
+CheckRadioBoxDate=Fins
+CheckRadioBoxInfinite=Per sempre
+[FormPassword-TspSkinButton-Caption]
+ButtonOK=D'acord
+ButtonCancel=Cancel·lar
+[FormPassword-TspSkinStdLabel-Caption]
+StdLabelMessage=Introduir contrasenya:
+[FrameTVPN-TMenuItem-Caption]
+MenuItemMessages=Notificacions
+MenuItemAddContact=Afegir a la llista d'amics
+MenuItemCopyIP=Copiar la IP al portapapers
+MenuItemSortNicks=Ordenar per noms d'usuari
+MenuItemSortIPs=Ordenar per ping
+MenuItemConfig=Configurar
+MenuItemShowProfile=Veure Perfil
+[FrameTVPN-TspSkinButton-Caption]
+ButtonSend=Enviar
+[FrameTVPN-TspSkinLabel-Caption]
+LabelChat=Xat:
+[FrameNetCreate-TspSkinMemo-Text]
+MemoWelcome=Missatge de Benvinguda
+[FrameNetCreate-TspSkinGroupBox-Caption]
+GroupBoxCreate=Gestiona les teves pròpies Xarxes
+GroupBoxJoin=Unir-se a una Xarxa existent
+[FrameNetCreate-TspSkinLabel-Caption]
+LabelNetworkTypeT=Mena de Xarxa:
+LabelNetworkNameT=Nom de la Xarxa:
+LabelNetworkPasswordT=Contrasenya de la Xarxa:
+LabelNetworkSize=Capacitat de la Xarxa:
+LabelNetworkTypeB=Mena de Xarxa:
+LabelNetworkNameB=Nom de la Xarxa:
+LabelNetworkPasswordB=Contrasenya de la Xarxa:
+[FrameNetCreate-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Bàsic
+ComboBoxNetTypeT-1=Premium
+ComboBoxNetTypeB-0=Bàsic
+ComboBoxNetTypeB-1=Premium
+ComboBoxNetRange-0=Estàndard
+[FrameNetCreate-TspSkinButton-Caption]
+ButtonCreate=Crear - Actualitzar
+ButtonJoin=Unir-se
+ButtonJoinOwn=Unir-se a la teva Xarxa
+ButtonNetworkList=Llista de Xarxes:
+[FrameNetCreate-TspSkinStdLabel-Caption]
+UrlLabelEmulation=Emulador de Xarxa:
+UrlLabelNetRange=Abast de la Xarxa:
+UrlLabelManagement=Gestor d'adreces:
+[FrameNetCreate-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Xarxes Bàsiques
+CheckRadioBoxNetPremium=Xarxes Premium
+[FramePVPN-TMenuItem-Caption]
+MenuItemMessages=Notificacions
+MenuItemAddContact=Afegir a la llista d'amics
+MenuItemCopyIP=Copiar la IP al portapapers
+MenuItemSortNicks=Ordenar per noms d'usuari
+MenuItemSortIPs=Ordenar per ping
+MenuItemConfig=Configurar
+MenuItemShowProfile=Veure el perfil
+[FramePVPN-TspSkinButton-Caption]
+ButtonSend=Enviar
+[FramePVPN-TspSkinLabel-Caption]
+LabelChat=Xat:
+[FrameWWeb-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=No mostrar més
+[FrameAccount-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSignature=Signatura Web
+[FrameAccount-TspSkinButton-Caption]
+ButtonOK=D'acord
+ButtonAccept=Aplicar
+ButtonCancel=Cancel·lar
+ButtonChangeNick=Canviar nom d'usuari
+[FrameAccount-TspSkinGroupBox-Caption]
+GroupBoxCommon=Opcions del Compte
+[FormWizard-Infos]
+Caption=Video d'introducció
+[FrameBeforeLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxDontShowAgain=No mostrar més
+[FrameNetCreateEasy-TspSkinMemo-Text]
+MemoWelcome=Missatge de Benvinguda
+[FrameNetCreateEasy-TspSkinGroupBox-Caption]
+GroupBoxCreate=Gestiona la teva pròpia Xarxa
+GroupBoxJoin=Unir-se a una Xarxa existent
+[FrameNetCreateEasy-TspSkinLabel-Caption]
+LabelNetworkTypeT=Mena de Xarxa:
+LabelNetworkNameT=Nom de la Xarxa:
+LabelNetworkPasswordT=Contrasenya de la Xarxa:
+LabelNetworkTypeB=Mena de Xarxa:
+LabelNetworkNameB=Nom de la Xarxa:
+LabelNetworkPasswordB=Contrasenya de la Xarxa:
+[FrameNetCreateEasy-TspSkinComboBox-Item]
+ComboBoxNetTypeT-0=Bàsica
+ComboBoxNetTypeT-1=Premium
+ComboBoxNetTypeB-0=Bàsica
+ComboBoxNetTypeB-1=Premium
+[FrameNetCreateEasy-TspSkinButton-Caption]
+ButtonCreate=Crear - Actualitzar
+ButtonJoin=Unir-se
+ButtonJoinOwn=Unir-se a la teva Xarxa
+ButtonNetworkList=Llista de Xarxes
+[FrameNetCreateEasy-TspSkinStdLabel-Caption]
+UrlLabelNetRange=Abast de la Xarxa:
+[FrameNetCreateEasy-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxNetBasic=Xarxa Bàsica
+CheckRadioBoxNetPremium=Xarxa Premium

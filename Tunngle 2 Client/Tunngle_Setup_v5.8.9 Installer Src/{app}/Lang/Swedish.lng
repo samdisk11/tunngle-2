@@ -1,0 +1,560 @@
+
+[Header]
+Author=Tillvärkare & drivance (Community)
+Date=2014.12.19
+Language=Swedish
+CharSet=DEFAULT_CHARSET
+PrimLangID=29
+CodePage=1252
+[Global-Ressource]
+MI_MINCAPTION=Minimera
+MI_MAXCAPTION=Maximera
+MI_CLOSECAPTION=Stäng
+MI_RESTORECAPTION=Återställ
+MI_MINTOTRAYCAPTION=Minimera till systemfältet
+MI_ROLLUPCAPTION=Rulla upp
+MINBUTTON_HINT=Minimera
+MAXBUTTON_HINT=Maximera
+CLOSEBUTTON_HINT=Stäng
+TRAYBUTTON_HINT=Minimera till systemfältet
+ROLLUPBUTTON_HINT=Rulla upp
+MENUBUTTON_HINT=System meny
+RESTORE_HINT=Återställ
+EDIT_UNDO=Ångra
+EDIT_COPY=Kopiera
+EDIT_CUT=Klipp ut
+EDIT_PASTE=Klistra in
+EDIT_DELETE=Radera
+EDIT_SELECTALL=Markera allt
+MSG_BTN_YES=Ja
+MSG_BTN_NO=Nej
+MSG_BTN_OK=OK
+MSG_BTN_CANCEL=Avbryt
+MSG_BTN_ABORT=Avbryt
+MSG_BTN_RETRY=Försök igen
+MSG_BTN_IGNORE=Ignorera
+MSG_BTN_ALL=Alla
+MSG_BTN_NOTOALL=Nej till alla
+MSG_BTN_YESTOALL=Ja till alla
+MSG_BTN_HELP=Hjälp
+MSG_BTN_OPEN=Öppna
+MSG_BTN_SAVE=Spara
+MSG_BTN_CLOSE=Stäng
+MSG_BTN_BACK_HINT=Gå till senast besökta mapp
+MSG_BTN_UP_HINT=Gå upp en nivå
+MSG_BTN_NEWFOLDER_HINT=Skapa ny mapp
+MSG_BTN_VIEWMENU_HINT=Menyn
+MSG_BTN_STRETCH_HINT=Sträck ut bilden
+MSG_FILENAME=Filnamn:
+MSG_FILETYPE=Filtyp:
+MSG_NEWFOLDER=Ny Mapp
+MSG_LV_DETAILS=Detaljer
+MSG_LV_ICON=Stora ikoner
+MSG_LV_SMALLICON=Små ikoner
+MSG_LV_LIST=Lista
+MSG_PREVIEWSKIN=Förhandsgranska
+MSG_PREVIEWBUTTON=Knapp
+MSG_OVERWRITE=Vill du skriva över den gamla filen?
+MSG_CAP_WARNING=Varning
+MSG_CAP_ERROR=Fel
+MSG_CAP_INFORMATION=Information
+MSG_CAP_CONFIRM=Bekräfta
+MSG_CAP_SHOWFLAG=Visa inte det här meddelandet igen
+CALC_CAP=Kalkylator
+ERROR=Fel
+COLORGRID_CAP=Standardfärger
+CUSTOMCOLORGRID_CAP=Egna färger
+ADDCUSTOMCOLORBUTTON_CAP=Lägg till i egna färger
+FONTDLG_COLOR=Färg:
+FONTDLG_NAME=Namn:
+FONTDLG_SIZE=Storlek:
+FONTDLG_HEIGHT=Höjd:
+FONTDLG_EXAMPLE=Exempel:
+FONTDLG_STYLE=Stil:
+FONTDLG_SCRIPT=Skript:
+DB_DELETE_QUESTION=Är du säker på att du vill radera den här posten?
+DB_MULTIPLEDELETE_QUESTION=Radera alla markerade poster?
+NODISKINDRIVE=Ingen skiva i enheten, eller så är enheten inte redo
+NOVALIDDRIVEID=Felaktigt enhetsnamn
+FLV_NAME=Namn
+FLV_SIZE=Storlek
+FLV_TYPE=Typ
+FLV_LOOKIN=Titta i:
+FLV_MODIFIED=Ändrad
+FLV_ATTRIBUTES=Attribut
+FLV_DISKSIZE=Diskstorlek
+FLV_FREESPACE=Ledigt utrymme
+PRNDLG_NAME=Namn:
+PRNDLG_PRINTER=Skrivare
+PRNDLG_PROPERTIES=Egenskaper...
+PRNDLG_TYPE=Typ:
+PRNDLG_STATUS=Status:
+PRNDLG_WHERE=Var:
+PRNDLG_COMMENT=Kommentar
+PRNDLG_PRINTRANGE=Utskriftsområde
+PRNDLG_COPIES=Kopior
+PRNDLG_NUMCOPIES=Antal kopior
+PRNDLG_COLLATE=Jämför
+PRNDLG_ALL=Alla
+PRNDLG_PAGES=Sidor
+PRNDLG_SELECTION=Urval
+PRNDLG_PRINTTOFILE=Skriv ut till fil
+PRNDLG_FROM=Från:
+PRNDLG_TO=Till:
+PRNDLG_ORIENTATION=Orientering
+PRNDLG_PAPER=Papper
+PRNDLG_PORTRAIT=Stående
+PRNDLG_LANDSCAPE=Liggande
+PRNDLG_SOURCE=Källa:
+PRNDLG_SIZE=Storlek:
+PRNDLG_MARGINS=Marginal i millimeter
+PRNDLG_MARGINS_INCHES=Marginal i tum
+PRNDLG_LEFT=Vänster:
+PRNDLG_RIGHT=Höger:
+PRNDLG_TOP=Topp:
+PRNDLG_BOTTOM=Botten:
+PRNDLG_WARNING=Det finns ingen skrivare installerad!
+FIND_NEXT=Sök igen
+FIND_WHAT=Sök efter:
+FIND_DIRECTION=Riktning
+FIND_DIRECTIONUP=Upp
+FIND_DIRECTIONDOWN=Ner
+FIND_MATCH_CASE=Skiftlägeskänslig
+FIND_MATCH_WHOLE_WORD_ONLY=Endast hela ord
+FIND_REPLACE_WITH=Ersätt med:
+FIND_REPLACE=Ersätt
+FIND_REPLACE_All=Ersätt alla
+FIND_REPLACE_CLOSE=Stäng
+MORECOLORS=Fler färger...
+AUTOCOLOR=Automatisk
+CUSTOMCOLOR=Egen...
+[Global-MessageBox-Information]
+Select=Du behöver välja en Tunngler först.
+Controller=Trafikkontrollen är inaktiverad i den nuvarande versionen.
+EnterSearchText=Vänligen skriv ett sökord
+ContactDeny=%s har avböjt din vänförfrågan.
+ContactAccept=%s har tackat ja till din vänförfrågan.
+ConnectionLost=Anslutningen bröts.\r\nKod: %s
+ConnectionProblem=Det är problem med anslutningen. \r\nDin routers NAT konfiguration kan hindra Tunngle \r\nfrån att skapa en P2P anslutning med andra användare. \r\nVill du öppna hjälp-filen nu?
+PortReachable=Den valda porten är öppen och accepterar inkommande anslutningar.
+CreateNet=Den här funktionen är inte tillgänglig ännu. \r\nVar god skriv alla förslag på forumet. \r\nVill du öppna forumet nu?
+AdapterPrim=Tunngle's nätverksadapter är ej prioriterad. (0)\r\nDu kommer inte kunna ansluta till spel genom Tunngles nätverk.
+EnterNamePW=Var god ange ett användarnamn och ett lösenord.
+NewVersion=Ny version %s av Tunngle är ute och kan laddas hem.
+FriendNetwork=%s är i "%s" nätverket.\r\nVill du gå med i detta nätverket?
+FriendNoNetwork=%s är inte i ett nätverk.
+Close=Tunngle kommer nu avslutas.
+LSPBackup=LSP backup fil har skapats.\r\n%s
+LSPOK=%d LSP problem åtgärdat.
+LastTab=Kunde inte stänga den sista fliken.
+[Global-MessageBox-Warning]
+PortUnreachable=Den valda porten verkar inte vara öppnad. \r\nOm Tunngle ändå fungerar kan du ignorera detta.
+UPnP=Misslyckades att sätta upp en automatisk port vidarebefodring via UPnP.
+ServerUnreachable=Kunde inte ansluta till Tunngles server. \r\nVill du starta Tunngle ändå?
+Offline=Kunde inte etablera en anslutning.\r\n Den valda kontakten är offline.
+ConnectionFail=Kunde inte upprätta anslutningen.
+Messenger=Varning! \r\nChatklienten är fortfarande under utveckling, \r\noch vissa av dess funktioner är inte översatta ännu. \r\nDetta kommer fixas i kommande versioner av Tunngle.
+WriteRegistry=Konfigurationen kunde inte sparas i registret.\r\nKontakta en administratör.
+SelectLanguage=Var god och välj ett språk först.
+SelectAdapter=Var god och välj en adapter först.
+[Global-MessageBox-Question]
+Contact=Är du säker på att du vill lägga till %s i din vänskapslista?
+Delete=Är du säker på att du vill ta bort %s från din svartlista?
+ChangeNet=Är du säker på att du vill lämna "%s"-nätverket för att gå med i "%s"-nätverket?
+CloseChat=Är du säker på att du vill stänga chatten med %s?
+CloseLobby=Är du säker på att du vill lämna %s?
+CloseTab=Är du säker på att du vill stänga fliken %s?
+AddContact=%s har lagt till dig till hans/hennes vännerlista. \r\nAccepterar du vänner-förfrågan?
+Quit=Vill du verkligen avsluta?
+DelFavorite=Vill du verkligen radera %s?
+NewVersion=Ny version %s av Tunngle är ute.\r\nVill du ladda hem den nu?
+Adapter=Följande Tunngle adapter hittades.\r\n%s\r\nVill du förknippa denna adaptern med Tunngle?
+Language=Vi har upptäckt att ditt system språk är kompatibelt med "%s" språk filen.\r\nVill du välja den nu?
+LanguageID=Den valda språkfilen matchar inte systemets lokalisering.\r\nFortsätt ändå?
+LanguageCP=Den nuvarande systemfilen matchar inte den nuvarande språkfilen.\r\nVissa tecken kanske ej visas korrekt.\r\nFortsätt ändå?
+[Global-MessageBox-Error]
+RunOnce=Endast en instans av Tunngle kan köras åt gången.
+NotInstalled=Tunngle är inte installerat korrekt.
+NoAdapter=Kunde inte hitta Tunngles nätverksadapter!
+AccountVerify=Inloggningen misslyckades.\r\nDitt konto är inte verifierat.
+AccountBann=Inloggningen misslyckades.\r\nDitt konto är bannat.
+ConnectionProblem=Anslutningsfel! \r\nKunde inte upprätta en UDP anslutning med servern. \r\nBrandväggar kan orsaka problem som denna. Vill du ha hjälp?
+NATProblem=NAT fel! \r\nDin routers NAT konfiguration hindrar Tunngle från att fungera korrekt. \r\nDu behöver ställa in vidarebefordring av portar. \r\nVill du ha hjälp med detta?
+ConnectionProblemInfo=Anslutningsfel! \r\nKunde inte upprätta en UDP anslutning med servern. \r\nBrandväggar kan orsaka problem som denna. \r\nVill du ha hjälp?
+MasterServer=Det gick inte att nå Tunngle's huvudserver.
+Version=Klienten du använder är för gammal.\r\nVill du söka efter en uppdatering?
+Safe=Din anslutning kan inte säkras.
+AuthFail=Inloggningen misslyckades. \r\nVar god kontrollera att användarnamnet och lösenordet stämmer. \r\n(Tänk på att skilja mellan användarlösenordet och lösenordet till ditt konto!) \r\nBehöver du hjälp?
+AdapterInit=Det gick inte att initialisera Tunngles nätverksadapter.
+UDPSocket=UDP socket fel! \r\nKunde inte skapa en UDP socket. \r\nBrandväggar kan orsaka fel som denna. \r\nBehöver du hjälp?
+AdapterPrim1=Tunngle nätverks adapter är inte korrekt prioriterad. (1)\r\nDu kommer inte hitta några serverar i LAN bläddraren av dina spel.\r\nBehöver Hjälp?
+AdapterPrim2=Tunngle nätverks adapter är inte korrekt prioriterad. (2)\r\nDu kommer inte hitta några serverar i LAN bläddraren av dina spel.\r\nBehöver Hjälp?
+ServiceFound=Kan inte hitta Tunngle tjänsten!
+ServiceContact=Kan inte kommunicera med Tunngle tjänsten!
+CryptFail=kunde inte ladda kryptografiska bibliotek!
+PortFail=Den valda porten går ej att forwarda. Välj en annan port!
+WinSock2=Kunde inte komma åt WinSock.\r\nNätverks konfigurationen kunde inte kontrolleras.
+LSPProblems=%d LSP problem upptäcktes.\r\nÅtgärda nu?
+LSPBackup=Fel vid skapning av LSP backup fil.\r\nVill du avbryta?
+LSPSafePoint=Fel vid skapning av LSP återställningspunkt.\r\nVill du avbryta?
+LSPRepair=%d LSP problem kunde inte åtgärdas.\r\n Återställ till senaste state?
+LSPRedo=Återställning misslyckades.
+[Global-Text-Dynamic]
+Loading=Laddar %s...
+FromTo=%d till %d av %d
+LastAct=Senast uppdaterad: %s
+Lobby=Lobby (%d)
+ChatJoined=<%s "%s" har gått med i chatten.>
+NetJoined=<%s "%s" har gått med i nätverket.>
+LobbyJoined=<%s "%s" har gått med i lobbyn.>
+ChatLeft=<%s "%s" har lämnat chatten.>
+NetLeft=<%s "%s" har lämnat nätverket.>
+LobbyLeft=<%s "%s" har lämnat lobbyn.>
+ConnectionDeny1=*Kunde inte ansluta till %s för att du är på hans/hennes svartlista.
+ConnectionDeny2=* Kunde inte ansluta till %s för att du är på han är på din svartlista.
+ConnectionLost=[ %s Förlorade uppkopplingen till Tunggle servern! ]
+VirtualIP=Virtuell IP-adress: %s
+LoginNick=Inloggad som: %s
+Version=Version: %s
+Connecting=Ansluter %s
+ChatMe=Jag: %s
+ChatDeny=* Kunde inte ta emot meddelanden från %s för han är i din bannlysningslista. *
+AddBlacklist=Hur länge ska %s vara svartlistad?
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle Nyheter
+CaptionStart=Tunngle Startsida
+CaptionStartPage=Tunngle Start
+CaptionQuickstart=Snabb Start
+CaptionSupport=Support
+CaptionBetainfo=Beta Information
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Nedladdningssida
+CaptionResults=Resultat...
+CaptionChat=Chat
+CaptionLobby=Lobby
+CaptionNetwork=Nätverk
+CaptionTunngleforum=Tunngle Forum
+CaptionEventplaner=Almanacka
+CaptionForumfaq=Forum FAQ
+CaptionForum=Forum
+CaptionTunngleskins=Tunngle Skins
+CaptionSearch=Sök
+CaptionBrowser=Bläddra
+CaptionSkinconfig=Utseende egenskaper
+CaptionSoundconfig=Ljud
+CaptionPrivacylists=Svartlista
+CaptionConfiguration=Egenskaper
+CaptionFavorite=Bokmärken
+CaptionSubBrowser=Nätverk
+SplashPleaseWait=Var god vänta...
+SplashLoaddata=Laddar data...
+SplashReset=Startar om...
+SplashConfig=Konfigurerar...
+SplashLoading=Laddar...
+SplashConnecting=Ansluter...
+SplashVersion=Kontrollerar version...
+SplashSafe=Säkrar anslutning...
+SplashUPnP=Försöker vidarebefodra port via UPnP...
+SplashAuth=Verifierar autentisiering...
+SplashAdatperset=Startar adaptern...
+SplashAdapterinit=Initialiserar adaptern...
+SplashAdapterstart=Startar adaptern...
+SplashAdapterchkprim=Kontrollerar adapterns prioritet...
+SplashAdapterchkbc=Kontrollerar adapterns sändning...
+SplashAdapterchkstop=Kontrollerar adapterns stopp...
+SplashFinalize=Slutbehandlar...
+SplashServiceinit=Initierar Tunngle-tjänsten...
+SplashServicecontact=Kontaktar Tunngle-tjänsten...
+SplashServercontact=Kontaktar Tunngle-servern...
+SplashConfigurate=Konfigurerar Tunngle...
+SplashWinSock2=Kontrollerar nätverks konfig...
+SearchInWork=Sökning pågår...
+Lobby=Lobbyn
+NetLeft=Nätverket frånkopplat.
+NoIP=Virituellt IP: -
+ChatJoined=Anslutning till chatten lyckades.
+NetJoined=Anslutning till nätverket lyckades.
+LobbyJoined=Anslutning till lobbyn lyckades.
+FoundNothing=Inga resultat!
+NetChangeBegin=Försöker nätverk switch. Var god vänta...
+NetChangeEnd=Nätverk switch framgångsrik. Var god vänta...
+NotLoggedIn=Du är inte inloggad.
+EnterNamePW=Var god ange ett användarnamn och ett lösenord.
+MessageSendFail=* Kunde inte skicka meddelandet. *
+MessageSendFlood=*Du skickar meddelanden för frekvent. Ta det lugnt.*
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Community
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Hitta nätverk och vänner
+SpeedButtonCommunity2=Till den senaste aktiva fliken
+SpeedButtonMessenger=Chattklient
+[FormMain-TspSkinButton-Hint]
+ButtonQAStartPage=Startsida
+ButtonQABetaInfo=Beta Info
+ButtonQAForum=Forum
+ButtonQAEventPlanner=Kalender
+ButtonQALobby=Tunngle Lobby
+ButtonQAFavorites=Bokmärken
+[FormMain-TspSkinExPanel-Caption]
+ExPanelNetworkCategories=Bläddra Nätverk
+ExPanelFindnetwork=Sök Nätverk
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Sök
+MenuItemNetFavorite=Bokmärken
+MenuItemNetCreate=Skapa
+MenuItemTunnglelobby=Tunngle Lobbyn
+MenuItemEventplaner=Kalender
+MenuItemSounds=Ljud
+MenuItemSkins2=Tema
+MenuItemPrivacylists=Svartlista
+MenuItemConfiguration=Alternativ
+MenuItemAbout=Om Tunngle
+MenuItemTrayOpen=Öppna
+MenuItemTrayClose=Stäng
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Notifieringar
+MenuItemAddContact=Lägg till Kompislista
+MenuItemAddBlacklist=Lägg till svartlista
+MenuItemEditBlacklist=Redigera svartlista
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Skicka
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Chatt:
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<< Bakåt
+ButtonForward=Framåt >>
+ButtonActualize=Förnya
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Namn
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Lägg till bokmärke
+[SubFrameBrowser-TspSkinButton-Caption]
+ButtonActualize=Uppdatera
+[SubFrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Namn
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[SubFrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Lägg till bokmärke
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<< Bakåt
+ButtonForward=Framåt >>
+ButtonActualize=Uppdatera
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Namn
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Radera bokmärke
+MenuItemSortFavorite=Sortera bokmärken
+[SubFrameFavorite-TspSkinButton-Caption]
+ButtonActualize=Uppdatera
+[SubFrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Namn
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[SubFrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Radera bokmärke
+MenuItemSortFavorite=Sortera bokmärken
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Kontrollera broadcasts från alla nätverksadaptrar
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Forwardad Port
+CheckRadioBoxUPnP=Använd UPnP
+CheckRadioBoxTCActive=Aktiverad
+CheckRadioBoxSignature=Webb Signatur
+CheckRadioBoxLog=Nätverksloggning
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Notera! Normalt avstängd
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Verkställ
+ButtonCancel=Avbryt
+ButtonTest=Test
+ButtonDefault=Standardinställningar
+ButtonWizard=Guide
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Gränssnitt
+GroupBoxNetconfig=Nätverk
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=Trafik kontroll
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Språk
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Varning! Nya inställningar gäller inte förräns Tunngle har startats om!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle Sök
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Göm fyllda nätverk
+CheckRadioBoxEmpty=Göm tomma nätverk
+CheckRadioBoxPassword=Göm lösenords-skyddade nätverk
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Sök filter
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Sökfilter > >
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<< Bakåt
+ButtonForward=Framåt >>
+ButtonActualize=Uppdatera
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Namn
+ListViewResults-1=Online
+ListViewResults-2=Genre
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Notifikeringar
+MenuItemAddContact=Lägg till i vänlista
+MenuItemAddBlacklist=Lägg till i svartlista
+MenuItemEditBlacklist=Redigera svartlista
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Skicka
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Chatt:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Verkställ
+ButtonCancel=Avbryt
+ButtonFind=Sök
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Smeknamn
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Sök
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Global svartlista
+StdLabelChatmessages=Svartlista för Chatt
+StdLabelName=Namn
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Ta bort
+MenuItemDeleteChat=Ta bort
+MenuItemAddBlacklist=Lägg till i svartlista
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonAccept=Verkställ
+ButtonCancel=Avbryt
+ButtonDownload=Ladda ner fler teman
+ButtonDefault=Tunngle standard tema
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Förhandsgranskning
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Etikett
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Textfält
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Textruta
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Kryssruta
+CheckRadioBox2=Kryssruta
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=Okej
+ButtonAccept=Verkställ
+ButtonCancel=Avbryt
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Aktivera ljud
+CheckRadioBoxStart=Starta
+CheckRadioBoxLogin=Logga in
+CheckRadioBoxLeave=En Tunngler lämnar nätverket
+CheckRadioBoxJoin=En tunngler går med i nätverket
+CheckRadioBoxReceive=Meddelandet mottaget
+CheckRadioBoxQuit=Stäng av
+CheckRadioBoxSend=Meddelandet skickat
+CheckRadioBoxKey=Chattruta tryck knapp
+CheckRadioBoxDirectopen=Ny direkt chatt ruta
+CheckRadioBoxDirectmessage=Direkt chatt meddelande mottaget
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Bläddrare
+ButtonFavorite=Bokmärken
+ButtonQuicklaunch=Snabbstart
+ButtonBetainfo=Betainformation
+ButtonForum=Forum
+ButtonEventplaner=Kalender
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Bakåt
+StatusPanelForward=Framåt
+StatusPanelStop=Stopp
+StatusPanelReload=Uppdatera
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Meddelanden
+MenuItemAddContact=Lägg till i vänlistan
+MenuItemAddBlacklist=Lägg till i svartlistningen
+MenuItemEditBlacklist=Redigera svartlistningen
+MenuItemCopyIP=Kopiera IP-adressen
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Skicka
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Chatt:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Stäng
+[FormAbout-Infos]
+Caption=Om Tunngle
+[FormLogin-Infos]
+Caption=Logga in
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Logga in
+ButtonCancel=Avbryt
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Användarnamn:
+LabelPassword=Lösenord:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Kom ihåg mig
+CheckRadioBoxAuto=Automatisk inloggning
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Registrera ett gratis Tunngle-konto
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Avbryt
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Skicka
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Chatt:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Lägg till grupp
+MenuItemContactAdd=Lägg till kontakt
+MenuItemContactHideOffline2=Dölj offline
+MenuItemRights=Rättigheter
+MenuItemTunngleShares=Tunngle Utdelningar
+MenuItemContactInfo=Kontaktinformation
+MenuItemContactAlert=Kontakt varning
+MenuItemContactNote=Kontakt notering
+MenuItemReadAwayMessage=Läs borta från datorn meddelandet
+MenuItemContactRename=Bytt namn på kontakt
+MenuItemContactDelete=Radera kontakt
+MenuItemMoveToGroup=Flytta i grupp
+MenuItemContactHideOffline3=Dölj offline
+MenuItemMessage=Direktchatt
+MenuItemRights2=Rättigheter
+MenuItemTunngleShares2=Tunngle delningar
+MenuItemGroupRename=Byt namn på grupp
+MenuItemGroupDelete=Radera grupp
+MenuItemGroupExpandCollapse=Maximera/minimera grupp
+MenuItemContactHideOffline=Dölj offline
+MenuItemMain=Meny
+MenuItemAddContact=Lägg till kontakt
+MenuItemInNetwork=Nätverksinformation
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Avbryt
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Fil
+ListViewLanguage-1=Språk
+ListViewLanguage-2=Skapare
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Fortsätt
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Var god och välj ett språk för Tunngle
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Namn
+ListViewAdapter-1=IP
+ListViewAdapter-2=Enhetsnamn
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Fortsätt
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Var god och välj Tunngle adaptern
+[FormAddPrivateList-TspSkinButton-Caption]
+ButtonOK=OK
+ButtonCancel=Avbryt
+[FormAddPrivateList-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxChat=Endast chatt
+CheckRadioBoxComplete=Helt bannlyst
+CheckRadioBoxHours=Timmar
+CheckRadioBoxDate=Ända till
+CheckRadioBoxInfinite=För evigt

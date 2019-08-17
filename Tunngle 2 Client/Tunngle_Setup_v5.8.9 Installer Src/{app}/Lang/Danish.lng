@@ -1,0 +1,507 @@
+
+[Header]
+Author=Kim Ladefoged -  Brugernavn (Community)
+Date=2014.12.19
+Language=Danish
+CharSet=DEFAULT_CHARSET
+PrimLangID=6
+CodePage=1252
+[Global-Ressource]
+MI_MINCAPTION=Minimer
+MI_MAXCAPTION=Maksimer
+MI_CLOSECAPTION=Luk
+MI_RESTORECAPTION=Gendan
+MI_MINTOTRAYCAPTION=Minimer til systembar
+MI_ROLLUPCAPTION=Rul op
+MINBUTTON_HINT=Minimer
+MAXBUTTON_HINT=Maksimer
+CLOSEBUTTON_HINT=Luk
+TRAYBUTTON_HINT=Minimer til systembar
+ROLLUPBUTTON_HINT=Rul op
+MENUBUTTON_HINT=System Menu
+RESTORE_HINT=Genopret
+EDIT_UNDO=Fortryd
+EDIT_COPY=Kopier
+EDIT_CUT=Klip
+EDIT_PASTE=Sæt Ind
+EDIT_DELETE=Slet
+EDIT_SELECTALL=Vælg Alle
+MSG_BTN_YES=Ja
+MSG_BTN_NO=Nej
+MSG_BTN_OK=Okay
+MSG_BTN_CANCEL=Annuller
+MSG_BTN_ABORT=Afbryd
+MSG_BTN_RETRY=Prøv Igen
+MSG_BTN_IGNORE=Ignorer
+MSG_BTN_ALL=Alle
+MSG_BTN_NOTOALL=Nej til alle
+MSG_BTN_YESTOALL=Ja til alle
+MSG_BTN_HELP=Hjælp
+MSG_BTN_OPEN=Åbn
+MSG_BTN_SAVE=Gem
+MSG_BTN_CLOSE=Luk
+MSG_BTN_BACK_HINT=Seneste Mappe
+MSG_BTN_UP_HINT=Et niveau op
+MSG_BTN_NEWFOLDER_HINT=Lav ny mappe
+MSG_BTN_VIEWMENU_HINT=Se Menu
+MSG_BTN_STRETCH_HINT=Stræk Billede
+MSG_FILENAME=Fil Navn
+MSG_FILETYPE=Fil Type
+MSG_NEWFOLDER=Ny Mappe
+MSG_LV_DETAILS=Detaljer
+MSG_LV_ICON=Store Ikoner
+MSG_LV_SMALLICON=Små Ikoner
+MSG_LV_LIST=Liste
+MSG_PREVIEWSKIN=Forevisning
+MSG_PREVIEWBUTTON=Knap
+MSG_OVERWRITE=Vil du overskrive den gamle fil 
+MSG_CAP_WARNING=Advarsel
+MSG_CAP_ERROR=Fejl
+MSG_CAP_INFORMATION=Information
+MSG_CAP_CONFIRM=Bekræft
+MSG_CAP_SHOWFLAG=Vis ikke denne besked igen
+CALC_CAP=Regnemaskine
+ERROR=Fejl
+COLORGRID_CAP=Grundlæggende Farver
+CUSTOMCOLORGRID_CAP=Brugerdefinerede farver
+ADDCUSTOMCOLORBUTTON_CAP=Tilføj til brugerdefinerede farver
+FONTDLG_COLOR=Farve:
+FONTDLG_NAME=Navn:
+FONTDLG_SIZE=Størrelse:
+FONTDLG_HEIGHT=Højde:
+FONTDLG_EXAMPLE=Eksempel:
+FONTDLG_STYLE=Stil:
+FONTDLG_SCRIPT=Script:
+DB_DELETE_QUESTION=Er du sikker på du vil slette denne registrering?
+DB_MULTIPLEDELETE_QUESTION=Slet alle de valgte registreringer?
+NODISKINDRIVE=Der er ingen disk i drevet, eller drevet er ikke klart
+NOVALIDDRIVEID=Drev ID er ikke gyldigt
+FLV_NAME=Navn
+FLV_SIZE=Størrelse
+FLV_TYPE=Type
+FLV_LOOKIN=Kig i:
+FLV_MODIFIED=Ændret
+FLV_ATTRIBUTES=Rettigheder
+FLV_DISKSIZE=Diskstørrelse
+FLV_FREESPACE=Fri Plads
+PRNDLG_NAME=Navn:
+PRNDLG_PRINTER=Printer
+PRNDLG_PROPERTIES=Egenskaber...
+PRNDLG_TYPE=Type:
+PRNDLG_STATUS=Status:
+PRNDLG_WHERE=Hvor:
+PRNDLG_COMMENT=Kommentar:
+PRNDLG_PRINTRANGE=Udskriv billede
+PRNDLG_COPIES=Kopiér
+PRNDLG_NUMCOPIES=Antal Kopier
+PRNDLG_COLLATE=Sammenhold
+PRNDLG_ALL=Alle
+PRNDLG_PAGES=Sider
+PRNDLG_SELECTION=Valg
+PRNDLG_PRINTTOFILE=Print til fil
+PRNDLG_FROM=Fra:
+PRNDLG_TO=Til:
+PRNDLG_ORIENTATION=orientering
+PRNDLG_PAPER=Papir
+PRNDLG_PORTRAIT=Portræt
+PRNDLG_LANDSCAPE=Landskab
+PRNDLG_SOURCE=Kilde
+PRNDLG_SIZE=Størrelse:
+PRNDLG_MARGINS=Marginer (millimeter)
+PRNDLG_MARGINS_INCHES=Marginer (tommer)
+PRNDLG_LEFT=Venstre:
+PRNDLG_RIGHT=Højre:
+PRNDLG_TOP=Top:
+PRNDLG_BOTTOM=Bund:
+PRNDLG_WARNING=Der er ingen printere i dit system
+FIND_NEXT=Find Næste
+FIND_WHAT=Find hvad:
+FIND_DIRECTION=Retning
+FIND_DIRECTIONUP=Op
+FIND_DIRECTIONDOWN=Ned
+FIND_MATCH_CASE=match sag
+FIND_MATCH_WHOLE_WORD_ONLY=Match kun hele ord
+FIND_REPLACE_WITH=Erstat med:
+FIND_REPLACE=Erstat
+FIND_REPLACE_All=Erstat alt
+FIND_REPLACE_CLOSE=Luk
+MORECOLORS=Flere farver
+AUTOCOLOR=Automatisk
+CUSTOMCOLOR=Brugerdefineret...
+[Global-MessageBox-Information]
+Select=Du bliver nødt til at vælge en Tunngler først.
+Controller=Trafikkontrollen er slukket i denne version.
+EnterSearchText=Venligst indtast et søgeord.
+ContactDeny=%s har nægtet dit venskab.
+ContactAccept=%s har accepteret dit venskab.
+ConnectionLost=Forbindelsen blev tabt.\r\nKode: %s
+ConnectionProblem=Muligvis forbindelsesproblemer.\r\nDin routers NAT configuration kan måske gøre så Tunngle ikke kan opretholde en forbindelse\r\nFor at oprette en succesfuld P2P forbindelse få lavet dine NAT indstillinger.\r\nÅbn hjælp nu?
+PortReachable=Den valgte port er åben og tager imod tilslutninger.
+CreateNet=Denne funktion er ikke tilgængelig endnu.\r\nSkriv venligst forslag i Forummet.\r\nVil du åbne Forummet nu?
+AdapterPrim=Tunngle netværksadapteren er ikke prioriteret rigtigt. (0)\r\nDu vil ikke kunne finde nogle servere gennem LAN browseren.
+EnterNamePW=Udfyld venligst Brugernavn og Adgangskode
+NewVersion=En ny version %s af Tunngle er ude og kan nu blive downloadet!.
+FriendNetwork=%s er i "%s" netværk.\r\nVil du forbinde til dette netværk?
+FriendNoNetwork=%s er ikke i et netværk.
+Close=Tunngle vil nu lukke ned.
+[Global-MessageBox-Warning]
+PortUnreachable=Den valgte port er ikke åben.\r\nBemærk: Hvis Tunngle virker som det skal, skal du ikke tænke på det.
+UPnP=Automatisk port åbning kunne ikke sættes op ved brug af UPnp.
+ServerUnreachable=Kunne ikke nå Tunngle Serveren.\r\nSkal vi starte Tunngle alligevel?
+Offline=Kunne ikke oprette forbindelsen.\r\nDen valgte kontakt er offline.
+ConnectionFail=Kunne ikke oprette forbindelse.
+Messenger=Advarsel!\r\nDa messenger stadig er under opbygning,\r\ner det ikke helt oversat endnu,\r\ndet bliver lavet i de næste versioner af Tunngle.
+WriteRegistry=konfigurationen kunne ikke blive gemt i registreringsdatabasen.\r\nKontakt Administratoren.
+SelectLanguage=Vælg venligst et sprog først
+SelectAdapter=Vælg venligst et netkort først.
+[Global-MessageBox-Question]
+Contact=Vil du tilføje %s til din venneliste?
+Delete=Vil du virkelig fjerne "%s" fra din blokeringsliste?
+ChangeNet=Vil du virkelig lukke "%s" netværk og forbinde til "%s" netværk?
+CloseChat=Vil du virkelig lukke "%s" chat?
+CloseLobby=Vil du virkelig forlade %s?
+CloseTab=Vil du virkelig lukke "%s" tabben?
+AddContact=%s har tilføjet dig til hans/hendes venneliste.\r\nVil du acceptere?
+Quit=Er du sikker på du vil afslutte?
+DelFavorite=Vil du virkelig slette %s?
+NewVersion=Ny version %s af Tunngle er ude!.\r\nVil du downloade den nu?
+Adapter=Den følgene Tunngle adapter blev fundet.\r\n%s\r\nVil du bruge den sammen med Tunngle?
+Language=Vi har fundet ud af dit system er kompatibelt med "%s" sprogfil.\r\nVil du bruge den nu?
+LanguageID=Det valgt sprog er ikke det samme som computerens.\r\nFortsæt alligevel?
+LanguageCP=Systemets kodeside passer ikke med den sprogfil du har valgt.\r\nNogle bogstaver bliver ikke vist ordentligt.\r\nFortsæt alligevel?
+[Global-MessageBox-Error]
+RunOnce=Tunngle kører allerede.
+NotInstalled=Tunngle er ikke installeret korrekt.
+NoAdapter=Kunne ikke finde Tunngle netværksadapteren!
+AccountVerify=Login fejlede.\r\nDin konto er ikke blevet valideret.
+AccountBann=Login fejlede.\r\nDin konto er blevet banned.
+ConnectionProblem=Forbindelsesfejl!\r\nKunne ikke oprette en UDP forbindelse til hovedserveren.\r\nDin firewall kan måske være problemet.\r\nHar du brug for hjælp?
+NATProblem=NAT fejl!\r\nDin routers NAT konfiguration forhindre Tunngle i at virke som det skal.\r\nDu har brug for at åbne porte.\r\nHar du brug for hjælp?
+ConnectionProblemInfo=Forbindelsesfejl!\r\nKunne ikke oprette en UDP forbindelse til hovedserveren.\r\nDin firewall kan måske være problemet.\r\nHar du brug for hjælp?
+MasterServer=Kunne ikke nå Tuungle's hovedserver
+Version=Din klient er gammel.\r\nOpdater nu?
+Safe=Din forbindelse kan ikke gøres sikker.
+AuthFail=Login fejlede.\r\nTjek at du har skrevet brugernavn og adgangskode rigtigt.\r\n(Ombyt ikke din adgangskode til din bruger med din kontoadgangskode!)\r\nHar du brug for hjælp?
+AdapterInit=Kunne ikke initialisere Tunngle netværksadapteren!
+UDPSocket=UDP Socket fejl!\r\nKunne ikke lave UDP Socket.\r\nDin firewall kunne være problemet.\r\nHar du brug for hjælp?
+AdapterPrim1=Tunngle netværksadapteren er ikke prioriteret rigtigt. (1)\r\nDu vil ikke kunne finde nogle servere gennem LAN browseren.\r\nHar du brug for hjælp?
+AdapterPrim2=Tunngle netværksadapteren er ikke prioriteret rigtigt. (2)\r\nDu vil ikke kunne finde nogle servere gennem LAN browseren.\r\nHar du brug for hjælp?
+ServiceFound=Kunne ikke finde Tunngle Service!
+ServiceContact=Kunne ikke kommunikere med Tunngle Service!
+CryptFail=Kunne ikke hente det kryptografiske bibliotek!
+PortFail=Den valgte port kan ikke åbnes. Vælg en anden port!
+[Global-Text-Dynamic]
+Loading=Tænker %s...
+FromTo=%d til %d af %d
+LastAct=Sidste Opdatering: %s
+Lobby=Lobby (%d)
+ChatJoined=<%s "%s" Har tilsuttet sig chatten.>
+NetJoined=<%s "%s" Har tilsuttet sig netværket.>
+LobbyJoined=<%s "%s" Har tilsuttet sig Lobby'en.>
+ChatLeft=<%s "%s" Har foladt chatten.>
+NetLeft=<%s "%s" Har forladt netværket.>
+LobbyLeft=<%s "%s" Har forladt Lobby'en.>
+ConnectionDeny1=* Kunne ikke forbinde til %s fordi du er på han/hendes blokeringsliste. *
+ConnectionDeny2=* Kunne ikke forbinde til %s fordi han er på din blokeringsliste. *
+ConnectionLost=[ %s tabte forbindelsen til Tunngle Serveren! ]
+VirtualIP=Virtuel IP: %s
+LoginNick=Logget ind som: %s
+Version=Version: %s
+Connecting=Forbinder %s
+ChatMe=Me: %s
+ChatDeny=*Kunne ikke modtage beskeder fra %s fordi han er på din blokeringsliste.*
+[Global-Text-Static]
+CaptionTunnglenews=Tunngle nyheder
+CaptionStart=Tunngle Start
+CaptionQuickstart=Hurtig Start
+CaptionSupport=Support
+CaptionBetainfo=Beta Information
+CaptionTunnglefaq=Tunngle FAQ
+CaptionDownloadarea=Download område
+CaptionResults=Resultater...
+CaptionChat=Chat
+CaptionLobby=Lobby
+CaptionNetwork=Netværk
+CaptionTunngleforum=Tunngle Forum
+CaptionEventplaner=Begivenhedsplanlægger
+CaptionForumfaq=Forum FAQ
+CaptionForum=Forum
+CaptionTunngleskins=Tunngle Skins
+CaptionSearch=Søg
+CaptionBrowser=Browser
+CaptionSkinconfig=Skin indstillinger
+CaptionSoundconfig=Lyde
+CaptionPrivacylists=Blokeringsliste
+CaptionConfiguration=Indstillinger
+CaptionFavorite=Bogmærker
+SplashPleaseWait=Vent Venligst...
+SplashLoaddata=Henter data...
+SplashReset=Genstarter...
+SplashConfig=Konfigurere...
+SplashLoading=Tænker...
+SplashConnecting=Forbinder...
+SplashVersion=Tjekker version...
+SplashSafe=Sikre forbindelse...
+SplashUPnP=Prøver at åbne UPnP porte... 
+SplashAuth=Autentifikere...
+SplashAdatperset=Sætter adapteren op...
+SplashAdapterinit=Kigger efter adapter...
+SplashAdapterstart=Starter adapter
+SplashAdapterchkprim=Tjekker adapterprioritet
+SplashAdapterchkbc=Tjekker adapterbroadcast...
+SplashAdapterchkstop=Tjekker at adapteren er stoppet...
+SplashFinalize=Slutter af...
+SplashServiceinit=Initialisere Tunngle Service...
+SplashServicecontact=Kontakter Tunngle Service...
+SplashServercontact=Kontakter Tunngle Server...
+SplashConfigurate=Konfigurere Tunngle...
+SearchInWork=Søger...
+Lobby=Lobby
+NetLeft=Forlod netværket.
+NoIP=Virtual IP: -
+ChatJoined=Chat Login succesfuld.
+NetJoined=Netværk login succesfuld.
+LobbyJoined=Lobby Login succesfuld.
+FoundNothing=Ingen resultater!
+NetChangeBegin=Prøver netværksskifte, vent venligst...
+NetChangeEnd=Netværksskifte succesfuld, vent venligst...
+NotLoggedIn=Du er ikke logget ind.
+EnterNamePW=Udfyld felterne Brugernavn og Adgangskode.
+MessageSendFail=*Kunne ikke sende beskeden.*
+MessageSendFlood=*Du sender beskeder for hurtigt. Vær venlig at sætte farten ned.*
+[FormMain-TspSkinSpeedButton-Caption]
+SpeedButtonCommunity=Community
+SpeedButtonCommunity2=<
+[FormMain-TspSkinSpeedButton-Hint]
+SpeedButtonCommunity=Find netværk og venner
+SpeedButtonCommunity2=Til sidst aktive tab
+SpeedButtonMessenger=Messenger
+[FormMain-TMenuItem-Caption]
+MenuItemNetSearch=Søg
+MenuItemNetFavorite=Bogmærker
+MenuItemNetCreate=Opret
+MenuItemTunnglelobby=Tunngle Lobby
+MenuItemEventplaner=Begivenhedsplanlægger
+MenuItemSounds=Lyde
+MenuItemSkins2=Skins
+MenuItemPrivacylists=Blokeringsliste
+MenuItemConfiguration=Indstillinger
+MenuItemAbout=Om Tunngle
+MenuItemTrayOpen=Åbn
+MenuItemTrayClose=Luk
+[FrameChat-TMenuItem-Caption]
+MenuItemMessages=Beskeder
+MenuItemAddContact=Tilføj til venneliste
+MenuItemAddBlacklist=Tilføj til blokeringsliste
+MenuItemEditBlacklist=Rediger blokeringsliste
+[FrameChat-TspSkinButton-Caption]
+ButtonSend=Send
+[FrameChat-TspSkinLabel-Caption]
+LabelChat=Chat
+[FrameBrowser-TspSkinButton-Caption]
+ButtonBack=<<Tilbage
+ButtonForward=Fremad>>
+ButtonActualize=Opdater
+[FrameBrowser-TspSkinListView-Column]
+ListViewNet-0=Navn
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[FrameBrowser-TMenuItem-Caption]
+MenuItemAddFavorite=Tilføj til bogmærker
+[FrameFavorite-TspSkinButton-Caption]
+ButtonBack=<<Tilbage
+ButtonForward=Fremad>>
+ButtonActualize=Opdater
+[FrameFavorite-TspSkinListView-Column]
+ListViewNet-0=Navn
+ListViewNet-1=Online
+ListViewNet-2=Genre
+[FrameFavorite-TMenuItem-Caption]
+MenuItemDelFavorite=Slet bogmærke
+[FrameConfig-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxBC=Opfang broadcast fra alle grænseflader
+CheckRadioBoxDNS=Tunngle DNS
+CheckRadioBoxPort=Åbnet port
+CheckRadioBoxUPnP=Brug UPnP
+CheckRadioBoxTCActive=Aktiveret
+[FrameConfig-TspSkinCheckRadioBox-Hint]
+CheckRadioBoxBC=Bemærk!\r\nNormalt deaktiveret.
+[FrameConfig-TspSkinButton-Caption]
+ButtonOK=Okay
+ButtonAccept=Accepter
+ButtonCancel=Annuller
+ButtonTest=Test
+ButtonDefault=Standard indstillinger
+ButtonWizard=Guide
+[FrameConfig-TspSkinGroupBox-Caption]
+GroupBoxCommon=Interface
+GroupBoxNetconfig=Netværk
+GroupBoxRouterconfig=Router
+GroupBoxTrafficcontroller=Trafik kontrollør
+[FrameConfig-TspSkinStdLabel-Caption]
+StdLabelLanguage=Sprog
+[FrameConfig-TspSkinLabel-Caption]
+LabelAttention=Advarsel! Du skal genstarte Tunngle før de nye ændringer træder i kraft!
+[FrameFind-TspSkinButton-Caption]
+ButtonFind=Tunngle Søg
+[FrameFind-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxFull=Skjul fulde netværk
+CheckRadioBoxEmpty=Skjul tomme netværk
+CheckRadioBoxPassword=Skjul adgangskodebeskyttede netværk
+[FrameFind-TspSkinGroupBox-Caption]
+GroupBoxAdvanced=Søge filtre
+[FrameFind-TspSkinLabel-Caption]
+LabelAdvanced=Søge filtre>>
+[FrameFindResult-TspSkinButton-Caption]
+ButtonBack=<<Tilbage
+ButtonForward=Fremad>>
+ButtonActualize=Opdater
+[FrameFindResult-TspSkinListView-Column]
+ListViewResults-0=Navn
+ListViewResults-1=Online
+ListViewResults-2=Genre
+[FrameLobby-TMenuItem-Caption]
+MenuItemMessages=Beskeder
+MenuItemAddContact=Tilføj til venneliste
+MenuItemAddBlacklist=Tilføj til blokeringsliste
+MenuItemEditBlacklist=Rediger blokeringsliste
+[FrameLobby-TspSkinButton-Caption]
+ButtonSend=Send
+[FrameLobby-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FramePrivateLists-TspSkinButton-Caption]
+ButtonOK=Okay
+ButtonAccept=Accepter
+ButtonCancel=Annuller
+ButtonFind=Søg
+[FramePrivateLists-TspSkinListView-Column]
+ListViewResults-0=Nicknavn
+[FramePrivateLists-TspSkinGroupBox-Caption]
+GroupBoxFind=Søg
+[FramePrivateLists-TspSkinStdLabel-Caption]
+StdLabelConnections=Verdens blokeringsliste
+StdLabelChatmessages=Chat blokeringsliste
+StdLabelName=Navn
+[FramePrivateLists-TMenuItem-Caption]
+MenuItemDeleteConn=Fjern
+MenuItemDeleteChat=Fjern
+[FrameSkins-TspSkinButton-Caption]
+ButtonOK=Okay
+ButtonAccept=Accepter
+ButtonCancel=Annuller
+ButtonDownload=Hent flere Tunngle Skins
+ButtonDefault=Standard Tunngle Skin
+[FrameSkins-TspSkinGroupBox-Caption]
+GroupBoxPreview=Preview
+[FrameSkins-TspSkinStdLabel-Caption]
+StdLabelCaption=Etiket
+[FrameSkins-TspSkinLabel-Caption]
+LabelTextfield=Tekstfeld
+[FrameSkins-TspSkinEdit-Text]
+EditInput=Tekstfelt
+[FrameSkins-TspSkinCheckRadioBox-Caption]
+CheckRadioBox1=Tjekboks
+CheckRadioBox2=Tjekboks
+[FrameSounds-TspSkinButton-Caption]
+ButtonOK=Okay
+ButtonAccept=Accepter
+ButtonCancel=Annuller
+[FrameSounds-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxActivate=Slå lyd til
+CheckRadioBoxStart=Starter
+CheckRadioBoxLogin=Log ind
+CheckRadioBoxLeave=En Tunngler forlader netværket
+CheckRadioBoxJoin=En Tunngler slutter sig til netværket
+CheckRadioBoxReceive=Besked modtaget
+CheckRadioBoxQuit=Luk ned
+CheckRadioBoxSend=Besked sendt
+CheckRadioBoxKey=Chat boks knap tryk
+CheckRadioBoxDirectopen=Nyt direkte chat vindue
+CheckRadioBoxDirectmessage=Direkte chatbesked modtaget
+[FrameStart-TspSkinButton-Caption]
+ButtonBrowser=Browsere
+ButtonFavorite=Bogmærker
+ButtonQuicklaunch=Hurtig Start
+ButtonBetainfo=Beta Information
+ButtonForum=Forum
+ButtonEventplaner=Begivenhedsplanlægger
+[FrameWeb-TspSkinStatusPanel-Caption]
+StatusPanelBack=Tilbage
+StatusPanelForward=Fremad
+StatusPanelStop=Stop
+StatusPanelReload=Opdater
+[FrameVPN-TMenuItem-Caption]
+MenuItemMessages=Beskeder
+MenuItemAddContact=Tilføj til venneliste
+MenuItemAddBlacklist=Tilføj til blokeringsliste
+MenuItemEditBlacklist=Rediger blokeringsliste
+MenuItemCopyIP=Kopier IP
+[FrameVPN-TspSkinButton-Caption]
+ButtonSend=Send
+[FrameVPN-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormAbout-TspSkinButton-Caption]
+ButtonClose=Luk
+[FormAbout-Infos]
+Caption=Om Tunngle
+[FormLogin-Infos]
+Caption=Log ind
+[FormLogin-TspSkinButton-Caption]
+ButtonLogin=Log ind
+ButtonCancel=Annuller
+[FormLogin-TspSkinLabel-Caption]
+LabelUsername=Brugernavn:
+LabelPassword=Adgangskode:
+[FormLogin-TspSkinCheckRadioBox-Caption]
+CheckRadioBoxSave=Husk mig
+CheckRadioBoxAuto=Automatisk Login
+[FormLogin-TspSkinLinkLabel-Caption]
+LinkLabelRegister=Få din egen gratis Tunngle konto
+[FormConnect-TspSkinButton-Caption]
+ButtonCancel=Annuller
+[FormMessengerMsg-TspSkinButton-Caption]
+ButtonSend=Send
+[FormMessengerMsg-TspSkinLabel-Caption]
+LabelChat=Chat:
+[FormMessenger-TMenuItem-Caption]
+MenuItemGroupAdd=Tilføj gruppe
+MenuItemContactAdd=Tilføj kontakt
+MenuItemContactHideOffline2=Skjuld Offline
+MenuItemRights=Tilladelser
+MenuItemTunngleShares=Tunngle delinger
+MenuItemContactInfo=Kontakt information
+MenuItemContactAlert=Kontakt alarm
+MenuItemContactNote=Kontakt note
+MenuItemReadAwayMessage=Læs "ikke til stede" besked
+MenuItemContactRename=Omdøb kontakt
+MenuItemContactDelete=Slet kontakt
+MenuItemMoveToGroup=Flyt til gruppe
+MenuItemContactHideOffline3=Skjul Offline
+MenuItemMessage=Direkte Chat
+MenuItemRights2=Tilladelser
+MenuItemTunngleShares2=Tunngle delinger
+MenuItemGroupRename=Omdøb gruppe
+MenuItemGroupDelete=Slet gruppe
+MenuItemGroupExpandCollapse=Udvid/luk sammen gruppe
+MenuItemContactHideOffline=Skjul offline
+MenuItemMain=&Menu
+MenuItemAddContact=Tilføj Kontakt
+MenuItemInNetwork=Netværks info
+[FormSplash-TspSkinButton-Caption]
+ButtonCancel=Annullere
+[FrameLanguage-TspSkinListView-Column]
+ListViewLanguage-0=Fil
+ListViewLanguage-1=Sprog
+ListViewLanguage-2=Forfatter
+[FrameLanguage-TspSkinButton-Caption]
+ButtonContinue=Fortsæt
+[FrameLanguage-TspSkinLabel-Caption]
+LabelHeadline=Vælg venligst et sprog for Tunngle.
+[FrameAdapter-TspSkinListView-Column]
+ListViewAdapter-0=Navn
+ListViewAdapter-1=IP
+ListViewAdapter-2=Instrument navn
+[FrameAdapter-TspSkinButton-Caption]
+ButtonContinue=Fortsæt
+[FrameAdapter-TspSkinLabel-Caption]
+LabelHeadline=Vælg venligst et sprog for Tunngle.
